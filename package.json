@@ -1,0 +1,14 @@
+{
+  "name": "ese-api",
+  "private": true,
+  "version": "1.0.0",
+  "author": "NonSpicyBurrito",
+  "license": "MIT",
+  "scripts": {
+    "update": "zx index.mjs"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.1.0",
+    "zx": "^7.1.1"
+  }
+}
