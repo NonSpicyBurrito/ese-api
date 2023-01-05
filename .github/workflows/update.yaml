@@ -1,0 +1,29 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '* */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run update
+
+      - uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: Updated database
+          title: Updated database
