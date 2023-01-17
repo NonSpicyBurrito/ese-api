@@ -24,6 +24,12 @@ const blobs = tree
 const levels = blobs
     .map((blob) => blob.path)
     .filter((path) => path.endsWith('.tja'))
+    .filter(
+        (path) =>
+            !['08 Live Festival Mode', '10 Taiko Towers', '11 Dan Dojo'].some(
+                (name) => path.includes(name)
+            )
+    )
     .map((path) => ({ path, ...readTjaMeta(path) }))
 
 cd('..')
