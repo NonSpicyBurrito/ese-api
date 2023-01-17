@@ -62,6 +62,7 @@ function readTjaMeta(path) {
         en: extract(/^SUBTITLE:--(.*)$/m, tja),
         ja: extract(/^SUBTITLEJA:--(.*)$/m, tja),
     }
+    const category = extract(/\d+ ([^\/]*)/, path)
     const offset = +(extract(/^OFFSET:(.*)$/m, tja) || '0')
     const courses = Object.fromEntries(
         [...tja.matchAll(/^COURSE:(.*)[\r\n]+LEVEL:(.*)$/gm)].map(
@@ -69,7 +70,7 @@ function readTjaMeta(path) {
         )
     )
 
-    return { title, subtitle, offset, courses }
+    return { title, subtitle, category, offset, courses }
 }
 
 function extract(regex, text) {
