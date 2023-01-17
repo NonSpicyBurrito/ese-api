@@ -60,7 +60,7 @@ function readTjaMeta(path) {
     }
     const subtitle = {
         en: extract(/^SUBTITLE:--(.*)$/m, tja),
-        ja: extract(/^SUBTITLEJA:--(.*)$/m, tja),
+        ja: extract(/^SUBTITLEJA:(.*)$/m, tja),
     }
     const category = extract(/\d+ ([^\/]*)/, path)
     const offset = +(extract(/^OFFSET:(.*)$/m, tja) || '0')
