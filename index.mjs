@@ -52,7 +52,7 @@ function parseTreeEntry(line) {
 function readTjaMeta(path) {
     console.log('readTjaMeta', path)
 
-    const tja = fs.readFileSync(path, 'utf-8')
+    const tja = fs.readFileSync(path).subarray(3).toString('utf-8')
 
     const title = extract(/^TITLE:(.*)$/m, tja)
     const subtitle = extract(/^SUBTITLE:--(.*)$/m, tja)
