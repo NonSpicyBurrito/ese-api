@@ -54,12 +54,18 @@ function readTjaMeta(path) {
 
     const tja = fs.readFileSync(path).subarray(3).toString('utf-8')
 
-    const title = extract(/^TITLE:(.*)$/m, tja)
-    const subtitle = extract(/^SUBTITLE:--(.*)$/m, tja)
+    const title = {
+        en: extract(/^TITLE:(.*)$/m, tja),
+        ja: extract(/^TITLEJA:(.*)$/m, tja),
+    }
+    const subtitle = {
+        en: extract(/^SUBTITLE:--(.*)$/m, tja),
+        ja: extract(/^SUBTITLEJA:--(.*)$/m, tja),
+    }
 
     return { title, subtitle }
 }
 
 function extract(regex, text) {
-    return regex.exec(text)?.[1] || ''
+    return regex.exec(text)?.[1] || undefined
 }
