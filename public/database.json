@@ -1,5 +1,5 @@
 {
-    "commit": "7f446721c98f12a6d54dfe3777d2935c68cbb282",
+    "commit": "ec56ca5a610e143c2871dcac2b59aa4874b7d692",
     "blobs": [
         {
             "type": "blob",
@@ -8383,6 +8383,16 @@
         },
         {
             "type": "blob",
+            "hash": "8ff50a0a6a95a8a8da23f47ad2ea5b81d263e234",
+            "path": "02 Anime/KANEDA/KANEDA.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d4d9059b4d1b7cafcfe8d9030dd9614519876280",
+            "path": "02 Anime/KANEDA/KANEDA.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4e1c308514b6fcae80ed93b5558e6402209cb8df",
             "path": "02 Anime/KIRA☆Power/KIRA☆Power.ogg"
         },
@@ -13689,7 +13699,7 @@
         {
             "type": "blob",
             "hash": "33e0781e502b71521ed991a0c2283432be763749",
-            "path": "05 Variety/BAROQUE HOEDOWN ～Electrical Parade Theme～/BAROQUE HOEDOWN ～Electrical Parade Theme～.ogg"
+            "path": "05 Variety/BAROQUE HOEDOWN ���Electrical Parade Theme～/BAROQUE HOEDOWN ～Electrical Parade Theme～.ogg"
         },
         {
             "type": "blob",
@@ -18538,6 +18548,16 @@
         },
         {
             "type": "blob",
+            "hash": "558afe72ad2d2cc7094e6965f498b01b31f5d2d7",
+            "path": "07 Game Music/THE FIXER/THE FIXER.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0f0a27944d4ef255bd358acfad458026892331ca",
+            "path": "07 Game Music/THE FIXER/THE FIXER.tja"
+        },
+        {
+            "type": "blob",
             "hash": "93d417ec7b287a41a174ec324c339d863e189ed2",
             "path": "07 Game Music/THE iDOLM@STER Second-mix/THE iDOLMASTER Second-mix.ogg"
         },
@@ -22368,6 +22388,16 @@
         },
         {
             "type": "blob",
+            "hash": "2975f17d4293a24e13ced080ba0eb64f87893dd7",
+            "path": "09 Namco Original/Hakujitsumu, Kirisame ni Tokete/Hakujitsumu, Kirisame ni Tokete.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1a6404985cebd36d30ad5d089b438aab9294c250",
+            "path": "09 Namco Original/Hakujitsumu, Kirisame ni Tokete/Hakujitsumu, Kirisame ni Tokete.tja"
+        },
+        {
+            "type": "blob",
             "hash": "51fa1f67791ae44ce0a1b4f0a3e4e32da652670a",
             "path": "09 Namco Original/Happy and Peace/Happy and Peace.ogg"
         },
@@ -25758,6 +25788,16 @@
         },
         {
             "type": "blob",
+            "hash": "301ddea76771a844ee80e7ebf32bc9531e1a2c6e",
+            "path": "09 Namco Original/Tokeru/Tokeru.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "09f34d7676c04cc846b54fedd2c11a4faa45ab36",
+            "path": "09 Namco Original/Tokeru/Tokeru.tja"
+        },
+        {
+            "type": "blob",
             "hash": "170386c7009c2fe365b1f8db09f9da8a22dda2cb",
             "path": "09 Namco Original/Tokoyami no Mori/Tokoyami no Mori.ogg"
         },
@@ -25945,6 +25985,16 @@
             "type": "blob",
             "hash": "cc6f2bf8111d8fe73a8315e420806c1a11e10f20",
             "path": "09 Namco Original/Unagi no Tamashii Rock/Unagi no Tamashii Rock.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "53f54b98be9d694765c17c5fbe4daa1d47c772c2",
+            "path": "09 Namco Original/Unchained Girl/Unchained Girl.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4de8c801c19efb12ffec197cdc98c1bdb9bfa4cc",
+            "path": "09 Namco Original/Unchained Girl/Unchained Girl.tja"
         },
         {
             "type": "blob",
@@ -26195,6 +26245,16 @@
             "type": "blob",
             "hash": "48499a85650777b96c11a1c7c97ac93d46b2f9d4",
             "path": "09 Namco Original/Yami no Tamashii/Yami no Tamashii.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "16c443c3f2cb842649d97aec5eb2940bb5af6371",
+            "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1b56cc43b33343b62ff8c381b591dacb30e1b605",
+            "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina.tja"
         },
         {
             "type": "blob",
@@ -43615,6 +43675,25 @@
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/KANEDA/KANEDA.tja",
+            "title": {
+                "en": "KANEDA",
+                "ja": "KANEDA"
+            },
+            "subtitle": {
+                "en": "Symphonic Suite AKIRA",
+                "ja": "「Symphonic Suite AKIRA」より"
+            },
+            "category": "Anime",
+            "offset": -2.13,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
                 "Easy": 2
             }
         },
@@ -62283,6 +62362,25 @@
             }
         },
         {
+            "path": "07 Game Music/THE FIXER/THE FIXER.tja",
+            "title": {
+                "en": "THE FIXER",
+                "ja": "THE FIXER"
+            },
+            "subtitle": {
+                "en": "Critical Velocity",
+                "ja": "「クリティカルベロシティ」より"
+            },
+            "category": "Game Music",
+            "offset": -1.027,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 7,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/THE iDOLM@STER Second-mix/THE iDOLMASTER Second-mix.tja",
             "title": {
                 "en": "THE iDOLM@STER Second-mix",
@@ -67451,6 +67549,25 @@
                 "Oni": 10,
                 "Hard": 7,
                 "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Hakujitsumu, Kirisame ni Tokete/Hakujitsumu, Kirisame ni Tokete.tja",
+            "title": {
+                "en": "Hakujitsumu, Kirisame ni Tokete ",
+                "ja": "白日夢、霧雨に溶けて"
+            },
+            "subtitle": {
+                "en": "Goto feat. zeryo-one",
+                "ja": "後藤 feat.ぜりょわん"
+            },
+            "category": "Namco Original",
+            "offset": -0.331,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
                 "Easy": 4
             }
         },
@@ -73756,6 +73873,26 @@
             }
         },
         {
+            "path": "09 Namco Original/Tokeru/Tokeru.tja",
+            "title": {
+                "en": "Tokeru",
+                "ja": "とける"
+            },
+            "subtitle": {
+                "en": "Katagiri",
+                "ja": "かたぎり"
+            },
+            "category": "Namco Original",
+            "offset": -0.153,
+            "courses": {
+                "Edit": 10,
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Tokoyami no Mori/Tokoyami no Mori.tja",
             "title": {
                 "en": "Tokoyami no Mori",
@@ -74107,6 +74244,25 @@
             "courses": {
                 "Oni": 5,
                 "Hard": 4,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Unchained Girl/Unchained Girl.tja",
+            "title": {
+                "en": "Unchained Girl!",
+                "ja": "アンチェイン・ガール！"
+            },
+            "subtitle": {
+                "en": "Mini",
+                "ja": "みーに"
+            },
+            "category": "Namco Original",
+            "offset": -1.565,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
                 "Normal": 5,
                 "Easy": 4
             }
@@ -74573,6 +74729,25 @@
                 "Hard": 7,
                 "Normal": 7,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina.tja",
+            "title": {
+                "en": "Yell Ex Machina!",
+                "ja": "エール・エクス・マキナ！"
+            },
+            "subtitle": {
+                "en": "Machina prod. Rihito Tsuboi (BNSI)",
+                "ja": "まきな prod. 坪井リヒト(BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -1.113,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
