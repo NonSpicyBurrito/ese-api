@@ -1,5 +1,5 @@
 {
-    "commit": "ec56ca5a610e143c2871dcac2b59aa4874b7d692",
+    "commit": "567b6270d541dc7aa1acb46fb08b0190038c10f1",
     "blobs": [
         {
             "type": "blob",
@@ -968,6 +968,16 @@
         },
         {
             "type": "blob",
+            "hash": "b26d907c73e608da4a56ac3561f5d14c0be70356",
+            "path": "01 Pop/Dance Hall/Dance Hall.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "21bf44fa19df1333f5a97107dc228495be240268",
+            "path": "01 Pop/Dance Hall/Dance Hall.tja"
+        },
+        {
+            "type": "blob",
             "hash": "5f494ab14f095583f2e19fe18cc769268eb29ae3",
             "path": "01 Pop/Dance My Generation/Dance My Generation.ogg"
         },
@@ -1758,6 +1768,16 @@
         },
         {
             "type": "blob",
+            "hash": "d96c81fc1be001cdca1bddbe394f1d69b26279fd",
+            "path": "01 Pop/Harudion/Harudion.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4590c4b59147294dbe6c91af1f3a6e4ccc52e273",
+            "path": "01 Pop/Harudion/Harudion.tja"
+        },
+        {
+            "type": "blob",
             "hash": "9bc32f3ceee99de288b5c038f43ac32f05c762c3",
             "path": "01 Pop/Haruka/Haruka.ogg"
         },
@@ -2265,6 +2285,16 @@
             "type": "blob",
             "hash": "856a79bd48a923f7eb7d4eab1471c144232872af",
             "path": "01 Pop/July 1st/July 1st.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0c635d72ae7053df76cdfa4312561719bc184d46",
+            "path": "01 Pop/Jun Bride/Jun Bride.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ee7d87fc108e525e774fcab5a3b1bb899ef3ab7a",
+            "path": "01 Pop/Jun Bride/Jun Bride.tja"
         },
         {
             "type": "blob",
@@ -5635,6 +5665,16 @@
             "type": "blob",
             "hash": "4d0249801a3b436a00ea63dfcb8d1bad7611093a",
             "path": "01 Pop/Watashi Igai Watashi ja Nai no/Watashi Igai Watashi ja Nai no.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "29fa4f72f69dcde6062fe623724a32004e171916",
+            "path": "01 Pop/Watashi no Ichiban Kawaii Tokoro/Watashi no Ichiban Kawaii Tokoro.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f9601c9d31136ac77563b548e7a0d7aa6bedc0a8",
+            "path": "01 Pop/Watashi no Ichiban Kawaii Tokoro/Watashi no Ichiban Kawaii Tokoro.tja"
         },
         {
             "type": "blob",
@@ -10113,6 +10153,16 @@
         },
         {
             "type": "blob",
+            "hash": "e35d091c65b3f066f17022b4d88a424a48f3a47e",
+            "path": "02 Anime/Senkou/Senkou.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "79405f3732b753f20cd7b88b0dc4cb1710686401",
+            "path": "02 Anime/Senkou/Senkou.tja"
+        },
+        {
+            "type": "blob",
             "hash": "69a2840f1208fc0d44726dcfe594b69c3f46ac4c",
             "path": "02 Anime/Sha la la -Ayakashi NIGHT-/Sha la la -Ayakashi NIGHT-.ogg"
         },
@@ -10170,6 +10220,16 @@
             "type": "blob",
             "hash": "97f08f41e868163560007ca68204a57748b2cd5b",
             "path": "02 Anime/Shugo Shugo!/Shugo Shugo!.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e409027964226ef9f1c813a43532720d25734b83",
+            "path": "02 Anime/Shukufuku/Shukufuku.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "cdad9a1af2e54ed8490afd12898f550211bd8f9e",
+            "path": "02 Anime/Shukufuku/Shukufuku.tja"
         },
         {
             "type": "blob",
@@ -12033,7 +12093,7 @@
         },
         {
             "type": "blob",
-            "hash": "49b8f0d23765a2d2dfeaf98e8cc346cc0e93386d",
+            "hash": "3ed27eea955ffc3cf5700e035858a6f6d1ad2c02",
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.tja"
         },
         {
@@ -13643,7 +13703,7 @@
         },
         {
             "type": "blob",
-            "hash": "36a78eac5276389ab1afdada9720ba8d96d495af",
+            "hash": "57e17aad487a08a9053abdbd9dac07c976ac6414",
             "path": "05 Variety/Aleph-0/Aleph-0.tja"
         },
         {
@@ -24628,6 +24688,16 @@
         },
         {
             "type": "blob",
+            "hash": "2985349533f526d1f6f314378bca0b0d17cecaea",
+            "path": "09 Namco Original/RAINBOW SKY/RAINBOW SKY.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "63e40c3f1acc0dc4e1a99925dd141d3bf62e78d2",
+            "path": "09 Namco Original/RAINBOW SKY/RAINBOW SKY.tja"
+        },
+        {
+            "type": "blob",
             "hash": "22863658be28db6cf0094b3a56f0653748756554",
             "path": "09 Namco Original/RHYTHM CONNECT/RHYTHM CONNECT.ogg"
         },
@@ -25288,7 +25358,7 @@
         },
         {
             "type": "blob",
-            "hash": "14f42179dd7a0975d15d62fc82a84d32f42815a2",
+            "hash": "bd48b4de95f9167ff44f948327fe21e20ce191ac",
             "path": "09 Namco Original/Solitude Star/Solitude Star.tja"
         },
         {
@@ -25340,6 +25410,16 @@
             "type": "blob",
             "hash": "aa28fa4604061a27061a6d353f62906c5765121e",
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "857e8a02910b3a9f204833b2f8553860791e05f7",
+            "path": "09 Namco Original/Space-Time Emergency/Space-Time Emergency.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8d824b155aa59dc2f8a486f3288a3763bba439e8",
+            "path": "09 Namco Original/Space-Time Emergency/Space-Time Emergency.tja"
         },
         {
             "type": "blob",
@@ -30058,6 +30138,22 @@
             }
         },
         {
+            "path": "01 Pop/Dance Hall/Dance Hall.tja",
+            "title": {
+                "en": "Dance Hall",
+                "ja": "ダンスホール"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.165,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Dance My Generation/Dance My Generation.tja",
             "title": {
                 "en": "Dance My Generation",
@@ -31499,6 +31595,25 @@
             }
         },
         {
+            "path": "01 Pop/Harudion/Harudion.tja",
+            "title": {
+                "en": "Harudion",
+                "ja": "ハルジオン"
+            },
+            "subtitle": {
+                "en": "Maou Damashii",
+                "ja": "魔王魂"
+            },
+            "category": "Pop",
+            "offset": -1.988,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Haruka/Haruka.tja",
             "title": {
                 "en": "Haruka",
@@ -32435,6 +32550,25 @@
                 "Oni": 4,
                 "Hard": 4,
                 "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Jun Bride/Jun Bride.tja",
+            "title": {
+                "en": "Jun Bride",
+                "ja": "Jun Bride"
+            },
+            "subtitle": {
+                "en": "MOSHIMO",
+                "ja": "MOSHIMO"
+            },
+            "category": "Pop",
+            "offset": -1.605,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -38581,6 +38715,25 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Watashi no Ichiban Kawaii Tokoro/Watashi no Ichiban Kawaii Tokoro.tja",
+            "title": {
+                "en": "Watashi no Ichiban Kawaii Tokoro ",
+                "ja": "わたしの一番かわいいところ"
+            },
+            "subtitle": {
+                "en": "FRUITS ZIPPER",
+                "ja": "FRUITS ZIPPER"
+            },
+            "category": "Pop",
+            "offset": -3.832,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -46929,6 +47082,25 @@
             }
         },
         {
+            "path": "02 Anime/Senkou/Senkou.tja",
+            "title": {
+                "en": "Senkou",
+                "ja": "閃光"
+            },
+            "subtitle": {
+                "en": "Mobile Suit Gundam: Hathaway's Flash",
+                "ja": "『機動戦士ガンダム 閃光のハサウェイ』より"
+            },
+            "category": "Anime",
+            "offset": -0.857,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/Sha la la -Ayakashi NIGHT-/Sha la la -Ayakashi NIGHT-.tja",
             "title": {
                 "en": "Sha la la -Ayakashi NIGHT-",
@@ -47038,6 +47210,25 @@
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Shukufuku/Shukufuku.tja",
+            "title": {
+                "en": "Shukufuku",
+                "ja": "祝福"
+            },
+            "subtitle": {
+                "en": "Mobile Suit Gundam: Witch of Mercury",
+                "ja": "「機動戦士ガンダム 水星の魔女」より"
+            },
+            "category": "Anime",
+            "offset": -1.511,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -50530,6 +50721,7 @@
         {
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.tja",
             "title": {
+                "en": "Rabbit Hole",
                 "ja": "ラビットホール"
             },
             "subtitle": {
@@ -50537,7 +50729,7 @@
                 "ja": "DECO*27 feat. 初音ミク"
             },
             "category": "Vocaloid",
-            "offset": -2.081,
+            "offset": -2.214,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -53263,7 +53455,7 @@
                 "ja": "LeaF"
             },
             "category": "Variety",
-            "offset": -5.766,
+            "offset": -1.926,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -71689,6 +71881,25 @@
             }
         },
         {
+            "path": "09 Namco Original/RAINBOW SKY/RAINBOW SKY.tja",
+            "title": {
+                "en": "RAINBOW★SKY",
+                "ja": "RAINBOW★SKY"
+            },
+            "subtitle": {
+                "en": "Tatsunoshin",
+                "ja": "Tatsunoshin"
+            },
+            "category": "Namco Original",
+            "offset": -1.365,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/RHYTHM CONNECT/RHYTHM CONNECT.tja",
             "title": {
                 "en": "RHYTHM CONNECT",
@@ -73015,6 +73226,25 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Space-Time Emergency/Space-Time Emergency.tja",
+            "title": {
+                "en": "Space-Time Emergency",
+                "ja": "Space-Time Emergency"
+            },
+            "subtitle": {
+                "en": "GARIN",
+                "ja": "GARIN"
+            },
+            "category": "Namco Original",
+            "offset": -0.262,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
