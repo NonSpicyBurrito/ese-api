@@ -1,5 +1,5 @@
 {
-    "commit": "567b6270d541dc7aa1acb46fb08b0190038c10f1",
+    "commit": "4e911907520734f4c1a4189e35db2fcae92a6daf",
     "blobs": [
         {
             "type": "blob",
@@ -3468,6 +3468,16 @@
         },
         {
             "type": "blob",
+            "hash": "67577e6570088d0f579b1ab49d64d519fbb28e49",
+            "path": "01 Pop/NAINAINAI/NAINAINAI.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "44bf1db7b65a060db08b76c24d106cdd59b2e7fc",
+            "path": "01 Pop/NAINAINAI/NAINAINAI.tja"
+        },
+        {
+            "type": "blob",
             "hash": "8924e57f3f94eb6684ecb4411cfb0a289dc8414a",
             "path": "01 Pop/NO MORE CRY/NO MORE CRY.ogg"
         },
@@ -5123,8 +5133,18 @@
         },
         {
             "type": "blob",
-            "hash": "c5335569f66f7d7f41690a1c757cc96b668f66cc",
+            "hash": "6b5e2744f8b80f734cd969cfda1f0cb469e1a0c5",
             "path": "01 Pop/TT -Japanese Version-/TT -Japanese Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "655391e7229711ab68b8dc85bb3f4489af127238",
+            "path": "01 Pop/TT/TT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9791d655dd053009348da2964c094c484ea646bc",
+            "path": "01 Pop/TT/TT.tja"
         },
         {
             "type": "blob",
@@ -7083,6 +7103,16 @@
         },
         {
             "type": "blob",
+            "hash": "b76afa3885e0681a081b6492811943f536a4a2d3",
+            "path": "02 Anime/Daizerokan/Daizerokan.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "905eeb1b3407193cbfd64b4dbe2306cbee358c84",
+            "path": "02 Anime/Daizerokan/Daizerokan.tja"
+        },
+        {
+            "type": "blob",
             "hash": "6d56f016b3d9b7dc25e7a602a4a1ad0d0254f305",
             "path": "02 Anime/Damatte Ore ni Tsuite Koi/Damatte Ore ni Tsuite Koi.ogg"
         },
@@ -7790,6 +7820,16 @@
             "type": "blob",
             "hash": "04de04de5c07d8d0c0fa62b8535a26f4dcb9c6fe",
             "path": "02 Anime/Guts Guts!!/Guts Guts!!.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "d24508fdfd028b2fed3f0727ca6f523b307a26b9",
+            "path": "02 Anime/H.T/H.T.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "40aad01fc420617d99d643d72b77f4caee690409",
+            "path": "02 Anime/H.T/H.T.tja"
         },
         {
             "type": "blob",
@@ -10013,6 +10053,16 @@
         },
         {
             "type": "blob",
+            "hash": "e23120e8aa5ee5d441014979e5c994816f04f06b",
+            "path": "02 Anime/STONE OCEAN/STONE OCEAN.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c3a239f84290e73f91bc33d0d71b323a135b87e5",
+            "path": "02 Anime/STONE OCEAN/STONE OCEAN.tja"
+        },
+        {
+            "type": "blob",
             "hash": "eae2dd5ea25de870107b03bc93e4e0566febfcba",
             "path": "02 Anime/SURPRISE-DRIVE/SURPRISE-DRIVE.ogg"
         },
@@ -10633,6 +10683,16 @@
         },
         {
             "type": "blob",
+            "hash": "6c03376eda2506391903893ae1383fd242270e06",
+            "path": "02 Anime/Tsumi to Batsu Inorazaru-mono Yo/Tsumi to Batsu Inorazaru-mono Yo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8a8e8df7d2094e163cc9bf266e435db6a90e95f2",
+            "path": "02 Anime/Tsumi to Batsu Inorazaru-mono Yo/Tsumi to Batsu Inorazaru-mono Yo.tja"
+        },
+        {
+            "type": "blob",
             "hash": "2f8b8898f5ae2b6890323cab649c221db3b1672a",
             "path": "02 Anime/Turing Love/Turing Love.ogg"
         },
@@ -10900,6 +10960,16 @@
             "type": "blob",
             "hash": "7b706a78838cb217947a3dfbf68bff42091906eb",
             "path": "02 Anime/Warera Omou, Yue ni Warera Ari/Warera Omou, Yue ni Warera Ari.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "cf9644b936460da6a6182c52832ab56eed071554",
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6e59061dbc1cd8a275d5b5902794a588748f15cf",
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.tja"
         },
         {
             "type": "blob",
@@ -11528,6 +11598,16 @@
         },
         {
             "type": "blob",
+            "hash": "286cc7d087f7a50ba6276ded52ce78c057b061a4",
+            "path": "03 Vocaloid/Don-Chan Shitai/Don-Chan Shitai.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9046d388ae4112b6a8be17aff75d49ef368d5ac2",
+            "path": "03 Vocaloid/Don-Chan Shitai/Don-Chan Shitai.tja"
+        },
+        {
+            "type": "blob",
             "hash": "2bc679a9134f60a372caf70ddfae08b1ab2187cf",
             "path": "03 Vocaloid/EDY -Electrical Dancing Yoga-/EDY -Electrical Dancing Yoga-.ogg"
         },
@@ -11658,12 +11738,22 @@
         },
         {
             "type": "blob",
+            "hash": "c8f9713c90c36c56b6492a0c60f2eb9f7d3c633e",
+            "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger (Miku).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b3fcf4a977c50c477b4fa5554e9b03c99f5b1e02",
+            "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger (Miku).tja"
+        },
+        {
+            "type": "blob",
             "hash": "44c7130a5eb035815b0d7393dbd5e3c4e7628dec",
             "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger.ogg"
         },
         {
             "type": "blob",
-            "hash": "546463cf76feff165ed8331ba5fd930f53ce171f",
+            "hash": "77f8c8ea22017b6d8674f6735a2964a9a8297afa",
             "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger.tja"
         },
         {
@@ -15948,6 +16038,16 @@
         },
         {
             "type": "blob",
+            "hash": "1f79c26e8020639f31b2787bc96eebffdbe0e420",
+            "path": "07 Game Music/Crystal Hail/Crystal Hail.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "2faa14445b221816edf771760d0de2a14362b5ec",
+            "path": "07 Game Music/Crystal Hail/Crystal Hail.tja"
+        },
+        {
+            "type": "blob",
             "hash": "8b7880270756dc21583cede0cfa3a3646fb74d13",
             "path": "07 Game Music/DADDY MULK/DADDY MULK.ogg"
         },
@@ -18058,6 +18158,16 @@
         },
         {
             "type": "blob",
+            "hash": "c0ea39b08d05524c2d053368810f87fd73f91ec2",
+            "path": "07 Game Music/RUN PAC-MAN RUN!/RUN PAC-MAN RUN!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d2ecb7b1798debc98ba0284aff93fbb9d2be1f26",
+            "path": "07 Game Music/RUN PAC-MAN RUN!/RUN PAC-MAN RUN!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a4ae2deba86d57cbd74b55bb395b82258eb32ac1",
             "path": "07 Game Music/Racing the Storm/Racing the Storm.ogg"
         },
@@ -18765,6 +18875,16 @@
             "type": "blob",
             "hash": "6cb18cdf154d150c6343d63e300587f05d351280",
             "path": "07 Game Music/Tatakae! T3 Boueitai ～GDI Mix～/Tatakae! T3 Boueitai ～GDI Mix～.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4d88a1423ff6b309b18e0d0048ea466cb6b9d931",
+            "path": "07 Game Music/Teknowerk Medley/Teknowerk Medley.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "64c2bd03070c92d1d7e0cf4b8267ca8e56f186b8",
+            "path": "07 Game Music/Teknowerk Medley/Teknowerk Medley.tja"
         },
         {
             "type": "blob",
@@ -34720,6 +34840,22 @@
             }
         },
         {
+            "path": "01 Pop/NAINAINAI/NAINAINAI.tja",
+            "title": {
+                "en": "NAINAINAI",
+                "ja": "NAINAINAI"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.232,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/NO MORE CRY/NO MORE CRY.tja",
             "title": {
                 "en": "NO MORE CRY",
@@ -37731,6 +37867,24 @@
             },
             "category": "Pop",
             "offset": -2.079,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/TT/TT.tja",
+            "title": {
+                "en": "TT",
+                "ja": "TT"
+            },
+            "subtitle": {
+                "en": "TWICE"
+            },
+            "category": "Pop",
+            "offset": -2.201,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -41321,6 +41475,25 @@
             }
         },
         {
+            "path": "02 Anime/Daizerokan/Daizerokan.tja",
+            "title": {
+                "en": "Daizerokan",
+                "ja": "第ゼロ感"
+            },
+            "subtitle": {
+                "en": "Taiko Team cover ver. / THE FIRST SLAM DUNK",
+                "ja": "Taiko Team cover ver. / 「THE FIRST SLAM DUNK」より"
+            },
+            "category": "Anime",
+            "offset": -0.867,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/Damatte Ore ni Tsuite Koi/Damatte Ore ni Tsuite Koi.tja",
             "title": {
                 "en": "Damatte Ore ni Tsuite Koi",
@@ -42644,6 +42817,25 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/H.T/H.T.tja",
+            "title": {
+                "en": "H.T",
+                "ja": "H.T"
+            },
+            "subtitle": {
+                "en": "Trigun",
+                "ja": "「トライガン」より"
+            },
+            "category": "Anime",
+            "offset": -1.352,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -46819,6 +47011,25 @@
             }
         },
         {
+            "path": "02 Anime/STONE OCEAN/STONE OCEAN.tja",
+            "title": {
+                "en": "STONE OCEAN",
+                "ja": "STONE OCEAN"
+            },
+            "subtitle": {
+                "en": "JoJo's Bizarre Adventure: Stone Ocean",
+                "ja": "「ジョジョの奇妙な冒険 ストーンオーシャン」より"
+            },
+            "category": "Anime",
+            "offset": -0.93,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/SURPRISE-DRIVE/SURPRISE-DRIVE.tja",
             "title": {
                 "en": "SURPRISE-DRIVE",
@@ -47976,6 +48187,25 @@
             }
         },
         {
+            "path": "02 Anime/Tsumi to Batsu Inorazaru-mono Yo/Tsumi to Batsu Inorazaru-mono Yo.tja",
+            "title": {
+                "en": "Tsumi to Batsu Inorazaru-mono Yo",
+                "ja": "罪と罰 祈らざる者よ"
+            },
+            "subtitle": {
+                "en": "Yoko Takahashi",
+                "ja": "高橋洋子"
+            },
+            "category": "Anime",
+            "offset": -1.791,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/Turing Love/Turing Love.tja",
             "title": {
                 "en": "Turing Love",
@@ -48473,6 +48703,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.tja",
+            "title": {
+                "en": "Watashi wa Saikou",
+                "ja": "私は最強"
+            },
+            "subtitle": {
+                "en": "Ado / Song of Uta ONE PIECE FILM RED",
+                "ja": "Ado「ウタの歌 ONE PIECE FILM RED」より"
+            },
+            "category": "Anime",
+            "offset": -2.928,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -49641,6 +49890,25 @@
             }
         },
         {
+            "path": "03 Vocaloid/Don-Chan Shitai/Don-Chan Shitai.tja",
+            "title": {
+                "en": "Don-chan Shitai!",
+                "ja": "どんちゃんしたい！"
+            },
+            "subtitle": {
+                "en": "Takenoko Boy feat. Hatsune Miku",
+                "ja": "タケノコ少年 feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -1.457,
+            "courses": {
+                "Oni": 8,
+                "Hard": 8,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "03 Vocaloid/EDY -Electrical Dancing Yoga-/EDY -Electrical Dancing Yoga-.tja",
             "title": {
                 "en": "EDY -Electrical Dancing Yoga-",
@@ -49887,6 +50155,25 @@
                 "Hard": 4,
                 "Normal": 2,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger (Miku).tja",
+            "title": {
+                "en": "Haikei Doppelgänger",
+                "ja": "拝啓ドッペルゲンガー"
+            },
+            "subtitle": {
+                "en": "kemu feat. Hatsune Miku",
+                "ja": "kemu feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -2.052,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -57617,6 +57904,25 @@
             }
         },
         {
+            "path": "07 Game Music/Crystal Hail/Crystal Hail.tja",
+            "title": {
+                "en": "Crystal Hail",
+                "ja": "Crystal Hail"
+            },
+            "subtitle": {
+                "en": "Nhato/Synchronica",
+                "ja": "Nhato 「シンクロニカ」より"
+            },
+            "category": "Game Music",
+            "offset": -1.184,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/DADDY MULK/DADDY MULK.tja",
             "title": {
                 "en": "DADDY MULK",
@@ -61538,6 +61844,25 @@
             }
         },
         {
+            "path": "07 Game Music/RUN PAC-MAN RUN!/RUN PAC-MAN RUN!.tja",
+            "title": {
+                "en": "RUN PAC-MAN RUN!",
+                "ja": "RUN PAC-MAN RUN!"
+            },
+            "subtitle": {
+                "en": "Ridge Racer 6",
+                "ja": "「リッジレーサー6」より"
+            },
+            "category": "Game Music",
+            "offset": -3.165,
+            "courses": {
+                "Oni": 10,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/Racing the Storm/Racing the Storm.tja",
             "title": {
                 "en": "Racing the Storm",
@@ -62848,6 +63173,22 @@
                 "Oni": 8,
                 "Hard": 7,
                 "Normal": 4,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Teknowerk Medley/Teknowerk Medley.tja",
+            "title": {
+                "en": "Teknowerk Medley",
+                "ja": "テクノヴェルクメドレー"
+            },
+            "subtitle": {},
+            "category": "Game Music",
+            "offset": -2.844,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 4
             }
         },
