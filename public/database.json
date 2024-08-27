@@ -1,5 +1,5 @@
 {
-    "commit": "4e911907520734f4c1a4189e35db2fcae92a6daf",
+    "commit": "d864f1a2d2928318f5de82de58f5899c22f59b0d",
     "blobs": [
         {
             "type": "blob",
@@ -5055,6 +5055,16 @@
             "type": "blob",
             "hash": "6107c3cb4e7b1515a28cb2f585b1c84e4c5f0ff2",
             "path": "01 Pop/Super Star/Super Star.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "aa6b82c42728b185f3cb855e20e5a21b099545b3",
+            "path": "01 Pop/Surges/Surges.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7130026df2301aa68d0f4e90d7bc260b348a3268",
+            "path": "01 Pop/Surges/Surges.tja"
         },
         {
             "type": "blob",
@@ -10173,6 +10183,16 @@
         },
         {
             "type": "blob",
+            "hash": "b11d86f93deec7a6ca13899bf65e7786a6c8973d",
+            "path": "02 Anime/Scar/Scar.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "caac113b3a457d1cc762eb15e42202c1e849aae1",
+            "path": "02 Anime/Scar/Scar.tja"
+        },
+        {
+            "type": "blob",
             "hash": "39d156e2cebab028952d959fe16361b8ad4c9602",
             "path": "02 Anime/School Days/School Days.ogg"
         },
@@ -11230,6 +11250,16 @@
             "type": "blob",
             "hash": "51e03d81407c7e7019202117416ff910040489e0",
             "path": "02 Anime/Yuuki Rinrin/Yuuki Rinrin.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9375996c07bf14aa153395fe2ac1a8ddd6fa0bdc",
+            "path": "02 Anime/Yuusha/Yuusha.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c20e387ccff269df9899888011d335665f4e51c3",
+            "path": "02 Anime/Yuusha/Yuusha.tja"
         },
         {
             "type": "blob",
@@ -14048,6 +14078,16 @@
         },
         {
             "type": "blob",
+            "hash": "4bbe8038da05d5a4762d2c15596a6480d0eccdbd",
+            "path": "05 Variety/Enter the Dragon Theme/Enter the Dragon Theme.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6accfb0937691f318d4bedd8108f436bfb96d845",
+            "path": "05 Variety/Enter the Dragon Theme/Enter the Dragon Theme.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1f447dae48e9a0936deca591f468aea0c3fa36ba",
             "path": "05 Variety/FREEDOM DiVE/FREEDOM DiVE.ogg"
         },
@@ -14585,6 +14625,16 @@
             "type": "blob",
             "hash": "79b15f2afef983fb598c5b86dfa3381c12984f0b",
             "path": "05 Variety/Senshaku Zesshou no Fantasia/Senshaku Zesshou no Fantasia.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e992eb72cb5cbbee859d49766c3177f4fd51357d",
+            "path": "05 Variety/Sesame Street Theme/Sesame Street Theme.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "08075e918480b771a4299c56aec938d48cf9ab71",
+            "path": "05 Variety/Sesame Street Theme/Sesame Street Theme.tja"
         },
         {
             "type": "blob",
@@ -15170,6 +15220,16 @@
             "type": "blob",
             "hash": "213a4b940d84dce4122596c2a037a19d0b656c6e",
             "path": "06 Classical/Montagues and Capulets/Montagues and Capulets.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "251598674a9063b92890de516f2cf6b220c745ba",
+            "path": "06 Classical/Nagoya-bayashi/Nagoya-bayashi.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "311b5f8765fabf8678aa09c7b9a1e7e1d94d8734",
+            "path": "06 Classical/Nagoya-bayashi/Nagoya-bayashi.tja"
         },
         {
             "type": "blob",
@@ -24113,6 +24173,16 @@
         },
         {
             "type": "blob",
+            "hash": "f3ec98e0acd2237ae3b8951dd5e0f4e053704224",
+            "path": "09 Namco Original/Minna no Kakigoori/Minna no Kakigoori.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0de1bba29b90236716d870c44a8e0b00035a45ee",
+            "path": "09 Namco Original/Minna no Kakigoori/Minna no Kakigoori.tja"
+        },
+        {
+            "type": "blob",
             "hash": "3e0bd2bf68f51e13fcfb33fa3c1062598f5b3811",
             "path": "09 Namco Original/Mirai e no Kagi/Mirai e no Kagi.ogg"
         },
@@ -25630,6 +25700,16 @@
             "type": "blob",
             "hash": "8c503d625311db983283b2986bee3488b5483d28",
             "path": "09 Namco Original/Sword Battlers/Sword Battlers.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4684b3cc68175e339b836ca490aaf21b652da2ba",
+            "path": "09 Namco Original/TAIKO-TONGUE-TWISTER/TAIKO-TONGUE-TWISTER.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0306215dede1c08e87e41c596de53972b97d7f09",
+            "path": "09 Namco Original/TAIKO-TONGUE-TWISTER/TAIKO-TONGUE-TWISTER.tja"
         },
         {
             "type": "blob",
@@ -37731,6 +37811,22 @@
             }
         },
         {
+            "path": "01 Pop/Surges/Surges.tja",
+            "title": {
+                "en": "Surges",
+                "ja": "Surges"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -0.611,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Survival/Survival.tja",
             "title": {
                 "en": "Survival",
@@ -47236,6 +47332,22 @@
             }
         },
         {
+            "path": "02 Anime/Scar/Scar.tja",
+            "title": {
+                "en": "Scar",
+                "ja": "スカー"
+            },
+            "subtitle": {},
+            "category": "Anime",
+            "offset": -1.553,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/School Days/School Days.tja",
             "title": {
                 "en": "School Days",
@@ -49203,6 +49315,26 @@
             "courses": {
                 "Oni": 6,
                 "Hard": 1,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/Yuusha/Yuusha.tja",
+            "title": {
+                "en": "Yuusha",
+                "ja": "勇者"
+            },
+            "subtitle": {
+                "en": "Soso no Frieren",
+                "ja": "「葬送のフリーレン」より"
+            },
+            "category": "Anime",
+            "offset": -1.193,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
                 "Normal": 3,
                 "Easy": 2
             }
@@ -54225,6 +54357,22 @@
             }
         },
         {
+            "path": "05 Variety/Enter the Dragon Theme/Enter the Dragon Theme.tja",
+            "title": {
+                "en": "Enter the Dragon Theme",
+                "ja": "燃えよドラゴンのテーマ"
+            },
+            "subtitle": {},
+            "category": "Variety",
+            "offset": -1.48,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "05 Variety/FREEDOM DiVE/FREEDOM DiVE.tja",
             "title": {
                 "en": "FREEDOM DiVE↓",
@@ -55231,6 +55379,22 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "05 Variety/Sesame Street Theme/Sesame Street Theme.tja",
+            "title": {
+                "en": "Sesame Street Theme",
+                "ja": "セサミストリートのテーマ"
+            },
+            "subtitle": {},
+            "category": "Variety",
+            "offset": -2.807,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -56302,6 +56466,22 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "06 Classical/Nagoya-bayashi/Nagoya-bayashi.tja",
+            "title": {
+                "en": "Nagoya-bayashi",
+                "ja": "名古屋ばやし"
+            },
+            "subtitle": {},
+            "category": "Classical",
+            "offset": -1.836,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -70936,6 +71116,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Minna no Kakigoori/Minna no Kakigoori.tja",
+            "title": {
+                "en": "Minna no Kakigoori",
+                "ja": "ミンナノカキゴオリ"
+            },
+            "subtitle": {
+                "en": "Bonjour Suzuki feat. Yuichiro Tsukagoshi (NanosizeMir) & GIW",
+                "ja": "ボンジュール鈴木 feat. 塚越雄一朗(NanosizeMir) ＆ 祇羽"
+            },
+            "category": "Namco Original",
+            "offset": -2.547,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/Mirai e no Kagi/Mirai e no Kagi.tja",
             "title": {
                 "en": "Mirai e no Kagi",
@@ -73754,6 +73953,25 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/TAIKO-TONGUE-TWISTER/TAIKO-TONGUE-TWISTER.tja",
+            "title": {
+                "en": "TAIKO-TONGUE-TWISTER",
+                "ja": "TAIKO-TONGUE-TWISTER"
+            },
+            "subtitle": {
+                "en": "Cory Tarrow(BNSI) feat. M.Polak, Avigail D., L.Munoz and Bryan D.",
+                "ja": "Cory Tarrow(BNSI) feat. M.Polak, Avigail D., L.Munoz and Bryan D."
+            },
+            "category": "Namco Original",
+            "offset": -1.312,
+            "courses": {
+                "Oni": 8,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 5
             }
         },
         {
