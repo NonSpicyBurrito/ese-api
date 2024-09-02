@@ -1,5 +1,5 @@
 {
-    "commit": "d864f1a2d2928318f5de82de58f5899c22f59b0d",
+    "commit": "4b50e368f0d11f04e20a7b2c83eceb9dd909a1ca",
     "blobs": [
         {
             "type": "blob",
@@ -4763,7 +4763,7 @@
         },
         {
             "type": "blob",
-            "hash": "8b89b23df9cdd2f17542f4c40e0f4f9866fadf2e",
+            "hash": "24f873c4e62fcbbeda1a90b60fcd1411f09d8f69",
             "path": "01 Pop/Sil vous President/S’il vous President.tja"
         },
         {
@@ -7008,7 +7008,7 @@
         },
         {
             "type": "blob",
-            "hash": "3cd7562340c3ce290450f5ba5fe60e8516ed3b8a",
+            "hash": "4cf96c5317269bfeaaa9fb5efbb462c40ab2a41b",
             "path": "02 Anime/Cry Baby/Cry Baby.tja"
         },
         {
@@ -7338,7 +7338,7 @@
         },
         {
             "type": "blob",
-            "hash": "a144dd8b37247e7b599f5db0cbff77692d96288f",
+            "hash": "c120a7d05eff234de9c532106d5ccdbf99c93794",
             "path": "02 Anime/DtecnoLife/D-tecnoLife.tja"
         },
         {
@@ -14278,6 +14278,16 @@
         },
         {
             "type": "blob",
+            "hash": "0bc298113a111706927b2d1d17ccaeff6e2f5425",
+            "path": "05 Variety/Jamboree Mickey/Jamboree Mickey.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "20905ed74038ccfed06c24c87b3b4820e609dc81",
+            "path": "05 Variety/Jamboree Mickey/Jamboree Mickey.tja"
+        },
+        {
+            "type": "blob",
             "hash": "850b0041aefbdd7a790d7ec591660d4a5ccb3e31",
             "path": "05 Variety/Jingle Bells No. 765/Jingle Bells No. 765.ogg"
         },
@@ -14323,7 +14333,7 @@
         },
         {
             "type": "blob",
-            "hash": "613898f724d2c3476b2986b026dfc2acc050f040",
+            "hash": "c8acd4df53bc5ea7b675a9c13113f3818fe535e8",
             "path": "05 Variety/Kill my Fortune/Kill my Fortune.tja"
         },
         {
@@ -17273,7 +17283,7 @@
         },
         {
             "type": "blob",
-            "hash": "a25c153b055fd4b4b6e63e9229e505ea6915c162",
+            "hash": "60dba9c9ea69307192bea7b7b54d30c0331f4b45",
             "path": "07 Game Music/Life Will Change/Life Will Change.tja"
         },
         {
@@ -18235,6 +18245,16 @@
             "type": "blob",
             "hash": "0fd980cd9db4f9bc4212548814d189637c4911cc",
             "path": "07 Game Music/Racing the Storm/Racing the Storm.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2352863114826e769697d8a3e11d700ccc1dc457",
+            "path": "07 Game Music/Rat A Tat/Rat A Tat.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "42e47f031cd7011f06432799e1b0c4c933e6bd8a",
+            "path": "07 Game Music/Rat A Tat/Rat A Tat.tja"
         },
         {
             "type": "blob",
@@ -23058,6 +23078,16 @@
         },
         {
             "type": "blob",
+            "hash": "964af1b70aa3ecbc4b57f7dddaa43ce43d5773b6",
+            "path": "09 Namco Original/Irregular Clock/Irregular Clock.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c16f66b60318b663e51af358d9d1935f823b48ad",
+            "path": "09 Namco Original/Irregular Clock/Irregular Clock.tja"
+        },
+        {
+            "type": "blob",
             "hash": "455efb2189b59404713dd5373f5b7b2253d08e5f",
             "path": "09 Namco Original/Ishiki no Waze/Ishiki no Waze.ogg"
         },
@@ -25188,7 +25218,7 @@
         },
         {
             "type": "blob",
-            "hash": "d97ad4105baf160eb3b7a0f7b238553b64e2a643",
+            "hash": "ee7195646ecf1d99c40229d14924d56324a00cbf",
             "path": "09 Namco Original/Sai Hate no Mahoutsukai/Sai Hate no Mahoutsukai.tja"
         },
         {
@@ -37273,6 +37303,7 @@
             "category": "Pop",
             "offset": -1.478,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 4,
@@ -54726,6 +54757,22 @@
             }
         },
         {
+            "path": "05 Variety/Jamboree Mickey/Jamboree Mickey.tja",
+            "title": {
+                "en": "Jamboree Mickey!",
+                "ja": "ジャンボリミッキー！"
+            },
+            "subtitle": {},
+            "category": "Variety",
+            "offset": -1.934,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "05 Variety/Jingle Bells No. 765/Jingle Bells No. 765.tja",
             "title": {
                 "en": "Jingle Bells No. 765",
@@ -54801,7 +54848,7 @@
         {
             "path": "05 Variety/Kill my Fortune/Kill my Fortune.tja",
             "title": {
-                "en": "ᖽᐸᓰᒪᒪ ᘻᖻ ᖴᓍᖇᖶᑘᘉᘿ",
+                "en": "Kill My Fortune",
                 "ja": "Kill My Fortune"
             },
             "subtitle": {
@@ -54811,6 +54858,7 @@
             "category": "Variety",
             "offset": -0.34,
             "courses": {
+                "Edit": 10,
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 5,
@@ -62062,6 +62110,26 @@
             }
         },
         {
+            "path": "07 Game Music/Rat A Tat/Rat A Tat.tja",
+            "title": {
+                "en": "Rat A Tat!!!",
+                "ja": "Rat A Tat!!!"
+            },
+            "subtitle": {
+                "en": "From Anime \"Idolm@ster Million Live!\"",
+                "ja": "アニメ「アイドルマスター ミリオンライブ！」より"
+            },
+            "category": "Game Music",
+            "offset": -1.4,
+            "courses": {
+                "Edit": 9,
+                "Oni": 5,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Reason!!/Reason!!.tja",
             "title": {
                 "en": "Reason‼",
@@ -69063,6 +69131,25 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Irregular Clock/Irregular Clock.tja",
+            "title": {
+                "en": "Irregular Clock",
+                "ja": "Irregular Clock"
+            },
+            "subtitle": {
+                "en": "siromaru as INNOCENT NOIZE",
+                "ja": "siromaru as INNOCENT NOIZE"
+            },
+            "category": "Namco Original",
+            "offset": -0.783,
+            "courses": {
+                "Oni": 9,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
             }
         },
         {
