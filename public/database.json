@@ -1,5 +1,5 @@
 {
-    "commit": "433f9c2dd0e7ac69a308a23741dd9ff2ff184256",
+    "commit": "5e33e6cf238712c27a63862c7a115b75a3eaf86c",
     "blobs": [
         {
             "type": "blob",
@@ -1715,6 +1715,16 @@
             "type": "blob",
             "hash": "8db2c747f7eb60f81c499b74515bd096c29fbc72",
             "path": "01 Pop/Hadaka no Kokoro/Hadaka no Kokoro.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "88b37832218d0d6c9aa3da85e78a35a2eb773586",
+            "path": "01 Pop/Hai Yorokonde/Hai Yorokonde.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c4a9d889a693f87e920184335966213a7a334cbd",
+            "path": "01 Pop/Hai Yorokonde/Hai Yorokonde.tja"
         },
         {
             "type": "blob",
@@ -14578,6 +14588,16 @@
         },
         {
             "type": "blob",
+            "hash": "7fd6b8e482f6895d97e318ddb8191f7f44d5f7e0",
+            "path": "05 Variety/Licht/Licht.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0ef130643af5c40a1d51203a319720ce5a0d97ec",
+            "path": "05 Variety/Licht/Licht.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b6c96e6d682c0e52d77c37adec2ab10cfa50a751",
             "path": "05 Variety/Marisa Stole the Precious Thing/Marisa Stole the Precious Thing.ogg"
         },
@@ -14635,6 +14655,16 @@
             "type": "blob",
             "hash": "73241385826bd96950573ea0e3b7222bca722076",
             "path": "05 Variety/Necrofantasia ～Demetori Arrange～/Necrofantasia Demetori Arrange.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9a5925061308e996a4ae6e1b247bd948b99edd06",
+            "path": "05 Variety/Neon Sign/Neon Sign.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "61066596dc56ffac5bff7725f533552ceffbe96c",
+            "path": "05 Variety/Neon Sign/Neon Sign.tja"
         },
         {
             "type": "blob",
@@ -21893,6 +21923,16 @@
         },
         {
             "type": "blob",
+            "hash": "bbef5323eff75a0ea03db933ad7b12ffe1f7a897",
+            "path": "09 Namco Original/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "39a2b89c4dbe3fb20d5de374b26bf755d9a0513d",
+            "path": "09 Namco Original/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu.tja"
+        },
+        {
+            "type": "blob",
             "hash": "f50ccb1664d125db901d0942606e2463fa6dba0a",
             "path": "09 Namco Original/Daibouken Tatsudon/Daibouken Tatsudon.ogg"
         },
@@ -21918,7 +21958,7 @@
         },
         {
             "type": "blob",
-            "hash": "ee73bfff520806fe53ea6dc1b5e1c54770dbaa65",
+            "hash": "753a54a6c7c7788f58620776d7b555adade21a89",
             "path": "09 Namco Original/Dairokuten Maou/Dairokuten Maou.tja"
         },
         {
@@ -23283,7 +23323,7 @@
         },
         {
             "type": "blob",
-            "hash": "c16f66b60318b663e51af358d9d1935f823b48ad",
+            "hash": "cddb7b98baea74a25bbe1650d152d03dda413a8d",
             "path": "09 Namco Original/Irregular Clock/Irregular Clock.tja"
         },
         {
@@ -25983,6 +26023,16 @@
         },
         {
             "type": "blob",
+            "hash": "350ed18c812780e3fbfe4de80afe0018ddcbc31b",
+            "path": "09 Namco Original/TENSEI Kiyoshi ga Matsu Tsuwamono/TENSEI Kiyoshi ga Matsu Tsuwamono.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8653117cc34800f935e88b92506ac15696400b1f",
+            "path": "09 Namco Original/TENSEI Kiyoshi ga Matsu Tsuwamono/TENSEI Kiyoshi ga Matsu Tsuwamono.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a6bca233e562178ebc557b70f4c0eb98683a8aec",
             "path": "09 Namco Original/TOKIMEKI Destroyer!!/TOKIMEKI Destroyer!!.ogg"
         },
@@ -27068,7 +27118,7 @@
         },
         {
             "type": "blob",
-            "hash": "1847e6d4d189414e5734893889594dc9812ce5c9",
+            "hash": "fb57b6397dff2953811075950273725e2a9435d3",
             "path": "09 Namco Original/for Q/for Q.tja"
         },
         {
@@ -31988,6 +32038,26 @@
                 "Hard": 5,
                 "Normal": 2,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "01 Pop/Hai Yorokonde/Hai Yorokonde.tja",
+            "title": {
+                "en": "Hai Yorokonde",
+                "ja": "はいよろこんで"
+            },
+            "subtitle": {
+                "en": "Kocchi no Kento",
+                "ja": "こっちのけんと"
+            },
+            "category": "Pop",
+            "offset": -3.307,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -55570,6 +55640,26 @@
             }
         },
         {
+            "path": "05 Variety/Licht/Licht.tja",
+            "title": {
+                "en": "Licht",
+                "ja": "リヒト"
+            },
+            "subtitle": {
+                "en": "WAKAZO / PolaPoriPosuPo",
+                "ja": "WAKAZO 「ポラポリポスポ」より"
+            },
+            "category": "Variety",
+            "offset": -0.934,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "05 Variety/Marisa Stole the Precious Thing/Marisa Stole the Precious Thing.tja",
             "title": {
                 "en": "Marisa Stole the Precious Thing",
@@ -55680,6 +55770,25 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "05 Variety/Neon Sign/Neon Sign.tja",
+            "title": {
+                "en": "Neon Sign",
+                "ja": "Neon Sign"
+            },
+            "subtitle": {
+                "en": "chirp×chirp / PolaPoriPosuPo",
+                "ja": "chirp×chirp 「ポラポリポスポ」より"
+            },
+            "category": "Variety",
+            "offset": -1.357,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -67197,6 +67306,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu/Dai Yuusha Tatsudon Saikyo no MyBachi Densetsu.tja",
+            "title": {
+                "en": "Dai-Yuusha Tatsudon ～Saikyo no MyBachi Densetsu～",
+                "ja": "大勇者タツドン ～最強のマイバチ伝説～"
+            },
+            "subtitle": {
+                "en": "Kawagen Kollagen(BNSI)",
+                "ja": "Kawagen Kollagen(BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -1.912,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/Daibouken Tatsudon/Daibouken Tatsudon.tja",
             "title": {
                 "en": "Daibouken Tatsudon",
@@ -67246,6 +67374,7 @@
             "category": "Namco Original",
             "offset": -1.691,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 7,
@@ -69774,6 +69903,7 @@
             "category": "Namco Original",
             "offset": -0.783,
             "courses": {
+                "Edit": 10,
                 "Oni": 9,
                 "Hard": 8,
                 "Normal": 7,
@@ -74766,6 +74896,26 @@
             }
         },
         {
+            "path": "09 Namco Original/TENSEI Kiyoshi ga Matsu Tsuwamono/TENSEI Kiyoshi ga Matsu Tsuwamono.tja",
+            "title": {
+                "en": "TENSEI -Kiyoshi ga Matsu Tsuwamono-",
+                "ja": "転生〈TENSEI〉-喜与志が待つ強者-"
+            },
+            "subtitle": {
+                "en": "Reincarnated Wada Kiyoshi prod. Licht Tsuboi (BNSI)",
+                "ja": "転生和田喜与志 prod. 坪井リヒト(BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -1.914,
+            "courses": {
+                "Edit": 10,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/TOKIMEKI Destroyer!!/TOKIMEKI Destroyer!!.tja",
             "title": {
                 "en": "TOKIMEKI♡Destroyer‼",
@@ -76809,6 +76959,7 @@
             "category": "Namco Original",
             "offset": -1.172,
             "courses": {
+                "Edit": 10,
                 "Oni": 9,
                 "Hard": 6,
                 "Normal": 7,
