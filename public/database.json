@@ -1,5 +1,5 @@
 {
-    "commit": "465bc2b596780c9df7dec4619f4d83dac9eb9602",
+    "commit": "bbd6f989dbb4a7f30373aabf37dfb9a7239f1738",
     "blobs": [
         {
             "type": "blob",
@@ -7568,6 +7568,16 @@
         },
         {
             "type": "blob",
+            "hash": "4d1e267353ecb5ff0caf387eaee97a9d98df7335",
+            "path": "02 Anime/Fatale/Fatale.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "372cbb10ebe7719434d938eacb4501704fc84654",
+            "path": "02 Anime/Fatale/Fatale.tja"
+        },
+        {
+            "type": "blob",
             "hash": "c6c229672030ee538e55f9e64a114506dd8d9c4a",
             "path": "02 Anime/Feed A/Feed A.ogg"
         },
@@ -8428,12 +8438,22 @@
         },
         {
             "type": "blob",
+            "hash": "c82c07e24df2121fa2d3407f14215fee1f6ea04f",
+            "path": "02 Anime/Idol/Idol (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6fc8b1614be7ae7cda3dd271454cf07911d25dd7",
+            "path": "02 Anime/Idol/Idol (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "91bbe47b806579c30da3aa2b2bb405958518e370",
             "path": "02 Anime/Idol/Idol.ogg"
         },
         {
             "type": "blob",
-            "hash": "ae12c76d15f88eefc85af06b31b1883c0f3309c3",
+            "hash": "cbd1d2d560f846fc996028c218f19fcc0108a48c",
             "path": "02 Anime/Idol/Idol.tja"
         },
         {
@@ -10515,6 +10535,16 @@
             "type": "blob",
             "hash": "cdad9a1af2e54ed8490afd12898f550211bd8f9e",
             "path": "02 Anime/Shukufuku/Shukufuku.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "d164712638b8eadc6d83c5ccf32c77194e72f9cd",
+            "path": "02 Anime/Sign wa B New Arrange Ver/Sign wa B New Arrange Ver.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "50d3445df28cf5902226cf290ccbaf0ad3d54833",
+            "path": "02 Anime/Sign wa B New Arrange Ver/Sign wa B New Arrange Ver.tja"
         },
         {
             "type": "blob",
@@ -14308,7 +14338,7 @@
         },
         {
             "type": "blob",
-            "hash": "63816a538bffcbacad3cdaed356607145a337a9a",
+            "hash": "93bc497fcb3ae6dea608e49e3bde047eacae9849",
             "path": "05 Variety/Cirno's Perfect Math Time/Cirnos Perfect Math Time.tja"
         },
         {
@@ -14698,7 +14728,7 @@
         },
         {
             "type": "blob",
-            "hash": "20905ed74038ccfed06c24c87b3b4820e609dc81",
+            "hash": "d39d46357ec72e6b3d046d21ce4f3f9a40221d28",
             "path": "05 Variety/Jamboree Mickey/Jamboree Mickey.tja"
         },
         {
@@ -22480,11 +22510,6 @@
             "type": "blob",
             "hash": "ab68ab94df7f342eae037de6fa3a393a2121a1db",
             "path": "09 Namco Original/Don-chan Ekaki Uta/Don-chan Ekaki Uta.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "293ada248d4c9e3e0ec7d21e4d2c4fd648a48d64",
-            "path": "09 Namco Original/Donchan Ekaki Uta/Don-chan Ekaki Uta.ogg"
         },
         {
             "type": "blob",
@@ -43126,6 +43151,26 @@
             }
         },
         {
+            "path": "02 Anime/Fatale/Fatale.tja",
+            "title": {
+                "en": "Fatale",
+                "ja": "ファタール"
+            },
+            "subtitle": {
+                "en": "GEMN / 【Oshi No Ko】",
+                "ja": "GEMN / TVアニメ『【推しの子】』より"
+            },
+            "category": "Anime",
+            "offset": -0.808,
+            "courses": {
+                "Edit": 9,
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Feed A/Feed A.tja",
             "title": {
                 "en": "Feed A",
@@ -44738,6 +44783,25 @@
             }
         },
         {
+            "path": "02 Anime/Idol/Idol (Cover).tja",
+            "title": {
+                "en": "Idol -Cover Audio/Chart-",
+                "ja": "アイドル"
+            },
+            "subtitle": {
+                "en": "【Oshi No Ko】",
+                "ja": "カバー音源・譜面 TVアニメ『【推しの子】』より"
+            },
+            "category": "Anime",
+            "offset": -0.557,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/Idol/Idol.tja",
             "title": {
                 "en": "Idol",
@@ -44745,12 +44809,12 @@
             },
             "subtitle": {
                 "en": "YOASOBI / 【Oshi No Ko】",
-                "ja": "「【推しの子】」より"
+                "ja": "YOASOBI / TVアニメ『【推しの子】』より"
             },
             "category": "Anime",
             "offset": -0.524,
             "courses": {
-                "Oni": 7,
+                "Oni": 8,
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 3
@@ -48662,6 +48726,25 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Sign wa B New Arrange Ver/Sign wa B New Arrange Ver.tja",
+            "title": {
+                "en": "Sign wa B -New Arrange Ver.-",
+                "ja": "サインはB -New Arrange Ver.-"
+            },
+            "subtitle": {
+                "en": "B Komachi / 【Oshi No Ko】",
+                "ja": "B小町 / TVアニメ『【推しの子】』より"
+            },
+            "category": "Anime",
+            "offset": -0.943,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -55493,8 +55576,8 @@
                 "ja": "!!!チルノのパーフェクトさんすうタイム!!!"
             },
             "subtitle": {
-                "en": "Touhou Project Arrange - Dr.MARON respected by IOSYS & t+pazolite",
-                "ja": "東方Projectアレンジ Dr. MARON respected by IOSYS & t+pazolite"
+                "en": "Touhou Project Arrange - Dr.MARON respects IOSYS & t+pazolite",
+                "ja": "東方Projectアレンジ Dr. MARON respects IOSYS & t+pazolite"
             },
             "category": "Variety",
             "offset": -1.808,
@@ -56225,6 +56308,7 @@
             "category": "Variety",
             "offset": -1.934,
             "courses": {
+                "Edit": 9,
                 "Oni": 5,
                 "Hard": 4,
                 "Normal": 3,
