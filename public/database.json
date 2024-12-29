@@ -1,5 +1,5 @@
 {
-    "commit": "bbd6f989dbb4a7f30373aabf37dfb9a7239f1738",
+    "commit": "f21dc01a6021d6af77bc786b3d360df32243586a",
     "blobs": [
         {
             "type": "blob",
@@ -2128,6 +2128,16 @@
         },
         {
             "type": "blob",
+            "hash": "a80b7754d72456570271eb2baeaf9906a68ef442",
+            "path": "01 Pop/I wonder/I wonder.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "2633761da137654b10201e9c02d9c4a34e986170",
+            "path": "01 Pop/I wonder/I wonder.tja"
+        },
+        {
+            "type": "blob",
             "hash": "c88114ad91e6ad78fb4764789463b9eb6bd1f899",
             "path": "01 Pop/Ichizu/Ichizu.ogg"
         },
@@ -3878,7 +3888,7 @@
         },
         {
             "type": "blob",
-            "hash": "a86538ba615886ff01a25361eaaac5558c208fe4",
+            "hash": "6a9f4416f4ce9fdab33dea05f2e576fd0b433650",
             "path": "01 Pop/Odo/Odo.tja"
         },
         {
@@ -4030,6 +4040,16 @@
             "type": "blob",
             "hash": "f79721320ebe1e4a51ec9bc031989974c88fc287",
             "path": "01 Pop/Overd/Overd.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2a717f4e1b0bcf09bc7123b76c7e5c4cb6cc2db1",
+            "path": "01 Pop/Override/Override.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "47df481e7b3ea8c12f4c95f8ef037e2b4c041720",
+            "path": "01 Pop/Override/Override.tja"
         },
         {
             "type": "blob",
@@ -4880,6 +4900,16 @@
             "type": "blob",
             "hash": "f1a17e1ba41e370d0ba1311487ff20a12944691b",
             "path": "01 Pop/Shukumei/Shukumei.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "7a32befebe39336297c1b4439882a43b5e8b0a75",
+            "path": "01 Pop/Shukusei Loli-gami Requiem/Shukusei Loli-gami Requiem.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1256080936ef887abdf99d25d82db431261792f0",
+            "path": "01 Pop/Shukusei Loli-gami Requiem/Shukusei Loli-gami Requiem.tja"
         },
         {
             "type": "blob",
@@ -9183,7 +9213,7 @@
         },
         {
             "type": "blob",
-            "hash": "c5552eabf3ee9bdf54b3ad9e5e922f90a31534e0",
+            "hash": "1f8ac4c5a8e2088441eb0826bf5c41a6b9527645",
             "path": "02 Anime/Lilac/Lilac.tja"
         },
         {
@@ -9678,12 +9708,22 @@
         },
         {
             "type": "blob",
+            "hash": "98827623221f0ed2dfbfaaec359ab98bcef0da8c",
+            "path": "02 Anime/New Genesis/New Genesis (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "cd7c974f89a48a4e6963680b5de1a93d3f61f19f",
+            "path": "02 Anime/New Genesis/New Genesis (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "becbc802dfcb4452f911885f8f7a58f100ba2518",
             "path": "02 Anime/New Genesis/New Genesis.ogg"
         },
         {
             "type": "blob",
-            "hash": "bdaa6d1a1191a89d7405dcf164afb1a2983a2d6d",
+            "hash": "dccdd5d68c920ebc16ed8a21c1eb61eb36102416",
             "path": "02 Anime/New Genesis/New Genesis.tja"
         },
         {
@@ -11738,7 +11778,7 @@
         },
         {
             "type": "blob",
-            "hash": "c7975e2115a8acc7aab5c50c3fa444497b916ba1",
+            "hash": "beefa9a1c37bc6dd2a00087d6d4909cb3e4a8c90",
             "path": "03 Vocaloid/4+1 no Sorezore no Mirai/4+1 no Sorezore no Mirai.tja"
         },
         {
@@ -12448,7 +12488,7 @@
         },
         {
             "type": "blob",
-            "hash": "264a376a5da2c213ab93709f76c8f5c322f5c9cd",
+            "hash": "63e6f9502094eeb300fef6efa45d4dd4897d1c7b",
             "path": "03 Vocaloid/Mesmerizer/Mesmerizer.tja"
         },
         {
@@ -13135,6 +13175,16 @@
             "type": "blob",
             "hash": "dae0f0da2f207d9f8985743fd6ccac355a14a96f",
             "path": "04 Children and Folk/Genkotsuyama no Tanukisan/Genkotsuyama no Tanukisan.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4c7d8f7693672412ede4f487583d4427a058a677",
+            "path": "04 Children and Folk/Got Boost/Got Boost.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "00625ae0312fd572bc8ba817bf60ae2a2b7eeede",
+            "path": "04 Children and Folk/Got Boost/Got Boost.tja"
         },
         {
             "type": "blob",
@@ -21853,6 +21903,16 @@
         },
         {
             "type": "blob",
+            "hash": "f15181a8a09c96556c5e099278b00f853c28eced",
+            "path": "09 Namco Original/CRUXNAUT/CRUXNAUT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "eff7a5c17ced2086b68133f44ba0b73436280847",
+            "path": "09 Namco Original/CRUXNAUT/CRUXNAUT.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4b420b6cd6c68bee1e2cf81ea7f02c12edfb7a9a",
             "path": "09 Namco Original/CUT! into the FUTURE/CUT! into the FUTURE.ogg"
         },
@@ -22090,6 +22150,16 @@
             "type": "blob",
             "hash": "66b845be1f1c9a68f13c5d56434d2392d99cb5ff",
             "path": "09 Namco Original/Chouzetsu-gikoukei Shoujo/Chouzetsu-gikoukei Shoujo.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6834968eefc79524053898372d7b4450bb62b8d2",
+            "path": "09 Namco Original/Chrimbo/Chrimbo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7e881ddbe8ed8771b17d710b036be0b41361db65",
+            "path": "09 Namco Original/Chrimbo/Chrimbo.tja"
         },
         {
             "type": "blob",
@@ -24498,7 +24568,7 @@
         },
         {
             "type": "blob",
-            "hash": "2d3226643cd3aeb22f4f45e47dbcc4fa1ab5417a",
+            "hash": "1bdb6f384f7c6173308094ba4f6b940fc3b4d794",
             "path": "09 Namco Original/Little White Witch/Little White Witch.tja"
         },
         {
@@ -24543,12 +24613,17 @@
         },
         {
             "type": "blob",
+            "hash": "709d45971914f442031939f4f6c0cc7b4ded6ab8",
+            "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON (CS3).tja"
+        },
+        {
+            "type": "blob",
             "hash": "dbb2f5d4dd0e820ac09033fb6ffbf9d2dd74398e",
             "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON A Mechanical Drum Disappeared Into Space.ogg"
         },
         {
             "type": "blob",
-            "hash": "11c956235bdccd9a9808f1688f85d7bfe4705a38",
+            "hash": "5445b5ce1a4a265d975b801c1eb4bde5b6194a1e",
             "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON A Mechanical Drum Disappeared Into Space.tja"
         },
         {
@@ -26315,6 +26390,16 @@
             "type": "blob",
             "hash": "435e50e09ab02bc1af4c0761ee5a95d52ca46d66",
             "path": "09 Namco Original/Sports Digestdon ～Fill in the Sky～/Sports Digestdon Fill in the Sky.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "a5dee2f87d6cce8d42d266ffec4d29b76bd457d7",
+            "path": "09 Namco Original/Stepping on the Accel/Stepping On The Accel.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6d732481495b93960827315b9f5fcae0907681ab",
+            "path": "09 Namco Original/Stepping on the Accel/Stepping On The Accel.tja"
         },
         {
             "type": "blob",
@@ -33190,6 +33275,25 @@
             }
         },
         {
+            "path": "01 Pop/I wonder/I wonder.tja",
+            "title": {
+                "en": "I wonder",
+                "ja": "I wonder"
+            },
+            "subtitle": {
+                "en": "From the Drama \"Kukuri-Who Fell in Love with Me?\"",
+                "ja": "ドラマ「くるり～誰が私と恋をした？～」より"
+            },
+            "category": "Pop",
+            "offset": -1.692,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Ichizu/Ichizu.tja",
             "title": {
                 "en": "Ichizu",
@@ -36684,6 +36788,25 @@
             }
         },
         {
+            "path": "01 Pop/Override/Override.tja",
+            "title": {
+                "en": "Override",
+                "ja": "オーバーライド"
+            },
+            "subtitle": {
+                "en": "Yoshiyo Yoshida feat. Kasane Teto",
+                "ja": "吉田夜世 feat. 重音テト"
+            },
+            "category": "Pop",
+            "offset": -1.859,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/PEACH/PEACH.tja",
             "title": {
                 "en": "PEACH",
@@ -38220,6 +38343,25 @@
                 "Hard": 5,
                 "Normal": 2,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Shukusei Loli-gami Requiem/Shukusei Loli-gami Requiem.tja",
+            "title": {
+                "en": "Shukusei!! Loli-gami Requiem☆",
+                "ja": "粛聖!! ロリ神レクイエム☆"
+            },
+            "subtitle": {
+                "en": "Shigure Ui",
+                "ja": "しぐれうい"
+            },
+            "category": "Pop",
+            "offset": -2.044,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -47110,14 +47252,33 @@
             }
         },
         {
+            "path": "02 Anime/New Genesis/New Genesis (Cover).tja",
+            "title": {
+                "en": "New Genesis -Cover Audio-",
+                "ja": "新時代"
+            },
+            "subtitle": {
+                "en": "Song of Uta ONE PIECE FILM RED",
+                "ja": "カバー音源 「ウタの歌 ONE PIECE FILM RED」より"
+            },
+            "category": "Anime",
+            "offset": -1.562,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/New Genesis/New Genesis.tja",
             "title": {
                 "en": "New Genesis",
                 "ja": "新時代"
             },
             "subtitle": {
-                "en": "Ado / Uta's Songs: ONE PIECE FILM RED ",
-                "ja": "「ウタの歌 ONE PIECE FILM RED」より"
+                "en": "Ado / Song of Uta ONE PIECE FILM RED",
+                "ja": "Ado「ウタの歌 ONE PIECE FILM RED」より"
             },
             "category": "Anime",
             "offset": -1.019,
@@ -50954,11 +51115,13 @@
                 "ja": "4+1のそれぞれの未来"
             },
             "subtitle": {
-                "en": "cosMo@bousouP feat. Hatsune Miku"
+                "en": "cosMo@bousouP feat. Hatsune Miku",
+                "ja": "太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク"
             },
             "category": "Vocaloid",
             "offset": -1.163,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 7,
@@ -53561,6 +53724,25 @@
             "courses": {
                 "Hard": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "04 Children and Folk/Got Boost/Got Boost.tja",
+            "title": {
+                "en": "Got Boost?",
+                "ja": "Got Boost?"
+            },
+            "subtitle": {
+                "en": "Kamen Rider Gavv",
+                "ja": "「仮面ライダーガヴ」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.881,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -67666,6 +67848,25 @@
             }
         },
         {
+            "path": "09 Namco Original/CRUXNAUT/CRUXNAUT.tja",
+            "title": {
+                "en": "CRUXNAUT",
+                "ja": "CRUXNAUT"
+            },
+            "subtitle": {
+                "en": "cosMo@bousouP",
+                "ja": "cosMo＠暴走P"
+            },
+            "category": "Namco Original",
+            "offset": -1.167,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/CUT! into the FUTURE/CUT! into the FUTURE.tja",
             "title": {
                 "en": "CUT! into the FUTURE",
@@ -68115,6 +68316,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Chrimbo/Chrimbo.tja",
+            "title": {
+                "en": "Chrimbo!",
+                "ja": "くりんぼ！"
+            },
+            "subtitle": {
+                "en": "Kawagen Kollagen(BNSI) feat. yuzuki",
+                "ja": "Kawagen Kollagen(BNSI) feat. yuzuki"
+            },
+            "category": "Namco Original",
+            "offset": -2.581,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -72668,23 +72888,41 @@
             }
         },
         {
-            "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON A Mechanical Drum Disappeared Into Space.tja",
+            "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON (CS3).tja",
             "title": {
-                "en": "MEKADON ～A Mechanical Drum Disappeared Into Space～",
+                "en": "MEKADON ～A Mechanical Drum Disappeared Into Space～ -Old Chart-",
                 "ja": "MEKADON"
             },
             "subtitle": {
                 "en": "Go Shiina feat. Yuri Misumi",
-                "ja": "〜宇宙に消えたメカ太鼓〜"
+                "ja": "旧譜面 〜宇宙に消えたメカ太鼓〜"
             },
             "category": "Namco Original",
             "offset": -6.627,
             "courses": {
+                "Oni": 5,
+                "Hard": 3,
+                "Normal": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/MEKADON ～A Mechanical Drum Disappeared Into Space～/MEKADON A Mechanical Drum Disappeared Into Space.tja",
+            "title": {
+                "en": "MEKADON ～A Mechanical Drum Disappeared Into Space～ -New Chart-",
+                "ja": "MEKADON 〜宇宙に消えたメカ太鼓〜"
+            },
+            "subtitle": {
+                "en": "Go Shiina feat. Yuri Misumi",
+                "ja": "新譜面"
+            },
+            "category": "Namco Original",
+            "offset": -6.627,
+            "courses": {
+                "Edit": 7,
                 "Oni": 8,
                 "Hard": 5,
                 "Normal": 4,
-                "Easy": 2,
-                "Edit": 7
+                "Easy": 2
             }
         },
         {
@@ -75969,6 +76207,25 @@
                 "Edit": 9,
                 "Oni": 7,
                 "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Stepping on the Accel/Stepping On The Accel.tja",
+            "title": {
+                "en": "Stepping On The Accel",
+                "ja": "ステッピン・オン・ジ・アクセル"
+            },
+            "subtitle": {
+                "en": "valknee × Sho Okada (BNSI)",
+                "ja": "valknee × Sho Okada (BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -1.921,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
                 "Normal": 5,
                 "Easy": 4
             }
