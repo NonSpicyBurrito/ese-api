@@ -1,5 +1,5 @@
 {
-    "commit": "f21dc01a6021d6af77bc786b3d360df32243586a",
+    "commit": "e3d54e92fb33233bf512dacd82dbd47f1a63a3aa",
     "blobs": [
         {
             "type": "blob",
@@ -123,7 +123,7 @@
         },
         {
             "type": "blob",
-            "hash": "934db86b9ebfc6c1cdea1c54a7ce0c6d0a087e39",
+            "hash": "05095f12a3d7021eb71af28bd76330371e87ec3c",
             "path": "01 Pop/ANTI-HERO/ANTI-HERO.tja"
         },
         {
@@ -798,6 +798,16 @@
         },
         {
             "type": "blob",
+            "hash": "0555b5e207816d044263cb826be4feb74eb058e5",
+            "path": "01 Pop/Chikai no Hanataba o With You/Chikai no Hanataba o With You.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5f6826ad5f3fa96393314da6715a9f37a52f2e33",
+            "path": "01 Pop/Chikai no Hanataba o With You/Chikai no Hanataba o With You.tja"
+        },
+        {
+            "type": "blob",
             "hash": "3523d8389f024f1ba8316d824efd75b01aaaf47f",
             "path": "01 Pop/Chocolate Disco/Chocolate Disco.ogg"
         },
@@ -1315,6 +1325,16 @@
             "type": "blob",
             "hash": "372ee005454ff9cc18baa3a3f9f6b8dacd21cda4",
             "path": "01 Pop/FUNKTASTIC/FUNKTASTIC.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "fbb58da1c5875399a7090b5285896280d627001d",
+            "path": "01 Pop/Fairy Tale/Fairy Tale.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "229a1e2cc02a3e7faa31346f659396639e324003",
+            "path": "01 Pop/Fairy Tale/Fairy Tale.tja"
         },
         {
             "type": "blob",
@@ -1943,7 +1963,7 @@
         },
         {
             "type": "blob",
-            "hash": "6683535ca48d23efcf42909442d71f7d4b8a9a9a",
+            "hash": "a3ef32fd26c63d3932d148716bb8034f85c19974",
             "path": "01 Pop/Himawari no Yakusoku/Himawari no Yakusoku.tja"
         },
         {
@@ -2023,7 +2043,7 @@
         },
         {
             "type": "blob",
-            "hash": "b77ddd48353ed87f1269856f4a33dd6de34068ee",
+            "hash": "35ce6d5f948e3c1f805489edd1ab30f4b796c225",
             "path": "01 Pop/Honoo to Mori no Carnival/Honoo to Mori no Carnival.tja"
         },
         {
@@ -2123,7 +2143,7 @@
         },
         {
             "type": "blob",
-            "hash": "f02b8b573b1f9a94ead4c437bfea5b35765d474e",
+            "hash": "c040c2b8b3e2f6e8daafdaf5b83da618932174d2",
             "path": "01 Pop/I my moko/I my moko.tja"
         },
         {
@@ -2135,6 +2155,16 @@
             "type": "blob",
             "hash": "2633761da137654b10201e9c02d9c4a34e986170",
             "path": "01 Pop/I wonder/I wonder.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "f228d5c7b183111df0cd45f19e84b56004ef2a53",
+            "path": "01 Pop/INTERNET YAMERO/INTERNET YAMERO.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "831ad9a8a0210fa68ae5cecdb476c5d606c67a8b",
+            "path": "01 Pop/INTERNET YAMERO/INTERNET YAMERO.tja"
         },
         {
             "type": "blob",
@@ -2155,6 +2185,16 @@
             "type": "blob",
             "hash": "932ca234945c7e065e493421dc38abb8b9766847",
             "path": "01 Pop/Idol Kyousenshi/Idol Kyousenshi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "bf57610ddafbdc902e2536c07b315dc586ef37a0",
+            "path": "01 Pop/Igaku/Igaku.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f26072811bf20e7313332bb83bcfacb366dd68a8",
+            "path": "01 Pop/Igaku/Igaku.tja"
         },
         {
             "type": "blob",
@@ -2385,6 +2425,16 @@
             "type": "blob",
             "hash": "6ddd266da1adaa5dad4f10574901520d941b773e",
             "path": "01 Pop/Junjou ～Sunjeong～/Junjou Sunjeong.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "177b07a275523641755902191ef2e80a75c019ed",
+            "path": "01 Pop/Just Dance/Just Dance.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "97c585277c371fc68ec20692971171d9d2bfd491",
+            "path": "01 Pop/Just Dance/Just Dance.tja"
         },
         {
             "type": "blob",
@@ -2958,7 +3008,7 @@
         },
         {
             "type": "blob",
-            "hash": "39622bcc337f22b2d52a10373b6580e8a20cd149",
+            "hash": "0173227da891929e33d51eeb1b9c04c50a51f485",
             "path": "01 Pop/Labrador Retriever/Labrador Retriever.tja"
         },
         {
@@ -3370,6 +3420,16 @@
             "type": "blob",
             "hash": "27793b629fb0b9261a20d3ce306e3a38b53604c4",
             "path": "01 Pop/Michi/Michi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1722554e189a88cce49b215c453b535721b14e98",
+            "path": "01 Pop/Midnight to the Morning/Midnight to the Morning.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0a9de011827f0d8bc8e9e1499f845dbf4abf4ca5",
+            "path": "01 Pop/Midnight to the Morning/Midnight to the Morning.tja"
         },
         {
             "type": "blob",
@@ -3790,6 +3850,16 @@
             "type": "blob",
             "hash": "393f8a16a287061c4e459ddd1eeb5e3f3d2da543",
             "path": "01 Pop/Ni Zhan/Ni Zhan.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2eef227105d6a7c1bf9b76695d094004624cb983",
+            "path": "01 Pop/Nidone/Nidone.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "31c08f7b916caf3471dcf59ad7ad409856a2cfa9",
+            "path": "01 Pop/Nidone/Nidone.tja"
         },
         {
             "type": "blob",
@@ -4343,6 +4413,16 @@
         },
         {
             "type": "blob",
+            "hash": "3c8a33549454539cd1f668a1041b6bc414e5edd9",
+            "path": "01 Pop/RIDE ON TIME/RIDE ON TIME.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c10808a9576180fc0bd6143298e8b03bf96fbe09",
+            "path": "01 Pop/RIDE ON TIME/RIDE ON TIME.tja"
+        },
+        {
+            "type": "blob",
             "hash": "d9e481a47463af1ef463757c3bbc3c500f52347e",
             "path": "01 Pop/RIVER/RIVER.ogg"
         },
@@ -4523,6 +4603,16 @@
         },
         {
             "type": "blob",
+            "hash": "f7b8a58d7e15a07dcc3ed6c0203b96dfe8034248",
+            "path": "01 Pop/Ruma/Ruma.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b7f839e8b0ad76c1ea05c6db0ef62fee0415e227",
+            "path": "01 Pop/Ruma/Ruma.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a7589ab398444e5aec4761d57eda84a4c11fa627",
             "path": "01 Pop/S/S.ogg"
         },
@@ -4693,6 +4783,16 @@
         },
         {
             "type": "blob",
+            "hash": "93b20215f811554bde4e363f2f1b417c480f57ce",
+            "path": "01 Pop/Say Something/Say Something.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1952c41c0bf03cb72f0be5cf8b413e44c42d2595",
+            "path": "01 Pop/Say Something/Say Something.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4e03980d0afdad2e0d6f3be2732b8181e5cbd3f5",
             "path": "01 Pop/Sayonara Crawl/Sayonara Crawl.ogg"
         },
@@ -4720,6 +4820,16 @@
             "type": "blob",
             "hash": "50d51a05d58d99f536bc0116cbb772a4ab9dd4b0",
             "path": "01 Pop/Seesaw Game ～Brave Love Song～/Seesaw Game Brave Love Song.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6364519bc13c1a66822e3ebb78cf5ea3a6a47752",
+            "path": "01 Pop/Seishun Chocolate/Seishun Chocolate.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "016e2b10d73b453303d2573e68a818abdac32e88",
+            "path": "01 Pop/Seishun Chocolate/Seishun Chocolate.tja"
         },
         {
             "type": "blob",
@@ -4863,12 +4973,22 @@
         },
         {
             "type": "blob",
+            "hash": "a00dd49cb8033944ed5a872057cc00ce3542ae8c",
+            "path": "01 Pop/Show/Show (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f270e30d9e97bbefaa3ecae5fd977107a32e0b5b",
+            "path": "01 Pop/Show/Show (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "167e76a05db8df03cf54e5c1ad6d360bf46c532c",
             "path": "01 Pop/Show/Show.ogg"
         },
         {
             "type": "blob",
-            "hash": "d5a07c3472189ecb76abb648279679697a98ec1f",
+            "hash": "dc331e4ffc1065e1f66ce3bb2d0a0b550c67d530",
             "path": "01 Pop/Show/Show.tja"
         },
         {
@@ -5030,6 +5150,16 @@
             "type": "blob",
             "hash": "e18087ea0d537b385bf647f1b816fbd72c520e6a",
             "path": "01 Pop/Soup/Soup.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "64470cfe858549dc36140111870c19539e1d576b",
+            "path": "01 Pop/Sparrow/Sparrow.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8711c21a8b92d55cecba1a8b8a49b2efa9fc4284",
+            "path": "01 Pop/Sparrow/Sparrow.tja"
         },
         {
             "type": "blob",
@@ -5228,7 +5358,7 @@
         },
         {
             "type": "blob",
-            "hash": "7130026df2301aa68d0f4e90d7bc260b348a3268",
+            "hash": "0890737962d50d76fe01a2d945510e4c9888eb4e",
             "path": "01 Pop/Surges/Surges.tja"
         },
         {
@@ -5738,8 +5868,18 @@
         },
         {
             "type": "blob",
-            "hash": "be838a33e5cc1ba9b66c1495439371d6af410543",
+            "hash": "0e0f75e630a77a6854ca8ae474b8bf6470229712",
             "path": "01 Pop/Umi no Koe/Umi no Koe.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "7f09eef9105f3fbab8067e7dc34efe5afb8f2ed1",
+            "path": "01 Pop/Uninhabited Island/Uninhabited Island.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1b86c0e758b9d428ad23a1ef127b8a3bfa85db4e",
+            "path": "01 Pop/Uninhabited Island/Uninhabited Island.tja"
         },
         {
             "type": "blob",
@@ -5803,6 +5943,16 @@
         },
         {
             "type": "blob",
+            "hash": "10e1de815e459d48b88f54ee71ca80c0f690f724",
+            "path": "01 Pop/WOW/WOW.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "116f2000907aa22551f764927b565e2ee445408d",
+            "path": "01 Pop/WOW/WOW.tja"
+        },
+        {
+            "type": "blob",
             "hash": "136dd1b27d8662a00868232a53ee1068dfe78e43",
             "path": "01 Pop/WXY/WXY.ogg"
         },
@@ -5858,7 +6008,7 @@
         },
         {
             "type": "blob",
-            "hash": "4d0249801a3b436a00ea63dfcb8d1bad7611093a",
+            "hash": "a76409aaec7275dc0b8afd1a26fc4feb4d8f6e00",
             "path": "01 Pop/Watashi Igai Watashi ja Nai no/Watashi Igai Watashi ja Nai no.tja"
         },
         {
@@ -6080,6 +6230,16 @@
             "type": "blob",
             "hash": "8f306d9d8f1000c7c6aced1f4ec2e9c208356175",
             "path": "01 Pop/Yes/Yes.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "401c09e6bdeccde1c94e6835b3f9a7f1b726cca7",
+            "path": "01 Pop/Yesterday/Yesterday.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f399f68e9554fb17d88624f9357b34caf90853b1",
+            "path": "01 Pop/Yesterday/Yesterday.tja"
         },
         {
             "type": "blob",
@@ -6563,7 +6723,7 @@
         },
         {
             "type": "blob",
-            "hash": "e67ea02ca47071855603a8cbdc1a86d88e48b1d9",
+            "hash": "be856a17a4b02fea41fe5220e659723db954dbf4",
             "path": "02 Anime/Angelic Angel/Angelic Angel.tja"
         },
         {
@@ -7023,7 +7183,7 @@
         },
         {
             "type": "blob",
-            "hash": "b6377a9a6e148448dd9363ce8d4236b0bc459d11",
+            "hash": "567329b875102eb422e2b4e983def3f72e859ef0",
             "path": "02 Anime/Cerulean/Cerulean.tja"
         },
         {
@@ -7373,7 +7533,7 @@
         },
         {
             "type": "blob",
-            "hash": "dbde1d3184fd5c3160e4b21e5220d4676f9c892a",
+            "hash": "b7233f2acd444cf6da8c90214108e4ad7e2d0321",
             "path": "02 Anime/Do You Want to Build a Snowman/Do You Want to Build a Snowman.tja"
         },
         {
@@ -7393,7 +7553,7 @@
         },
         {
             "type": "blob",
-            "hash": "f0e55e0d99c68c5d46326c0d723a11f6caa421be",
+            "hash": "9f69f744dcd0ff44d43f710bf17151e5d025f736",
             "path": "02 Anime/Dokkin Mahou Tsukai Pretty Cure!/Dokkin Mahou Tsukai Pretty Cure!.tja"
         },
         {
@@ -7483,7 +7643,7 @@
         },
         {
             "type": "blob",
-            "hash": "e50a99ed6c22b0da3ec734c25f201519f91ae48f",
+            "hash": "838d88354e56948fa37d2878bd39ea5954e81907",
             "path": "02 Anime/Doubutsu Sentai Zyuohger/Doubutsu Sentai Zyuohger.tja"
         },
         {
@@ -7603,7 +7763,7 @@
         },
         {
             "type": "blob",
-            "hash": "372cbb10ebe7719434d938eacb4501704fc84654",
+            "hash": "74a0e39ebe3ea9b907fb0f7984f4f65f562719c5",
             "path": "02 Anime/Fatale/Fatale.tja"
         },
         {
@@ -7675,6 +7835,16 @@
             "type": "blob",
             "hash": "2ebf1ff9a402521105763082f68ff6aeaea1ffd7",
             "path": "02 Anime/GEED no Akashi/GEED no Akashi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "382f9fb9d268241aa406a736ea064da2dedf6a58",
+            "path": "02 Anime/GO GO MANIAC/GO GO MANIAC.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "39fbf0ccd590c6c44e13d98649ce7a274f301cd9",
+            "path": "02 Anime/GO GO MANIAC/GO GO MANIAC.tja"
         },
         {
             "type": "blob",
@@ -8463,7 +8633,7 @@
         },
         {
             "type": "blob",
-            "hash": "457069d4456356504bd7d965869102e2985a808c",
+            "hash": "b5b4ce521ca964af7c575eb15688f72d9155ab8d",
             "path": "02 Anime/Ichido Dake no Koi Nara/Ichido Dake no Koi Nara.tja"
         },
         {
@@ -8525,6 +8695,16 @@
             "type": "blob",
             "hash": "dc8c7dee91ab913ab9684316d9169c9436eee821",
             "path": "02 Anime/Imagination/Imagination.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "20cc1957c46f87087b079767631761831c5b3620",
+            "path": "02 Anime/Inazukkyun/Inazukkyun.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a0b9faa32775c4d1a7fa9a906c909345b1943257",
+            "path": "02 Anime/Inazukkyun/Inazukkyun.tja"
         },
         {
             "type": "blob",
@@ -8613,7 +8793,7 @@
         },
         {
             "type": "blob",
-            "hash": "bfee4829759360eafd2501a727a8e1948db3e598",
+            "hash": "9d7d81a09499c94fd27671eb044b68f6ec02d076",
             "path": "02 Anime/Jinsei Dramatic/Jinsei Dramatic.tja"
         },
         {
@@ -9518,6 +9698,16 @@
         },
         {
             "type": "blob",
+            "hash": "57cc155fc752a5bc0295ef55103327aeae545102",
+            "path": "02 Anime/Mixed Nuts/Mixed Nuts (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4b0b84a94db7aae83ab5265e8aeb7ab524ae78fd",
+            "path": "02 Anime/Mixed Nuts/Mixed Nuts (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "c41e0339288305295e1d0ac4a3eba25e82f62ea3",
             "path": "02 Anime/Mixed Nuts/Mixed Nuts.ogg"
         },
@@ -9595,6 +9785,16 @@
             "type": "blob",
             "hash": "a97448c7537b8352d3b268af417e3942b5b97327",
             "path": "02 Anime/Motteke! Sailor Fuku/Motteke! Sailor Fuku.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "701cb1b4d294ad861f9d83d30eaf64285bc1cf67",
+            "path": "02 Anime/Mugen/Mugen.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "11eb774e1648cc477f1949c117be87d87bb088db",
+            "path": "02 Anime/Mugen/Mugen.tja"
         },
         {
             "type": "blob",
@@ -9928,6 +10128,16 @@
         },
         {
             "type": "blob",
+            "hash": "553c9df2c9dc2840798e4ad21c1bb06952b0077e",
+            "path": "02 Anime/Otonoke/Otonoke.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c90f7ad3768909bc2549c560d5d7aaa213283283",
+            "path": "02 Anime/Otonoke/Otonoke.tja"
+        },
+        {
+            "type": "blob",
             "hash": "eb6d72dbd8d31d94a4a62943524c54befe587205",
             "path": "02 Anime/Over the Future/Over the Future.ogg"
         },
@@ -10103,7 +10313,7 @@
         },
         {
             "type": "blob",
-            "hash": "d087cbebccfed273c7c499f38d3d9ccdab0b08e2",
+            "hash": "06a38c54a5be6345efc551eb94725db3a1d2f8f4",
             "path": "02 Anime/QUESTION/QUESTION.tja"
         },
         {
@@ -10623,7 +10833,7 @@
         },
         {
             "type": "blob",
-            "hash": "275941c2a74c93c97fc0fe04b58ac3733482ee21",
+            "hash": "d95826571e0bd80824dcab957d777f1d6abc952a",
             "path": "02 Anime/Snow halation/Snow halation.tja"
         },
         {
@@ -11338,12 +11548,22 @@
         },
         {
             "type": "blob",
+            "hash": "6e402204e0e34fed44cf89e99fe03cf1637b73d7",
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "39e5b254ecfc603cd901404acf42fd6254d20343",
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "cf9644b936460da6a6182c52832ab56eed071554",
             "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.ogg"
         },
         {
             "type": "blob",
-            "hash": "6e59061dbc1cd8a275d5b5902794a588748f15cf",
+            "hash": "c0238ad29ec98293bdf826fe7a3fc90de77753e9",
             "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.tja"
         },
         {
@@ -11463,7 +11683,7 @@
         },
         {
             "type": "blob",
-            "hash": "61c837bdebb705c25faaf5b066d7eefa56d90978",
+            "hash": "f838e23fbc0b19f41ef7193e3d9dc5cca2200b99",
             "path": "02 Anime/XYandZ/XYandZ.tja"
         },
         {
@@ -11768,7 +11988,7 @@
         },
         {
             "type": "blob",
-            "hash": "cd6460afd944c0cac6c15e9b8abe245e0187c8fe",
+            "hash": "2bf8576942decbb06d8763a9d8278852ebc8c65c",
             "path": "02 Anime/talking/talking.tja"
         },
         {
@@ -11993,6 +12213,16 @@
         },
         {
             "type": "blob",
+            "hash": "b872c848e278bc2862ed2edb009a777d9ed75c63",
+            "path": "03 Vocaloid/Donut Hole (GUMI)/Donut Hole (GUMI).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "75f7678e4e5121f908bb2192790b2d7de22fa0c0",
+            "path": "03 Vocaloid/Donut Hole (GUMI)/Donut Hole (GUMI).tja"
+        },
+        {
+            "type": "blob",
             "hash": "2bc679a9134f60a372caf70ddfae08b1ab2187cf",
             "path": "03 Vocaloid/EDY -Electrical Dancing Yoga-/EDY -Electrical Dancing Yoga-.ogg"
         },
@@ -12158,7 +12388,7 @@
         },
         {
             "type": "blob",
-            "hash": "d76c7685d7c06e52ec755ca2dab903d4e486530c",
+            "hash": "84a55bab5013218530b3d85e143a7320d0de0c6b",
             "path": "03 Vocaloid/Happy Synthesizer/Happy Synthesizer.tja"
         },
         {
@@ -12973,7 +13203,7 @@
         },
         {
             "type": "blob",
-            "hash": "e683c816d972fa2c905d2e131f678c2a259a4495",
+            "hash": "9a0f0f6c4fffb89d688f4afdb5aebfea414db8d0",
             "path": "04 Children and Folk/Ba Luo Buo/Ba Luo Buo.tja"
         },
         {
@@ -13685,6 +13915,16 @@
             "type": "blob",
             "hash": "de7520eb0d76b4120edeea4275c9cf7bff9751fe",
             "path": "04 Children and Folk/Obentou Bako no Uta/Obentou Bako no Uta.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "080817644118dc4a2b04678c5b1271f9489bd369",
+            "path": "04 Children and Folk/Ohayou Mell-chan/Ohayou Mell-chan.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "864612541037245d1bef5a3c9e03038cfe0c90f4",
+            "path": "04 Children and Folk/Ohayou Mell-chan/Ohayou Mell-chan.tja"
         },
         {
             "type": "blob",
@@ -14463,12 +14703,12 @@
         },
         {
             "type": "blob",
-            "hash": "e26af9ee1cc4cfc293e12c72cd7616e06a247f75",
+            "hash": "83d6dd8bf1ce90085ed026ad456b00c1eeb70596",
             "path": "05 Variety/Doctor X Theme/Doctor X Theme.ogg"
         },
         {
             "type": "blob",
-            "hash": "ce5eb1e05328980cef5bf113d347b0db37f400f9",
+            "hash": "269f4599a48c47eb7319eb67cb60f49a6fc75c90",
             "path": "05 Variety/Doctor X Theme/Doctor X Theme.tja"
         },
         {
@@ -14648,7 +14888,7 @@
         },
         {
             "type": "blob",
-            "hash": "def869e8ad4452a8086c7686a0dedd04f0f108dd",
+            "hash": "7801c692df83c61ee176c93a9ad1968bcae75cb7",
             "path": "05 Variety/HERO Title Theme/“HERO” Title Theme.tja"
         },
         {
@@ -14700,6 +14940,16 @@
             "type": "blob",
             "hash": "40631d7b1c9df45c8483760e5d86b35d225daf20",
             "path": "05 Variety/He’s a Pirate/Hes a Pirate.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "f41eeddcc96b34bfe2d213312419a564036510c5",
+            "path": "05 Variety/Honnouji no Hen/Honnouji no Hen.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "95c02b666b0f41157ddc00ee777ff9217c4e8d31",
+            "path": "05 Variety/Honnouji no Hen/Honnouji no Hen.tja"
         },
         {
             "type": "blob",
@@ -14843,6 +15093,16 @@
         },
         {
             "type": "blob",
+            "hash": "69dcbebca08ffa189d4486ede51d5785abb4c18c",
+            "path": "05 Variety/LONELY ROLLING STAR[picco Remix]/LONELY ROLLING STAR[picco Remix].ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8c0ff3b7dbe5b3c80b853bd31ee978ed547a22bc",
+            "path": "05 Variety/LONELY ROLLING STAR[picco Remix]/LONELY ROLLING STAR[picco Remix].tja"
+        },
+        {
+            "type": "blob",
             "hash": "0f6db5ce1f3fe7d9cb6ec3b94a20728973771843",
             "path": "05 Variety/LOVE and ENERGY/LOVE and ENERGY.ogg"
         },
@@ -14910,6 +15170,16 @@
             "type": "blob",
             "hash": "d5d726e4635fcb974d02f167026a60e252814d98",
             "path": "05 Variety/Matsuyoi Night Bug/Matsuyoi Night Bug.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e7bd95d051efef1c72158b557d1e704f645b0d31",
+            "path": "05 Variety/Moon and Prince [Tatsunoshin Remix]/Moon and Prince [Tatsunoshin Remix].ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "121562122decb1787c654a17bb964a13b4ce3166",
+            "path": "05 Variety/Moon and Prince [Tatsunoshin Remix]/Moon and Prince [Tatsunoshin Remix].tja"
         },
         {
             "type": "blob",
@@ -16058,7 +16328,7 @@
         },
         {
             "type": "blob",
-            "hash": "80c360ca94aa0ce3f907885f4d7054a36e94a12b",
+            "hash": "caaead58e5339adf1067a67ae83f82c3bd95fc6c",
             "path": "06 Classical/Turkish March (Mozart)/Turkish March.tja"
         },
         {
@@ -16233,7 +16503,7 @@
         },
         {
             "type": "blob",
-            "hash": "12c878dd5900263b7883bf74d1d6e0ab720f0b75",
+            "hash": "e0a138fc144fd160ea87788839640fa5c2f1441f",
             "path": "07 Game Music/Ai MUST GO!/Ai MUST GO!.tja"
         },
         {
@@ -16553,7 +16823,7 @@
         },
         {
             "type": "blob",
-            "hash": "036a892450bf1f8e7b4182f328e8965842a2a226",
+            "hash": "7ff7d63d9f9a6eebec25524669e8d6174acc4553",
             "path": "07 Game Music/Canon -Synchronica Remix-/Canon -Synchronica Remix-.tja"
         },
         {
@@ -16733,7 +17003,7 @@
         },
         {
             "type": "blob",
-            "hash": "7c4df36f7d32085f25fdebc14855785b6bc0f4f4",
+            "hash": "f26054acab89dbd87732275a901272695ca89c43",
             "path": "07 Game Music/Diver/Diver.tja"
         },
         {
@@ -17278,7 +17548,7 @@
         },
         {
             "type": "blob",
-            "hash": "ce81809193fd81cf7cde9787c8f2c35321d189ad",
+            "hash": "8be328ce7211d9a0a7ae03a944f137b8995b5c2d",
             "path": "07 Game Music/Holding Hands/Holding Hands.tja"
         },
         {
@@ -17608,7 +17878,7 @@
         },
         {
             "type": "blob",
-            "hash": "4dbce7a8cfcb0fa91012d8bc0709b418df859bdb",
+            "hash": "c84f1a07b7f96f054770e19add27c431d418a9de",
             "path": "07 Game Music/Kimi to Boku no Mirai/Kimi to Boku no Mirai.tja"
         },
         {
@@ -17780,6 +18050,16 @@
             "type": "blob",
             "hash": "cfea4ad0eabb2fa3553cf5fdfcf290833c7265f0",
             "path": "07 Game Music/LOVE Order Made/LOVE Order Made.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4f5acaee812bff300a014934c299c97804e3c6c1",
+            "path": "07 Game Music/LUNATiC CiRCUiT/LUNATiC CiRCUiT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ad807f0ab65d7e1c1b943d60e1fe1a1128a6bec1",
+            "path": "07 Game Music/LUNATiC CiRCUiT/LUNATiC CiRCUiT.tja"
         },
         {
             "type": "blob",
@@ -18178,6 +18458,16 @@
         },
         {
             "type": "blob",
+            "hash": "989b95570f0d28757422014b7483cab7887d6a0c",
+            "path": "07 Game Music/MoeChakkaFire/MoeChakkaFire.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "01557944aae6a1663f7d83f382757afa6192d01d",
+            "path": "07 Game Music/MoeChakkaFire/MoeChakkaFire.tja"
+        },
+        {
+            "type": "blob",
             "hash": "85e95c42933c75d91736a5f143bcae2eccee0bb9",
             "path": "07 Game Music/Mojipittan Medley/Mojipittan Medley.ogg"
         },
@@ -18213,7 +18503,7 @@
         },
         {
             "type": "blob",
-            "hash": "aff8d8f2087581a1fa6876899a97fbc3f8a90418",
+            "hash": "303e1ba339450fa1c05ce8670de9564a5bb18c81",
             "path": "07 Game Music/Monster Hunter 4 Ultimate Medley/Monster Hunter 4 Ultimate Medley.tja"
         },
         {
@@ -18265,6 +18555,16 @@
             "type": "blob",
             "hash": "ffaf109ac4cbc46f7685884339b639dccadc6941",
             "path": "07 Game Music/Music Revolver/Music Revolver.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "082d2b2010252373ef3204c30cb6f6cf8d104c40",
+            "path": "07 Game Music/My Last Stand/My Last Stand.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "808632991c65a0e2a11209cff0a71d145bf8428b",
+            "path": "07 Game Music/My Last Stand/My Last Stand.tja"
         },
         {
             "type": "blob",
@@ -18393,7 +18693,7 @@
         },
         {
             "type": "blob",
-            "hash": "d3cac974728f2e4328b62aef650f5ba40aa6f6d3",
+            "hash": "f972019a20b3d88475edc8fc753c7ead86fb87c2",
             "path": "07 Game Music/New World/New World.tja"
         },
         {
@@ -19143,7 +19443,7 @@
         },
         {
             "type": "blob",
-            "hash": "011a69af69fbb446a52b858f9c51e3a7d464ed14",
+            "hash": "f4e878ab02fb6af9ecfc1e002fbf3612dfabbccb",
             "path": "07 Game Music/Sora no Michishirube/Sora no Michishirube.tja"
         },
         {
@@ -19253,7 +19553,7 @@
         },
         {
             "type": "blob",
-            "hash": "659ff5ae2ba8a66228304bef60310befdfb6a505",
+            "hash": "7aa8139e1032de434b0f32b5f44209f887dfc835",
             "path": "07 Game Music/Sunset Runaway/Sunset Runaway.tja"
         },
         {
@@ -19353,8 +19653,18 @@
         },
         {
             "type": "blob",
-            "hash": "e1f472d6333d958a321ab6708bbb6feca474038f",
+            "hash": "5f3971a4ebddb365ea79769cf154b9bce14156ea",
             "path": "07 Game Music/Synchronicity/Synchronicity.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "f63c823385e280b67aee4692e0903f9fa918bd67",
+            "path": "07 Game Music/Synthesis/Synthesis.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "138d9080dae7bb608c978cd54f12320afd44696b",
+            "path": "07 Game Music/Synthesis/Synthesis.tja"
         },
         {
             "type": "blob",
@@ -19803,7 +20113,7 @@
         },
         {
             "type": "blob",
-            "hash": "e49058379b71882a5d6d68a16f14db020fffd60d",
+            "hash": "28ef9e03e0d431cb34cbda6c7576b72c2d9e44c4",
             "path": "07 Game Music/Unite the Force/Unite the Force.tja"
         },
         {
@@ -21473,7 +21783,7 @@
         },
         {
             "type": "blob",
-            "hash": "44cd47d3b2bfb77bb9996ecf3974908aadf3c9ad",
+            "hash": "4dbf4040e4fa2f718e1f94b13729b1a903782e77",
             "path": "09 Namco Original/All In My Heart/All In My Heart.tja"
         },
         {
@@ -21683,7 +21993,7 @@
         },
         {
             "type": "blob",
-            "hash": "83fdae681c29e81eea1b8fcf1e99437718c5a6f6",
+            "hash": "5cab51ef64c35dfe2115ae9bc44140e7d0c4b321",
             "path": "09 Namco Original/Audio de Ka!/Audio de Ka!.tja"
         },
         {
@@ -21898,7 +22208,7 @@
         },
         {
             "type": "blob",
-            "hash": "3418447eaa76e5168ce7fc754e5e95752cf2643b",
+            "hash": "9ec74b0ec5e16c78a6d0dce16c2fb8226419431c",
             "path": "09 Namco Original/Byoudouin Houou-Don vs Chojugi-Katsu/Byoudouin Houou-Don vs Chojugi-Katsu.tja"
         },
         {
@@ -22140,6 +22450,11 @@
             "type": "blob",
             "hash": "e388a3d2c53178ce1cf286fd089e6f81f712c718",
             "path": "09 Namco Original/Chouren ～Obsession～/Chouren Obsession.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "306475cc218506bfc19548d22dc35b9f1e03919a",
+            "path": "09 Namco Original/Chouren ～Obsession～/Chouren ～Obsession～.tja"
         },
         {
             "type": "blob",
@@ -22433,7 +22748,7 @@
         },
         {
             "type": "blob",
-            "hash": "ca882527afc8c7e31ee55360a24f64ab34a4fd90",
+            "hash": "8f66cde8858a6e6702d0385c0b874b76553c068b",
             "path": "09 Namco Original/Dennou-genya no Hoshigotoyo/Dennou-genya no Hoshigotoyo.tja"
         },
         {
@@ -22743,7 +23058,7 @@
         },
         {
             "type": "blob",
-            "hash": "8c70600415c403756f40e0417124f3f67a91707b",
+            "hash": "870fedfed3571c09de212f71d480473071b26249",
             "path": "09 Namco Original/Dragon of Time ～Kokuryu～/Dragon of Time Kokuryu.tja"
         },
         {
@@ -23183,7 +23498,7 @@
         },
         {
             "type": "blob",
-            "hash": "6747fa9e443f37fa52723cb4c4830d97990ce058",
+            "hash": "f06834f16b71ca26c039ace4fee7ddfd5ee71868",
             "path": "09 Namco Original/Go Go Kitchen -Short Version-/Go Go Kitchen -Short Version-.tja"
         },
         {
@@ -23193,7 +23508,7 @@
         },
         {
             "type": "blob",
-            "hash": "5262ce07f528e2e36915dd117884285b023072d7",
+            "hash": "8eaecf9b3424c60ed739a630ad9640a7745d90c8",
             "path": "09 Namco Original/Go Go Kitchen/Go Go Kitchen.tja"
         },
         {
@@ -23368,7 +23683,7 @@
         },
         {
             "type": "blob",
-            "hash": "828d534eef3a1cb6a0b7dcdc429d04684e00c081",
+            "hash": "438d3faf43fb121f00f792daf8177e63334339c2",
             "path": "09 Namco Original/Heaven’s Rider/Heavens Rider.tja"
         },
         {
@@ -23573,7 +23888,7 @@
         },
         {
             "type": "blob",
-            "hash": "0e3895c430fa928a14a63ba823012226e103bd1f",
+            "hash": "4193881a6c956a4a357eee5dffda7743ed425f98",
             "path": "09 Namco Original/Houkago☆Magician/Houkago Magician.tja"
         },
         {
@@ -23808,6 +24123,16 @@
         },
         {
             "type": "blob",
+            "hash": "eb5066baa59697eefd4a6e76ebc4fadfda21460c",
+            "path": "09 Namco Original/Jatetsu/Jatetsu.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "2a82410c0406d7d7ced0053a08c5a719975c6a12",
+            "path": "09 Namco Original/Jatetsu/Jatetsu.tja"
+        },
+        {
+            "type": "blob",
             "hash": "baea1058bb48c9929b660888c27080328f44cbbd",
             "path": "09 Namco Original/Jigoku no Daiou/Jigoku no Daiou.ogg"
         },
@@ -23903,7 +24228,7 @@
         },
         {
             "type": "blob",
-            "hash": "46aa98e229d69924c9bf5130becea3de990a4243",
+            "hash": "2fb9114ab78d5ba79d8b961f7f87975116e33d29",
             "path": "09 Namco Original/KUSANAGI/KUSANAGI.tja"
         },
         {
@@ -23953,7 +24278,7 @@
         },
         {
             "type": "blob",
-            "hash": "6aebfdc36db7afdccc86e7c7d363540bc7c0245c",
+            "hash": "3be511a5877676631c78bfadf6a1a450a426e66e",
             "path": "09 Namco Original/Kagutsuchi/Kagutsuchi.tja"
         },
         {
@@ -24243,7 +24568,7 @@
         },
         {
             "type": "blob",
-            "hash": "bdeadfbec2b78e2d71d0ae04345cff42df1d57ad",
+            "hash": "f9b60045d06fc53c5f5f6c699b569c5f9500ea9e",
             "path": "09 Namco Original/Koi Gensou -Love Fantasy-/Koi Gensou -Love Fantasy-.tja"
         },
         {
@@ -24963,6 +25288,11 @@
         },
         {
             "type": "blob",
+            "hash": "7be8a1f4591d51a42586dc2112c985f37474c60a",
+            "path": "09 Namco Original/Morimori☆Tokumo Rhythm♪/Morimori☆Tokumo Rhythm♪.tja"
+        },
+        {
+            "type": "blob",
             "hash": "27c28cc769daaac9783143e0f5e417d21d7b5d4b",
             "path": "09 Namco Original/Morpho/Morpho.ogg"
         },
@@ -25018,7 +25348,7 @@
         },
         {
             "type": "blob",
-            "hash": "628c0f4e2698bd0a63fb6199e6aed0e13b89f5a5",
+            "hash": "92a164e9d0cd8737f59aa637105bf7a6106ea76a",
             "path": "09 Namco Original/My Muscle Heart/My Muscle Heart.tja"
         },
         {
@@ -25378,6 +25708,16 @@
         },
         {
             "type": "blob",
+            "hash": "4fc5a36b9e385cf88e1ed6e03dd4f9e2e78112d9",
+            "path": "09 Namco Original/Opera Recollect Blue/Opera Recollect Blue.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4df1078ec8400a203f0e811419d3891aa30269b5",
+            "path": "09 Namco Original/Opera Recollect Blue/Opera Recollect Blue.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b93af942ce8accabdc85daf69cff5ae3188ff1d2",
             "path": "09 Namco Original/Operate Me/Operate Me.ogg"
         },
@@ -25535,6 +25875,16 @@
             "type": "blob",
             "hash": "c9a1191c85c0ad300acc417e17af9442c7a6b091",
             "path": "09 Namco Original/Picopico Ruin/Picopico Ruin.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "36a491cae8b7ed77a7adc954d46ef3773d7896a4",
+            "path": "09 Namco Original/Planet Quester XT/Planet Quester XT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ed6f04a88283dccc1a338d0ae8b91e0727843140",
+            "path": "09 Namco Original/Planet Quester XT/Planet Quester XT.tja"
         },
         {
             "type": "blob",
@@ -26193,7 +26543,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc887a91f02dd0b99645e7cea003b405aedfa501",
+            "hash": "e31a6c9d94dbd3af926ba861a347534d6a2bc343",
             "path": "09 Namco Original/Shiritsu Takama-ga-hara Gakuen Koukou Kouka/Shiritsu Takama-ga-hara Gakuen Koukou Kouka.tja"
         },
         {
@@ -26303,6 +26653,16 @@
         },
         {
             "type": "blob",
+            "hash": "58c224d483de5f995e06e1b5c99e2f3d38410f04",
+            "path": "09 Namco Original/Singularity Game/Singularity Game.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5f772afda5504b6929cd6f1178070040899b7c04",
+            "path": "09 Namco Original/Singularity Game/Singularity Game.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a0380da777531649b0532b6ea50914af1b84cc22",
             "path": "09 Namco Original/Solitude Star/Solitude Star.ogg"
         },
@@ -26350,6 +26710,16 @@
             "type": "blob",
             "hash": "f8a9c98ea0563798c3276364a40269259406b5cd",
             "path": "09 Namco Original/Sotsu Omeshiki/Sotsu Omeshiki.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0d4f8aca1d7e58aa7577a6da0f19a852e50dcf76",
+            "path": "09 Namco Original/Soulway/Soulway.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "25a6347e0e1dc9af6e8c24e566229d26db25b5f8",
+            "path": "09 Namco Original/Soulway/Soulway.tja"
         },
         {
             "type": "blob",
@@ -26693,7 +27063,7 @@
         },
         {
             "type": "blob",
-            "hash": "7086d42c5487b1eea31f17450166eedae3020dd7",
+            "hash": "b9d3229fe158f840bfa52e575ba9e2eafa79a496",
             "path": "09 Namco Original/Tenbinza Kyuukou Yoru o Iku/Tenbinza Kyuukou Yoru o Iku.tja"
         },
         {
@@ -27333,7 +27703,7 @@
         },
         {
             "type": "blob",
-            "hash": "5ef1bd70929cf0474f2fb0ce3bb32c390fd6cf48",
+            "hash": "285413b10843085ea58badad1ca12f5371fdf6fe",
             "path": "09 Namco Original/Yomi no Izanami/Yomi no Izanami.tja"
         },
         {
@@ -29380,16 +29750,6 @@
             "type": "blob",
             "hash": "d70c3532517c4aea55884a11bd675643d0840667",
             "path": "box.def"
-        },
-        {
-            "type": "blob",
-            "hash": "4298a0892d76fd07f8854eb77b243394a6405c2c",
-            "path": "score_fixer.py"
-        },
-        {
-            "type": "blob",
-            "hash": "666fb597a4c4cc82096814a444a84bd5294f11ed",
-            "path": "song_titles.txt"
         }
     ],
     "levels": [
@@ -29607,7 +29967,7 @@
                 "ja": "SEKAI NO OWARI"
             },
             "category": "Pop",
-            "offset": -2.378,
+            "offset": -4.664,
             "courses": {
                 "Edit": 9,
                 "Oni": 8,
@@ -30835,6 +31195,25 @@
             }
         },
         {
+            "path": "01 Pop/Chikai no Hanataba o With You/Chikai no Hanataba o With You.tja",
+            "title": {
+                "en": "Chikai no Hanataba o ~With You~",
+                "ja": "誓いの花束を～With You～"
+            },
+            "subtitle": {
+                "en": "Strawberry Prince",
+                "ja": "すとぷり"
+            },
+            "category": "Pop",
+            "offset": -1.159,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Chocolate Disco/Chocolate Disco.tja",
             "title": {
                 "en": "Chocolate Disco",
@@ -31782,6 +32161,22 @@
                 "Hard": 7,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Fairy Tale/Fairy Tale.tja",
+            "title": {
+                "en": "Fairy Tale",
+                "ja": "Fairy Tale"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.848,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -33294,6 +33689,25 @@
             }
         },
         {
+            "path": "01 Pop/INTERNET YAMERO/INTERNET YAMERO.tja",
+            "title": {
+                "en": "INTERNET YAMERO",
+                "ja": "INTERNET YAMERO"
+            },
+            "subtitle": {
+                "en": "Aiobahn x kotoko x nyalra / Theme for NEEDY GIRL OVERDOSE",
+                "ja": "Aiobahn x kotoko x nyalra / Theme for NEEDY GIRL OVERDOSE"
+            },
+            "category": "Pop",
+            "offset": -1.056,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Ichizu/Ichizu.tja",
             "title": {
                 "en": "Ichizu",
@@ -33329,6 +33743,26 @@
                 "Edit": 9,
                 "Oni": 7,
                 "Hard": 5
+            }
+        },
+        {
+            "path": "01 Pop/Igaku/Igaku.tja",
+            "title": {
+                "en": "Igaku",
+                "ja": "イガク"
+            },
+            "subtitle": {
+                "en": "Sasuke Haraguchi feat. Kasane Teto",
+                "ja": "原口沙輔 feat. 重音テト"
+            },
+            "category": "Pop",
+            "offset": -1.234,
+            "courses": {
+                "Edit": 10,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -33750,6 +34184,22 @@
                 "Hard": 6,
                 "Normal": 3,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Just Dance/Just Dance.tja",
+            "title": {
+                "en": "Just Dance",
+                "ja": "Just Dance"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.825,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -35566,6 +36016,22 @@
             }
         },
         {
+            "path": "01 Pop/Midnight to the Morning/Midnight to the Morning.tja",
+            "title": {
+                "en": "Midnight to the Morning",
+                "ja": "開往早晨的午夜"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.815,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Mikan no Uta/Mikan no Uta.tja",
             "title": {
                 "en": "Mikan no Uta",
@@ -36322,6 +36788,25 @@
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Nidone/Nidone.tja",
+            "title": {
+                "en": "Nidone",
+                "ja": "二度寝"
+            },
+            "subtitle": {
+                "en": "From Drama \"Futekisetsu ni mo hodoga aru!\"",
+                "ja": "ドラマ「不適切にもほどがある！」より"
+            },
+            "category": "Pop",
+            "offset": -0.845,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
             }
@@ -37328,6 +37813,22 @@
             }
         },
         {
+            "path": "01 Pop/RIDE ON TIME/RIDE ON TIME.tja",
+            "title": {
+                "en": "RIDE ON TIME",
+                "ja": "RIDE ON TIME"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.752,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/RIVER/RIVER.tja",
             "title": {
                 "en": "RIVER",
@@ -37655,6 +38156,25 @@
             }
         },
         {
+            "path": "01 Pop/Ruma/Ruma.tja",
+            "title": {
+                "en": "Ruma",
+                "ja": "ルマ"
+            },
+            "subtitle": {
+                "en": "Rinu/Strawberry Prince",
+                "ja": "莉犬 / すとぷり"
+            },
+            "category": "Pop",
+            "offset": -0.971,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "01 Pop/S/S.tja",
             "title": {
                 "en": "S",
@@ -37963,6 +38483,22 @@
             }
         },
         {
+            "path": "01 Pop/Say Something/Say Something.tja",
+            "title": {
+                "en": "Say Something",
+                "ja": "Say Something"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.667,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Sayonara Crawl/Sayonara Crawl.tja",
             "title": {
                 "en": "Sayonara Crawl",
@@ -38016,6 +38552,25 @@
                 "Hard": 3,
                 "Normal": 2,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "01 Pop/Seishun Chocolate/Seishun Chocolate.tja",
+            "title": {
+                "en": "Seishun Chocolate",
+                "ja": "青春チョコレート"
+            },
+            "subtitle": {
+                "en": "Strawberry Prince",
+                "ja": "すとぷり"
+            },
+            "category": "Pop",
+            "offset": -1.43,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -38270,6 +38825,25 @@
                 "Hard": 3,
                 "Normal": 3,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Show/Show (Cover).tja",
+            "title": {
+                "en": "Show -Cover Audio-",
+                "ja": "唱"
+            },
+            "subtitle": {
+                "en": "Universal Studios Japan Zombie de Dance New Theme Song",
+                "ja": "カバー音源 ユニバーサル･スタジオ･ジャパン「ゾンビ・デ・ダンス」新テーマソング"
+            },
+            "category": "Pop",
+            "offset": -1.935,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -38583,6 +39157,22 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Sparrow/Sparrow.tja",
+            "title": {
+                "en": "Sparrow",
+                "ja": "麻雀 Sparrow"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.538,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -38944,6 +39534,7 @@
             "category": "Pop",
             "offset": -0.611,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 4,
@@ -39867,11 +40458,27 @@
                 "ja": "au「三太郎シリーズ」CMソング"
             },
             "category": "Pop",
-            "offset": -6.446,
+            "offset": -3.288,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
                 "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Uninhabited Island/Uninhabited Island.tja",
+            "title": {
+                "en": "Uninhabited Island",
+                "ja": "無人の島"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.138,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
                 "Easy": 2
             }
         },
@@ -39982,6 +40589,22 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/WOW/WOW.tja",
+            "title": {
+                "en": "WOW",
+                "ja": "WOW"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.015,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -40472,6 +41095,22 @@
             },
             "category": "Pop",
             "offset": -2.528,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Yesterday/Yesterday.tja",
+            "title": {
+                "en": "Yesterday",
+                "ja": "Yesterday"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.945,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -43445,6 +44084,26 @@
             }
         },
         {
+            "path": "02 Anime/GO GO MANIAC/GO GO MANIAC.tja",
+            "title": {
+                "en": "GO! GO! MANIAC",
+                "ja": "GO! GO! MANIAC"
+            },
+            "subtitle": {
+                "en": "K-ON!",
+                "ja": "「けいおん！！」より"
+            },
+            "category": "Anime",
+            "offset": -1.451,
+            "courses": {
+                "Edit": 10,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/GO!!!/GO!!!.tja",
             "title": {
                 "en": "GO‽",
@@ -45036,6 +45695,25 @@
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Inazukkyun/Inazukkyun.tja",
+            "title": {
+                "en": "Inazukkyun",
+                "ja": "許婚っきゅん"
+            },
+            "subtitle": {
+                "en": "Ranma 1/2",
+                "ja": "「らんま1/2」より"
+            },
+            "category": "Anime",
+            "offset": -2.531,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
                 "Easy": 3
             }
         },
@@ -46894,6 +47572,26 @@
             }
         },
         {
+            "path": "02 Anime/Mixed Nuts/Mixed Nuts (Cover).tja",
+            "title": {
+                "en": "Mixed Nuts -Cover Audio-",
+                "ja": "ミックスナッツ"
+            },
+            "subtitle": {
+                "en": "SPY×FAMILY",
+                "ja": "カバー音源 TVアニメ『SPY×FAMILY』第1クールオープニング主題歌"
+            },
+            "category": "Anime",
+            "offset": -0.554,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Mixed Nuts/Mixed Nuts.tja",
             "title": {
                 "en": "Mixed Nuts",
@@ -47043,6 +47741,23 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Mugen/Mugen.tja",
+            "title": {
+                "en": "Mugen",
+                "ja": "夢幻"
+            },
+            "subtitle": {},
+            "category": "Anime",
+            "offset": -1.629,
+            "courses": {
+                "Edit": 8,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -47667,6 +48382,25 @@
                 "Hard": 5,
                 "Normal": 2,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Otonoke/Otonoke.tja",
+            "title": {
+                "en": "Otonoke",
+                "ja": "オトノケ"
+            },
+            "subtitle": {
+                "en": "DanDaDan",
+                "ja": "TVアニメ「ダンダダン」より"
+            },
+            "category": "Anime",
+            "offset": -1.293,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -50306,9 +51040,28 @@
             }
         },
         {
+            "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou (Cover).tja",
+            "title": {
+                "en": "Watashi wa Saikyou -Cover Audio-",
+                "ja": "私は最強"
+            },
+            "subtitle": {
+                "en": "Song of Uta ONE PIECE FILM RED",
+                "ja": "カバー音源 「ウタの歌 ONE PIECE FILM RED」より"
+            },
+            "category": "Anime",
+            "offset": -2.911,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Watashi wa Saikyou/Watashi wa Saikyou.tja",
             "title": {
-                "en": "Watashi wa Saikou",
+                "en": "Watashi wa Saikyou",
                 "ja": "私は最強"
             },
             "subtitle": {
@@ -50531,7 +51284,8 @@
                 "ja": "XY＆Z"
             },
             "subtitle": {
-                "en": "Rica Matsumoto/Pokémon the Series： XYZ"
+                "en": "Rica Matsumoto/Pokémon the Series： XYZ",
+                "ja": "「ポケットモンスター XY & Z」より"
             },
             "category": "Anime",
             "offset": -2.133,
@@ -51531,6 +52285,25 @@
             }
         },
         {
+            "path": "03 Vocaloid/Donut Hole (GUMI)/Donut Hole (GUMI).tja",
+            "title": {
+                "en": "Donut Hole",
+                "ja": "ドーナツホール"
+            },
+            "subtitle": {
+                "en": "Hachi feat. GUMI",
+                "ja": "ハチ"
+            },
+            "category": "Vocaloid",
+            "offset": -1.373,
+            "courses": {
+                "Oni": 8,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "03 Vocaloid/EDY -Electrical Dancing Yoga-/EDY -Electrical Dancing Yoga-.tja",
             "title": {
                 "en": "EDY -Electrical Dancing Yoga-",
@@ -51845,15 +52618,16 @@
             },
             "subtitle": {
                 "en": "EasyPop feat. Megurine Luka & GUMI",
-                "ja": "EasyPop"
+                "ja": "EasyPop feat. 巡音ルカ・GUMI"
             },
             "category": "Vocaloid",
-            "offset": -0.702,
+            "offset": -2.121,
             "courses": {
-                "0": 2,
-                "1": 3,
+                "Edit": 8,
                 "Oni": 7,
-                "Hard": 5
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -53389,7 +54163,10 @@
             "category": "Children and Folk",
             "offset": -2.502,
             "courses": {
-                "Oni": 5
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 1,
+                "Easy": 1
             }
         },
         {
@@ -54569,6 +55346,26 @@
             "courses": {
                 "Hard": 2,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "04 Children and Folk/Ohayou Mell-chan/Ohayou Mell-chan.tja",
+            "title": {
+                "en": "Good morning MELL-Chan",
+                "ja": "おはようメルちゃん"
+            },
+            "subtitle": {
+                "en": "Song of \"The Caring MELL-Chan\"",
+                "ja": "「おせわだいすきメルちゃん」のうた"
+            },
+            "category": "Children and Folk",
+            "offset": -1.316,
+            "courses": {
+                "Edit": 9,
+                "Oni": 4,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -55910,10 +56707,10 @@
             },
             "subtitle": {
                 "en": "Kan Sawada/Doctor X： Surgeon Daimon Michiko",
-                "ja": "ドラマ「ドクターX 〜外科医・大門未知子〜」より"
+                "ja": "ドラマ「ドクターX〜外科医・大門未知子〜」より"
             },
             "category": "Variety",
-            "offset": -9.25,
+            "offset": -9.259,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -56350,6 +57147,25 @@
             }
         },
         {
+            "path": "05 Variety/Honnouji no Hen/Honnouji no Hen.tja",
+            "title": {
+                "en": "Honnouji no Hen",
+                "ja": "本能寺の変"
+            },
+            "subtitle": {
+                "en": "EGU-SPLOSION",
+                "ja": "エグスプロージョン"
+            },
+            "category": "Variety",
+            "offset": -1.709,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "05 Variety/Honoo no Fighter/Honoo no Fighter (AC2).tja",
             "title": {
                 "en": "Honoo no Fighter -Old Audio/Chart-",
@@ -56610,6 +57426,25 @@
             }
         },
         {
+            "path": "05 Variety/LONELY ROLLING STAR[picco Remix]/LONELY ROLLING STAR[picco Remix].tja",
+            "title": {
+                "en": "LONELY ROLLING STAR[picco Remix]",
+                "ja": "LONELY ROLLING STAR[picco Remix]"
+            },
+            "subtitle": {
+                "en": "Inubousaki Shian (CV:Hasegawa Rena) / Den'onbu x Katamari Damacy",
+                "ja": "犬吠埼紫杏(CV:長谷川玲奈) / 電音部 × 塊魂"
+            },
+            "category": "Variety",
+            "offset": -0.937,
+            "courses": {
+                "Oni": 9,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "05 Variety/LOVE and ENERGY/LOVE and ENERGY.tja",
             "title": {
                 "en": "LOVE & ENERGY",
@@ -56741,6 +57576,25 @@
                 "Oni": 8,
                 "Hard": 5,
                 "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "05 Variety/Moon and Prince [Tatsunoshin Remix]/Moon and Prince [Tatsunoshin Remix].tja",
+            "title": {
+                "en": "Moon and Prince [Tatsunoshin Remix]",
+                "ja": "月と王子[Tatsunoshin Remix]"
+            },
+            "subtitle": {
+                "en": "Seto Mitsuki (CV: SisterClaire) / Den'onbu x Katamari Damacy",
+                "ja": "瀬戸海月(CV:シスター・クレア) / 電音部 × 塊魂"
+            },
+            "category": "Variety",
+            "offset": -1.737,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
                 "Easy": 4
             }
         },
@@ -58859,10 +59713,11 @@
             "path": "06 Classical/Turkish March (Mozart)/Turkish March.tja",
             "title": {
                 "en": "Turkish March",
-                "ja": "トルコ行進曲(モーツァルト)"
+                "ja": "トルコ行進曲"
             },
             "subtitle": {
-                "en": "Wolfgang Amadeus Mozart"
+                "en": "Wolfgang Amadeus Mozart",
+                "ja": "モーツァルト"
             },
             "category": "Classical",
             "offset": -1.669,
@@ -59792,7 +60647,8 @@
                 "ja": "カノン (シンクロニカ Remix)"
             },
             "subtitle": {
-                "en": "Takeshi Nakatsuka/Synchronica"
+                "en": "Takeshi Nakatsuka/Synchronica",
+                "ja": "「シンクロニカ」より"
             },
             "category": "Game Music",
             "offset": -2.221,
@@ -62112,6 +62968,25 @@
             }
         },
         {
+            "path": "07 Game Music/LUNATiC CiRCUiT/LUNATiC CiRCUiT.tja",
+            "title": {
+                "en": "LUNATiC CiRCUiT",
+                "ja": "LUNATiC CiRCUiT"
+            },
+            "subtitle": {
+                "en": "YOFUKASHi Sound Team from \"Cosmic Radio 2024\"",
+                "ja": "YOFUKASHi Sound Team from \"Cosmic Radio 2024\""
+            },
+            "category": "Game Music",
+            "offset": -1.882,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "07 Game Music/Last Surprise/Last Surprise.tja",
             "title": {
                 "en": "Last Surprise",
@@ -62858,6 +63733,25 @@
             }
         },
         {
+            "path": "07 Game Music/MoeChakkaFire/MoeChakkaFire.tja",
+            "title": {
+                "en": "MoeChakkaFire",
+                "ja": "モエチャッカファイア"
+            },
+            "subtitle": {
+                "en": "Ellen Joe Doujin Image Song / Zenless Zone Zero",
+                "ja": "ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング"
+            },
+            "category": "Game Music",
+            "offset": -1.294,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Mojipittan Medley/Mojipittan Medley.tja",
             "title": {
                 "en": "Mojipittan Medley",
@@ -63019,6 +63913,25 @@
                 "2": 3,
                 "Edit": 10,
                 "Oni": 4
+            }
+        },
+        {
+            "path": "07 Game Music/My Last Stand/My Last Stand.tja",
+            "title": {
+                "en": "My Last Stand",
+                "ja": "My Last Stand"
+            },
+            "subtitle": {
+                "en": "Tekken 8",
+                "ja": "「鉄拳８」より"
+            },
+            "category": "Game Music",
+            "offset": -1.063,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -63251,7 +64164,7 @@
                 "ja": "「シンクロニカ」より"
             },
             "category": "Game Music",
-            "offset": -1.58,
+            "offset": -1.574,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -65040,6 +65953,26 @@
                 "Hard": 6,
                 "Normal": 3,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Synthesis/Synthesis.tja",
+            "title": {
+                "en": "Synthesis.",
+                "ja": "Synthesis."
+            },
+            "subtitle": {
+                "en": "tn-shi from \"Cosmic Radio 2024\"",
+                "ja": "tn-shi from \"Cosmic Radio 2024\""
+            },
+            "category": "Game Music",
+            "offset": -1.643,
+            "courses": {
+                "Edit": 10,
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -67449,7 +68382,7 @@
                 "ja": "音響サスペンスドラマ「オーディオ刑事」より"
             },
             "category": "Namco Original",
-            "offset": -3.686,
+            "offset": -1.994,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -67835,12 +68768,13 @@
                 "ja": "平等院鳳凰ドン vs 鳥獣戯カッ"
             },
             "subtitle": {
-                "en": "Yuuya Kobayashi (IOSYS) feat. miko",
+                "en": "Taiko de Time Travel Heian / Yuuya Kobayashi (IOSYS) feat. miko",
                 "ja": "太鼓 de タイムトラベル平安 / コバヤシユウヤ(IOSYS) feat. miko"
             },
             "category": "Namco Original",
             "offset": -3.031,
             "courses": {
+                "Edit": 10,
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 5,
@@ -68288,6 +69222,26 @@
             },
             "subtitle": {
                 "en": "Chai Found Music Workshop"
+            },
+            "category": "Namco Original",
+            "offset": -2.403,
+            "courses": {
+                "Edit": 8,
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Chouren ～Obsession～/Chouren ～Obsession～.tja",
+            "title": {
+                "en": "Chouren ～Obsession～",
+                "ja": "蝶戀"
+            },
+            "subtitle": {
+                "en": "Chai Found Music Workshop",
+                "ja": "～Obsession～"
             },
             "category": "Namco Original",
             "offset": -2.403,
@@ -69395,11 +70349,12 @@
             },
             "subtitle": {
                 "en": "Azu♪",
-                "ja": "Azu♪"
+                "ja": "あず♪"
             },
             "category": "Namco Original",
             "offset": -2.179,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 7,
                 "Normal": 7,
@@ -70213,31 +71168,28 @@
         {
             "path": "09 Namco Original/Go Go Kitchen -Short Version-/Go Go Kitchen -Short Version-.tja",
             "title": {
-                "en": "Go Go Kitchen -Short Version-",
-                "ja": "ゴーゴー・キッチン -Short Version-"
+                "en": "Go Go Kitchen -AC1 Audio/Chart-",
+                "ja": "ゴー・ゴー・キッチン"
             },
             "subtitle": {
                 "en": "Yuri Misumi",
-                "ja": "太鼓の達人オリジナル曲"
+                "ja": "AC1音源・譜面 太鼓の達人オリジナル曲"
             },
             "category": "Namco Original",
             "offset": -1.524,
             "courses": {
-                "Oni": 7,
-                "Hard": 7,
-                "Normal": 5,
-                "Easy": 5
+                "Hard": 5
             }
         },
         {
             "path": "09 Namco Original/Go Go Kitchen/Go Go Kitchen.tja",
             "title": {
-                "en": "Go Go Kitchen",
+                "en": "Go Go Kitchen -New Audio/Chart-",
                 "ja": "ゴーゴー・キッチン"
             },
             "subtitle": {
                 "en": "Yuri Misumi",
-                "ja": "太鼓の達人オリジナル曲"
+                "ja": "新音源・譜面"
             },
             "category": "Namco Original",
             "offset": -1.52,
@@ -71387,6 +72339,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Jatetsu/Jatetsu.tja",
+            "title": {
+                "en": "Jatetsu",
+                "ja": "蛇鉄"
+            },
+            "subtitle": {
+                "en": "Daisuke Kurosawa",
+                "ja": "黒沢ダイスケ"
+            },
+            "category": "Namco Original",
+            "offset": -0.926,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
             }
         },
         {
@@ -73536,6 +74507,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Morimori☆Tokumo Rhythm♪/Morimori☆Tokumo Rhythm♪.tja",
+            "title": {
+                "en": "Morimori☆Tokumo Rhythm♪",
+                "ja": "もりもり☆特盛リズム♪"
+            },
+            "subtitle": {
+                "en": "Torine feat. Miki Narahashi",
+                "ja": "「太鼓の達人 特盛り！」テーマソング"
+            },
+            "category": "Namco Original",
+            "offset": -2.269,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/Morpho/Morpho.tja",
             "title": {
                 "en": "Morpho",
@@ -74315,6 +75305,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Opera Recollect Blue/Opera Recollect Blue.tja",
+            "title": {
+                "en": "Opera 「Recollect Blue」",
+                "ja": "歌劇「リコレクトブルー」"
+            },
+            "subtitle": {
+                "en": "Lead: Amitie, Production/Script: Lichtou Theatrical Troupe",
+                "ja": "主演：アミティ 演出/脚本：劇団リヒトウ"
+            },
+            "category": "Namco Original",
+            "offset": -0.655,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Operate Me/Operate Me.tja",
             "title": {
                 "en": "Operate Me",
@@ -74615,6 +75624,26 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Planet Quester XT/Planet Quester XT.tja",
+            "title": {
+                "en": "Planet Quester XT",
+                "ja": "Planet Quester XT"
+            },
+            "subtitle": {
+                "en": "Rio Hamamoto (BNSI)",
+                "ja": "濱本理央(BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -2.627,
+            "courses": {
+                "Edit": 10,
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -76040,6 +77069,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Singularity Game/Singularity Game.tja",
+            "title": {
+                "en": "Singularity Game",
+                "ja": "Singularity Game"
+            },
+            "subtitle": {
+                "en": "oxygenvil",
+                "ja": "oxygenvil"
+            },
+            "category": "Namco Original",
+            "offset": -0.365,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/Solitude Star/Solitude Star.tja",
             "title": {
                 "en": "Solitude Star",
@@ -76131,6 +77179,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Soulway/Soulway.tja",
+            "title": {
+                "en": "Soulway",
+                "ja": "Soulway"
+            },
+            "subtitle": {
+                "en": "CHUBAY",
+                "ja": "CHUBAY"
+            },
+            "category": "Namco Original",
+            "offset": -0.727,
+            "courses": {
+                "Oni": 10,
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 3
             }
         },
         {
