@@ -1,5 +1,5 @@
 {
-    "commit": "4fa019eafa06c9cbf383ba762ca7525daab54f23",
+    "commit": "400745110f672d59c178d9a8d05754f37f9b62c7",
     "blobs": [
         {
             "type": "blob",
@@ -13,7 +13,7 @@
         },
         {
             "type": "blob",
-            "hash": "499d7c355dfbc1a15f34de403d37d7031d462e09",
+            "hash": "876b62c60006b870c11c88fff27869cca0b766a6",
             "path": "01 Pop/1・2・3 ～Koi ga Hajimaru～/1 2 3 Koi ga Hajimaru.tja"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "type": "blob",
-            "hash": "fd85421a075d769f21eb34865c9b46d7ce19edc7",
+            "hash": "e2fa047056ef152db4c59a152f1e0434e06bf61a",
             "path": "01 Pop/920/920.tja"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "type": "blob",
-            "hash": "368d4d7a61274d1b970669fa54402fdc8b9434b8",
+            "hash": "a5fb1189e729ad8d5e7d6e754bb9e17e021bc2c4",
             "path": "01 Pop/A Perfect Sky/A Perfect Sky.tja"
         },
         {
@@ -123,7 +123,7 @@
         },
         {
             "type": "blob",
-            "hash": "05095f12a3d7021eb71af28bd76330371e87ec3c",
+            "hash": "1cc02c59d065e0fc18784015a8812dfd313646b1",
             "path": "01 Pop/ANTI-HERO/ANTI-HERO.tja"
         },
         {
@@ -133,7 +133,7 @@
         },
         {
             "type": "blob",
-            "hash": "9e8a5140fe904bbf6ffb60a6b6d92683bca7c813",
+            "hash": "a215ab904615480f47c7ef3c6e10de0489f323ac",
             "path": "01 Pop/AV-A-MI/AV-A-MI.tja"
         },
         {
@@ -143,7 +143,7 @@
         },
         {
             "type": "blob",
-            "hash": "1a4522bf6b4e14dba596f59c9bc899bbe6ee1d83",
+            "hash": "ed1faa91486bbe1656b06bf368b5d9e986cb9870",
             "path": "01 Pop/AWAY/AWAY.tja"
         },
         {
@@ -153,7 +153,7 @@
         },
         {
             "type": "blob",
-            "hash": "fd114683c448407413530b256a00ebd364d0872a",
+            "hash": "0355ab4c367af8d3cb83f174b02a1f1dcef63a8b",
             "path": "01 Pop/Agent J/Agent J.tja"
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "type": "blob",
-            "hash": "247132889c142aef39fa03d22cf1da1fb7874492",
+            "hash": "f875deec1657c16263999157cb74406f71f86fab",
             "path": "01 Pop/Age♂Age♂EVERY☆Knight/Age Age EVERY Knight.tja"
         },
         {
@@ -183,7 +183,7 @@
         },
         {
             "type": "blob",
-            "hash": "1f409057d2435b98c227b24feab431266a36b634",
+            "hash": "5129aece2289625dd3e28979473a1591e1b44509",
             "path": "01 Pop/Ai De Cheng Bao/Ai De Cheng Bao.tja"
         },
         {
@@ -193,7 +193,7 @@
         },
         {
             "type": "blob",
-            "hash": "54be725b7164abcbcf123029ba867b1d7c24ca0b",
+            "hash": "d185c8017ee0aa821ef13580b9d030d5c781936a",
             "path": "01 Pop/Ai Ni De Zhiyou Yige Wo/Ai Ni De Zhiyou Yige Wo.tja"
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "type": "blob",
-            "hash": "f4e8d10d7c73f497bcc22b30fe9d7d985d305725",
+            "hash": "a268c18390cbd15f253e1d2c514dcd73e943e792",
             "path": "01 Pop/Ai Qing 36 Ji/Ai Qing 36 Ji.tja"
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "type": "blob",
-            "hash": "bc90c306aff0ef5a4c1765f44dd8fd7d4cfaa8ba",
+            "hash": "088bd2604d26d00fd0aef2e3ff873cc864e63442",
             "path": "01 Pop/Ai no Uta/Ai no Uta.tja"
         },
         {
@@ -253,7 +253,7 @@
         },
         {
             "type": "blob",
-            "hash": "a12aa0a73b1447b390e7f3e4e77fa7e17bfdcdae",
+            "hash": "a523aeea8dd68d91007c10d0ffab10f0b418b039",
             "path": "01 Pop/Ai o Komete Hanataba o/Ai o Komete Hanataba o.tja"
         },
         {
@@ -263,7 +263,7 @@
         },
         {
             "type": "blob",
-            "hash": "545ba7febe0fac3151cd8d6e81d7b4f635b44da9",
+            "hash": "ceb984c86c65dc7824fd71c4057184acc671ce20",
             "path": "01 Pop/Ai wa Katsu/Ai wa Katsu.tja"
         },
         {
@@ -293,7 +293,7 @@
         },
         {
             "type": "blob",
-            "hash": "a8ad7a737f2025b55b50c612e54934dbb03f5528",
+            "hash": "862b2187ab411a4b47d0ce5726960885a39fbd31",
             "path": "01 Pop/Akaneiro no Yakusoku/Akaneiro no Yakusoku.tja"
         },
         {
@@ -303,7 +303,7 @@
         },
         {
             "type": "blob",
-            "hash": "ad82174b5c9de8278b1c8035edfc06b14bf767dc",
+            "hash": "681bfa8e76e05ba397721ab72fc4052d1c53f002",
             "path": "01 Pop/Amairo no Kami no Otome/Amairo no Kami no Otome.tja"
         },
         {
@@ -323,7 +323,7 @@
         },
         {
             "type": "blob",
-            "hash": "ac980e93f80e9875baddd9c5cd0055b470d5e672",
+            "hash": "54109506a4a4e96b2e7de3d249bbe03df1e93473",
             "path": "01 Pop/American Girls/American Girls.tja"
         },
         {
@@ -363,7 +363,7 @@
         },
         {
             "type": "blob",
-            "hash": "1b241ef4ae807bc0539dc587c1cd6afffc0fe74a",
+            "hash": "f6bafb7c61f77930bc937659f8b1fe042bfd2b97",
             "path": "01 Pop/Anata to/Anata to.tja"
         },
         {
@@ -373,7 +373,7 @@
         },
         {
             "type": "blob",
-            "hash": "14bb7709611177d60191a1667a85b80da99ab46e",
+            "hash": "60d8eb8730aaad80a5367b3dd41800343c40020f",
             "path": "01 Pop/And You/And You.tja"
         },
         {
@@ -393,7 +393,7 @@
         },
         {
             "type": "blob",
-            "hash": "9273f733f3ee63fd1392aedbeab4a6a409368321",
+            "hash": "7249391658811d9eff7b3ade9a13726a97fd1641",
             "path": "01 Pop/Aoi Bench/Aoi Bench.tja"
         },
         {
@@ -403,7 +403,7 @@
         },
         {
             "type": "blob",
-            "hash": "e2b76547d454eecca8d68d5ce49887ad8eeb662b",
+            "hash": "6350204ebd0614d2e6066fa34dbb4279d983d0b0",
             "path": "01 Pop/Aoi Sangosho/Aoi Sangosho.tja"
         },
         {
@@ -413,7 +413,7 @@
         },
         {
             "type": "blob",
-            "hash": "e853ebe88ea6183b14cf4ab4f2385ee915fe4329",
+            "hash": "ad282cea5987e6d2ad95c0dd96434f65e913f4b7",
             "path": "01 Pop/Apollo/Apollo.tja"
         },
         {
@@ -423,7 +423,7 @@
         },
         {
             "type": "blob",
-            "hash": "a4f05224fa5cc0f020361d900f32c9dd729ce56b",
+            "hash": "4cc9f3abfe1c3bd243c91b89e4d6c5a2bc2d35e4",
             "path": "01 Pop/Are You Gonna Be My Girl/Are You Gonna Be My Girl.tja"
         },
         {
@@ -433,7 +433,7 @@
         },
         {
             "type": "blob",
-            "hash": "37cf6b9a8eec39f68ae99edc94615d730f7f8adb",
+            "hash": "efe5fa9fad6b08d16e0cf6882d5c6456fd8cf3cf",
             "path": "01 Pop/Arigatou/Arigatou.tja"
         },
         {
@@ -443,7 +443,7 @@
         },
         {
             "type": "blob",
-            "hash": "66a7322cf8abd4dc54215f8c1405e3cd8be32ae4",
+            "hash": "4beac639ae118c43f0bfbbdff8e269b0693580ec",
             "path": "01 Pop/Armor Break/Armor Break.tja"
         },
         {
@@ -453,7 +453,7 @@
         },
         {
             "type": "blob",
-            "hash": "5b75604ec324af132279f46ba05a52bbcf0e4d29",
+            "hash": "a31b9c3c9769587d9a52179686bbcfac988867b9",
             "path": "01 Pop/Aruite Ikou/Aruite Ikou.tja"
         },
         {
@@ -463,7 +463,7 @@
         },
         {
             "type": "blob",
-            "hash": "5567f71ea7074bdaa992255f6ef0fe612f4e0a77",
+            "hash": "4488d2191e085cfa935a17e53081fe2103c195ef",
             "path": "01 Pop/Ashita ga Aru sa/Ashita ga Aru sa.tja"
         },
         {
@@ -493,7 +493,7 @@
         },
         {
             "type": "blob",
-            "hash": "9bd87bc355bf30e2dbf79b55261262de8bc47b59",
+            "hash": "b18ba13e6ca8a8df9fcb9034d55cff8fc7a0b581",
             "path": "01 Pop/Asia no Junshin/Asia no Junshin.tja"
         },
         {
@@ -503,7 +503,7 @@
         },
         {
             "type": "blob",
-            "hash": "a528d9d33965e1a6d534de9936167af39a142735",
+            "hash": "362b3351d0d8dddcb0c31aedbbaa4f70da647d3a",
             "path": "01 Pop/Asu e no Tobira/Asu e no Tobira.tja"
         },
         {
@@ -513,7 +513,7 @@
         },
         {
             "type": "blob",
-            "hash": "5bc5c4ab3bc4acd3cf822486a088d6d0ac0f8ea7",
+            "hash": "890434c1d3d08b177818e1898a036ed8d50f1a97",
             "path": "01 Pop/Atarashii Hikari/Atarashii Hikari.tja"
         },
         {
@@ -523,7 +523,7 @@
         },
         {
             "type": "blob",
-            "hash": "b5dee6b72c82f4525c6c8ea8223acb4b241e91d0",
+            "hash": "38b5fc8331a06b096448b1e66eec210c1c70e172",
             "path": "01 Pop/Atsuki Kodou no Hate/Atsuki Kodou no Hate.tja"
         },
         {
@@ -543,7 +543,7 @@
         },
         {
             "type": "blob",
-            "hash": "6845d9281f534299d925853727df780c9562118e",
+            "hash": "a08e503be94da09ec69075f0c4411fd01ff8d1ca",
             "path": "01 Pop/Ayumi/Ayumi.tja"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
             "type": "blob",
-            "hash": "a35e01898b1c56c0d5cf9b744ed0f166ef954494",
+            "hash": "b2531b0f3d697afac1014671bdb1e65895e40564",
             "path": "01 Pop/BE ALL RIGHT!/BE ALL RIGHT!.tja"
         },
         {
@@ -583,7 +583,7 @@
         },
         {
             "type": "blob",
-            "hash": "e1972809a8a9916e94f9931579b70231c2d026c6",
+            "hash": "0e84ac8c4486910b07f41194e7896bcdab97a21a",
             "path": "01 Pop/Be Your Wings/Be your wings.tja"
         },
         {
@@ -603,7 +603,7 @@
         },
         {
             "type": "blob",
-            "hash": "0845799abe291f812c87f1a040c55c403949532a",
+            "hash": "442b4a478a196ecc5487fa0436e5286862f129c3",
             "path": "01 Pop/Boku no Kimochi/Boku no Kimochi.tja"
         },
         {
@@ -623,7 +623,7 @@
         },
         {
             "type": "blob",
-            "hash": "9058ea879bb74e2029ea9ad2c7f09e797656aa84",
+            "hash": "e8876bac34f8e398b6e1264d74f0240fb7ee0a03",
             "path": "01 Pop/Boukenshatachi/Boukenshatachi.tja"
         },
         {
@@ -633,7 +633,7 @@
         },
         {
             "type": "blob",
-            "hash": "eae44246fe33d072f8d7d8d650445db60683526e",
+            "hash": "092b86c4589943301154288f5334fa7dacbbd7b0",
             "path": "01 Pop/Bu Ai Zuida/Bu Ai Zuida.tja"
         },
         {
@@ -653,7 +653,7 @@
         },
         {
             "type": "blob",
-            "hash": "3b6ab39b34681ae3de6bd33fc9e97ce14bb1ab16",
+            "hash": "96a8dad553b684d8f03072b270e5c8a4ec489e82",
             "path": "01 Pop/Bukan Cinta Biasa/Bukan Cinta Biasa.tja"
         },
         {
@@ -673,7 +673,7 @@
         },
         {
             "type": "blob",
-            "hash": "f3479596ad2228f1f48826b0cc625cf0e6514b50",
+            "hash": "77bfd4e9a1b05b2b6239f10156428f12a61fac5e",
             "path": "01 Pop/Buo Jian Dai/Buo Jian Dai.tja"
         },
         {
@@ -683,7 +683,7 @@
         },
         {
             "type": "blob",
-            "hash": "346c713e7990b6a403b784eb23e2dd6e6a22a1a4",
+            "hash": "d1cc92a1a62ddd1444a530adc492f3707419162b",
             "path": "01 Pop/Butterfly (Kaela Kimura)/Butterfly.tja"
         },
         {
@@ -693,7 +693,7 @@
         },
         {
             "type": "blob",
-            "hash": "65ecf012cc251c6c1e69b6f8b955a4a12655b85f",
+            "hash": "6d72b07c1a1e29dadd970b62df644585cb94b1cb",
             "path": "01 Pop/Butterfly (Kumi Koda)/Butterfly.tja"
         },
         {
@@ -703,7 +703,7 @@
         },
         {
             "type": "blob",
-            "hash": "5b277a563ce726fc41767d24034673bd199a4983",
+            "hash": "0e60bf2daed81f88aec6fa8011bf52164be92870",
             "path": "01 Pop/Bye My Melody/Bye My Melody.tja"
         },
         {
@@ -713,7 +713,7 @@
         },
         {
             "type": "blob",
-            "hash": "6fcb4ee448e7e1bb47ff17c2aae44a353433d896",
+            "hash": "e7b35bed41e13d33c13835c6dca3d79ed7a38409",
             "path": "01 Pop/Byoushin wo Kamu/Byoushin wo Kamu.tja"
         },
         {
@@ -723,7 +723,7 @@
         },
         {
             "type": "blob",
-            "hash": "b05662bcb4e8880026ae3c5e4c51c5c2b56ddd01",
+            "hash": "bcecf70dbd6de0231f66799642a89a0adb6bfcaf",
             "path": "01 Pop/C Da Diao/C Da Diao.tja"
         },
         {
@@ -733,7 +733,7 @@
         },
         {
             "type": "blob",
-            "hash": "c22a0b03c9f18e9e84a3be3086acc8dae1062f51",
+            "hash": "909d26c55a0105dccfc944ffe000335ac66254de",
             "path": "01 Pop/CANDY CANDY/CANDY CANDY.tja"
         },
         {
@@ -753,7 +753,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc196aece602f5c7ad7aceb08acbad008d2c17e3",
+            "hash": "63b0b10db9d842fb0f3de77ce2533aee6a5e1988",
             "path": "01 Pop/Can You Keep A Secret/Can You Keep A Secret.tja"
         },
         {
@@ -773,7 +773,7 @@
         },
         {
             "type": "blob",
-            "hash": "33a50c6160128cf586b389277ffb069c2d032939",
+            "hash": "5a3b6a2a7858defafa699a422944a0bc0a47791d",
             "path": "01 Pop/Cao Cao/Cao Cao.tja"
         },
         {
@@ -783,7 +783,7 @@
         },
         {
             "type": "blob",
-            "hash": "8ee85f292b0af28ea67883b29be4b296935c6d56",
+            "hash": "a7a24959478c8c5303002f9d3fcf009d885aa60c",
             "path": "01 Pop/Caramelldansen (°∀°)/Caramelldansen.tja"
         },
         {
@@ -803,7 +803,7 @@
         },
         {
             "type": "blob",
-            "hash": "f25b856341b1c0d8c9ceb0287f697573b04076c2",
+            "hash": "711b54d58435450da2b077fd4d170817d3e29f87",
             "path": "01 Pop/Champion/Champion.tja"
         },
         {
@@ -813,7 +813,7 @@
         },
         {
             "type": "blob",
-            "hash": "44acd65cbb3d9ee83f8cd7be7f1fa56662662bda",
+            "hash": "e8add1949b5dbd286aa85b0eb74db77e9a73359d",
             "path": "01 Pop/Chengyao/Chengyao.tja"
         },
         {
@@ -823,7 +823,7 @@
         },
         {
             "type": "blob",
-            "hash": "d60cb6ecf68f9b1acd4bd5ad4ab7bd893e8be27a",
+            "hash": "6e2ff24d560fce496171414dade901151984a9b4",
             "path": "01 Pop/Chiisana Koi no Uta/Chiisana Koi no Uta.tja"
         },
         {
@@ -833,7 +833,7 @@
         },
         {
             "type": "blob",
-            "hash": "2820cc9143ae4f3efcf419469e704e944f0931e0",
+            "hash": "f01f6d5bb4ed779be6d2095d9637d7f45d91f70c",
             "path": "01 Pop/Chiisana Tenohira/Chiisana Tenohira.tja"
         },
         {
@@ -843,7 +843,7 @@
         },
         {
             "type": "blob",
-            "hash": "16ce48cda38c92713e4271ea9a117ee18ab8088f",
+            "hash": "2d85e58bdbcec2a507b12b1a7118fe3bedb1e3e6",
             "path": "01 Pop/Chijou no Hoshi/Chijou no Hoshi.tja"
         },
         {
@@ -873,7 +873,7 @@
         },
         {
             "type": "blob",
-            "hash": "2c22f965ec96e2c63a121918525bd185bde12838",
+            "hash": "03e4908158febe1fce365d080a7e360184112553",
             "path": "01 Pop/Chokotto LOVE/Chokotto LOVE.tja"
         },
         {
@@ -883,7 +883,7 @@
         },
         {
             "type": "blob",
-            "hash": "584168b922dcd62bdcd59a1d901be59edae14bce",
+            "hash": "684cba9d54712df93478ec10eedce464e7647773",
             "path": "01 Pop/Choo Choo TRAIN -Short Version-/Choo Choo TRAIN -Short Version-.tja"
         },
         {
@@ -893,7 +893,7 @@
         },
         {
             "type": "blob",
-            "hash": "5ad883a15b3beba1c5c55ae914f5e300eb6f1240",
+            "hash": "20614b18718ceb4b55f2c5122ef0410959a9e9be",
             "path": "01 Pop/Choo Choo TRAIN/Choo Choo TRAIN.tja"
         },
         {
@@ -923,7 +923,7 @@
         },
         {
             "type": "blob",
-            "hash": "ec805a521d034bba5f4e143589badabec1737d24",
+            "hash": "d7a7f059d49f2360acda3e55b83974da247b3f3e",
             "path": "01 Pop/Chu Shen Ru Hua/Chu Shen Ru Hua.tja"
         },
         {
@@ -943,7 +943,7 @@
         },
         {
             "type": "blob",
-            "hash": "ee5182a78a8120f644987df47c0d74e4e268f7ef",
+            "hash": "460f62a05182d5d9135041d2031e5619e996a764",
             "path": "01 Pop/Chu! Natsu Party/Chu! Natsu Party.tja"
         },
         {
@@ -953,7 +953,7 @@
         },
         {
             "type": "blob",
-            "hash": "b2dcf86339b3dc484b3cc174da445d613f9023f5",
+            "hash": "f5d14d51f5e8b7f2f09a57f11fa5998e07e96736",
             "path": "01 Pop/Connected World/Connected World.tja"
         },
         {
@@ -963,7 +963,7 @@
         },
         {
             "type": "blob",
-            "hash": "71152cdb319e120594ea58928d592136f0dde789",
+            "hash": "cdff0afad29921f344621f99223fbc76aa91d646",
             "path": "01 Pop/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja"
         },
         {
@@ -993,7 +993,7 @@
         },
         {
             "type": "blob",
-            "hash": "9bf280a9280d98e3ee197910632332f03604044a",
+            "hash": "64a105c499dccc48238410885f10e28dfdd49c0a",
             "path": "01 Pop/DANCE2/DANCE2.tja"
         },
         {
@@ -1003,7 +1003,7 @@
         },
         {
             "type": "blob",
-            "hash": "5e3f028aafcc9144123e731ec9628f6f77f856d5",
+            "hash": "18e660f0c31ccb04851815fe6fd165fbda030503",
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.tja"
         },
         {
@@ -1023,7 +1023,7 @@
         },
         {
             "type": "blob",
-            "hash": "636b12542a9c136681fae984cbc6ca9e278a5c55",
+            "hash": "79edbe7fb6961cd686c5d20684b2ef279a8bc6ce",
             "path": "01 Pop/DREAMERS’ PARADISE/DREAMERS PARADISE.tja"
         },
         {
@@ -1033,7 +1033,7 @@
         },
         {
             "type": "blob",
-            "hash": "50ce3848bd52fdf7ab5d655ace97b6ceb30f26c5",
+            "hash": "97e421a9d4ef4196f44e5f8db189bf099eb6eace",
             "path": "01 Pop/Dai Meiwaku/Dai Meiwaku.tja"
         },
         {
@@ -1043,7 +1043,7 @@
         },
         {
             "type": "blob",
-            "hash": "cb95b6f1a4661f64f37ec431086a913a0ac09a5c",
+            "hash": "95b23caaa7d144dec3e04eb9299402c7686391da",
             "path": "01 Pop/Dairokkan/Dairokkan.tja"
         },
         {
@@ -1053,7 +1053,7 @@
         },
         {
             "type": "blob",
-            "hash": "d7f9e9069ba68ce396706f783e7e27702da86b45",
+            "hash": "b75c63d17588bbd459091d6f4ea4db869402b12a",
             "path": "01 Pop/Daisuki ni Nareba Iin Janai/Daisuki ni Nareba Iin Janai.tja"
         },
         {
@@ -1063,7 +1063,7 @@
         },
         {
             "type": "blob",
-            "hash": "4e7d3f1abe6571a4f09362f623328a163529cecb",
+            "hash": "d2549c1a27661ad402e984ce9eb5a22f6c75edab",
             "path": "01 Pop/Daite Senorita/Daite Senorita.tja"
         },
         {
@@ -1113,7 +1113,7 @@
         },
         {
             "type": "blob",
-            "hash": "4696db3f5c0281c65b6cb02c981ddb334866b710",
+            "hash": "e399efddeab8fb136b015f58255b31d017366378",
             "path": "01 Pop/Dancing! Natsu Matsuri/Dancing! Natsu Matsuri.tja"
         },
         {
@@ -1123,7 +1123,7 @@
         },
         {
             "type": "blob",
-            "hash": "4ba1fe542b8d5c758d86d4dae9bed1b89705378f",
+            "hash": "addd44c34e2063122360a0fad88e03b83da7d279",
             "path": "01 Pop/Dao Ma Dan/Dao Ma Dan.tja"
         },
         {
@@ -1133,7 +1133,7 @@
         },
         {
             "type": "blob",
-            "hash": "ddbbaf39fbd0b713dd6b057d1d1c1d98a6e2b18b",
+            "hash": "df6d22f8d74834fe92ef0ce677e65bf8af966a21",
             "path": "01 Pop/Darling/Darling.tja"
         },
         {
@@ -1153,7 +1153,7 @@
         },
         {
             "type": "blob",
-            "hash": "199247d753fb592e2782cd92359d878854729ef7",
+            "hash": "984a885faf9637d700e2b5e1e41015f65fe51584",
             "path": "01 Pop/Densetsu no Otoko ～Viva Guts～/Densetsu no Otoko Viva Guts.tja"
         },
         {
@@ -1163,7 +1163,7 @@
         },
         {
             "type": "blob",
-            "hash": "da8500d8bdfd5c99179a71f305d8a6790cb7957c",
+            "hash": "4a0a1091afc1d650b32ca0bc3cabce156aecda9a",
             "path": "01 Pop/Desire/Desire.tja"
         },
         {
@@ -1173,7 +1173,7 @@
         },
         {
             "type": "blob",
-            "hash": "8e98a2263955e3cdcaa1440e00e58e8da618135e",
+            "hash": "8f6bb896a4a2824e1e2224df931c50e32684a4ca",
             "path": "01 Pop/Digital Mogura/Digital Mogura.tja"
         },
         {
@@ -1193,7 +1193,7 @@
         },
         {
             "type": "blob",
-            "hash": "8c8ca89543f4e0cdbc8a8d76c83e459b08cab02c",
+            "hash": "d098e5ea7e47185e07bb07aa31456285573ab311",
             "path": "01 Pop/Do it! Now/Do it! Now.tja"
         },
         {
@@ -1213,7 +1213,7 @@
         },
         {
             "type": "blob",
-            "hash": "51e0d8e8f9dbee0201c351b55dbaad5fd1fa3fad",
+            "hash": "b7bd471f14cd8114d958cea0d6f776d638095ea2",
             "path": "01 Pop/Don’ts Don’ts/Donts Donts.tja"
         },
         {
@@ -1233,7 +1233,7 @@
         },
         {
             "type": "blob",
-            "hash": "6d143a5767983c78b6e05673726788e6dd19dd6a",
+            "hash": "d515ad54e3aa80c4fa9270cd1e48cd7f7bb60e4e",
             "path": "01 Pop/Dragon Night/Dragon Night.tja"
         },
         {
@@ -1243,7 +1243,7 @@
         },
         {
             "type": "blob",
-            "hash": "6be783d119effb53191faae2c708d2f64bc9b3ff",
+            "hash": "0c52575e2b6e52a8ff6881cfe2484066f0775a34",
             "path": "01 Pop/Dragostea Din Tei/Dragostea Din Tei.tja"
         },
         {
@@ -1273,7 +1273,7 @@
         },
         {
             "type": "blob",
-            "hash": "07e54caf47749cd7faca105ad7e22e998c84dece",
+            "hash": "a67e2918f5e6ea8111cced0a6d466e5dcbea69c8",
             "path": "01 Pop/Dried Flower/Dried Flower.tja"
         },
         {
@@ -1283,7 +1283,7 @@
         },
         {
             "type": "blob",
-            "hash": "737bf31efe4c4943c7a3429ab3236344ac132dc1",
+            "hash": "3fc5e2cd011348b1413ef8bd0c1edbfba2b374f4",
             "path": "01 Pop/Du Jia Kuai Le/Du Jia Kuai Le.tja"
         },
         {
@@ -1293,7 +1293,7 @@
         },
         {
             "type": "blob",
-            "hash": "10fc09761af9738374a4e007f979f7dda9d98c5f",
+            "hash": "df534d23db8d62c06207036e4b908f547d12100e",
             "path": "01 Pop/Duimian de Nuhai Kan Guolai/Duimian de Nuhai Kan Guolai.tja"
         },
         {
@@ -1303,7 +1303,7 @@
         },
         {
             "type": "blob",
-            "hash": "fbd585bb05f0e5c7e6b14807773e5510435a7c9d",
+            "hash": "aa1f355aa484a1a91c87305e45cb7bf1c9e5ab71",
             "path": "01 Pop/EZ DO DANCE/EZ DO DANCE.tja"
         },
         {
@@ -1313,7 +1313,7 @@
         },
         {
             "type": "blob",
-            "hash": "f553e1b643bdeba09fb90d9f79bf69273be2f406",
+            "hash": "db32e49801e4c74c91fa741f7a1b6efb873d5193",
             "path": "01 Pop/Eastern District/Eastern District.tja"
         },
         {
@@ -1323,7 +1323,7 @@
         },
         {
             "type": "blob",
-            "hash": "568f3ddf3eb132d147715752c9554e779ac0d06f",
+            "hash": "19d0b4a8c72ecbe138a438f374a5bf62e811697f",
             "path": "01 Pop/Edison/Edison.tja"
         },
         {
@@ -1363,7 +1363,7 @@
         },
         {
             "type": "blob",
-            "hash": "fc890a4375f3491e923814a27e1ab360132e7ccd",
+            "hash": "a649f75ecf8500326d5926da99bb2ca654e57d94",
             "path": "01 Pop/FIREWORKS/FIREWORKS.tja"
         },
         {
@@ -1373,7 +1373,7 @@
         },
         {
             "type": "blob",
-            "hash": "372ee005454ff9cc18baa3a3f9f6b8dacd21cda4",
+            "hash": "2d201ab37d68d91f4fff370239ca84e3f39d1f0b",
             "path": "01 Pop/FUNKTASTIC/FUNKTASTIC.tja"
         },
         {
@@ -1393,7 +1393,7 @@
         },
         {
             "type": "blob",
-            "hash": "3089f4ee08379827cac5e2c15e20cd8a7715d6ad",
+            "hash": "da6219e42a0ee0e5f8012df14834b77bc71304e3",
             "path": "01 Pop/Family Dondon/Family Dondon.tja"
         },
         {
@@ -1403,7 +1403,7 @@
         },
         {
             "type": "blob",
-            "hash": "fd56395d3db092d9dc1c801f8993f6ead2c6e949",
+            "hash": "692fbbfec151a76ae163f79c058631bdd1f4663b",
             "path": "01 Pop/Family Party/Family Party.tja"
         },
         {
@@ -1413,7 +1413,7 @@
         },
         {
             "type": "blob",
-            "hash": "c34b2fe7acbe707fa8fd27a981d36eadeb003612",
+            "hash": "fe361ddad46bebeaee5ecdfe6f7cac70c92b4624",
             "path": "01 Pop/Fang Kai Ni De Xin/Fang Kai Ni De Xin.tja"
         },
         {
@@ -1453,7 +1453,7 @@
         },
         {
             "type": "blob",
-            "hash": "4e03ca7bd438e74f815f45b43aa607eab8cfde91",
+            "hash": "1da70cdc4a5ded1cf58e5c6df203c8929393b5a4",
             "path": "01 Pop/Feel fine!/Feel fine!.tja"
         },
         {
@@ -1463,7 +1463,7 @@
         },
         {
             "type": "blob",
-            "hash": "718acfc5d0741cb601e7bb5a10ee8fc4c5e983f3",
+            "hash": "b615b96dbf13d578af7a02adf75b243804d2f91e",
             "path": "01 Pop/Flower Song/Flower Song.tja"
         },
         {
@@ -1483,7 +1483,7 @@
         },
         {
             "type": "blob",
-            "hash": "c47d6b79cbc5b921a74e4349fdd37c8926c09763",
+            "hash": "9a5411f3ee65821ba60760e59975a84ef95c1f1a",
             "path": "01 Pop/Follow Me/Follow Me.tja"
         },
         {
@@ -1503,7 +1503,7 @@
         },
         {
             "type": "blob",
-            "hash": "c4d17dc09b013e1f09ba341c0d1b5f5682cabb11",
+            "hash": "e0b398b9d474b574b04cd4588efba0e755603d1c",
             "path": "01 Pop/Frienger/Frienger.tja"
         },
         {
@@ -1513,7 +1513,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd7d4cafad5cebf3d6dd2cfc9a63672cbdce5074",
+            "hash": "003d3e924a985709785c29ada5daa5fd863ea372",
             "path": "01 Pop/From the Beginning Until Now/From the Beginning Until Now.tja"
         },
         {
@@ -1533,7 +1533,7 @@
         },
         {
             "type": "blob",
-            "hash": "5547d6d5f06915ed69aeaf9ce59fb02fd486e93f",
+            "hash": "4884d054f750c79a6dc1f62cf3f29936062a8efe",
             "path": "01 Pop/Furisodation/Furisodation.tja"
         },
         {
@@ -1543,7 +1543,7 @@
         },
         {
             "type": "blob",
-            "hash": "e207693510f4bd41d73a2b17dc699f2d7aa3ceb1",
+            "hash": "f7eb999cdf75b35b1a4d4eb640e8248f26109000",
             "path": "01 Pop/GALAXY EXPRESS 999/GALAXY EXPRESS 999.tja"
         },
         {
@@ -1563,7 +1563,7 @@
         },
         {
             "type": "blob",
-            "hash": "c7078f66ec1654143e7637daa512111c55e84139",
+            "hash": "826110775f928c83acf09791c8dcdca04a27ee4a",
             "path": "01 Pop/GENGHIS KHAN/GENGHIS KHAN.tja"
         },
         {
@@ -1573,7 +1573,7 @@
         },
         {
             "type": "blob",
-            "hash": "7899438d4d68140eb83439e2a8a0aa8a19cf17a5",
+            "hash": "f4419a7141c3583a72ecb0c64834b8729112d070",
             "path": "01 Pop/GLAMOROUS SKY/GLAMOROUS SKY.tja"
         },
         {
@@ -1593,7 +1593,7 @@
         },
         {
             "type": "blob",
-            "hash": "3d9339778e3cb099667c7fbc7df971a5fa518271",
+            "hash": "232e7e3aefd8e48fa88004679fae4c4b7106d7b5",
             "path": "01 Pop/GOLDFINGER ‘99/GOLDFINGER 99.tja"
         },
         {
@@ -1603,7 +1603,7 @@
         },
         {
             "type": "blob",
-            "hash": "e6968d0f69f1c6b4f244794bf7a2e66326606d09",
+            "hash": "cef772f2e7f6b2660c94ca339e49f0d23ec4e62a",
             "path": "01 Pop/GOODBYE Natsuo/GOODBYE Natsuo.tja"
         },
         {
@@ -1613,7 +1613,7 @@
         },
         {
             "type": "blob",
-            "hash": "860caa93bf08772e73796911233d206bb2223b4a",
+            "hash": "f813510d14fdd4968e5873d76f6ed3833a9352fb",
             "path": "01 Pop/Gai Bian Zi Ji/Gai Bian Zi Ji.tja"
         },
         {
@@ -1623,7 +1623,7 @@
         },
         {
             "type": "blob",
-            "hash": "364da96e7400704b2f3ba3008bbda3c2fe49350d",
+            "hash": "d6cc062d208c79213e3a687029f44ec69ffd863c",
             "path": "01 Pop/Ge Zhong Qiang Shou/Ge Zhong Qiang Shou.tja"
         },
         {
@@ -1643,7 +1643,7 @@
         },
         {
             "type": "blob",
-            "hash": "b64c4fcf1a5ff9c1df67c98b813149ceaa62e97c",
+            "hash": "1a40f1040e4cfd6414959b87520db6ccdc8e3b9f",
             "path": "01 Pop/Girls and Boys/Girls and Boys.tja"
         },
         {
@@ -1653,7 +1653,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc4e042792bd2ddbf46236e1433137bb373203ee",
+            "hash": "43433668b221d79ab99ba7aaa7ab6e1a65150420",
             "path": "01 Pop/Glass no Shounen/Glass no Shounen.tja"
         },
         {
@@ -1673,7 +1673,7 @@
         },
         {
             "type": "blob",
-            "hash": "389dc5a4b458b7f9cb643effcfb0e06eba0574a0",
+            "hash": "64db2f80bbbf1a0418f6377d9c43bd4d4374b86d",
             "path": "01 Pop/Go Go Yuureisen/Go Go Yuureisen.tja"
         },
         {
@@ -1683,7 +1683,7 @@
         },
         {
             "type": "blob",
-            "hash": "4a381cee6bfdd652fdea01a2190583f936053a5c",
+            "hash": "54af8857efcd40bb43dff1afcd66e482ce82143c",
             "path": "01 Pop/Go!!!/Go!!!.tja"
         },
         {
@@ -1693,7 +1693,7 @@
         },
         {
             "type": "blob",
-            "hash": "64c44a9106d93d89f9d7f607709fe96497ac6805",
+            "hash": "8a1db1ecff119b11eaa106c89d226d4438d37b3b",
             "path": "01 Pop/Gokuraku Joudo/Gokuraku Joudo.tja"
         },
         {
@@ -1713,7 +1713,7 @@
         },
         {
             "type": "blob",
-            "hash": "cab33e66cc6465797b090524697ec3c3a53ee1b6",
+            "hash": "4942fcf5a29798137085cd4d5fe07060969534c3",
             "path": "01 Pop/Gorilla/Gorilla.tja"
         },
         {
@@ -1723,7 +1723,7 @@
         },
         {
             "type": "blob",
-            "hash": "5bd09f77064965d6f938f497f0ffc414e7d1b03d",
+            "hash": "eecb8121ecf24ef363bceca4ba2d3f1937baa91a",
             "path": "01 Pop/Gouseki! Choukami Neiger ～Midaka Omedachi～/Gouseki! Choukami Neiger Midaka Omedachi.tja"
         },
         {
@@ -1733,7 +1733,7 @@
         },
         {
             "type": "blob",
-            "hash": "8daaff9dceef6ca3104bce314e6e164da89606e4",
+            "hash": "bb1996704116310a955e3e70430f8233a6aa6370",
             "path": "01 Pop/Guai Guai Nu/Guai Guai Nu.tja"
         },
         {
@@ -1743,7 +1743,7 @@
         },
         {
             "type": "blob",
-            "hash": "54c41d66c9e482a4fef9d4a108051e11d987ca5b",
+            "hash": "d148f0162583308ea1ab54a5ee4d7cd0dabf9dab",
             "path": "01 Pop/Gunjou/Gunjou.tja"
         },
         {
@@ -1753,7 +1753,7 @@
         },
         {
             "type": "blob",
-            "hash": "d9228fa33708322ee9b3df16e3e12b7521943e16",
+            "hash": "8879add475dff7cd419d5badc9d66d817dd0ed51",
             "path": "01 Pop/Guts Daze!!/Guts Daze!!.tja"
         },
         {
@@ -1813,7 +1813,7 @@
         },
         {
             "type": "blob",
-            "hash": "8db2c747f7eb60f81c499b74515bd096c29fbc72",
+            "hash": "bd1baa04fb180d5b15493ac9c2dfaed6a8836cdb",
             "path": "01 Pop/Hadaka no Kokoro/Hadaka no Kokoro.tja"
         },
         {
@@ -1843,7 +1843,7 @@
         },
         {
             "type": "blob",
-            "hash": "bcc343491b27e85fd8bf31eea152140f6054490d",
+            "hash": "6904216d66abbce571e76d0a1246d74ffd6a0546",
             "path": "01 Pop/Halzion/Halzion.tja"
         },
         {
@@ -3248,7 +3248,7 @@
         },
         {
             "type": "blob",
-            "hash": "83a4889a6f28e51d3e59491bdbf6e2c69aa22a7f",
+            "hash": "f10a1b37c7f61d3281267b83c097ac3be46be52c",
             "path": "01 Pop/MISTER/MISTER.tja"
         },
         {
@@ -3258,7 +3258,7 @@
         },
         {
             "type": "blob",
-            "hash": "b6d0cd1aa21c0ea58d2a744fe58fc2737cc1b2e6",
+            "hash": "b34d8e9753a64b57f774bf77cae7cd7a5cbb1372",
             "path": "01 Pop/MOSKAU/MOSKAU.tja"
         },
         {
@@ -3538,7 +3538,7 @@
         },
         {
             "type": "blob",
-            "hash": "3098478242075fa5386c24f4ab3e1d51d58539bf",
+            "hash": "bf9d977434326caa9748800d18d09a43ea04a6c3",
             "path": "01 Pop/Mirai no Chizu/Mirai no Chizu.tja"
         },
         {
@@ -3578,7 +3578,7 @@
         },
         {
             "type": "blob",
-            "hash": "50471fc962c96cdc648e9cea5b2a530129f1c7b4",
+            "hash": "e5c7168db8147eb0cf48016ad3199d20504fdf40",
             "path": "01 Pop/Monkey Magic/Monkey Magic.tja"
         },
         {
@@ -3828,7 +3828,7 @@
         },
         {
             "type": "blob",
-            "hash": "e85b8cfdc59eeaa1a79749f664af10ae2f8577db",
+            "hash": "e3cf045874c3b87b184d057e45ec3795ee6d86bb",
             "path": "01 Pop/Natsu no Donasama/Natsu no Donasama.tja"
         },
         {
@@ -4008,7 +4008,7 @@
         },
         {
             "type": "blob",
-            "hash": "be9f2b92db5ac7ecb8058a889d804cfb19b1aed4",
+            "hash": "3521cf1ad9b2d9a34b7fa431d6d9b61cc1c966e7",
             "path": "01 Pop/O2/O2.tja"
         },
         {
@@ -4018,7 +4018,7 @@
         },
         {
             "type": "blob",
-            "hash": "6a9f4416f4ce9fdab33dea05f2e576fd0b433650",
+            "hash": "81e60d83c5688d3b3c5067dfd084d113ecb8d907",
             "path": "01 Pop/Odo/Odo.tja"
         },
         {
@@ -4138,7 +4138,7 @@
         },
         {
             "type": "blob",
-            "hash": "27eb336088e2b2e77e8806458e12fec4ad26d00b",
+            "hash": "7f996254ceddf3eab8a8c98f0dec8656f7eafa60",
             "path": "01 Pop/Original Color Girls!!!!/Original Color Girls!!!!.tja"
         },
         {
@@ -4148,7 +4148,7 @@
         },
         {
             "type": "blob",
-            "hash": "759648cf0d6c246a603fa843e718d8ff57cf6ef9",
+            "hash": "8a4af35b882ab273b19b327802586141b25b0196",
             "path": "01 Pop/Osakana Tengoku/Osakana Tengoku.tja"
         },
         {
@@ -4458,7 +4458,7 @@
         },
         {
             "type": "blob",
-            "hash": "bff83f06a425717b464c2615aaa135ff0bb43fce",
+            "hash": "9d06ba9241e2f10573a630b52cc7ad98a8854209",
             "path": "01 Pop/Qun Bai Yao Yao/Qun Bai Yao Yao.tja"
         },
         {
@@ -4468,7 +4468,7 @@
         },
         {
             "type": "blob",
-            "hash": "a2339fa4821870a01ccb7a7ae68135c5899a0d42",
+            "hash": "d19cc94d412f45cf8ed8472eb40541414c9cf700",
             "path": "01 Pop/RESTART/RESTART.tja"
         },
         {
@@ -4578,7 +4578,7 @@
         },
         {
             "type": "blob",
-            "hash": "e0ec6cf33eb9b81aa8cee8ee35716bc26320f705",
+            "hash": "bd16a2e63bf55ecdf3f1a044700cdd12024d90bc",
             "path": "01 Pop/Ri Bu Luo/Ri Bu Luo.tja"
         },
         {
@@ -4588,7 +4588,7 @@
         },
         {
             "type": "blob",
-            "hash": "61cd0e49f6e7a0686a601ea37ed73221de830716",
+            "hash": "9fe17d56ac370809155a80479fe508c84e3c902f",
             "path": "01 Pop/Ring a Ding Dong/Ring a Ding Dong.tja"
         },
         {
@@ -5288,7 +5288,7 @@
         },
         {
             "type": "blob",
-            "hash": "24eaab5b1889a7ded28a9a7fc9f2441847e437ec",
+            "hash": "875e2f267cb7737b8a2b4f17fb030e98f9707e25",
             "path": "01 Pop/Streamer/Streamer.tja"
         },
         {
@@ -5298,7 +5298,7 @@
         },
         {
             "type": "blob",
-            "hash": "d0fa07d3dd03b60b1ee909dca40c5c7158def9a5",
+            "hash": "cf48322c263011c3792b52e2be2e61c3a59407fa",
             "path": "01 Pop/Subtitle/Subtitle.tja"
         },
         {
@@ -5358,7 +5358,7 @@
         },
         {
             "type": "blob",
-            "hash": "202052f3c7e5230bd5767ec895a789b1c8843a70",
+            "hash": "6972eef33c6708d8d10d91171bdc265e57da3606",
             "path": "01 Pop/Suki Suki Seijin/Suki Suki Seijin.tja"
         },
         {
@@ -6488,7 +6488,7 @@
         },
         {
             "type": "blob",
-            "hash": "2ea8fe5c754dcf966189f6edcb00e73691cd7614",
+            "hash": "d562ec4bb09f5dd9bf1d5418f6c27221fa7e5ccd",
             "path": "01 Pop/bad guy/bad guy.tja"
         },
         {
@@ -6498,7 +6498,7 @@
         },
         {
             "type": "blob",
-            "hash": "ede6c7901b36ba26286131e4386aaa26fb70c99a",
+            "hash": "9df64fe6e6f844c03bbc9b59c769a0894ed88a76",
             "path": "01 Pop/believe in you/believe in you.tja"
         },
         {
@@ -7083,7 +7083,7 @@
         },
         {
             "type": "blob",
-            "hash": "5ab497be361d0a118101c8c173f59ff2ca0ae5f3",
+            "hash": "cedb5ca5bab7374fc32c8a1eccb8251b7a31f5ae",
             "path": "02 Anime/Boku no Sensou/Boku no Sensou.tja"
         },
         {
@@ -7223,7 +7223,7 @@
         },
         {
             "type": "blob",
-            "hash": "ee6137f8256f138ac52709a30a0edd19d6fcdecd",
+            "hash": "f4fa09e1bc99b41a9cbdce22ac221e73b40a2bec",
             "path": "02 Anime/CHU-BURA/CHU-BURA.tja"
         },
         {
@@ -7233,7 +7233,7 @@
         },
         {
             "type": "blob",
-            "hash": "95f45d6d1217c0052eddb78aa1d84a49337e9d4a",
+            "hash": "4188e2ec1688400ce4eb063607ccb57e0259c7b8",
             "path": "02 Anime/CLOSER/CLOSER.tja"
         },
         {
@@ -7603,7 +7603,7 @@
         },
         {
             "type": "blob",
-            "hash": "2cce406e9dccd346d2899ccba6a76633aa7e2194",
+            "hash": "3afafaab9eacf55f5790704c22f7dde702e67e5f",
             "path": "02 Anime/DiSCOVER THE FUTURE/DiSCOVER THE FUTURE.tja"
         },
         {
@@ -7673,7 +7673,7 @@
         },
         {
             "type": "blob",
-            "hash": "aad3dadababfb20cad5819757a11e3c520c371be",
+            "hash": "8804169f4b4a775d867b5cfcc760639f24629c7f",
             "path": "02 Anime/Donten/Donten.tja"
         },
         {
@@ -8923,7 +8923,7 @@
         },
         {
             "type": "blob",
-            "hash": "55f29f1f88ed087f29cf3b8c5b4e5e6e048c6615",
+            "hash": "be83906bda11c39647ea4a0d076f7de30ae75ec9",
             "path": "02 Anime/JoJo ～Sono Chi no Sadame～/JoJo Sono Chi no Sadame.tja"
         },
         {
@@ -11593,7 +11593,7 @@
         },
         {
             "type": "blob",
-            "hash": "ada7c9ae3a5dc9ae6f9e1d0f0e9155b42ce659ba",
+            "hash": "72113670392abf004899703539040351c9c6a0ba",
             "path": "02 Anime/VAMOLA! Kyoryuger/VAMOLA! Kyoryuger.tja"
         },
         {
@@ -11603,7 +11603,7 @@
         },
         {
             "type": "blob",
-            "hash": "7a2a1201c768603367b31e169cf6ee151c3cc277",
+            "hash": "760e0068c2af3fa959d7a5a0ef75ac7c3a3b1362",
             "path": "02 Anime/Velonica/Velonica.tja"
         },
         {
@@ -11613,7 +11613,7 @@
         },
         {
             "type": "blob",
-            "hash": "36e2f2e10758df1681866637f90c7ab93757bda4",
+            "hash": "d859c907760b815e0ca8c338392f72b2a9e795bf",
             "path": "02 Anime/Viva! Spark! Tropical-Rouge! Pretty Cure/Viva! Spark! Tropical-Rouge! Pretty Cure.tja"
         },
         {
@@ -11623,7 +11623,7 @@
         },
         {
             "type": "blob",
-            "hash": "0cd30924de09f101661caa8a45b782a49033a036",
+            "hash": "ff31a879a95a4a6e8d60d327da64cecae5492a75",
             "path": "02 Anime/W-B-X ～W Boiled Extreme～/W-B-X W Boiled Extreme.tja"
         },
         {
@@ -11643,7 +11643,7 @@
         },
         {
             "type": "blob",
-            "hash": "723a194256e35f010f1baedc4e14907985370f0c",
+            "hash": "9358a741458a48e31bae2cbd3973d43d2e49da16",
             "path": "02 Anime/Wai Wai World/Wai Wai World.tja"
         },
         {
@@ -11653,7 +11653,7 @@
         },
         {
             "type": "blob",
-            "hash": "9dfb44c7637736a87a05deb7c7f762e6bfff6a4a",
+            "hash": "05949bf8422419566b1492e325cab29500b2d502",
             "path": "02 Anime/Wake Up!/Wake Up!.tja"
         },
         {
@@ -11663,7 +11663,7 @@
         },
         {
             "type": "blob",
-            "hash": "18e572ad5f1730e14b2c32e5e02c638e8941777e",
+            "hash": "e68196f7dae91186128dc89cfc8bbaee0aa146de",
             "path": "02 Anime/Warau ga Kachi! de GO!/“Warau ga Kachi!” de GO!.tja"
         },
         {
@@ -11703,7 +11703,7 @@
         },
         {
             "type": "blob",
-            "hash": "70f0f5f8850cf2cb5c385537487450a63d8a0fed",
+            "hash": "86369bc1cecd257a5efc62ce6a91a2c2205446c4",
             "path": "02 Anime/We Are! -TVXQ Version-/We Are! -TVXQ Version-.tja"
         },
         {
@@ -11713,7 +11713,7 @@
         },
         {
             "type": "blob",
-            "hash": "50c636ce176afcd61eb8768cc339a8d37a7b17c5",
+            "hash": "3dd7471a07a154736ef65e9d3084d5431e07e22c",
             "path": "02 Anime/We Are!/We Are!.tja"
         },
         {
@@ -11743,7 +11743,7 @@
         },
         {
             "type": "blob",
-            "hash": "811d7368eacba4d0c9d2e5ccd797fedbd3cb548b",
+            "hash": "52d0e5a26f4309d4d394a35448c4a0a705c5a837",
             "path": "02 Anime/We Go!/We Go!.tja"
         },
         {
@@ -11753,7 +11753,7 @@
         },
         {
             "type": "blob",
-            "hash": "80db5d706c637d1dc60f3e514406f845b0a74d95",
+            "hash": "dd334a46f28c64ed621021ce0359588133f30b83",
             "path": "02 Anime/We are the ONE ～Bokura wa Hitotsu～/We are the ONE Bokura wa Hitotsu.tja"
         },
         {
@@ -11783,7 +11783,7 @@
         },
         {
             "type": "blob",
-            "hash": "ffde5c8aad5b5599afd7e3c91e1043f836ba371a",
+            "hash": "16e9e15a90ec399c5a22b681a450a684893ae927",
             "path": "02 Anime/Winding Road/Winding Road.tja"
         },
         {
@@ -11843,7 +11843,7 @@
         },
         {
             "type": "blob",
-            "hash": "167b40fbea88fe03a12040d46d6f1ff91134db69",
+            "hash": "8e08aa632bb0bd33c463e432bb2c0eabc86bb3fc",
             "path": "02 Anime/Yatterman no Uta (ET-KING)/Yatterman no Uta.tja"
         },
         {
@@ -11853,7 +11853,7 @@
         },
         {
             "type": "blob",
-            "hash": "bd7cc743216b433dbab420d9aa6433feea8ee017",
+            "hash": "c2341bb13663a312351694fd49202d8b084b0668",
             "path": "02 Anime/Yatterman no Uta (Mizuumi Boys _ Girls Chorus)/Yatterman no Uta.tja"
         },
         {
@@ -11868,16 +11868,6 @@
         },
         {
             "type": "blob",
-            "hash": "6ec4c48bc54a0faae6e31890f93154f8be3e7708",
-            "path": "02 Anime/Yokouso Japari Park e/Yokouso Japari Park e.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "389060d6ccd49a14f63696401badeaa4dd7269e8",
-            "path": "02 Anime/Yokouso Japari Park e/Yokouso Japari Park e.tja"
-        },
-        {
-            "type": "blob",
             "hash": "2dcdfd847248c169e88938fb77ad0d55a391bd4b",
             "path": "02 Anime/You Got a Otomodachi/You Got a Otomodachi.ogg"
         },
@@ -11885,6 +11875,16 @@
             "type": "blob",
             "hash": "95ccdc69038a8502420d2bb9e988e185d26431b9",
             "path": "02 Anime/You Got a Otomodachi/You Got a Otomodachi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6ec4c48bc54a0faae6e31890f93154f8be3e7708",
+            "path": "02 Anime/Youkoso Japari Park e/Youkoso Japari Park e.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "139780cff6bd0f8fe6a1458dc6c5dbce746d02c1",
+            "path": "02 Anime/Youkoso Japari Park e/Youkoso Japari Park e.tja"
         },
         {
             "type": "blob",
@@ -11923,7 +11923,7 @@
         },
         {
             "type": "blob",
-            "hash": "f1f37974847ced95fbffd09ad54773edfba3f313",
+            "hash": "9b12f83c01214100d52fc1cb818bee41fc08811d",
             "path": "02 Anime/Yuruyuru de DE-O!/Yuruyuru de DE-O!.tja"
         },
         {
@@ -11933,7 +11933,7 @@
         },
         {
             "type": "blob",
-            "hash": "e12a333dabc1237680697914144ada9cf817d2da",
+            "hash": "4ddbf2a134926b58fb49c2a5fedf146b7d4ceb61",
             "path": "02 Anime/Yuukai Tsuukai Kaibutsu-kun/Yuukai Tsuukai Kaibutsu-kun.tja"
         },
         {
@@ -11943,7 +11943,7 @@
         },
         {
             "type": "blob",
-            "hash": "80e0b5b04f48beadc48a3e3b3da81f5c7cb51e06",
+            "hash": "958a867e0333cdca1e2bec337b3e027be7833d30",
             "path": "02 Anime/Yuuki 100 Percent/Yuuki 100 Percent.tja"
         },
         {
@@ -11953,7 +11953,7 @@
         },
         {
             "type": "blob",
-            "hash": "51e03d81407c7e7019202117416ff910040489e0",
+            "hash": "c013018beb887e79087ef45b18c4a539a38a4318",
             "path": "02 Anime/Yuuki Rinrin/Yuuki Rinrin.tja"
         },
         {
@@ -11993,7 +11993,7 @@
         },
         {
             "type": "blob",
-            "hash": "23b8652e198184a796b44f28478410b442c9b6bc",
+            "hash": "021f86d4bc98bfb9c01ab23ca43e3321ac2539ef",
             "path": "02 Anime/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.tja"
         },
         {
@@ -12178,7 +12178,7 @@
         },
         {
             "type": "blob",
-            "hash": "7edd779fa617f04cafde0e7a38c7c94ee3acc594",
+            "hash": "fa947a4e798539b74190165c46db0ebbddbf15a6",
             "path": "03 Vocaloid/Animal/Animal.tja"
         },
         {
@@ -12188,7 +12188,7 @@
         },
         {
             "type": "blob",
-            "hash": "53dde4d93a50bedc8510e7e5a5dabdb93e9a8f93",
+            "hash": "db2f3cf7b4d1c26ac5193939168a675684564fb0",
             "path": "03 Vocaloid/Asu no Yozora Shoukaihan/Asu no Yozora Shoukaihan.tja"
         },
         {
@@ -12268,7 +12268,7 @@
         },
         {
             "type": "blob",
-            "hash": "26bbd9cf50edb4aa298d173dab9dc8467eedf721",
+            "hash": "8c8762b608c8800d6fb45161224aa2959e6befb8",
             "path": "03 Vocaloid/Cinderella/Cinderella.tja"
         },
         {
@@ -12498,7 +12498,7 @@
         },
         {
             "type": "blob",
-            "hash": "77f8c8ea22017b6d8674f6735a2964a9a8297afa",
+            "hash": "8426333660bbc51ab3444da2ca7626a59f429232",
             "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger.tja"
         },
         {
@@ -12618,7 +12618,7 @@
         },
         {
             "type": "blob",
-            "hash": "4f621efebd97a8449aba7e76394a7a778fa89871",
+            "hash": "1b5916b8175477bcf5dbb6cbcd7dde93a6dd00fa",
             "path": "03 Vocaloid/Irodoru Future/Irodoru Future.tja"
         },
         {
@@ -12628,7 +12628,7 @@
         },
         {
             "type": "blob",
-            "hash": "ec4d4de0ceeb60ebb9d7f0efbc5ac41b1b70dfb7",
+            "hash": "3f2361ea4f8d4115bcaf0673adc4e3406982323d",
             "path": "03 Vocaloid/Jinsei Reset Button/Jinsei Reset Button.tja"
         },
         {
@@ -13078,7 +13078,7 @@
         },
         {
             "type": "blob",
-            "hash": "7cce62ae988f5ef947396a539ddd0dbf3221018a",
+            "hash": "80893b642b50b9426dfea748e7bbb3021bb412b3",
             "path": "03 Vocaloid/Tell-me Beat/Tell-me Beat.tja"
         },
         {
@@ -14818,7 +14818,7 @@
         },
         {
             "type": "blob",
-            "hash": "0ecae802d8891b532f43516b5f66953097d9aff1",
+            "hash": "cf88182d04053139b0f702921943d633684345d3",
             "path": "05 Variety/Dai Kaizou!! Gekiteki Before After Medley -Short Version-/Dai Kaizou!! Gekiteki Before After Medley -Short Version-.tja"
         },
         {
@@ -14898,7 +14898,7 @@
         },
         {
             "type": "blob",
-            "hash": "d263df26000c7c3d8caa50ea17e8776add0af3dd",
+            "hash": "de2328f1e21d7ea83e646f971af4476b463b3eba",
             "path": "05 Variety/Dreadnought/Dreadnought.tja"
         },
         {
@@ -16043,7 +16043,7 @@
         },
         {
             "type": "blob",
-            "hash": "1d1c15e494be3009de575e740823303584aaa646",
+            "hash": "c3f2023f9d59c7885687ed0da8a22e5289547660",
             "path": "06 Classical/Hungarian Dance No. 5/Hungarian Dance No. 5.tja"
         },
         {
@@ -16213,7 +16213,7 @@
         },
         {
             "type": "blob",
-            "hash": "c882a589c35bdfca155f3f6cb4d7107d8e4226e3",
+            "hash": "8fe0596e35c2db35a48712216bcdd076bb7aad38",
             "path": "06 Classical/Orpheus in the Underworld Overture/Orpheus in the Underworld Overture.tja"
         },
         {
@@ -16703,7 +16703,7 @@
         },
         {
             "type": "blob",
-            "hash": "e47393c2539a5703da4c135448ff4e9a3dabf886",
+            "hash": "5879dd72b52b5f8a609ba1e6d201d7a838e5dbfb",
             "path": "07 Game Music/Angel Dream -iDOLM@STER Version-/Angel Dream -iDOLMASTER Version-.tja"
         },
         {
@@ -18473,7 +18473,7 @@
         },
         {
             "type": "blob",
-            "hash": "4de54749af1a6eb700ec71e7172196bb417a1840",
+            "hash": "2b756828fd25941ed4b64ab2f75f2123d5275ff3",
             "path": "07 Game Music/MagiCatz/MagiCatz.tja"
         },
         {
@@ -19433,7 +19433,7 @@
         },
         {
             "type": "blob",
-            "hash": "aab2247dd3c5ccd55af095d68a9e87ca21eaa919",
+            "hash": "54e0eac8410052e0ada047f9e0f55cce6c586b3e",
             "path": "07 Game Music/SPARKING/SPARKING.tja"
         },
         {
@@ -19443,7 +19443,7 @@
         },
         {
             "type": "blob",
-            "hash": "2e22c0c2c6b08b6bd087eb587ff5f2975ed6cba4",
+            "hash": "063453fd9b2a509db80a47fbcae2b6718b1b008e",
             "path": "07 Game Music/SPLENDOR/SPLENDOR.tja"
         },
         {
@@ -19953,7 +19953,7 @@
         },
         {
             "type": "blob",
-            "hash": "4f0472fe44c721c47f92e904f6a7c281e4031268",
+            "hash": "8dc15e2454ec3b8bd745b9505b7a947e13aae0a5",
             "path": "07 Game Music/Take me☆Take you/Take me Take you.tja"
         },
         {
@@ -22178,7 +22178,7 @@
         },
         {
             "type": "blob",
-            "hash": "5cab51ef64c35dfe2115ae9bc44140e7d0c4b321",
+            "hash": "bdee3c36fd05c75163fb527ea260e0763dacd00b",
             "path": "09 Namco Original/Audio de Ka!/Audio de Ka!.tja"
         },
         {
@@ -22688,7 +22688,7 @@
         },
         {
             "type": "blob",
-            "hash": "e011a22f55af70dfda15fc82797f59b1f75cf6b4",
+            "hash": "7447ec2b199cf8e1373b06385649c13633611a1e",
             "path": "09 Namco Original/Connect Colors/Connect Colors.tja"
         },
         {
@@ -22848,7 +22848,7 @@
         },
         {
             "type": "blob",
-            "hash": "6cfe1792f44ff4940e4ca32cd5076e84975b4758",
+            "hash": "dc70c1c112af2b16a2243bf23c097a3d2dff1fb7",
             "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne.tja"
         },
         {
@@ -22918,7 +22918,7 @@
         },
         {
             "type": "blob",
-            "hash": "85fdf1d2734f4489e56876b280825efbde7f302e",
+            "hash": "ca95afe9d0b4642f303dc91b32cd7796822e67d6",
             "path": "09 Namco Original/Dead or Die/Dead or Die.tja"
         },
         {
@@ -23153,7 +23153,7 @@
         },
         {
             "type": "blob",
-            "hash": "d03aa11d6ded4e740136456a0333e0bed0041037",
+            "hash": "556b4942b2c9af8dbfd141686a9472b78d01ebbe",
             "path": "09 Namco Original/Dont Stop the Game/Don’t Stop the Game.tja"
         },
         {
@@ -23198,7 +23198,7 @@
         },
         {
             "type": "blob",
-            "hash": "52a17605daf3b959911f1b5d3537eb69656d1738",
+            "hash": "1d97ce21c1612dd5a7767dd494c69bb8c41834a2",
             "path": "09 Namco Original/Dragon of Ice Kooryu/Dragon of Ice Kooryu.tja"
         },
         {
@@ -24448,7 +24448,7 @@
         },
         {
             "type": "blob",
-            "hash": "f85e6073bac429a7abd2e2f2bb15e659bba806ea",
+            "hash": "696d72beafcbad4077b9cbbb1ec211e6ad75c1dc",
             "path": "09 Namco Original/Ka/Ka.tja"
         },
         {
@@ -25393,7 +25393,7 @@
         },
         {
             "type": "blob",
-            "hash": "bad205650f7946bc6a24be17c3b9982510c5bf11",
+            "hash": "a4638623d4eb28dbee85db6b009bf8398515b1fc",
             "path": "09 Namco Original/Mekadesu/Mekadesu..tja"
         },
         {
@@ -26208,7 +26208,7 @@
         },
         {
             "type": "blob",
-            "hash": "187a5cdcaecaa58ff0fe4336fb0dda35b8885526",
+            "hash": "ed64ecf6ae70d4898286dead8e739357ef15703e",
             "path": "09 Namco Original/RI/R.I..tja"
         },
         {
@@ -26358,7 +26358,7 @@
         },
         {
             "type": "blob",
-            "hash": "b66ab3638a9e37b725ad79c893c85daf1b10f3f6",
+            "hash": "a9baa6e51b2bfa3426b52aa5704bc5345b1e39da",
             "path": "09 Namco Original/Ryuu to Kokuen no Himegimi/Ryuu to Kokuen no Himegimi.tja"
         },
         {
@@ -27123,7 +27123,7 @@
         },
         {
             "type": "blob",
-            "hash": "f8b9693e4851b0accd500867a64c398d9e237d7a",
+            "hash": "1b623e2f0d7e2c64ee95babff5beaab179c519f3",
             "path": "09 Namco Original/Taiko Drum Monster/Taiko Drum Monster.tja"
         },
         {
@@ -27248,7 +27248,7 @@
         },
         {
             "type": "blob",
-            "hash": "bc7f01996525ee924263047f343e99c6e4d933ee",
+            "hash": "13f90e3ebb5056c680ee99716d4ff4867f6b9a99",
             "path": "09 Namco Original/Takkyuu de Dakkyuu/Takkyuu de Dakkyuu.tja"
         },
         {
@@ -28368,7 +28368,7 @@
         },
         {
             "type": "blob",
-            "hash": "6f72abe08a9853dcf7c5872a2dd291ed5e6c7ad8",
+            "hash": "361836b38b98efd5f191ed2c33270776855a137d",
             "path": "10 Taiko Towers/Taiko Tower 03 Kara-kuchi/Taiko Tower 3 Kara-kuchi.tja"
         },
         {
@@ -30233,8 +30233,7 @@
         {
             "path": "01 Pop/AWAY/AWAY.tja",
             "title": {
-                "en": "AWAY",
-                "ja": "AWAY"
+                "en": "AWAY"
             },
             "subtitle": {
                 "en": "G.E.M."
@@ -30556,8 +30555,7 @@
         {
             "path": "01 Pop/American Girls/American Girls.tja",
             "title": {
-                "en": "American Girls",
-                "ja": "American Girls"
+                "en": "American Girls"
             },
             "subtitle": {
                 "en": "Counting Crows"
@@ -30739,8 +30737,7 @@
         {
             "path": "01 Pop/Are You Gonna Be My Girl/Are You Gonna Be My Girl.tja",
             "title": {
-                "en": "Are You Gonna Be My Girl",
-                "ja": "Are You Gonna Be My Girl"
+                "en": "Are You Gonna Be My Girl"
             },
             "subtitle": {
                 "en": "JET"
@@ -30774,8 +30771,7 @@
         {
             "path": "01 Pop/Armor Break/Armor Break.tja",
             "title": {
-                "en": "Armor Break",
-                "ja": "Armor Break"
+                "en": "Armor Break"
             },
             "subtitle": {
                 "en": "enogu",
@@ -30908,7 +30904,7 @@
             },
             "subtitle": {
                 "en": "9mm Parabellum Bullet",
-                "ja": "9mm Parabellum bullet"
+                "ja": "9mm Parabellum Bullet"
             },
             "category": "Pop",
             "offset": -1.615,
@@ -30976,8 +30972,7 @@
         {
             "path": "01 Pop/BE ALL RIGHT!/BE ALL RIGHT!.tja",
             "title": {
-                "en": "BE ALL RIGHT!",
-                "ja": "BE ALL RIGHT!"
+                "en": "BE ALL RIGHT!"
             },
             "subtitle": {
                 "en": "11WATER"
@@ -31032,8 +31027,7 @@
         {
             "path": "01 Pop/Be Your Wings/Be your wings.tja",
             "title": {
-                "en": "Be your wings",
-                "ja": "Be your wings"
+                "en": "Be your wings"
             },
             "subtitle": {
                 "en": "GIRL NEXT DOOR/Tales of Versus",
@@ -31575,8 +31569,7 @@
         {
             "path": "01 Pop/Choo Choo TRAIN -Short Version-/Choo Choo TRAIN -Short Version-.tja",
             "title": {
-                "en": "Choo Choo TRAIN -Short Version-",
-                "ja": "Choo Choo TRAIN -Short Version-"
+                "en": "Choo Choo TRAIN -Short Version-"
             },
             "subtitle": {
                 "en": "EXILE"
@@ -31593,8 +31586,7 @@
         {
             "path": "01 Pop/Choo Choo TRAIN/Choo Choo TRAIN.tja",
             "title": {
-                "en": "Choo Choo TRAIN",
-                "ja": "Choo Choo TRAIN"
+                "en": "Choo Choo TRAIN"
             },
             "subtitle": {
                 "en": "EXILE"
@@ -31686,7 +31678,7 @@
             "path": "01 Pop/Chu! Natsu Party/Chu! Natsu Party.tja",
             "title": {
                 "en": "Chu! Natsu Party",
-                "ja": "チュッ！夏パ～ティ"
+                "ja": "チュッ！夏パーティ"
             },
             "subtitle": {
                 "en": "San-nin Matsuri"
@@ -31703,12 +31695,10 @@
         {
             "path": "01 Pop/Connected World/Connected World.tja",
             "title": {
-                "en": "Connected World",
-                "ja": "Connected World"
+                "en": "Connected World"
             },
             "subtitle": {
-                "en": "somunia",
-                "ja": "somunia"
+                "en": "somunia"
             },
             "category": "Pop",
             "offset": -0.003,
@@ -31797,8 +31787,7 @@
         {
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.tja",
             "title": {
-                "en": "DDU-DU DDU-DU",
-                "ja": "DDU-DU DDU-DU"
+                "en": "DDU-DU DDU-DU"
             },
             "subtitle": {
                 "en": "BLΛƆKPIИK"
@@ -32036,8 +32025,7 @@
         {
             "path": "01 Pop/Darling/Darling.tja",
             "title": {
-                "en": "Darling",
-                "ja": "Darling"
+                "en": "Darling"
             },
             "subtitle": {
                 "en": "V6/Kimi wa Pet"
@@ -32219,12 +32207,10 @@
         {
             "path": "01 Pop/Dragon Night/Dragon Night.tja",
             "title": {
-                "en": "Dragon Night",
-                "ja": "Dragon Night"
+                "en": "Dragon Night"
             },
             "subtitle": {
-                "en": "SEKAI NO OWARI",
-                "ja": "SEKAI NO OWARI"
+                "en": "SEKAI NO OWARI"
             },
             "category": "Pop",
             "offset": -2.3975,
@@ -32347,8 +32333,7 @@
         {
             "path": "01 Pop/EZ DO DANCE/EZ DO DANCE.tja",
             "title": {
-                "en": "EZ DO DANCE",
-                "ja": "EZ DO DANCE"
+                "en": "EZ DO DANCE"
             },
             "subtitle": {
                 "en": "Tetsuya Komuro feat. TRF"
@@ -32456,8 +32441,7 @@
         {
             "path": "01 Pop/FIREWORKS/FIREWORKS.tja",
             "title": {
-                "en": "FIREWORKS",
-                "ja": "FIREWORKS"
+                "en": "FIREWORKS"
             },
             "subtitle": {
                 "en": "EXILE/SKY PerfecTV! EXILE TV"
@@ -32474,8 +32458,7 @@
         {
             "path": "01 Pop/FUNKTASTIC/FUNKTASTIC.tja",
             "title": {
-                "en": "FUNKTASTIC",
-                "ja": "FUNKASTIC"
+                "en": "FUNKTASTIC"
             },
             "subtitle": {
                 "en": "RIP SLYME"
@@ -32617,8 +32600,7 @@
         {
             "path": "01 Pop/Feel fine!/Feel fine!.tja",
             "title": {
-                "en": "Feel fine!",
-                "ja": "Feel fine!"
+                "en": "Feel fine!"
             },
             "subtitle": {
                 "en": "Mai Kuraki"
@@ -32635,8 +32617,7 @@
         {
             "path": "01 Pop/Flower Song/Flower Song.tja",
             "title": {
-                "en": "Flower Song",
-                "ja": "Flower Song"
+                "en": "Flower Song"
             },
             "subtitle": {
                 "en": "EXILE"
@@ -32671,8 +32652,7 @@
         {
             "path": "01 Pop/Follow Me/Follow Me.tja",
             "title": {
-                "en": "Follow Me",
-                "ja": "Follow Me"
+                "en": "Follow Me"
             },
             "subtitle": {
                 "en": "E-girls"
@@ -32819,7 +32799,7 @@
             "path": "01 Pop/GENGHIS KHAN/GENGHIS KHAN.tja",
             "title": {
                 "en": "GENGHIS KHAN",
-                "ja": "ジンギスカン (GENGHIS KHAN)"
+                "ja": "ジンギスカン(GENGHIS KHAN)"
             },
             "subtitle": {
                 "en": "Dschinghis Khan"
@@ -32891,7 +32871,7 @@
             "path": "01 Pop/GOODBYE Natsuo/GOODBYE Natsuo.tja",
             "title": {
                 "en": "GOODBYE Natsuo",
-                "ja": "GOODBYE 夏男"
+                "ja": "GOOD BYE 夏男"
             },
             "subtitle": {
                 "en": "Aya Matsuura"
@@ -32961,8 +32941,7 @@
         {
             "path": "01 Pop/Girls and Boys/Girls and Boys.tja",
             "title": {
-                "en": "Girls & Boys",
-                "ja": "Girls & Boys"
+                "en": "Girls & Boys"
             },
             "subtitle": {
                 "en": "Good Charlotte"
@@ -33088,8 +33067,7 @@
         {
             "path": "01 Pop/Gorilla/Gorilla.tja",
             "title": {
-                "en": "Gorilla",
-                "ja": "吼"
+                "en": "Gorilla"
             },
             "subtitle": {
                 "en": "Magic Power"
@@ -41787,8 +41765,7 @@
         {
             "path": "01 Pop/bad guy/bad guy.tja",
             "title": {
-                "en": "bad guy",
-                "ja": "bad guy"
+                "en": "bad guy"
             },
             "subtitle": {
                 "en": "Billie Eilish"
@@ -51483,8 +51460,8 @@
         {
             "path": "02 Anime/Warau ga Kachi! de GO!/“Warau ga Kachi!” de GO!.tja",
             "title": {
-                "en": "“Warau ga Kachi!” de GO!",
-                "ja": "「笑うが勝ち！」でGO!"
+                "en": "\"Warau ga Kachi!\" de GO!",
+                "ja": "「笑うが勝ち!」でGO!"
             },
             "subtitle": {
                 "en": "Mayumi Gojo/Futari wa Pretty Cure Splash☆Star"
@@ -51871,25 +51848,6 @@
             }
         },
         {
-            "path": "02 Anime/Yokouso Japari Park e/Yokouso Japari Park e.tja",
-            "title": {
-                "en": "Yokouso Japari Park e",
-                "ja": "ようこそジャパリパークへ"
-            },
-            "subtitle": {
-                "en": "Doubutsu Biscuits × PPP/Kemono Friends",
-                "ja": "どうぶつビスケッツ×PPP 「けものフレンズ」より"
-            },
-            "category": "Anime",
-            "offset": -3.1,
-            "courses": {
-                "Oni": 7,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/You Got a Otomodachi/You Got a Otomodachi.tja",
             "title": {
                 "en": "You Got a Otomodachi",
@@ -51905,6 +51863,25 @@
                 "Oni": 8,
                 "Hard": 5,
                 "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/Youkoso Japari Park e/Youkoso Japari Park e.tja",
+            "title": {
+                "en": "Youkoso Japari Park e",
+                "ja": "ようこそジャパリパークへ"
+            },
+            "subtitle": {
+                "en": "Doubutsu Biscuits × PPP/Kemono Friends",
+                "ja": "どうぶつビスケッツ×PPP 「けものフレンズ」より"
+            },
+            "category": "Anime",
+            "offset": -3.1,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 2,
                 "Easy": 2
             }
         },
@@ -65780,7 +65757,7 @@
             "path": "07 Game Music/SPARKING/SPARKING.tja",
             "title": {
                 "en": "SPARKING",
-                "ja": "SPARKING"
+                "ja": "SPARKING 鉄拳5"
             },
             "subtitle": {
                 "en": "Satoru Kousaki feat. Tom Leonard/TEKKEN 5 DARK RESURRECTION"
