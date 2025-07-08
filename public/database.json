@@ -1,5 +1,5 @@
 {
-    "commit": "283b4191f1335180f41d9f7e713ee3d60451bdd5",
+    "commit": "7ca99b74706669b80f725383b9a22054ade1af6a",
     "blobs": [
         {
             "type": "blob",
@@ -43,7 +43,7 @@
         },
         {
             "type": "blob",
-            "hash": "d7b8938a283aecf602316ef00a277dac917d76cf",
+            "hash": "561956845d7ef90751b9c5c8551a1eb8531f7863",
             "path": "01 Pop/365 Nichi no Kamihikouki/365 Nichi no Kamihikouki.tja"
         },
         {
@@ -55,6 +55,16 @@
             "type": "blob",
             "hash": "886e7cc8d2007be7952726ee6bed025fac47c5fd",
             "path": "01 Pop/365 Nichi no Love Story/365 Nichi no Love Story..tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1753dca40ed3b8c86d58113ba4b1a45c78ec173c",
+            "path": "01 Pop/365-po no March/365-po no March.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c3bd43de2f37e739b54180773a2ae8a90aef6d09",
+            "path": "01 Pop/365-po no March/365-po no March.tja"
         },
         {
             "type": "blob",
@@ -555,6 +565,16 @@
             "type": "blob",
             "hash": "b2531b0f3d697afac1014671bdb1e65895e40564",
             "path": "01 Pop/BE ALL RIGHT!/BE ALL RIGHT!.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "922aea2ced47ad741f70ba56730bb921d5555196",
+            "path": "01 Pop/Bai Bai FIGHT/Bai Bai FIGHT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d32acc8ca6b2af53244592600a923d33a8e5fb19",
+            "path": "01 Pop/Bai Bai FIGHT/Bai Bai FIGHT.tja"
         },
         {
             "type": "blob",
@@ -3073,16 +3093,6 @@
         },
         {
             "type": "blob",
-            "hash": "a24df2e9a1ffa67e3c50edb92210bf12467af70d",
-            "path": "01 Pop/Lassen Gorelai/Lassen Gorelai.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "c42bd0f9c83049ff6cdb9220d3a3128bf2505138",
-            "path": "01 Pop/Lassen Gorelai/Lassen Gorelai.tja"
-        },
-        {
-            "type": "blob",
             "hash": "accf78eb8f38315138b9d90d6843c5dbb405ec29",
             "path": "01 Pop/Last Christmas/Last Christmas.ogg"
         },
@@ -3528,7 +3538,7 @@
         },
         {
             "type": "blob",
-            "hash": "b180117b93cd404710696afb322b84d361a0dddd",
+            "hash": "b8d97e400895b2267775ca78649ebb0f7f11ec63",
             "path": "01 Pop/Minna Ga Minna Eiyuu/Minna Ga Minna Eiyuu.tja"
         },
         {
@@ -4663,6 +4673,16 @@
         },
         {
             "type": "blob",
+            "hash": "a4bfd2db36723d03c09990d41f6c7a8817e856fd",
+            "path": "01 Pop/RuLe/RuLe.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3611eaa4a3a69d7a91ba2f08e1891624c09abfec",
+            "path": "01 Pop/RuLe/RuLe.tja"
+        },
+        {
+            "type": "blob",
             "hash": "f7b8a58d7e15a07dcc3ed6c0203b96dfe8034248",
             "path": "01 Pop/Ruma/Ruma.ogg"
         },
@@ -5538,7 +5558,7 @@
         },
         {
             "type": "blob",
-            "hash": "9791d655dd053009348da2964c094c484ea646bc",
+            "hash": "69fbd8a2e2f1df42517e54cb32e990b4a48273e7",
             "path": "01 Pop/TT/TT.tja"
         },
         {
@@ -8803,7 +8823,7 @@
         },
         {
             "type": "blob",
-            "hash": "e35f95a805c3030f318eca02f7788e1a9ac88ee5",
+            "hash": "7371abfd2a2b2a4a7cd740573719845c55905862",
             "path": "02 Anime/Ikenai Borderline/Ikenai Borderline.tja"
         },
         {
@@ -8873,7 +8893,7 @@
         },
         {
             "type": "blob",
-            "hash": "876ac81a687b46e7ac6a4b13d193b64cf338b49e",
+            "hash": "8615c2d55c8a3340497b115053fd610625886a91",
             "path": "02 Anime/Itsumo Nando Demo/Itsumo Nando Demo.tja"
         },
         {
@@ -9870,16 +9890,6 @@
             "type": "blob",
             "hash": "1ed1dafe473690535074e92190bae48869e73e37",
             "path": "02 Anime/Monologue/Monologue.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "ac2e4682bbd92816bbcb7839a7cee15b841da2eb",
-            "path": "02 Anime/Moonlight Densetsu -Short Version-/Moonlight Densetsu -Short Version-.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "ef188765c393ca22cef110723031a69bb907e4cc",
-            "path": "02 Anime/Moonlight Densetsu -Short Version-/Moonlight Densetsu -Short Version-.tja"
         },
         {
             "type": "blob",
@@ -11073,7 +11083,7 @@
         },
         {
             "type": "blob",
-            "hash": "e78f8b268e27e7dba2efed80c1c0c2b66e883ee1",
+            "hash": "5e39750551de3eb77323d1891e4d87c1842fe4e6",
             "path": "02 Anime/Start Line!/Start Line!.tja"
         },
         {
@@ -12468,7 +12478,7 @@
         },
         {
             "type": "blob",
-            "hash": "518934fcfbf0a3e4ff34f2ce9e753fea3e58fcc5",
+            "hash": "ff7ab481b0bccf38f253a976c1adeb855ece2ec7",
             "path": "03 Vocaloid/Ghost Rule/Ghost Rule.tja"
         },
         {
@@ -13538,26 +13548,6 @@
         },
         {
             "type": "blob",
-            "hash": "f4d12ccdd92f513eeda6c0c18d38b8de85eea954",
-            "path": "04 Children and Folk/Fujisan/Fujisan.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "16912d8baaa43e90754875d1eeb642f4f2a3d528",
-            "path": "04 Children and Folk/Fujisan/Fujisan.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "d722d06b0ba403f83dff202b6d79c0b0c1245310",
-            "path": "04 Children and Folk/Furusato/Furusato.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "7af4d0c834c14f4cd3e7eb6c48d85164ff3ca65d",
-            "path": "04 Children and Folk/Furusato/Furusato.tja"
-        },
-        {
-            "type": "blob",
             "hash": "e4768327aedd2ca0c6b36513d953f2f936e490ba",
             "path": "04 Children and Folk/Genkotsuyama no Tanukisan/Genkotsuyama no Tanukisan.ogg"
         },
@@ -14173,7 +14163,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc6c9f1df57234352e433ac62d05230f4b752263",
+            "hash": "819e430579bf73fbc7d80d44d9effda4f2ee37ab",
             "path": "04 Children and Folk/Osakana Mainichi! Sakana-kun/Osakana Mainichi! Sakana-kun.tja"
         },
         {
@@ -16048,6 +16038,21 @@
         },
         {
             "type": "blob",
+            "hash": "74d9125d61917264b7502bb3bbe4cf63d4287b56",
+            "path": "06 Classical/Fuji no Yama/Fuji no Yama (RT).tja"
+        },
+        {
+            "type": "blob",
+            "hash": "f4d12ccdd92f513eeda6c0c18d38b8de85eea954",
+            "path": "06 Classical/Fuji no Yama/Fuji no Yama.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5248cc485d438233cb4323ec65ac169ab2076cd5",
+            "path": "06 Classical/Fuji no Yama/Fuji no Yama.tja"
+        },
+        {
+            "type": "blob",
             "hash": "f5acc7ec5a9bcccfc9a0d380af24b62c6bc7f643",
             "path": "06 Classical/Funiculi Funicula/Funiculi Funicula.ogg"
         },
@@ -16055,6 +16060,21 @@
             "type": "blob",
             "hash": "5de090676816cc0d3a906a46ff40fb98a65e2af6",
             "path": "06 Classical/Funiculi Funicula/Funiculi Funicula.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "27884d69ac9ea1f3d8e93f383d78d3e7e7252d0c",
+            "path": "06 Classical/Furusato/Furusato (RT).tja"
+        },
+        {
+            "type": "blob",
+            "hash": "b8af01ecb56ed0c0e1d13fe29adc4c1f45011c8e",
+            "path": "06 Classical/Furusato/Furusato.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "004e5233933e1e157a6ee78080da647fb6699115",
+            "path": "06 Classical/Furusato/Furusato.tja"
         },
         {
             "type": "blob",
@@ -16465,6 +16485,16 @@
             "type": "blob",
             "hash": "1fb6ae7f9f9b93ae97b73fe92ec1aec428199cef",
             "path": "06 Classical/Toccata and Fugue and Rock/Toccata and Fugue and Rock.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "dbb0cf64e17b519d9be13abbf09314e28c23d8e6",
+            "path": "06 Classical/Tokyo Ondo/Tokyo Ondo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "add16228ecaaaaab7d6d8f92c71563ca28effcf3",
+            "path": "06 Classical/Tokyo Ondo/Tokyo Ondo.tja"
         },
         {
             "type": "blob",
@@ -17013,7 +17043,7 @@
         },
         {
             "type": "blob",
-            "hash": "f9d353479696ac1b3eb55747a331c18e196bc8a7",
+            "hash": "ea236f210569543a9d0fc7b4c0531ef1caff64d5",
             "path": "07 Game Music/Campus Mode/Campus Mode.tja"
         },
         {
@@ -17433,7 +17463,7 @@
         },
         {
             "type": "blob",
-            "hash": "b4c2adb4883127b6d1661885bd38e7d2dc20e0d4",
+            "hash": "dc6b9c99ed2c20fbdb408ca12d58500deb8a0ccc",
             "path": "07 Game Music/Fighting my way/Fighting my way.tja"
         },
         {
@@ -19093,7 +19123,7 @@
         },
         {
             "type": "blob",
-            "hash": "7588daf946c1e8c72654ca97c1789299b9633b92",
+            "hash": "a0813a2caf07129ff1e21b67ed924aa14bb0fb6b",
             "path": "07 Game Music/Over Clock ～Kaihou～/Over Clock Kaihou.tja"
         },
         {
@@ -22138,7 +22168,7 @@
         },
         {
             "type": "blob",
-            "hash": "ade6e8a0e534ef91d78db89205aaeee9fe3889c2",
+            "hash": "ab4e2e7ceaa851aaa2b004608628d61a51d039c2",
             "path": "09 Namco Original/Antonio/Antonio.tja"
         },
         {
@@ -26693,6 +26723,16 @@
         },
         {
             "type": "blob",
+            "hash": "9313c98703c31908f1a4867e058661d6cd46fab9",
+            "path": "09 Namco Original/Senkou Tenbu/Senkou Tenbu.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a8181a14c3f5bd2fb1d6fade6b65beb7be4c2e89",
+            "path": "09 Namco Original/Senkou Tenbu/Senkou Tenbu.tja"
+        },
+        {
+            "type": "blob",
             "hash": "078abcdfbc39e9dabb4590638aa80b5969c89b69",
             "path": "09 Namco Original/Senkou Valkyria/Senkou Valkyria.ogg"
         },
@@ -27478,7 +27518,7 @@
         },
         {
             "type": "blob",
-            "hash": "57d12d5a96e91ab2896bc4452c0860c8994e0c15",
+            "hash": "38e345ce273c5d098a9ff753ae327afb7bc868ac",
             "path": "09 Namco Original/Time Traveler/Time Traveler.tja"
         },
         {
@@ -28098,7 +28138,7 @@
         },
         {
             "type": "blob",
-            "hash": "b3495fc846eee0b9aa0138d6cef48c421fc91a44",
+            "hash": "dd1667367cdcab31b0e8697e4cbdff9442a4e6dc",
             "path": "09 Namco Original/Yume to Genjitsu no Kyoukaisen/Yume to Genjitsu no Kyoukaisen.tja"
         },
         {
@@ -30177,6 +30217,22 @@
             }
         },
         {
+            "path": "01 Pop/365-po no March/365-po no March.tja",
+            "title": {
+                "en": "365-po no March",
+                "ja": "三百六十五歩のマーチ"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.59,
+            "courses": {
+                "Oni": 3,
+                "Hard": 2,
+                "Normal": 1,
+                "Easy": 1
+            }
+        },
+        {
             "path": "01 Pop/366-Nichi/366-Nichi.tja",
             "title": {
                 "en": "366-Nichi",
@@ -31080,6 +31136,25 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Bai Bai FIGHT/Bai Bai FIGHT.tja",
+            "title": {
+                "en": "Bai Bai FIGHT!",
+                "ja": "倍倍FIGHT!"
+            },
+            "subtitle": {
+                "en": "CANDY TUNE",
+                "ja": "CANDY TUNE"
+            },
+            "category": "Pop",
+            "offset": -2.161,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 3
             }
         },
         {
@@ -35691,26 +35766,6 @@
             }
         },
         {
-            "path": "01 Pop/Lassen Gorelai/Lassen Gorelai.tja",
-            "title": {
-                "en": "Lassen Gorelai",
-                "ja": "ラッスンゴレライ"
-            },
-            "subtitle": {
-                "en": "8.6-second Bazooka",
-                "ja": "8.6秒バズーカー"
-            },
-            "category": "Pop",
-            "offset": -1.716,
-            "courses": {
-                "Edit": 9,
-                "Oni": 7,
-                "Hard": 5,
-                "Normal": 5,
-                "Easy": 3
-            }
-        },
-        {
             "path": "01 Pop/Last Christmas/Last Christmas.tja",
             "title": {
                 "en": "Last Christmas",
@@ -38586,6 +38641,25 @@
             }
         },
         {
+            "path": "01 Pop/RuLe/RuLe.tja",
+            "title": {
+                "en": "RuLe",
+                "ja": "ルル"
+            },
+            "subtitle": {
+                "en": "Ado / From Drama \"Billion x School\"",
+                "ja": "Ado ドラマ「ビリオン×スクール」より"
+            },
+            "category": "Pop",
+            "offset": -1.256,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Ruma/Ruma.tja",
             "title": {
                 "en": "Ruma",
@@ -40181,6 +40255,7 @@
             "category": "Pop",
             "offset": -2.201,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 5,
@@ -46355,7 +46430,7 @@
                 "ja": "「千と千尋の神隠し」より"
             },
             "category": "Anime",
-            "offset": -4.17,
+            "offset": -2.824,
             "courses": {
                 "Oni": 1,
                 "Hard": 2,
@@ -48235,24 +48310,6 @@
             "courses": {
                 "Oni": 2,
                 "Hard": 1,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
-            "path": "02 Anime/Moonlight Densetsu -Short Version-/Moonlight Densetsu -Short Version-.tja",
-            "title": {
-                "en": "Moonlight Densetsu -Short Version-",
-                "ja": "ムーンライト伝説 -Short Version-"
-            },
-            "subtitle": {
-                "en": "DALI/Sailor Moon"
-            },
-            "category": "Anime",
-            "offset": -4.673,
-            "courses": {
-                "Oni": 1,
-                "Hard": 5,
                 "Normal": 2,
                 "Easy": 2
             }
@@ -55095,40 +55152,6 @@
             }
         },
         {
-            "path": "04 Children and Folk/Fujisan/Fujisan.tja",
-            "title": {
-                "en": "Fujisan",
-                "ja": "富士山"
-            },
-            "subtitle": {
-                "en": "Sazanami Iwaya"
-            },
-            "category": "Children and Folk",
-            "offset": -2.802,
-            "courses": {
-                "Oni": 3,
-                "Hard": 3,
-                "Normal": 1,
-                "Easy": 1
-            }
-        },
-        {
-            "path": "04 Children and Folk/Furusato/Furusato.tja",
-            "title": {
-                "en": "Furusato",
-                "ja": "ふるさと"
-            },
-            "subtitle": {
-                "en": "Sadakazu Okano"
-            },
-            "category": "Children and Folk",
-            "offset": -6.773,
-            "courses": {
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "04 Children and Folk/Genkotsuyama no Tanukisan/Genkotsuyama no Tanukisan.tja",
             "title": {
                 "en": "Genkotsuyama no Tanukisan",
@@ -56149,7 +56172,7 @@
                 "ja": "さかなクン"
             },
             "category": "Children and Folk",
-            "offset": -4.208,
+            "offset": -4.23,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -59530,6 +59553,41 @@
             }
         },
         {
+            "path": "06 Classical/Fuji no Yama/Fuji no Yama (RT).tja",
+            "title": {
+                "en": "Fuji no Yama -RT Chart-",
+                "ja": "富士山"
+            },
+            "subtitle": {
+                "en": "Sazanami Iwaya",
+                "ja": "RT譜面"
+            },
+            "category": "Classical",
+            "offset": -8.022,
+            "courses": {
+                "Normal": 1,
+                "Easy": 1
+            }
+        },
+        {
+            "path": "06 Classical/Fuji no Yama/Fuji no Yama.tja",
+            "title": {
+                "en": "Fuji no Yama",
+                "ja": "ふじの山"
+            },
+            "subtitle": {
+                "en": "Sazanami Iwaya"
+            },
+            "category": "Classical",
+            "offset": -2.805,
+            "courses": {
+                "Oni": 3,
+                "Hard": 3,
+                "Normal": 1,
+                "Easy": 2
+            }
+        },
+        {
             "path": "06 Classical/Funiculi Funicula/Funiculi Funicula.tja",
             "title": {
                 "en": "Funiculi Funicula",
@@ -59546,6 +59604,41 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "06 Classical/Furusato/Furusato (RT).tja",
+            "title": {
+                "en": "Furusato -RT Chart-",
+                "ja": "ふるさと"
+            },
+            "subtitle": {
+                "en": "Sadakazu Okano",
+                "ja": "RT譜面"
+            },
+            "category": "Classical",
+            "offset": -7.384,
+            "courses": {
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
+            "path": "06 Classical/Furusato/Furusato.tja",
+            "title": {
+                "en": "Furusato",
+                "ja": "ふるさと"
+            },
+            "subtitle": {
+                "en": "Sadakazu Okano"
+            },
+            "category": "Classical",
+            "offset": -5.134,
+            "courses": {
+                "Oni": 1,
+                "Hard": 1,
+                "Normal": 1,
+                "Easy": 1
             }
         },
         {
@@ -60305,6 +60398,22 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "06 Classical/Tokyo Ondo/Tokyo Ondo.tja",
+            "title": {
+                "en": "Tokyo Ondo",
+                "ja": "東京音頭"
+            },
+            "subtitle": {},
+            "category": "Classical",
+            "offset": -2.821,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 1,
+                "Easy": 1
             }
         },
         {
@@ -61335,8 +61444,8 @@
         {
             "path": "07 Game Music/Campus Mode/Campus Mode.tja",
             "title": {
-                "en": "Campus Mode!!",
-                "ja": "Campus Mode!!"
+                "en": "Campus mode!!",
+                "ja": "Campus mode!!"
             },
             "subtitle": {
                 "en": "Gakuen iDOLM@STER",
@@ -62121,8 +62230,8 @@
         {
             "path": "07 Game Music/Fighting my way/Fighting my way.tja",
             "title": {
-                "en": "Fighting my way",
-                "ja": "Fighting my way"
+                "en": "Fighting My Way",
+                "ja": "Fighting My Way"
             },
             "subtitle": {
                 "en": "Gakuen iDOLM@STER",
@@ -65255,7 +65364,8 @@
                 "ja": "Over Clock ～開放～"
             },
             "subtitle": {
-                "en": "NAOKI feat. un∞limited/crossbeats REV."
+                "en": "NAOKI feat. un∞limited/crossbeats REV.",
+                "ja": "--NAOKI feat.un∞limited 「クロスビーツレヴ」より"
             },
             "category": "Game Music",
             "offset": -2.001,
@@ -77565,6 +77675,25 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Senkou Tenbu/Senkou Tenbu.tja",
+            "title": {
+                "en": "Senkou Tenbu",
+                "ja": "閃光天舞"
+            },
+            "subtitle": {
+                "en": "Juggernaut.",
+                "ja": "Juggernaut."
+            },
+            "category": "Namco Original",
+            "offset": -1.396,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
