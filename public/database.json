@@ -1,5 +1,5 @@
 {
-    "commit": "7ca99b74706669b80f725383b9a22054ade1af6a",
+    "commit": "56d15a85828d7d96c1cce5e10fc8af4b729e4ec1",
     "blobs": [
         {
             "type": "blob",
@@ -1365,16 +1365,6 @@
             "type": "blob",
             "hash": "ac6c51baba20fea576c95064e3e6fe97fb8f1da4",
             "path": "01 Pop/Everyday, Katyusha/Everyday, Katyusha.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "7360af4436dee12b88ab6abf500a7e11ecd060d9",
-            "path": "01 Pop/FANTASTIC BABY/FANTASTIC BABY.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "d2aa8f8bfb1e244ce7704b0dad4b509ba55a95e6",
-            "path": "01 Pop/FANTASTIC BABY/FANTASTIC BABY.tja"
         },
         {
             "type": "blob",
@@ -5168,7 +5158,7 @@
         },
         {
             "type": "blob",
-            "hash": "49ede1c28c09988347348be532ccc694b0beb5af",
+            "hash": "4a79c17d47d743aa24024906076a5b38ecb1dbd8",
             "path": "01 Pop/Silent Majority/Silent Majority.tja"
         },
         {
@@ -5248,7 +5238,7 @@
         },
         {
             "type": "blob",
-            "hash": "e18087ea0d537b385bf647f1b816fbd72c520e6a",
+            "hash": "813d13207887754fbd63a6d2eb4ac546e3d566bb",
             "path": "01 Pop/Soup/Soup.tja"
         },
         {
@@ -5488,7 +5478,7 @@
         },
         {
             "type": "blob",
-            "hash": "8bbaa522eb959aeac9a63a486d6f6adbe4c9134c",
+            "hash": "de844b1c7085bb28b2188cbb998dbb3b437e90b5",
             "path": "01 Pop/Swan/Swan.tja"
         },
         {
@@ -5760,16 +5750,6 @@
             "type": "blob",
             "hash": "9ecd8aafc481c95bb484f2122079f825ff716c2f",
             "path": "01 Pop/Toki no Ashioto/Toki no Ashioto.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "7d508757b31c89a8947fc6e907d6905dea83b26a",
-            "path": "01 Pop/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "0aef252e87ff1253aeb24b41ea76a9cc047ccb3a",
-            "path": "01 Pop/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....tja"
         },
         {
             "type": "blob",
@@ -6128,7 +6108,7 @@
         },
         {
             "type": "blob",
-            "hash": "cb6bcc6baf953ebff014feed84f3b518023e71c4",
+            "hash": "e5bec3f6d842be33d3bba87c36f6eb7c80292272",
             "path": "01 Pop/Watari-dori/Watari-dori.tja"
         },
         {
@@ -7093,7 +7073,7 @@
         },
         {
             "type": "blob",
-            "hash": "2cf2e041f67178e8ef2147a06d739916f8fa044a",
+            "hash": "9760f892e4c20a056745191a956cff109466f5f2",
             "path": "02 Anime/Blood Circulator/Blood Circulator.tja"
         },
         {
@@ -7383,7 +7363,7 @@
         },
         {
             "type": "blob",
-            "hash": "17e2249b76261428f4056fdaa6cd1646017b04f9",
+            "hash": "4272a668d9ebb2ba339891ddf27c33ba0022b4fa",
             "path": "02 Anime/Chouzetsu☆Dynamic!/Chouzetsu Dynamic!.tja"
         },
         {
@@ -7855,16 +7835,6 @@
             "type": "blob",
             "hash": "8e2a883f14a575b49a0c6b3276d2944c811c6348",
             "path": "02 Anime/ETERNAL BLAZE/ETERNAL BLAZE.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "1b76c85c9584bc41d855d340c564a5d3a3c96041",
-            "path": "02 Anime/EXCITE/EXCITE.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "897224d44241a1c92691adeafe3ebf5d37182c1b",
-            "path": "02 Anime/EXCITE/EXCITE.tja"
         },
         {
             "type": "blob",
@@ -8443,7 +8413,7 @@
         },
         {
             "type": "blob",
-            "hash": "20e38ff5cbb5d1f5969a699c34a31eda80165474",
+            "hash": "ed7308ffecaafdeb7640108618abe1c507c07bf2",
             "path": "02 Anime/Hanamaru Biyori!/Hanamaru Biyori!.tja"
         },
         {
@@ -8643,7 +8613,7 @@
         },
         {
             "type": "blob",
-            "hash": "f5a98e8277aec651edf1aa129e1e9324977d2f74",
+            "hash": "f194d69994dfd4f1c77f3c1616511cf23edbceaf",
             "path": "02 Anime/Hikari Are/Hikari Are.tja"
         },
         {
@@ -10338,12 +10308,22 @@
         },
         {
             "type": "blob",
-            "hash": "0a16ef184691c54b46f47e2fb2ecd741ae630445",
+            "hash": "ddec5d5e6548a0d9dfd2dbc3e555022ff525f316",
+            "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum(old).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f6bf6b63be5d8d2e81a11f082ce4fa04f6cf1947",
+            "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum(old).tja"
+        },
+        {
+            "type": "blob",
+            "hash": "581263eeefc8086d44189363b2c22d36e77e287a",
             "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum.ogg"
         },
         {
             "type": "blob",
-            "hash": "bbd7458dc3033d2c92e01d51281209039c4e6469",
+            "hash": "17e16976be593818e38b726a19e80db89abdb24b",
             "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum.tja"
         },
         {
@@ -11118,12 +11098,12 @@
         },
         {
             "type": "blob",
-            "hash": "e73be29b2d2c3391a7edf0e5e77e63a9a8162202",
+            "hash": "b6afa6b525e21c914c8ffa8b5b7d0f52918e9bd8",
             "path": "02 Anime/S・M・I・L・E/S M I L E.ogg"
         },
         {
             "type": "blob",
-            "hash": "d4c467813c84080795b4e1888bee035d68ba4579",
+            "hash": "3a3afe3e0f1a4034ac00e6f16c29314be14e27fb",
             "path": "02 Anime/S・M・I・L・E/S M I L E.tja"
         },
         {
@@ -11298,6 +11278,16 @@
         },
         {
             "type": "blob",
+            "hash": "7d508757b31c89a8947fc6e907d6905dea83b26a",
+            "path": "02 Anime/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "91bf73def1919ec7b9a1b514927983b1b7497452",
+            "path": "02 Anime/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....tja"
+        },
+        {
+            "type": "blob",
             "hash": "ded0ff6943bdac02523e0d7028186388f963c344",
             "path": "02 Anime/Tonari no Totoro/Tonari no Totoro.ogg"
         },
@@ -11313,7 +11303,7 @@
         },
         {
             "type": "blob",
-            "hash": "33fe18026e138e9f6b7261b8a751f639588ea2fd",
+            "hash": "90e1f7a7d5018401b311d2d4d55192be05e96900",
             "path": "02 Anime/Tonkatsu DJ Agetarou -Tatsujin Mix-/Tonkatsu DJ Agetarou -Tatsujin Mix-.tja"
         },
         {
@@ -11393,7 +11383,7 @@
         },
         {
             "type": "blob",
-            "hash": "e0c04095ce2edbb1ac37e7144754fa6510b47109",
+            "hash": "b2c0a47b3796915b8b14c669f709118804304631",
             "path": "02 Anime/Try Everything/Try Everything.tja"
         },
         {
@@ -11913,7 +11903,7 @@
         },
         {
             "type": "blob",
-            "hash": "95ccdc69038a8502420d2bb9e988e185d26431b9",
+            "hash": "f15ae4e1964ac6a699d9f52360fabad3648b3ed1",
             "path": "02 Anime/You Got a Otomodachi/You Got a Otomodachi.tja"
         },
         {
@@ -12178,7 +12168,7 @@
         },
         {
             "type": "blob",
-            "hash": "15a40f5481ebbc9dff5445a8adc986d3b113afe1",
+            "hash": "f472c4da89a0cfafc6ec00adec967aa7e484c76a",
             "path": "03 Vocaloid/Alien Alien/Alien Alien.tja"
         },
         {
@@ -13528,6 +13518,16 @@
         },
         {
             "type": "blob",
+            "hash": "1b76c85c9584bc41d855d340c564a5d3a3c96041",
+            "path": "04 Children and Folk/EXCITE/EXCITE.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "24ec9a2257ac3b47453acba1654f1558ecbdc762",
+            "path": "04 Children and Folk/EXCITE/EXCITE.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4a8a24dae762df7bcbc06e738b5948e6864f4d59",
             "path": "04 Children and Folk/Ebikanics/Ebikanics.ogg"
         },
@@ -14205,16 +14205,6 @@
             "type": "blob",
             "hash": "52f57b9907a40de1212e189d8fc9ce2aa66605eb",
             "path": "04 Children and Folk/Papa Mama Mc/Papa Mama Mc.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "5da40e5c12d3e636eb933edb73035ac11e5dfd46",
-            "path": "04 Children and Folk/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "c674ebaa4880937b23e313283d0509de3e3627be",
-            "path": "04 Children and Folk/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.tja"
         },
         {
             "type": "blob",
@@ -14953,6 +14943,16 @@
         },
         {
             "type": "blob",
+            "hash": "7360af4436dee12b88ab6abf500a7e11ecd060d9",
+            "path": "05 Variety/FANTASTIC BABY/FANTASTIC BABY.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b6e87da92f59cc7cadb5973d7205090739170cab",
+            "path": "05 Variety/FANTASTIC BABY/FANTASTIC BABY.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1f447dae48e9a0936deca591f468aea0c3fa36ba",
             "path": "05 Variety/FREEDOM DiVE/FREEDOM DiVE.ogg"
         },
@@ -15463,6 +15463,16 @@
         },
         {
             "type": "blob",
+            "hash": "6244d2f10a7a63954467924fa6aa087fdcaeecaf",
+            "path": "05 Variety/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "e1f4676dd5c74bef8ecb18c94d15d027a491b2fe",
+            "path": "05 Variety/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.tja"
+        },
+        {
+            "type": "blob",
             "hash": "e7155e9d1b17995c885cddf548c8d6af1e139f77",
             "path": "05 Variety/Pixel Galaxy/Pixel Galaxy.ogg"
         },
@@ -15743,7 +15753,7 @@
         },
         {
             "type": "blob",
-            "hash": "936e058d85f802ee2be6fc2cf99261485f713c43",
+            "hash": "985e2dfebd77122c68dda1cec47c5f2e5e777b94",
             "path": "05 Variety/conflict/conflict.tja"
         },
         {
@@ -16663,7 +16673,7 @@
         },
         {
             "type": "blob",
-            "hash": "1ec137b0da0de6a71a104d5e339138c20d35ea40",
+            "hash": "9ac3d3a111ca4e95455b5ef3b7f6f7b7ce655702",
             "path": "07 Game Music/Abandoned Temple Final Second/Abandoned Temple Final Second.tja"
         },
         {
@@ -16793,7 +16803,7 @@
         },
         {
             "type": "blob",
-            "hash": "8aa4c861112f2c32f3b76b618444da5d686f8b42",
+            "hash": "e4af3f2440a349dee1b75fca4936fdd24a395196",
             "path": "07 Game Music/Anzu no Uta/Anzu no Uta.tja"
         },
         {
@@ -17093,7 +17103,7 @@
         },
         {
             "type": "blob",
-            "hash": "cc672c610323bf7ba5dc77f7b92ef858f775e982",
+            "hash": "306752126fb7561f3f3f4dcc32f6737e7cdba236",
             "path": "07 Game Music/Chain Chronicle Total War Medley/Chain Chronicle Total War Medley.tja"
         },
         {
@@ -17413,7 +17423,7 @@
         },
         {
             "type": "blob",
-            "hash": "89481e57ef3a1bfc6c8bddba88a12ce812e00a50",
+            "hash": "5c41acb1c5c45490ec51e635b2e4055757bf1672",
             "path": "07 Game Music/Famicom Medley/Famicom Medley.tja"
         },
         {
@@ -18713,7 +18723,7 @@
         },
         {
             "type": "blob",
-            "hash": "9fec71dad8e7fce0ca2f3b3740f6f91a6dccfbea",
+            "hash": "b73f59f4c188eb43f843efe22afa0bd073db6e01",
             "path": "07 Game Music/Mitsuboshi☆☆★/Mitsuboshi.tja"
         },
         {
@@ -19263,7 +19273,7 @@
         },
         {
             "type": "blob",
-            "hash": "61e000e4426c3e5289a3d9381230b70fbf050cbc",
+            "hash": "e29dfdecc598003fd19690317a89dd10ca6fdcc5",
             "path": "07 Game Music/Pokemon Sun and Moon Medley/Pokemon Sun and Moon Medley.tja"
         },
         {
@@ -19823,7 +19833,7 @@
         },
         {
             "type": "blob",
-            "hash": "ea623620b050fae140c4e47960ed97558d367f0a",
+            "hash": "72ca107aded10a110596fe424dbf1e58ae75d3fe",
             "path": "07 Game Music/Super Dragon Ball Heroes Theme Song/Super Dragon Ball Heroes Theme Song.tja"
         },
         {
@@ -20333,7 +20343,7 @@
         },
         {
             "type": "blob",
-            "hash": "5ac84d936b5fdda4d7263c7c38c7afba96d11602",
+            "hash": "72eb418930c2a66700cdd867be7494c318e36f75",
             "path": "07 Game Music/Tsubomi Yumemiru Rapsodia ～Alma no Michibiki～/Tsubomi Yumemiru Rapsodia Alma no Michibiki.tja"
         },
         {
@@ -22088,7 +22098,7 @@
         },
         {
             "type": "blob",
-            "hash": "8b2e0280587cbca351a4059d5e19a5d2fdaa3d22",
+            "hash": "4c7a93804c9d4a43421b6033c5e42353c76ed8c9",
             "path": "09 Namco Original/Amaterasu/Amaterasu.tja"
         },
         {
@@ -23233,7 +23243,7 @@
         },
         {
             "type": "blob",
-            "hash": "ab0163bb8532a1f785d65b6498c070b7386aa6b9",
+            "hash": "7591ba3f568463bd2ecb784c2b95b3648ea9f465",
             "path": "09 Namco Original/Donko no First Date/Donko no First Date.tja"
         },
         {
@@ -23718,7 +23728,7 @@
         },
         {
             "type": "blob",
-            "hash": "17fc30dc11ba70e800571171f86cd06413e62851",
+            "hash": "36263f2fa2507b79c6d93fab19113f77239e90a7",
             "path": "09 Namco Original/Gasshou Stabofe!/Gasshou Stabofe!.tja"
         },
         {
@@ -25823,7 +25833,7 @@
         },
         {
             "type": "blob",
-            "hash": "3603aa542db7d8beb2d80f4781db9320d815bced",
+            "hash": "b1b1dd1b52d8dcc309c7f3579f3ef617c2c3f33a",
             "path": "09 Namco Original/No Gravity/No Gravity.tja"
         },
         {
@@ -26478,7 +26488,7 @@
         },
         {
             "type": "blob",
-            "hash": "890356edcf5cd5316a9a345f5f2f77e9e5ee5d40",
+            "hash": "36e38c0a5c2b128d48ec9eda25a04981dd30586a",
             "path": "09 Namco Original/SAKURA EXHAUST/SAKURA EXHAUST.tja"
         },
         {
@@ -27828,7 +27838,7 @@
         },
         {
             "type": "blob",
-            "hash": "e2410508b6f3d05741ba82d174f9faaca77a1990",
+            "hash": "b90b63f1d017dd94e9574db78558d1097751b800",
             "path": "09 Namco Original/VICTORIA/VICTORIA.tja"
         },
         {
@@ -32591,24 +32601,6 @@
                 "Oni": 6,
                 "Hard": 4,
                 "Normal": 2,
-                "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/FANTASTIC BABY/FANTASTIC BABY.tja",
-            "title": {
-                "en": "FANTASTIC BABY",
-                "ja": "FANTASTIC BABY"
-            },
-            "subtitle": {
-                "en": "Big Bang"
-            },
-            "category": "Pop",
-            "offset": -2.139,
-            "courses": {
-                "Oni": 7,
-                "Hard": 5,
-                "Normal": 3,
                 "Easy": 3
             }
         },
@@ -39544,7 +39536,8 @@
                 "ja": "サイレントマジョリティー"
             },
             "subtitle": {
-                "en": "Sakurazaka46/mechakari"
+                "en": "Sakurazaka46/mechakari",
+                "ja": " "
             },
             "category": "Pop",
             "offset": -8.399,
@@ -39689,7 +39682,8 @@
                 "ja": "Soup"
             },
             "subtitle": {
-                "en": "Sakura Fujiwara"
+                "en": "Sakura Fujiwara",
+                "ja": " "
             },
             "category": "Pop",
             "offset": -3.179,
@@ -40128,7 +40122,7 @@
                 "ja": "[Alexandros]"
             },
             "category": "Pop",
-            "offset": -1.809,
+            "offset": -1.814,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -40620,24 +40614,6 @@
             "offset": -11.776,
             "courses": {
                 "Oni": 5
-            }
-        },
-        {
-            "path": "01 Pop/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....tja",
-            "title": {
-                "en": "Tomo yo ～Kono Saki mo Zutto...",
-                "ja": "友よ ～この先もずっと…"
-            },
-            "subtitle": {
-                "en": "Ketsumeishi/Crayon Shin-chan"
-            },
-            "category": "Pop",
-            "offset": -7.661,
-            "courses": {
-                "Oni": 5,
-                "Hard": 4,
-                "Normal": 4,
-                "Easy": 2
             }
         },
         {
@@ -44484,24 +44460,6 @@
             }
         },
         {
-            "path": "02 Anime/EXCITE/EXCITE.tja",
-            "title": {
-                "en": "EXCITE"
-            },
-            "subtitle": {
-                "en": "Daichi Miura/Kamen Rider Ex-Aid",
-                "ja": "「仮面ライダーエグゼイド」より"
-            },
-            "category": "Anime",
-            "offset": -2.382,
-            "courses": {
-                "Oni": 7,
-                "Hard": 5,
-                "Normal": 3,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Engine Sentai Go Onger/Engine Sentai Go Onger.tja",
             "title": {
                 "en": "Engine Sentai Go Onger",
@@ -45586,7 +45544,7 @@
             "category": "Anime",
             "offset": -1.608,
             "courses": {
-                "Oni": 3,
+                "Oni": 8,
                 "Hard": 7,
                 "Normal": 5,
                 "Easy": 3
@@ -49163,17 +49121,36 @@
             }
         },
         {
-            "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum.tja",
+            "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum(old).tja",
             "title": {
-                "en": "Paradisus-Paradoxum",
+                "en": "Paradisus-Paradoxum -Old Audio-",
                 "ja": "Paradisus-Paradoxum"
             },
             "subtitle": {
                 "en": "MYTH & ROID/Re：Zero -Kara Hajimeru Isekai Seikatsu-",
-                "ja": "「Re:ゼロから始める異世界生活」より"
+                "ja": "旧音源 「Re:ゼロから始める異世界生活」より"
             },
             "category": "Anime",
-            "offset": -7.248,
+            "offset": -7.964,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Paradisus-Paradoxum/Paradisus-Paradoxum.tja",
+            "title": {
+                "en": "Paradisus-Paradoxum -New Audio-",
+                "ja": "Paradisus-Paradoxum"
+            },
+            "subtitle": {
+                "en": "MYTH & ROID/Re：Zero -Kara Hajimeru Isekai Seikatsu-",
+                "ja": "新音源 「Re:ゼロから始める異世界生活」より"
+            },
+            "category": "Anime",
+            "offset": -7.931,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -50630,7 +50607,7 @@
                 "ja": "「はなかっぱ」より"
             },
             "category": "Anime",
-            "offset": -1.693,
+            "offset": -1.559,
             "courses": {
                 "Oni": 5,
                 "Hard": 5,
@@ -50948,6 +50925,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Tomo yo ～Kono Saki mo Zutto/Tomo yo Kono Saki mo Zutto....tja",
+            "title": {
+                "en": "Tomo yo ～Kono Saki mo Zutto...",
+                "ja": "友よ ～この先もずっと…"
+            },
+            "subtitle": {
+                "en": "Ketsumeishi/Crayon Shin-chan",
+                "ja": "「映画クレヨンしんちゃん 爆睡！ユメミーワールド大突撃」より"
+            },
+            "category": "Anime",
+            "offset": -7.661,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -55115,6 +55111,24 @@
             }
         },
         {
+            "path": "04 Children and Folk/EXCITE/EXCITE.tja",
+            "title": {
+                "en": "EXCITE"
+            },
+            "subtitle": {
+                "en": "Daichi Miura/Kamen Rider Ex-Aid",
+                "ja": "「仮面ライダーエグゼイド」より"
+            },
+            "category": "Children and Folk",
+            "offset": -2.382,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "04 Children and Folk/Ebikanics/Ebikanics.tja",
             "title": {
                 "en": "Ebikanics",
@@ -56252,24 +56266,6 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 4
-            }
-        },
-        {
-            "path": "04 Children and Folk/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.tja",
-            "title": {
-                "en": "Pen-Pineapple-Apple-Pen",
-                "ja": "ペンパイナッポーアッポーペン(PPAP)"
-            },
-            "subtitle": {
-                "en": "Picotaro"
-            },
-            "category": "Children and Folk",
-            "offset": -2.861,
-            "courses": {
-                "Oni": 7,
-                "Hard": 4,
-                "Normal": 4,
-                "Easy": 2
             }
         },
         {
@@ -57546,6 +57542,25 @@
             }
         },
         {
+            "path": "05 Variety/FANTASTIC BABY/FANTASTIC BABY.tja",
+            "title": {
+                "en": "FANTASTIC BABY",
+                "ja": "FANTASTIC BABY"
+            },
+            "subtitle": {
+                "en": "Big Bang",
+                "ja": " "
+            },
+            "category": "Variety",
+            "offset": -2.139,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
             "path": "05 Variety/FREEDOM DiVE/FREEDOM DiVE.tja",
             "title": {
                 "en": "FREEDOM DiVE↓",
@@ -58498,6 +58513,25 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "05 Variety/Pen-Pineapple-Apple-Pen/Pen-Pineapple-Apple-Pen.tja",
+            "title": {
+                "en": "Pen-Pineapple-Apple-Pen",
+                "ja": "ペンパイナッポーアッポーペン(PPAP)"
+            },
+            "subtitle": {
+                "en": "Picotaro",
+                "ja": "ピコ太郎"
+            },
+            "category": "Variety",
+            "offset": -2.237,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -60966,10 +61000,11 @@
                 "ja": "あんずのうた"
             },
             "subtitle": {
-                "en": "Takafumi Sato feat. Hiromi Igarashi/THE iDOLM@STER ONE FOR ALL"
+                "en": "Takafumi Sato feat. Hiromi Igarashi/THE iDOLM@STER ONE FOR ALL",
+                "ja": "「アイドルマスター シンデレラガールズ」より"
             },
             "category": "Game Music",
-            "offset": -4.168,
+            "offset": -4.152,
             "courses": {
                 "Oni": 7,
                 "Hard": 6,
@@ -61543,7 +61578,8 @@
                 "ja": "チェインクロニクル 総力戦メドレー"
             },
             "subtitle": {
-                "en": "Takahiro Kai/Chain Chronicle"
+                "en": "Takahiro Kai/Chain Chronicle",
+                "ja": " "
             },
             "category": "Game Music",
             "offset": -2.201,
@@ -65626,7 +65662,8 @@
                 "ja": "「ポケットモンスター サン・ムーン」メドレー"
             },
             "subtitle": {
-                "en": "Marimo Laboratory/Pokémon Sun & Moon"
+                "en": "Marimo Laboratory/Pokémon Sun & Moon",
+                "ja": " "
             },
             "category": "Game Music",
             "offset": -1.842,
@@ -67596,10 +67633,11 @@
                 "ja": "華蕾夢ミル狂詩曲～魂ノ導～"
             },
             "subtitle": {
-                "en": "Sir Hirokawa feat. Maaya Uchida/THE iDOLM@STER ONE FOR ALL"
+                "en": "Sir Hirokawa feat. Maaya Uchida/THE iDOLM@STER ONE FOR ALL",
+                "ja": "「アイドルマスター シンデレラガールズ」より"
             },
             "category": "Game Music",
-            "offset": -4.134,
+            "offset": -4.139,
             "courses": {
                 "Edit": 9,
                 "Oni": 8,
@@ -68968,7 +69006,7 @@
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 7,
-                "Easy": 5
+                "Easy": 4
             }
         },
         {
@@ -71113,10 +71151,10 @@
                 "ja": "どん子のファーストデート"
             },
             "subtitle": {
-                "en": "Shika@ni-san"
+                "ja": " "
             },
             "category": "Namco Original",
-            "offset": -4.096,
+            "offset": -2.829,
             "courses": {
                 "Edit": 8,
                 "Oni": 4,
@@ -75979,7 +76017,8 @@
                 "ja": "No Gravity"
             },
             "subtitle": {
-                "en": "Lyo"
+                "en": "Lyo",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.934,
@@ -79786,7 +79825,7 @@
                 "ja": "Cranky"
             },
             "category": "Namco Original",
-            "offset": -2.695,
+            "offset": -1.398,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
