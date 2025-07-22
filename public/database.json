@@ -1,5 +1,5 @@
 {
-    "commit": "56d15a85828d7d96c1cce5e10fc8af4b729e4ec1",
+    "commit": "bd9fe027cf7cbddc55d92e16154942929f14f71e",
     "blobs": [
         {
             "type": "blob",
@@ -4010,6 +4010,16 @@
             "type": "blob",
             "hash": "3521cf1ad9b2d9a34b7fa431d6d9b61cc1c966e7",
             "path": "01 Pop/O2/O2.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "5522b001d5672ab4884577103afae01efe7c6001",
+            "path": "01 Pop/Ochame Kinou/Ochame Kinou.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d9d0ab441fa705eb75641aec7f3b40f3078ffb1f",
+            "path": "01 Pop/Ochame Kinou/Ochame Kinou.tja"
         },
         {
             "type": "blob",
@@ -17703,12 +17713,17 @@
         },
         {
             "type": "blob",
+            "hash": "ba691bce77c197a8238cf6a87acf66e704cf086c",
+            "path": "07 Game Music/HELLO!!/“HELLO!!” (Wii2).tja"
+        },
+        {
+            "type": "blob",
             "hash": "0eac60cfebe0e20b5c1df4bbf8c1d2d422ef0a0c",
             "path": "07 Game Music/HELLO!!/“HELLO!!”.ogg"
         },
         {
             "type": "blob",
-            "hash": "fef76d2ff9d272d8f678e6dfd881f8f8b5b5a94a",
+            "hash": "ff275bdc04a080aca576d3c1371d3132b1aff03e",
             "path": "07 Game Music/HELLO!!/“HELLO!!”.tja"
         },
         {
@@ -17813,12 +17828,17 @@
         },
         {
             "type": "blob",
+            "hash": "995dd72980a6e85b5eda27b678ca804fe2aa5b95",
+            "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "1cc31cc395427864e9c476dcdd697911f93dfdd2",
             "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix.ogg"
         },
         {
             "type": "blob",
-            "hash": "71a83409e0bd7a8ba0af4cf9b0b0ec6cb3a05a91",
+            "hash": "b51c945f4346439ebdb3f339871974d4f8f95685",
             "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix.tja"
         },
         {
@@ -18273,12 +18293,17 @@
         },
         {
             "type": "blob",
+            "hash": "fd12cee54ef59021326dafd4a49c53ddd67f3ab1",
+            "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "578c742176a63dfcdb2ff8f0256a3b8d40e61227",
             "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl -765PRO ALLSTARS Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "84698a6d957926e0ac4ea8b3e0fde186738748bc",
+            "hash": "1d1c7413146f121a778e7eaf86fd404f5b23dc8e",
             "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl -765PRO ALLSTARS Version-.tja"
         },
         {
@@ -18528,12 +18553,17 @@
         },
         {
             "type": "blob",
+            "hash": "e617957aada5eb8d6b9e23265d582863a9a30289",
+            "path": "07 Game Music/MUSIC♪/MUSIC (Wii5).tja"
+        },
+        {
+            "type": "blob",
             "hash": "908d530a6537c1b07819b723083a399c4608c84e",
             "path": "07 Game Music/MUSIC♪/MUSIC.ogg"
         },
         {
             "type": "blob",
-            "hash": "357540b208c0bbcdd7c8f86b536fef2f9e1c5a41",
+            "hash": "ebe9c6dc42b7002b77859466d91eeef8e9237b2e",
             "path": "07 Game Music/MUSIC♪/MUSIC.tja"
         },
         {
@@ -18868,12 +18898,17 @@
         },
         {
             "type": "blob",
+            "hash": "c4ba263501ec2ba44d6a05bb5b153315dbad6d9e",
+            "path": "07 Game Music/Nanairo Button/Nanairo Button (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "7de99f77972d7953c007438938c8c6373fdbaa2e",
             "path": "07 Game Music/Nanairo Button/Nanairo Button.ogg"
         },
         {
             "type": "blob",
-            "hash": "c3c25c7a9e7a9a0e1ef741363976cd3079e2e5c1",
+            "hash": "f92d346d133713d3d749b20f8cc487fc28391633",
             "path": "07 Game Music/Nanairo Button/Nanairo Button.tja"
         },
         {
@@ -19028,12 +19063,17 @@
         },
         {
             "type": "blob",
+            "hash": "d81a3b52e89ca3071c2d8a41dc8f2eb4d5669342",
+            "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "ceede25728283df2bb0b507db475cf02e9f6cfd6",
             "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE.ogg"
         },
         {
             "type": "blob",
-            "hash": "c4d0c13023f0606f91e134139870334b0d482d2d",
+            "hash": "c97a524eb366e10d25cc0a2b56bb9b8e1e639d75",
             "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE.tja"
         },
         {
@@ -19338,12 +19378,17 @@
         },
         {
             "type": "blob",
+            "hash": "95204bf0f33dde1d175ab4344cc26ad12840f261",
+            "path": "07 Game Music/READY!!/READY!! (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "597c45ba9e3b38c7dae5d08d82ec3b9221ff93c2",
             "path": "07 Game Music/READY!!/READY!!.ogg"
         },
         {
             "type": "blob",
-            "hash": "2dc5f1746e3553205867806d23b2199d595e84d9",
+            "hash": "113cc0d02d591588e0f0d1f3349c46a9e9dcd879",
             "path": "07 Game Music/READY!!/READY!!.tja"
         },
         {
@@ -19518,12 +19563,17 @@
         },
         {
             "type": "blob",
+            "hash": "7ba4217a2affe0d275d5af544dc83dc82e5d984c",
+            "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL (AC16).tja"
+        },
+        {
+            "type": "blob",
             "hash": "40916569c66e173db709a6c4f863f487a5b5c4ed",
             "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL.ogg"
         },
         {
             "type": "blob",
-            "hash": "1aa18b28f01fe9481eeb7b07627ba0e293a86e96",
+            "hash": "079918b4745926400b6d909bd4e7e6826928fa22",
             "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL.tja"
         },
         {
@@ -28405,6 +28455,16 @@
             "type": "blob",
             "hash": "bc25571449dd5d5c0d3421d78fe1df5431e25368",
             "path": "09 Namco Original/punk bastards/punk bastards.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1a51cec182483479bb3446d8deb3e8c3cb330230",
+            "path": "09 Namco Original/sirens eye/sirens eye.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5332f4837507a470fe5129a70775f933cc6961d4",
+            "path": "09 Namco Original/sirens eye/sirens eye.tja"
         },
         {
             "type": "blob",
@@ -37447,6 +37507,25 @@
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Ochame Kinou/Ochame Kinou.tja",
+            "title": {
+                "en": "Ochame Kinou",
+                "ja": "おちゃめ機能"
+            },
+            "subtitle": {
+                "en": "GojimajiP feat. Kasane Teto",
+                "ja": "ゴジマジP feat. 重音テト"
+            },
+            "category": "Pop",
+            "offset": -1.071,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -62721,13 +62800,33 @@
             }
         },
         {
-            "path": "07 Game Music/HELLO!!/“HELLO!!”.tja",
+            "path": "07 Game Music/HELLO!!/“HELLO!!” (Wii2).tja",
             "title": {
-                "en": "“HELLO‼”",
+                "en": "“HELLO‼” -Wii2/AC13 Chart-",
                 "ja": "“HELLO!!”"
             },
             "subtitle": {
-                "en": "Satoru Kousaki feat. Haruka Tomatsu/THE iDOLM@STER Dearly Stars"
+                "en": "Satoru Kousaki feat. Haruka Tomatsu/THE iDOLM@STER Dearly Stars",
+                "ja": "Wii2/AC13譜面 「THE IDOLM@STER」より"
+            },
+            "category": "Game Music",
+            "offset": -2.993,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/HELLO!!/“HELLO!!”.tja",
+            "title": {
+                "en": "“HELLO‼” -VitaMS Chart-",
+                "ja": "“HELLO!!”"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. Haruka Tomatsu/THE iDOLM@STER Dearly Stars",
+                "ja": "VitaMS譜面 「THE IDOLM@STER」より"
             },
             "category": "Game Music",
             "offset": -1.606,
@@ -62926,14 +63025,34 @@
             }
         },
         {
-            "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix.tja",
+            "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix (AC16).tja",
             "title": {
-                "en": "Honey Heartbeat ～10 Stars Mix～",
+                "en": "Honey Heartbeat ～10 Stars Mix～ -AC16 Chart-",
                 "ja": "Honey Heartbeat ～10 Stars Mix～"
             },
             "subtitle": {
                 "en": "Linda AI-CUE feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -2.007,
+            "courses": {
+                "Edit": 10,
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Honey Heartbeat ～10 Stars Mix～/Honey Heartbeat 10 Stars Mix.tja",
+            "title": {
+                "en": "Honey Heartbeat ～10 Stars Mix～ -VitaMS Chart-",
+                "ja": "Honey Heartbeat ～10 Stars Mix～"
+            },
+            "subtitle": {
+                "en": "Linda AI-CUE feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -2.007,
@@ -63792,14 +63911,33 @@
             }
         },
         {
-            "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl -765PRO ALLSTARS Version-.tja",
+            "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl (AC16).tja",
             "title": {
-                "en": "Kyun! Vampire Girl -765PRO ALLSTARS Version-",
+                "en": "Kyun! Vampire Girl -AC16 Chart-",
                 "ja": "きゅんっ！ヴァンパイアガール"
             },
             "subtitle": {
                 "en": "Tomoko Sasaki feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.905,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Kyun! Vampire Girl/Kyun! Vampire Girl -765PRO ALLSTARS Version-.tja",
+            "title": {
+                "en": "Kyun! Vampire Girl -VitaMS Chart-",
+                "ja": "きゅんっ！ヴァンパイアガール"
+            },
+            "subtitle": {
+                "en": "Tomoko Sasaki feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.905,
@@ -64278,14 +64416,33 @@
             }
         },
         {
-            "path": "07 Game Music/MUSIC♪/MUSIC.tja",
+            "path": "07 Game Music/MUSIC♪/MUSIC (Wii5).tja",
             "title": {
-                "en": "MUSIC♪",
+                "en": "MUSIC♪ -Wii5 Chart-",
                 "ja": "MUSIC♪"
             },
             "subtitle": {
                 "en": "Ryo Watanabe feat. 765PRO ALLSTARS/THE iDOLM@STER SHINY FESTA",
-                "ja": "「アイドルマスター」より"
+                "ja": "Wii5譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -2.05,
+            "courses": {
+                "Oni": 6,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/MUSIC♪/MUSIC.tja",
+            "title": {
+                "en": "MUSIC♪ -VitaMS Chart-",
+                "ja": "MUSIC♪"
+            },
+            "subtitle": {
+                "en": "Ryo Watanabe feat. 765PRO ALLSTARS/THE iDOLM@STER SHINY FESTA",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -2.05,
@@ -64909,14 +65066,33 @@
             }
         },
         {
-            "path": "07 Game Music/Nanairo Button/Nanairo Button.tja",
+            "path": "07 Game Music/Nanairo Button/Nanairo Button (AC16).tja",
             "title": {
-                "en": "Nanairo Button",
+                "en": "Nanairo Button -AC16 Chart-",
                 "ja": "七彩ボタン"
             },
             "subtitle": {
                 "en": "Tetsuya Uchida feat. Iori Minase/THE iDOLM@STER 2",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -2.274,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Nanairo Button/Nanairo Button.tja",
+            "title": {
+                "en": "Nanairo Button -VitaMS Chart-",
+                "ja": "七彩ボタン"
+            },
+            "subtitle": {
+                "en": "Tetsuya Uchida feat. Iori Minase/THE iDOLM@STER 2",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -2.274,
@@ -65206,14 +65382,33 @@
             }
         },
         {
-            "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE.tja",
+            "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE (AC16).tja",
             "title": {
-                "en": "ONLY MY NOTE",
+                "en": "ONLY MY NOTE -AC16 Chart-",
                 "ja": "ONLY MY NOTE"
             },
             "subtitle": {
                 "en": "Tetsuya Uchida feat. 765PRO ALLSTARS/THE iDOLM@STER ONE FOR ALL",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.636,
+            "courses": {
+                "Oni": 6,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE.tja",
+            "title": {
+                "en": "ONLY MY NOTE -VitaMS Chart-",
+                "ja": "ONLY MY NOTE"
+            },
+            "subtitle": {
+                "en": "Tetsuya Uchida feat. 765PRO ALLSTARS/THE iDOLM@STER ONE FOR ALL",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.636,
@@ -65785,14 +65980,33 @@
             }
         },
         {
-            "path": "07 Game Music/READY!!/READY!!.tja",
+            "path": "07 Game Music/READY!!/READY!! (AC16).tja",
             "title": {
-                "en": "READY‼",
+                "en": "READY‼ -AC16 Chart-",
                 "ja": "READY!!"
             },
             "subtitle": {
                 "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.615,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/READY!!/READY!!.tja",
+            "title": {
+                "en": "READY‼ -VitaMS Chart-",
+                "ja": "READY!!"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER 2",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.615,
@@ -66126,14 +66340,33 @@
             }
         },
         {
-            "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL.tja",
+            "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL (AC16).tja",
             "title": {
-                "en": "SMOKY THRILL",
+                "en": "SMOKY THRILL -AC16 Chart-",
                 "ja": "SMOKY THRILL"
             },
             "subtitle": {
                 "en": "Yuri Misuri feat. Iori Minase/THE iDOLM@STER 2",
-                "ja": "「アイドルマスター」より"
+                "ja": "AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.684,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/SMOKY THRILL/SMOKY THRILL.tja",
+            "title": {
+                "en": "SMOKY THRILL -VitaMS Chart-",
+                "ja": "SMOKY THRILL"
+            },
+            "subtitle": {
+                "en": "Yuri Misuri feat. Iori Minase/THE iDOLM@STER 2",
+                "ja": "VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.684,
@@ -80874,6 +81107,25 @@
                 "Oni": 9,
                 "Hard": 7,
                 "Normal": 6,
+                "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/sirens eye/sirens eye.tja",
+            "title": {
+                "en": "siren's eye",
+                "ja": "siren's eye"
+            },
+            "subtitle": {
+                "en": "katagiri + Frums",
+                "ja": "かたぎり + Frums"
+            },
+            "category": "Namco Original",
+            "offset": -1.073,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
                 "Easy": 5
             }
         },
