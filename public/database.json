@@ -1,5 +1,5 @@
 {
-    "commit": "bd9fe027cf7cbddc55d92e16154942929f14f71e",
+    "commit": "64ea6c92497b891c4c24f1f3b8ccc46b19c76e0c",
     "blobs": [
         {
             "type": "blob",
@@ -573,7 +573,7 @@
         },
         {
             "type": "blob",
-            "hash": "d32acc8ca6b2af53244592600a923d33a8e5fb19",
+            "hash": "3af5486fd62eb13056f65fc56a093c9569da3c77",
             "path": "01 Pop/Bai Bai FIGHT/Bai Bai FIGHT.tja"
         },
         {
@@ -663,7 +663,7 @@
         },
         {
             "type": "blob",
-            "hash": "7baf5f1f499590ed1541aafe10bb8b3ea2662d8c",
+            "hash": "02f1af54784ec2c0489a3ec57edc71d3c1ccbce3",
             "path": "01 Pop/Bubbly Kakumei Bang Bang Bubble/Bubbly Kakumei Bang Bang Bubble.tja"
         },
         {
@@ -6748,6 +6748,16 @@
         },
         {
             "type": "blob",
+            "hash": "58ab6719af98a75c0b9df5996c3aeb138a388c70",
+            "path": "02 Anime/Ai Scream/Ai Scream.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f01d15286202c54008050928c04eafc73c5cc457",
+            "path": "02 Anime/Ai Scream/Ai Scream.tja"
+        },
+        {
+            "type": "blob",
             "hash": "bfb331689fb3fb960ea65f1a1c642a4845674d1b",
             "path": "02 Anime/Ai Senshi/Ai Senshi.ogg"
         },
@@ -12103,6 +12113,16 @@
         },
         {
             "type": "blob",
+            "hash": "510765de659e470ced4940c951c57238f7314264",
+            "path": "02 Anime/il vento doro/il vento doro.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "12e5b89c99f3c8750504528374c1458d8d72425d",
+            "path": "02 Anime/il vento doro/il vento doro.tja"
+        },
+        {
+            "type": "blob",
             "hash": "026138d75e9e90c430eeecf0dd0be825410443c9",
             "path": "02 Anime/inner universe/inner universe.ogg"
         },
@@ -12170,6 +12190,16 @@
             "type": "blob",
             "hash": "beefa9a1c37bc6dd2a00087d6d4909cb3e4a8c90",
             "path": "03 Vocaloid/4+1 no Sorezore no Mirai/4+1 no Sorezore no Mirai.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2330e7dbbb6fbf27dbc87bc96bbce01a832ad80b",
+            "path": "03 Vocaloid/Ai Shite Ai Shite Ai Shite/Ai Shite Ai Shite Ai Shite.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "0686537eeee2b8f490fd1bb186bb3aec897017a0",
+            "path": "03 Vocaloid/Ai Shite Ai Shite Ai Shite/Ai Shite Ai Shite Ai Shite.tja"
         },
         {
             "type": "blob",
@@ -12498,7 +12528,7 @@
         },
         {
             "type": "blob",
-            "hash": "77f27c5ed01bf0dc0ef1ee2f17c623ca896d47c9",
+            "hash": "5ac5f2125bceb245981bd02897673487939f350a",
             "path": "03 Vocaloid/God-ish/God-ish.tja"
         },
         {
@@ -12630,6 +12660,16 @@
             "type": "blob",
             "hash": "1e71781bf69e5a4acd204c340c4130892deba6c7",
             "path": "03 Vocaloid/IMITATION BLACK/IMITATION BLACK.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "c4ef6adcc8a93f63d749b5291226f39ee4b33f30",
+            "path": "03 Vocaloid/Idol Warrior/Idol Warrior.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3c7514a0c0212cdd0251894da2a76ae3865e20d9",
+            "path": "03 Vocaloid/Idol Warrior/Idol Warrior.tja"
         },
         {
             "type": "blob",
@@ -12903,6 +12943,16 @@
         },
         {
             "type": "blob",
+            "hash": "3967d990ba2f12f266a329243f378466c106684d",
+            "path": "03 Vocaloid/Mimukawa Nice Try/Mimukawa Nice Try.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a10e5420a9ffea1c2e12f74e1a1550d90ba6a8ac",
+            "path": "03 Vocaloid/Mimukawa Nice Try/Mimukawa Nice Try.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1b5395ed43eeb67fe94992017c032deb8ebc82f6",
             "path": "03 Vocaloid/Mirai/Mirai.ogg"
         },
@@ -12910,6 +12960,16 @@
             "type": "blob",
             "hash": "1567abc650083fbccc7f7a5bfe8aa8eee31864cd",
             "path": "03 Vocaloid/Mirai/Mirai.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e92ea0b819f4ea433003dd4dd3d8b862012c4d62",
+            "path": "03 Vocaloid/Monitoring/Monitoring.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "24c5a1fbb20e33719476c6c770b0b76381087e42",
+            "path": "03 Vocaloid/Monitoring/Monitoring.tja"
         },
         {
             "type": "blob",
@@ -13043,6 +13103,16 @@
         },
         {
             "type": "blob",
+            "hash": "8f6f2c883e04bc8703e4cebaac429c1f10a6f1ab",
+            "path": "03 Vocaloid/Rolling Girl/Rolling Girl.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "523ee566ca3684d205ca0e00034f41ef11a26064",
+            "path": "03 Vocaloid/Rolling Girl/Rolling Girl.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a61e4ca8144b87cbbcf4415e3eed01e34f230fb6",
             "path": "03 Vocaloid/Seisou Bakuretsu Boy/Seisou Bakuretsu Boy.ogg"
         },
@@ -13090,6 +13160,16 @@
             "type": "blob",
             "hash": "87d4096cdadc60a6fa5776b30bc346819bd12b9d",
             "path": "03 Vocaloid/Streaming Heart/Streaming Heart.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6c2f5a7620eb133aa960ffb9690396264d997d7a",
+            "path": "03 Vocaloid/Suna no Wakusei/Suna no Wakusei.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "cb3532ed09eb30c5b39c9f81b40ec0b36800b43e",
+            "path": "03 Vocaloid/Suna no Wakusei/Suna no Wakusei.tja"
         },
         {
             "type": "blob",
@@ -14125,6 +14205,16 @@
             "type": "blob",
             "hash": "c2f81a1a5a0edfe21dc8b35e3157455e551f15f2",
             "path": "04 Children and Folk/Omocha no Cha-cha-cha/Omocha no Cha-cha-cha -Old Audio-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "5ca9236e852004ef9686bb48b8b647e3a30b7d7c",
+            "path": "04 Children and Folk/On-Party/On-Party.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "72fc7ebadf338c4098f1dad352f142f6000c3611",
+            "path": "04 Children and Folk/On-Party/On-Party.tja"
         },
         {
             "type": "blob",
@@ -16718,12 +16808,22 @@
         },
         {
             "type": "blob",
+            "hash": "4703e1d1214b9890ffe623afd28ea0e8e76e2abd",
+            "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku (old).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "734a04b0e58abb85cda9693ae0ee5f6a6b702912",
+            "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku (old).tja"
+        },
+        {
+            "type": "blob",
             "hash": "b76dfa33621883d21ae2dd7f3c5480b918ec1669",
             "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -765PRO ALLSTARS Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "26828894f46f0bbfb27592f2b3bcc3d2e5f9d654",
+            "hash": "7394d0c2df4f875ee835bd9f0d549595533355c3",
             "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -765PRO ALLSTARS Version-.tja"
         },
         {
@@ -16733,7 +16833,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc0b3c67daf7c06aafe2bfe5c0ce7e1bafa07017",
+            "hash": "1ee5d658620d6b77f95066897b3fa55c1ce59561",
             "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -Ami and Mami Version-.tja"
         },
         {
@@ -16995,6 +17095,16 @@
             "type": "blob",
             "hash": "4ae13ac5455bc1c114e3c98cdabaee8243d51ddf",
             "path": "07 Game Music/Bravoman/Bravoman.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0e98dadf8457a28fcda359e63a0bc1c94f883033",
+            "path": "07 Game Music/Break Through the Dome/Break Through the Dome.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "70e6dcda7a634824ae3fe0f912a1101aaed07eec",
+            "path": "07 Game Music/Break Through the Dome/Break Through the Dome.tja"
         },
         {
             "type": "blob",
@@ -18483,12 +18593,17 @@
         },
         {
             "type": "blob",
+            "hash": "04ff48414004397b54bfe3ee1a4bb0e2cadc29ed",
+            "path": "07 Game Music/L・O・B・M/L O B M (Old).tja"
+        },
+        {
+            "type": "blob",
             "hash": "313003507948c96e5af7dbe6dbbcab73c312deff",
             "path": "07 Game Music/L・O・B・M/L O B M.ogg"
         },
         {
             "type": "blob",
-            "hash": "5e95bdd2a89818380d22d4e8ffa3749852ff463b",
+            "hash": "a6533fce780707c700c305df18a8ef5ec20dc05a",
             "path": "07 Game Music/L・O・B・M/L O B M.tja"
         },
         {
@@ -19440,6 +19555,16 @@
             "type": "blob",
             "hash": "0fd980cd9db4f9bc4212548814d189637c4911cc",
             "path": "07 Game Music/Racing the Storm/Racing the Storm.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1181c88310856a015bb2e6a2dedc301aacdf193c",
+            "path": "07 Game Music/Radiant/Radiant.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "bfbd24a694c1db7ef67007e1da02e2927aff9dce",
+            "path": "07 Game Music/Radiant/Radiant.tja"
         },
         {
             "type": "blob",
@@ -20828,12 +20953,17 @@
         },
         {
             "type": "blob",
+            "hash": "cee50b62dac45e47f7617279b9c34d04b9b5f14e",
+            "path": "07 Game Music/relations/relations (Old).tja"
+        },
+        {
+            "type": "blob",
             "hash": "fb9fcf7a5b530efffe7abe2cfd5d1d74d4233223",
             "path": "07 Game Music/relations/relations -765PRO ALLSTARS Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "1bdc62d597f81f6d4aa69b2f09adf16a0b4b2b3a",
+            "hash": "677cda30c0067a5ed2d75bc3e5cbc8682fc1cff9",
             "path": "07 Game Music/relations/relations -765PRO ALLSTARS Version-.tja"
         },
         {
@@ -20858,12 +20988,22 @@
         },
         {
             "type": "blob",
+            "hash": "e7723cd1e5e5af79a4c37d0eefa338c59a2b68a9",
+            "path": "07 Game Music/shiny smile/shiny smile (old).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "bb92b2cb70500acc3101b30659af9026d62bc26f",
+            "path": "07 Game Music/shiny smile/shiny smile (old).tja"
+        },
+        {
+            "type": "blob",
             "hash": "25e9f267e992d33c4471cf9d09461b6ef26805fa",
             "path": "07 Game Music/shiny smile/shiny smile -Ganaha Hibiki Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "386a43fb34beb27b53d38554339f8547b73c679e",
+            "hash": "e8a64261df8037d924c1bed91051a3e22b1c63ae",
             "path": "07 Game Music/shiny smile/shiny smile -Ganaha Hibiki Version-.tja"
         },
         {
@@ -20873,7 +21013,7 @@
         },
         {
             "type": "blob",
-            "hash": "82fd0ce9a580321c57da8b9af26f09a381c8a994",
+            "hash": "9a0ab8afd02ae7b6f05f2a5f4c1d5de2619d9cca",
             "path": "07 Game Music/shiny smile/shiny smile -Hibiki and Takane Version-.tja"
         },
         {
@@ -31386,7 +31526,7 @@
                 "ja": "ジュリアナの祟り"
             },
             "category": "Pop",
-            "offset": -0.351,
+            "offset": -0.33,
             "courses": {
                 "Edit": 9,
                 "Oni": 7,
@@ -42485,6 +42625,25 @@
             }
         },
         {
+            "path": "02 Anime/Ai Scream/Ai Scream.tja",
+            "title": {
+                "en": "Ai♡Scream!",
+                "ja": "愛♡スクリ～ム！"
+            },
+            "subtitle": {
+                "en": "AiScReam / Love Live! Series",
+                "ja": "AiScReam 「ラブライブ！シリーズ」より"
+            },
+            "category": "Anime",
+            "offset": -1.314,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Ai Senshi/Ai Senshi.tja",
             "title": {
                 "en": "Ai Senshi",
@@ -52518,6 +52677,26 @@
             }
         },
         {
+            "path": "02 Anime/il vento doro/il vento doro.tja",
+            "title": {
+                "en": "il vento d'oro",
+                "ja": "il vento d'oro"
+            },
+            "subtitle": {
+                "en": "Jojo's Bizarre Adventure: Golden Wind",
+                "ja": "「ジョジョの奇妙な冒険 黄金の風」より"
+            },
+            "category": "Anime",
+            "offset": -1.258,
+            "courses": {
+                "Edit": 9,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "02 Anime/inner universe/inner universe.tja",
             "title": {
                 "en": "inner universe",
@@ -52649,6 +52828,25 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "03 Vocaloid/Ai Shite Ai Shite Ai Shite/Ai Shite Ai Shite Ai Shite.tja",
+            "title": {
+                "en": "Ai Shite Ai Shite Ai Shite",
+                "ja": "愛して愛して愛して"
+            },
+            "subtitle": {
+                "en": "Kikuo feat. Hatsune Miku",
+                "ja": "きくお feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -1.026,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -53272,11 +53470,12 @@
             },
             "subtitle": {
                 "en": "PinocchioP feat. Hatsune Miku",
-                "ja": "ピノキオP feat. 初音ミク"
+                "ja": "ピノキオピー feat. 初音ミク"
             },
             "category": "Vocaloid",
-            "offset": -0.136,
+            "offset": -1.826,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 3,
@@ -53533,6 +53732,25 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "03 Vocaloid/Idol Warrior/Idol Warrior.tja",
+            "title": {
+                "en": "Idol Warrior (feat. Hatsune Miku)",
+                "ja": "アイドル戦士(feat. 初音ミク)"
+            },
+            "subtitle": {
+                "en": "Mitchie M",
+                "ja": "Mitchie M"
+            },
+            "category": "Vocaloid",
+            "offset": -1.68,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -54057,6 +54275,26 @@
             }
         },
         {
+            "path": "03 Vocaloid/Mimukawa Nice Try/Mimukawa Nice Try.tja",
+            "title": {
+                "en": "Mimukawa Nice Try ",
+                "ja": "みむかゥわナイストライ"
+            },
+            "subtitle": {
+                "en": "NuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNuNu",
+                "ja": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
+            },
+            "category": "Vocaloid",
+            "offset": -1.221,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "03 Vocaloid/Mirai/Mirai.tja",
             "title": {
                 "en": "Mirai",
@@ -54073,6 +54311,25 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "03 Vocaloid/Monitoring/Monitoring.tja",
+            "title": {
+                "en": "Monitoring",
+                "ja": "モニタリング"
+            },
+            "subtitle": {
+                "en": "DECO*27 feat. Hatsune Miku",
+                "ja": "DECO*27 feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -3.173,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -54327,6 +54584,25 @@
             }
         },
         {
+            "path": "03 Vocaloid/Rolling Girl/Rolling Girl.tja",
+            "title": {
+                "en": "Rolling Girl ",
+                "ja": "ローリンガール"
+            },
+            "subtitle": {
+                "en": "wowaka feat. Hatsune Miku",
+                "ja": "wowaka feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -1.725,
+            "courses": {
+                "Oni": 8,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "03 Vocaloid/Seisou Bakuretsu Boy/Seisou Bakuretsu Boy.tja",
             "title": {
                 "en": "Seisou Bakuretsu Boy",
@@ -54422,6 +54698,25 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "03 Vocaloid/Suna no Wakusei/Suna no Wakusei.tja",
+            "title": {
+                "en": "Suna no Wakusei",
+                "ja": "砂の惑星"
+            },
+            "subtitle": {
+                "en": "Hachi feat. Hatsune Miku",
+                "ja": "ハチ feat. 初音ミク"
+            },
+            "category": "Vocaloid",
+            "offset": -0.844,
+            "courses": {
+                "Oni": 9,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -56191,6 +56486,25 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "04 Children and Folk/On-Party/On-Party.tja",
+            "title": {
+                "en": "On-Party!",
+                "ja": "On-Party!"
+            },
+            "subtitle": {
+                "en": "ColorfulPeach",
+                "ja": "カラフルピーチ"
+            },
+            "category": "Children and Folk",
+            "offset": -1.066,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -60905,13 +61219,33 @@
             }
         },
         {
-            "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -765PRO ALLSTARS Version-.tja",
+            "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku (old).tja",
             "title": {
-                "en": "Agent Yoru o Yuku -765PRO ALLSTARS Version-",
+                "en": "Agent Yoru o Yuku -Old Audio/Chart-",
                 "ja": "エージェント夜を往く"
             },
             "subtitle": {
-                "en": "Linda AI-CUE feat. 765PRO ALLSTARS/THE iDOLM@STER"
+                "en": "Linda AI-CUE feat. IM@S ALLSTARS/THE iDOLM@STER",
+                "ja": "旧音源・譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -4.287,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -765PRO ALLSTARS Version-.tja",
+            "title": {
+                "en": "Agent Yoru o Yuku -New Audio/Chart-",
+                "ja": "エージェント夜を往く"
+            },
+            "subtitle": {
+                "en": "Linda AI-CUE feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "新音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -4.241,
@@ -60925,7 +61259,7 @@
         {
             "path": "07 Game Music/Agent Yoru o Yuku/Agent Yoru o Yuku -Ami and Mami Version-.tja",
             "title": {
-                "en": "Agent Yoru o Yuku -Ami and Mami Version-",
+                "en": "Agent Yoru o Yuku -Makoto, Ami and Mami Version-",
                 "ja": "エージェント夜を往く"
             },
             "subtitle": {
@@ -61446,6 +61780,25 @@
                 "Oni": 4,
                 "Hard": 5,
                 "Normal": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Break Through the Dome/Break Through the Dome.tja",
+            "title": {
+                "en": "Break Through the Dome",
+                "ja": "Break Through the Dome"
+            },
+            "subtitle": {
+                "en": "Arknights",
+                "ja": "「アークナイツ -明日方舟-」より"
+            },
+            "category": "Game Music",
+            "offset": -2.207,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 3
             }
         },
         {
@@ -64285,13 +64638,33 @@
             }
         },
         {
-            "path": "07 Game Music/L・O・B・M/L O B M.tja",
+            "path": "07 Game Music/L・O・B・M/L O B M (Old).tja",
             "title": {
-                "en": "L・O・B・M",
+                "en": "L・O・B・M -Old Chart-",
                 "ja": "L・O・B・M"
             },
             "subtitle": {
-                "en": "Ryuichi Takada feat. Aikakiku/THE iDOLM@STER SP"
+                "en": "Ryuichi Takada feat. Aikakiku/THE iDOLM@STER SP",
+                "ja": "旧譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.615,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/L・O・B・M/L O B M.tja",
+            "title": {
+                "en": "L・O・B・M -New Chart-",
+                "ja": "L・O・B・M"
+            },
+            "subtitle": {
+                "en": "Ryuichi Takada feat. Aikakiku/THE iDOLM@STER SP",
+                "ja": "新譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.615,
@@ -66107,6 +66480,25 @@
                 "Oni": 8,
                 "Hard": 7,
                 "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Radiant/Radiant.tja",
+            "title": {
+                "en": "Radiant",
+                "ja": "Radiant"
+            },
+            "subtitle": {
+                "en": "Arknights",
+                "ja": "「アークナイツ -明日方舟-」より"
+            },
+            "category": "Game Music",
+            "offset": -2.074,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 6,
                 "Easy": 4
             }
         },
@@ -68679,13 +69071,33 @@
             }
         },
         {
-            "path": "07 Game Music/relations/relations -765PRO ALLSTARS Version-.tja",
+            "path": "07 Game Music/relations/relations (Old).tja",
             "title": {
-                "en": "relations -765PRO ALLSTARS Version-",
+                "en": "relations -Old Chart-",
                 "ja": "relations"
             },
             "subtitle": {
-                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER"
+                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "旧譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.918,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/relations/relations -765PRO ALLSTARS Version-.tja",
+            "title": {
+                "en": "relations -New Chart-",
+                "ja": "relations"
+            },
+            "subtitle": {
+                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "新譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.918,
@@ -68735,6 +69147,25 @@
             }
         },
         {
+            "path": "07 Game Music/shiny smile/shiny smile (old).tja",
+            "title": {
+                "en": "shiny smile -Old Audio/Chart-",
+                "ja": "shiny smile"
+            },
+            "subtitle": {
+                "en": "Yoshi feat. IM@S ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "旧音源・譜面 「THE IDOLM@STER Live For You!」より"
+            },
+            "category": "Game Music",
+            "offset": -1.723,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/shiny smile/shiny smile -Ganaha Hibiki Version-.tja",
             "title": {
                 "en": "shiny smile -Ganaha Hibiki Version-",
@@ -68757,12 +69188,12 @@
         {
             "path": "07 Game Music/shiny smile/shiny smile -Hibiki and Takane Version-.tja",
             "title": {
-                "en": "shiny smile -Hibiki & Takane Version-",
+                "en": "shiny smile -New Audio/Chart-",
                 "ja": "shiny smile"
             },
             "subtitle": {
-                "en": "Yoshi feat. Manami Numakura/THE iDOLM@STER： Live for You!",
-                "ja": "「アイドルマスター」より"
+                "en": "Yoshi feat. 765PRO ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "新音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.726,
