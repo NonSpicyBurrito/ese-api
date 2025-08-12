@@ -1,5 +1,5 @@
 {
-    "commit": "64ea6c92497b891c4c24f1f3b8ccc46b19c76e0c",
+    "commit": "75331625b799c8de2c6474182d04d534c8865bdd",
     "blobs": [
         {
             "type": "blob",
@@ -17653,8 +17653,23 @@
         },
         {
             "type": "blob",
-            "hash": "e3964c310cb5759bac9c141b5629577435748934",
+            "hash": "66352b5e34ebdf6aa366a0940f48335de0e5dd62",
             "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -765PRO ALLSTARS Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "69087a2716218303f1c28629a1fc7c22504faf95",
+            "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -AC10 Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6fb032f429c490f3daa0e5cc1563b409b2dac2f2",
+            "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -AC10 Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "d0e8ab2af212ec9ac31bd2c3c1727e737886ba92",
+            "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -AC16 Chart-.tja"
         },
         {
             "type": "blob",
@@ -17663,7 +17678,7 @@
         },
         {
             "type": "blob",
-            "hash": "0fb73ceaf58fc2160ec440bda98e87b4d1b37bc1",
+            "hash": "018c33adbb162cebbfaf8601634dcf01bd017128",
             "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -Yayoi and Ami and Mami Version-.tja"
         },
         {
@@ -18288,8 +18303,18 @@
         },
         {
             "type": "blob",
-            "hash": "18856bb1b3b4c815e4ecfbe2abe734e7b4d41e76",
+            "hash": "0095642395cdbb96bf199f205504295e59949b5b",
             "path": "07 Game Music/Kiramekirari/Kiramekirari -765PRO ALLSTARS Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "37fd4d6fcb54be78393e7e2bb5774d651cc601f1",
+            "path": "07 Game Music/Kiramekirari/Kiramekirari -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c2b40a6c27a6c31fa540a5e15c3726d177ab7222",
+            "path": "07 Game Music/Kiramekirari/Kiramekirari -Old Audio Chart-.tja"
         },
         {
             "type": "blob",
@@ -18728,7 +18753,7 @@
         },
         {
             "type": "blob",
-            "hash": "e7bb4ffea7168abae1791b0da7b2964910076618",
+            "hash": "8c06e37a30d682e3eba2952b020f960331e6a25f",
             "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -765PRO ALLSTARS Version-.tja"
         },
         {
@@ -18738,8 +18763,18 @@
         },
         {
             "type": "blob",
-            "hash": "47b76e5e33a47dd3708b6ebc610960108b620ea8",
+            "hash": "79a4c53bf430c96910f1fa259f3cc25b8b953189",
             "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Akizuki Ritsuko Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "c9f828367ece7efe8aabf881bd6dbe00520947f6",
+            "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f672bcb45de5aa46100e7bb80fc3e50db7d07b89",
+            "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Old Audio Chart-.tja"
         },
         {
             "type": "blob",
@@ -20163,12 +20198,22 @@
         },
         {
             "type": "blob",
+            "hash": "9446da90d4915491bf4559d5b4166b629a7dd46a",
+            "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER (old).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b665ea8b6c233f2224a9f580095b962b649a0f8f",
+            "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER (old).tja"
+        },
+        {
+            "type": "blob",
             "hash": "6268e13d8a1ab94a4db46c5f41e419e40dbde992",
             "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER -Live Performance Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "e8911e20ee86cc508cb1aabd53f6a60ecf077141",
+            "hash": "b2aeb91c1252b8e30d968f533e270a90c00a6e0f",
             "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER -Live Performance Version-.tja"
         },
         {
@@ -20178,7 +20223,7 @@
         },
         {
             "type": "blob",
-            "hash": "a3891927890275e30049fa56dcd1c2abb8a99b24",
+            "hash": "92ef7354bfea618c95687bc53d356f1503922dd0",
             "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER.tja"
         },
         {
@@ -62809,12 +62854,12 @@
         {
             "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -765PRO ALLSTARS Version-.tja",
             "title": {
-                "en": "GO MY WAY‼ -765PRO ALLSTARS Version-",
+                "en": "GO MY WAY‼ -New Audio/VitaMS Chart-",
                 "ja": "GO MY WAY!!"
             },
             "subtitle": {
-                "en": "Satoru Kousaki feat. IM@S ALLSTARS/THE iDOLM@STER",
-                "ja": "「アイドルマスター」より"
+                "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "新音源・VitaMS譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.585,
@@ -62823,6 +62868,44 @@
                 "Oni": 8,
                 "Hard": 4,
                 "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -AC10 Audio Chart-.tja",
+            "title": {
+                "en": "GO MY WAY‼ -Old Audio/AC16 Chart-",
+                "ja": "GO MY WAY!!"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. IM@S ALLSTARS/THE iDOLM@STER",
+                "ja": "旧音源・AC10譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.849,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/GO MY WAY!!/GO MY WAY!! -AC16 Chart-.tja",
+            "title": {
+                "en": "GO MY WAY‼ -New Audio/AC16 Chart-",
+                "ja": "GO MY WAY!!"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "新音源・AC16譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.585,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -64054,17 +64137,36 @@
         {
             "path": "07 Game Music/Kiramekirari/Kiramekirari -765PRO ALLSTARS Version-.tja",
             "title": {
-                "en": "Kiramekirari -765PRO ALLSTARS Version-",
+                "en": "Kiramekirari -New Audio/Chart-",
                 "ja": "キラメキラリ"
             },
             "subtitle": {
                 "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER SP",
-                "ja": "「アイドルマスター」より"
+                "ja": "新音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.628,
             "courses": {
                 "Edit": 9,
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Kiramekirari/Kiramekirari -Old Audio Chart-.tja",
+            "title": {
+                "en": "Kiramekirari -Old Audio/Chart-",
+                "ja": "キラメキラリ"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. IM@S ALLSTARS/THE iDOLM@STER SP",
+                "ja": "旧音源・譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.938,
+            "courses": {
                 "Oni": 9,
                 "Hard": 7,
                 "Normal": 6,
@@ -64901,12 +65003,12 @@
         {
             "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -765PRO ALLSTARS Version-.tja",
             "title": {
-                "en": "Mahou o Kakete! -765PRO ALLSTARS Version-",
+                "en": "Mahou o Kakete! -New Audio/Chart-",
                 "ja": "魔法をかけて！"
             },
             "subtitle": {
                 "en": "Satoru Kousaki feat. 765PRO ALLSTARS/THE iDOLM@STER",
-                "ja": "「アイドルマスター」より"
+                "ja": "新音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.918,
@@ -64936,6 +65038,25 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Old Audio Chart-.tja",
+            "title": {
+                "en": "Mahou o Kakete! -Old Audio/Chart-",
+                "ja": "魔法をかけて！"
+            },
+            "subtitle": {
+                "en": "Satoru Kousaki feat. IM@S ALLSTARS/THE iDOLM@STER",
+                "ja": "旧音源・譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -2.435,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 4
             }
         },
         {
@@ -67615,6 +67736,25 @@
             }
         },
         {
+            "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER (old).tja",
+            "title": {
+                "en": "THE iDOLM@STER -Old Audio/Chart-",
+                "ja": "THE IDOLM@STER"
+            },
+            "subtitle": {
+                "en": "Hiroto Sasaki/THE iDOLM@STER",
+                "ja": "旧音源・譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -1.495,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER -Live Performance Version-.tja",
             "title": {
                 "en": "THE iDOLM@STER -Live Performance Version-",
@@ -67627,7 +67767,6 @@
             "category": "Game Music",
             "offset": -1.556,
             "courses": {
-                "Edit": 8,
                 "Oni": 8,
                 "Hard": 4,
                 "Normal": 4,
@@ -67637,12 +67776,12 @@
         {
             "path": "07 Game Music/THE iDOLM@STER/THE iDOLMASTER.tja",
             "title": {
-                "en": "THE iDOLM@STER",
+                "en": "THE iDOLM@STER -New Audio/Chart-",
                 "ja": "THE IDOLM@STER"
             },
             "subtitle": {
                 "en": "Hiroto Sasaki/THE iDOLM@STER",
-                "ja": "「アイドルマスター」より"
+                "ja": "新音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -1.495,
