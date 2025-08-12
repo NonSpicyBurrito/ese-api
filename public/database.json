@@ -1,5 +1,5 @@
 {
-    "commit": "75331625b799c8de2c6474182d04d534c8865bdd",
+    "commit": "9056c0c5d85b372dac2ede37e727845d9a6e1626",
     "blobs": [
         {
             "type": "blob",
@@ -1018,12 +1018,12 @@
         },
         {
             "type": "blob",
-            "hash": "72bdaa329c8b4540ecd7e3ae431c671e8e65e2b6",
+            "hash": "5c20db8691d1c461d1752a627881c883fc862f98",
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.ogg"
         },
         {
             "type": "blob",
-            "hash": "18e660f0c31ccb04851815fe6fd165fbda030503",
+            "hash": "34d07905d94add563eb8169565b2aee6027da34e",
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.tja"
         },
         {
@@ -1088,13 +1088,23 @@
         },
         {
             "type": "blob",
-            "hash": "9772a74e9e90cba9d9e617b036f349e51f1d0129",
-            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta.ogg"
+            "hash": "de661627a33f0568e8657c242abf7d60ddfc6c55",
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Cover Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "ebb672d7419149add4dcb97616bbd5bdfe2422ea",
-            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta.tja"
+            "hash": "650758d4e4c12f5aec897c729825c6e34c0670b1",
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Cover Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9772a74e9e90cba9d9e617b036f349e51f1d0129",
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Original Version-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f3b9cee2f42835a17b55e739a40cbd8fb47ad19b",
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Original Version-.tja"
         },
         {
             "type": "blob",
@@ -6393,13 +6403,23 @@
         },
         {
             "type": "blob",
-            "hash": "34e9746d4792624554523d95f647790631d87f64",
-            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru.ogg"
+            "hash": "fa2b2bf20b95c38ce2fb9c53026f1ba14379029c",
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "fcb84483e6c4ada078916589d79bfe1643f16840",
-            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru.tja"
+            "hash": "87fd97376b59eb43d948a1f68badd85ac764ea86",
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "34e9746d4792624554523d95f647790631d87f64",
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Original Version-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8c34d2b997eb5d860726bef1c480c7a9513cc93e",
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Original Version-.tja"
         },
         {
             "type": "blob",
@@ -28038,12 +28058,12 @@
         },
         {
             "type": "blob",
-            "hash": "7e59d22297519ce9bbbd59659668752ea6444195",
+            "hash": "5dd65a386fd5471ed4f0aba37476254e8e69cf97",
             "path": "09 Namco Original/Unlimited Games/Unlimited Games.ogg"
         },
         {
             "type": "blob",
-            "hash": "5a98530a4486a9105fc63e2c90758f651510a94f",
+            "hash": "ca1ad9c5ef6fe4b49ae11133f6b27ee9c25cd1a7",
             "path": "09 Namco Original/Unlimited Games/Unlimited Games.tja"
         },
         {
@@ -32222,7 +32242,7 @@
                 "en": "BLΛƆKPIИK"
             },
             "category": "Pop",
-            "offset": -1.834,
+            "offset": -1.927,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -32343,10 +32363,30 @@
             }
         },
         {
-            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta.tja",
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Cover Version-.tja",
             "title": {
-                "en": "Dakara Boku wa Ongaku wo Yameta",
-                "ja": "だから僕は音楽を辞めた"
+                "en": "Dakara Boku wa Ongaku wo Yameta -Cover Version-",
+                "ja": "だから僕は音楽を辞めた -Cover Version-"
+            },
+            "subtitle": {
+                "en": "Yorushika",
+                "ja": "ヨルシカ"
+            },
+            "category": "Pop",
+            "offset": -1.963,
+            "courses": {
+                "Edit": 8,
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
+            "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Original Version-.tja",
+            "title": {
+                "en": "Dakara Boku wa Ongaku wo Yameta -Original Version-",
+                "ja": "だから僕は音楽を辞めた -Original Version-"
             },
             "subtitle": {
                 "en": "Yorushika",
@@ -42023,10 +42063,29 @@
             }
         },
         {
-            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru.tja",
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.tja",
             "title": {
-                "en": "Yoru ni Kakeru",
-                "ja": "夜に駆ける"
+                "en": "Yoru ni Kakeru -Cover Version-",
+                "ja": "夜に駆ける -Cover Version-"
+            },
+            "subtitle": {
+                "en": "YOASOBI",
+                "ja": "YOASOBI"
+            },
+            "category": "Pop",
+            "offset": -2.027,
+            "courses": {
+                "Oni": 8,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
+            "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Original Version-.tja",
+            "title": {
+                "en": "Yoru ni Kakeru -Original Version-",
+                "ja": "夜に駆ける -Original Version-"
             },
             "subtitle": {
                 "en": "YOASOBI",
@@ -80572,7 +80631,7 @@
                 "ja": "Ponchi♪ feat. はぁち"
             },
             "category": "Namco Original",
-            "offset": -0.792,
+            "offset": -0.88,
             "courses": {
                 "Edit": 10,
                 "Oni": 10,
