@@ -1,5 +1,5 @@
 {
-    "commit": "9056c0c5d85b372dac2ede37e727845d9a6e1626",
+    "commit": "44f1d05b4a54b6fe68752d85090d4bc26521ceb9",
     "blobs": [
         {
             "type": "blob",
@@ -5273,12 +5273,12 @@
         },
         {
             "type": "blob",
-            "hash": "01f8b4999501fd332fab791d979c49374d13ba62",
+            "hash": "1b2407ed9897fb32cffeffbbdfdff0057f56fe8c",
             "path": "01 Pop/Star Mine/Star Mine.ogg"
         },
         {
             "type": "blob",
-            "hash": "78004982f0b943e142c0dceb80ad8a9fe77cbca2",
+            "hash": "89480d5f56524ebeaf3feb746a3cf79b372f214a",
             "path": "01 Pop/Star Mine/Star Mine.tja"
         },
         {
@@ -5323,12 +5323,12 @@
         },
         {
             "type": "blob",
-            "hash": "54fe1d0bb8f01d7b450b374e7271726ca270452f",
+            "hash": "f3adbe42b33c1611fe778c8e68bd490b3e66e107",
             "path": "01 Pop/Subtitle/Subtitle.ogg"
         },
         {
             "type": "blob",
-            "hash": "cf48322c263011c3792b52e2be2e61c3a59407fa",
+            "hash": "fc047c72e234319dfbe3d64e9b3e67fdd757ffdd",
             "path": "01 Pop/Subtitle/Subtitle.tja"
         },
         {
@@ -6083,12 +6083,12 @@
         },
         {
             "type": "blob",
-            "hash": "136dd1b27d8662a00868232a53ee1068dfe78e43",
+            "hash": "54bb3ed93d54795ad898f4785c924c332f0aaf40",
             "path": "01 Pop/WXY/WXY.ogg"
         },
         {
             "type": "blob",
-            "hash": "9e1e7a65ed0dc975bc54fd8c14d0c8f088a54cbf",
+            "hash": "fdfa2704120f483a948d066c22f142c6a38369f5",
             "path": "01 Pop/WXY/WXY.tja"
         },
         {
@@ -10688,12 +10688,12 @@
         },
         {
             "type": "blob",
-            "hash": "eb457c845c192521189bd55dc0c5ab7fd2f23922",
+            "hash": "822ead9674895ab77f601dbbf648dd136052a52f",
             "path": "02 Anime/SOUVENIR/SOUVENIR.ogg"
         },
         {
             "type": "blob",
-            "hash": "5a6aa349347cd628b7b6e4f88be622ab1b54494b",
+            "hash": "f02e8666f97382039d9e8332889b3511e9ba37c2",
             "path": "02 Anime/SOUVENIR/SOUVENIR.tja"
         },
         {
@@ -19348,12 +19348,17 @@
         },
         {
             "type": "blob",
+            "hash": "75ff68052f90ebe0a994b805e2de278498f645a2",
+            "path": "07 Game Music/Overmaster/Overmaster -Old Chart-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "0a828be010d88994b106210f08869d696b8c3108",
             "path": "07 Game Music/Overmaster/Overmaster.ogg"
         },
         {
             "type": "blob",
-            "hash": "9795664bb357bfc9461c91f34c0a6c748e3237ee",
+            "hash": "e797a2fc677e27422488e97e84185ec2d44a70b4",
             "path": "07 Game Music/Overmaster/Overmaster.tja"
         },
         {
@@ -24473,7 +24478,7 @@
         },
         {
             "type": "blob",
-            "hash": "8cf57763dcc36f6d8094267a1d73e002c37ee772",
+            "hash": "9fb7bb615857803d8e42ef17f98e907c28102ee9",
             "path": "09 Namco Original/Hurtling Boys/Hurtling Boys.tja"
         },
         {
@@ -25435,6 +25440,16 @@
             "type": "blob",
             "hash": "9bd3a0b5baa752ac76779938e6ced280c8661a30",
             "path": "09 Namco Original/Lambda7708/λ7708.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "f37b7bc8860b1763f0baa8384543a2dc1e96058c",
+            "path": "09 Namco Original/Lightning Boys/Lightning Boys.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a078118a69d2e0541d288eb0a43ced0317f95f78",
+            "path": "09 Namco Original/Lightning Boys/Lightning Boys.tja"
         },
         {
             "type": "blob",
@@ -28063,7 +28078,7 @@
         },
         {
             "type": "blob",
-            "hash": "ca1ad9c5ef6fe4b49ae11133f6b27ee9c25cd1a7",
+            "hash": "0cbfbd222f300a8c06f516ff114c6b3da9ebeb05",
             "path": "09 Namco Original/Unlimited Games/Unlimited Games.tja"
         },
         {
@@ -40021,11 +40036,10 @@
                 "ja": "スターマイン"
             },
             "subtitle": {
-                "en": "Da-iCE",
-                "ja": "Da-iCE"
+                "ja": " "
             },
             "category": "Pop",
-            "offset": -0.873,
+            "offset": -2.281,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -40114,12 +40128,9 @@
                 "en": "Subtitle",
                 "ja": "Subtitle"
             },
-            "subtitle": {
-                "en": "Official HIGE DANdism",
-                "ja": "Official髭男dism"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -1.338,
+            "offset": -2.738,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -41487,13 +41498,12 @@
         {
             "path": "01 Pop/WXY/WXY.tja",
             "title": {
+                "en": "W/X/Y",
                 "ja": "W/X/Y"
             },
-            "subtitle": {
-                "en": "Tani Yuuki"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -2.118,
+            "offset": -3.095,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -50100,14 +50110,15 @@
         {
             "path": "02 Anime/SOUVENIR/SOUVENIR.tja",
             "title": {
-                "en": "SOUVENIR"
+                "en": "SOUVENIR",
+                "ja": "SOUVENIR"
             },
             "subtitle": {
                 "en": "BUMP OF CHICKEN / SPY × FAMILY",
                 "ja": "BUMP OF CHICKEN TVアニメ「SPY×FAMILY」第2クールオープニング主題歌"
             },
             "category": "Anime",
-            "offset": -0.599,
+            "offset": -1.29,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -66161,13 +66172,33 @@
             }
         },
         {
-            "path": "07 Game Music/Overmaster/Overmaster.tja",
+            "path": "07 Game Music/Overmaster/Overmaster -Old Chart-.tja",
             "title": {
-                "en": "Overmaster",
+                "en": "Overmaster -Old Chart-",
                 "ja": "オーバーマスター"
             },
             "subtitle": {
-                "en": "Koji Nakagawa feat. Project Fairy/THE iDOLM@STER SP"
+                "en": "Koji Nakagawa feat. Project Fairy/THE iDOLM@STER SP",
+                "ja": "旧譜面 「アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -4.145,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Overmaster/Overmaster.tja",
+            "title": {
+                "en": "Overmaster -New Chart-",
+                "ja": "オーバーマスター"
+            },
+            "subtitle": {
+                "en": "Koji Nakagawa feat. Project Fairy/THE iDOLM@STER SP",
+                "ja": "新譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
             "offset": -4.145,
@@ -73833,8 +73864,8 @@
                 "ja": "Hurtling Boys"
             },
             "subtitle": {
-                "en": "Sadakkey Ichikadas",
-                "ja": "さだきち イシカダス"
+                "en": "Sadakichi",
+                "ja": "さだきち"
             },
             "category": "Namco Original",
             "offset": -1.934,
@@ -75643,6 +75674,25 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Lightning Boys/Lightning Boys.tja",
+            "title": {
+                "en": "Lightning Boys",
+                "ja": "Lightning Boys"
+            },
+            "subtitle": {
+                "en": "Sadakichi",
+                "ja": "さだきち"
+            },
+            "category": "Namco Original",
+            "offset": -1.601,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 5,
+                "Easy": 4
             }
         },
         {
