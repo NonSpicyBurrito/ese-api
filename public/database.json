@@ -1,5 +1,5 @@
 {
-    "commit": "44f1d05b4a54b6fe68752d85090d4bc26521ceb9",
+    "commit": "f70353d88b8b39e95923694025a8516fab7a30f3",
     "blobs": [
         {
             "type": "blob",
@@ -3448,7 +3448,7 @@
         },
         {
             "type": "blob",
-            "hash": "594beb85fc4402bd30f62a26bb30d69c85c44b98",
+            "hash": "fddaef90413ea02b8f923e5b0a1411b471da889d",
             "path": "01 Pop/Mayonaka no Door Stay with me/Mayonaka no Door Stay with me.tja"
         },
         {
@@ -6593,7 +6593,7 @@
         },
         {
             "type": "blob",
-            "hash": "44a85a655ad8e6c519b9bbffa77f3194f1da4c3b",
+            "hash": "f0d6bdf22a20a587530a420625a5feb61b9e6fb6",
             "path": "01 Pop/phony/phony.tja"
         },
         {
@@ -13358,7 +13358,7 @@
         },
         {
             "type": "blob",
-            "hash": "504d5ce2f268d012be955ac6abb0b89e59f85e32",
+            "hash": "2fe553912c5af380316954f93cc8645e4255d43a",
             "path": "03 Vocaloid/Yoidore Shirazu/Yoidore Shirazu.tja"
         },
         {
@@ -16188,7 +16188,7 @@
         },
         {
             "type": "blob",
-            "hash": "5de090676816cc0d3a906a46ff40fb98a65e2af6",
+            "hash": "ec8ba54786b6682bc31017f3153667dc9b422c77",
             "path": "06 Classical/Funiculi Funicula/Funiculi Funicula.tja"
         },
         {
@@ -16263,7 +16263,7 @@
         },
         {
             "type": "blob",
-            "hash": "95776330eedfc467e761a3b7bfbbeb98b6273756",
+            "hash": "8fdc32648cb880631708827ece11e3f81bf37bcd",
             "path": "06 Classical/La Campanella/La Campanella.tja"
         },
         {
@@ -20843,7 +20843,7 @@
         },
         {
             "type": "blob",
-            "hash": "645305326c9638ef73ab84d19a113698870e8bb9",
+            "hash": "d291f01529e6bdabad40a3822d837ac8b0228ffb",
             "path": "07 Game Music/XEVIOUS Taisou/XEVIOUS Taisou.tja"
         },
         {
@@ -24873,6 +24873,16 @@
         },
         {
             "type": "blob",
+            "hash": "3f34db1a0268ebd5adae996073bdef1df1d7037c",
+            "path": "09 Namco Original/Kakashi Hime Princess Scarecrow/Kakashi Hime Princess Scarecrow.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1c4d9bf1e899586231b11c863be0563eff5dceab",
+            "path": "09 Namco Original/Kakashi Hime Princess Scarecrow/Kakashi Hime Princess Scarecrow.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a8633ab9bf608020dba36c790a22b7186fc64eff",
             "path": "09 Namco Original/Kappa_no_Sara_wa_Konna_ni_mo/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.ogg"
         },
@@ -26078,12 +26088,22 @@
         },
         {
             "type": "blob",
+            "hash": "6d431f96f1878bd596f21717590b6b26a317200d",
+            "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f7854847658c3048db2efa3e4caa88028dab12b0",
+            "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "3cf13bcdf413bd61606fb8980cd89bf4790e9e1f",
             "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro.ogg"
         },
         {
             "type": "blob",
-            "hash": "225b52b45b60e41cd2870c29dcf8a9ede266aaca",
+            "hash": "dd86bfb210b89cbc7fdac98467ba77b250dbe558",
             "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro.tja"
         },
         {
@@ -28438,7 +28458,7 @@
         },
         {
             "type": "blob",
-            "hash": "dafbe5a6969a24827714344169afb6cb247ba30a",
+            "hash": "330fe2a44b791a117c4c2adddd7b3539d50cd015",
             "path": "09 Namco Original/Yumeutsutsu Catharsis/Yumeutsutsu Catharsis.tja"
         },
         {
@@ -36701,7 +36721,7 @@
                 "ja": "真夜中のドア～Stay with me"
             },
             "subtitle": {
-                "en": "Miki Matsubara"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -0.69,
@@ -42408,10 +42428,10 @@
             },
             "subtitle": {
                 "en": "tsumiki feat. KAFU",
-                "ja": "ツミキ feat. 可不"
+                "ja": "ツミキ feat. 音楽的同位体 可不(KAFU)"
             },
             "category": "Pop",
-            "offset": -1.157,
+            "offset": -1.509,
             "courses": {
                 "Edit": 9,
                 "Oni": 7,
@@ -60136,7 +60156,8 @@
                 "ja": "フニクリ・フニクラ"
             },
             "subtitle": {
-                "en": "Yuri Misumi feat. Akira Yukawa"
+                "en": "Yuri Misumi feat. Akira Yukawa",
+                "ja": " "
             },
             "category": "Classical",
             "offset": -4.537,
@@ -68975,16 +68996,17 @@
                 "ja": "ゼビウス体操"
             },
             "subtitle": {
-                "en": "Yuri Misumi feat. Yoshihito Yano/XEVIOUS"
+                "en": "Yuri Misumi feat. Yoshihito Yano/XEVIOUS",
+                "ja": " "
             },
             "category": "Game Music",
-            "offset": -3.619,
+            "offset": -3.614,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 5,
-                "Easy": 4,
-                "Edit": 9
+                "Easy": 4
             }
         },
         {
@@ -74609,6 +74631,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Kakashi Hime Princess Scarecrow/Kakashi Hime Princess Scarecrow.tja",
+            "title": {
+                "en": "Kakashi-Hime: Princess Scarecrow",
+                "ja": "案山子姫 -Princess Scarecrow-"
+            },
+            "subtitle": {
+                "en": "Harunaba feat. Chihiro Ishiguro",
+                "ja": "はるなば feat. 石黒千尋"
+            },
+            "category": "Namco Original",
+            "offset": -1.475,
+            "courses": {
+                "Oni": 8,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Kappa_no_Sara_wa_Konna_ni_mo/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja",
             "title": {
                 "en": "Kappa no Sara wa Konna ni mo",
@@ -76886,13 +76927,33 @@
             }
         },
         {
-            "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro.tja",
+            "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro -Old Audio Chart-.tja",
             "title": {
-                "en": "Nijiiro Yumeiro Taikoiro",
+                "en": "Nijiiro Yumeiro Taikoiro -Old Audio/Chart-",
                 "ja": "虹色･夢色･太鼓色"
             },
             "subtitle": {
-                "en": "Go Shiina feat. Yoko Takahashi"
+                "en": "Go Shiina feat. Yoko Takahashi",
+                "ja": "旧音源・譜面"
+            },
+            "category": "Namco Original",
+            "offset": -2.426,
+            "courses": {
+                "Oni": 3,
+                "Hard": 4,
+                "Normal": 6,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Nijiiro Yumeiro Taikoiro/Nijiiro Yumeiro Taikoiro.tja",
+            "title": {
+                "en": "Nijiiro Yumeiro Taikoiro -New Audio/Chart-",
+                "ja": "虹色･夢色･太鼓色"
+            },
+            "subtitle": {
+                "en": "Go Shiina feat. Yoko Takahashi",
+                "ja": "新音源・譜面"
             },
             "category": "Namco Original",
             "offset": -2.426,
@@ -81346,7 +81407,7 @@
             },
             "subtitle": {
                 "en": "Kanaya Ohki (BNSI) feat. Kaori Aihara",
-                "ja": "大木奏弥 (BNSI) feat. 愛原圭織"
+                "ja": "大木奏弥(BNSI) feat. 愛原圭織"
             },
             "category": "Namco Original",
             "offset": -2.306,
