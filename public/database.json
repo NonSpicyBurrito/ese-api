@@ -1,5 +1,5 @@
 {
-    "commit": "f70353d88b8b39e95923694025a8516fab7a30f3",
+    "commit": "a40e404eed0e80695915e0ad47eeaecdd5010351",
     "blobs": [
         {
             "type": "blob",
@@ -17388,12 +17388,22 @@
         },
         {
             "type": "blob",
+            "hash": "ce4430204dc7132c74ca8ec77134d7b82980a2a0",
+            "path": "07 Game Music/Do-Dai/Do-Dai -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1f3c0c78e7e96ef4f8bb4477b29c88d807f8b575",
+            "path": "07 Game Music/Do-Dai/Do-Dai -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "971be76172e348f7fc6bef9e80accf53c42c28fe",
             "path": "07 Game Music/Do-Dai/Do-Dai.ogg"
         },
         {
             "type": "blob",
-            "hash": "66ed43feee739fe958b74397f3672ba4214a1002",
+            "hash": "8b12404ef1012b15e2784b52aa57f2fcf72b2bc9",
             "path": "07 Game Music/Do-Dai/Do-Dai.tja"
         },
         {
@@ -18208,12 +18218,22 @@
         },
         {
             "type": "blob",
+            "hash": "ec895d145718a2feb6956ebd5744406e475a328f",
+            "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -765PRO ALLSTARS Version.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4f6f9bdd6beaa021434559eea591c69bce4814cf",
+            "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -765PRO ALLSTARS Version.tja"
+        },
+        {
+            "type": "blob",
             "hash": "7c7906da70bb1382120a2f5ac1de7d3cbe527b37",
             "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -Haruka and Chihaya and Miki Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "0a162613767e0780933e9cde0ec2bfa93ce47b8d",
+            "hash": "d9bb64699e66748c5aab9bc7132ac751b4ee842f",
             "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -Haruka and Chihaya and Miki Version-.tja"
         },
         {
@@ -18223,7 +18243,7 @@
         },
         {
             "type": "blob",
-            "hash": "3187b174e93c2cc72d8349c2ccc7f5fa267e7767",
+            "hash": "3161a9bb830fd73f1048e43cf6ae9fefc64c994b",
             "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -IMAS ALLSTARS Version.tja"
         },
         {
@@ -18788,12 +18808,12 @@
         },
         {
             "type": "blob",
-            "hash": "c9f828367ece7efe8aabf881bd6dbe00520947f6",
+            "hash": "ec8735034475da7588cfba54eadc03815836cb40",
             "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Old Audio Chart-.ogg"
         },
         {
             "type": "blob",
-            "hash": "f672bcb45de5aa46100e7bb80fc3e50db7d07b89",
+            "hash": "37d8d4898b9cb0370da7d92b9b4f7adc03f7c7cd",
             "path": "07 Game Music/Mahou o Kakete!/Mahou o Kakete! -Old Audio Chart-.tja"
         },
         {
@@ -19518,7 +19538,7 @@
         },
         {
             "type": "blob",
-            "hash": "9951671d50b2570bd3cd4090f6fa50e190d9934e",
+            "hash": "3caaa30f696b40fa58b21da6a970b820d40b0f6b",
             "path": "07 Game Music/Positive!/Positive! -765PRO ALLSTARS Version-.tja"
         },
         {
@@ -19528,8 +19548,18 @@
         },
         {
             "type": "blob",
-            "hash": "3dceca7748fec0f2f203fa17610f1aab02f6665b",
+            "hash": "2bbe6d628246d6f1d03dd1ccdbb51a247ce5bd60",
             "path": "07 Game Music/Positive!/Positive! -Ami and Mami Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "bb474fe0aa25743cad76a4f66aff7e7a86a7ebda",
+            "path": "07 Game Music/Positive!/Positive! -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "03fb3bc35f2da3dcd6979248a4fb129d9b24cac5",
+            "path": "07 Game Music/Positive!/Positive! -Old Audio Chart-.tja"
         },
         {
             "type": "blob",
@@ -62422,13 +62452,33 @@
             }
         },
         {
-            "path": "07 Game Music/Do-Dai/Do-Dai.tja",
+            "path": "07 Game Music/Do-Dai/Do-Dai -Old Audio Chart-.tja",
             "title": {
-                "en": "Do-Dai",
+                "en": "Do-Dai -Old Audio/Chart-",
                 "ja": "Do-Dai"
             },
             "subtitle": {
-                "en": "Koji Nakagawa feat. IM@S ALLSTARS/THE iDOLM@STER： Live for You!"
+                "en": "Koji Nakagawa feat. IM@S ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "旧音源・譜面 「アイドルマスター2」より"
+            },
+            "category": "Game Music",
+            "offset": -1.744,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Do-Dai/Do-Dai.tja",
+            "title": {
+                "en": "Do-Dai -New Audio/Chart-",
+                "ja": "Do-Dai"
+            },
+            "subtitle": {
+                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "新音源・譜面 「アイドルマスター2」より"
             },
             "category": "Game Music",
             "offset": -1.744,
@@ -64021,6 +64071,25 @@
             }
         },
         {
+            "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -765PRO ALLSTARS Version.tja",
+            "title": {
+                "en": "Kamisama no Birthday -New Audio/Chart-",
+                "ja": "神さまのBirthday"
+            },
+            "subtitle": {
+                "en": "Yoshi feat. 765PRO ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "新音源・譜面 「THE IDOLM@STER」より"
+            },
+            "category": "Game Music",
+            "offset": -5.533,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -Haruka and Chihaya and Miki Version-.tja",
             "title": {
                 "en": "Kamisama no Birthday -Haruka & Chihaya & Miki Version-",
@@ -64042,18 +64111,19 @@
         {
             "path": "07 Game Music/Kamisama no Birthday/Kamisama no Birthday -IMAS ALLSTARS Version.tja",
             "title": {
-                "en": "Kamisama no Birthday -IMAS ALLSTARS Version-",
+                "en": "Kamisama no Birthday -Old Audio/Chart-",
                 "ja": "神さまのBirthday"
             },
             "subtitle": {
-                "en": "Yoshi feat. IM@S ALLSTARS/THE iDOLM@STER： Live for You!"
+                "en": "Yoshi feat. IM@S ALLSTARS/THE iDOLM@STER： Live for You!",
+                "ja": "旧音源・譜面 「THE IDOLM@STER」より"
             },
             "category": "Game Music",
             "offset": -4.964,
             "courses": {
                 "Oni": 7,
-                "Hard": 4,
-                "Normal": 4,
+                "Hard": 5,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -65142,7 +65212,7 @@
                 "ja": "旧音源・譜面 「アイドルマスター」より"
             },
             "category": "Game Music",
-            "offset": -2.435,
+            "offset": -1.934,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -66513,11 +66583,12 @@
         {
             "path": "07 Game Music/Positive!/Positive! -765PRO ALLSTARS Version-.tja",
             "title": {
-                "en": "Positive! -765PRO ALLSTARS Version-",
+                "en": "Positive! -New Audio/Chart-",
                 "ja": "ポジティブ！"
             },
             "subtitle": {
-                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER"
+                "en": "Koji Nakagawa feat. 765PRO ALLSTARS/THE iDOLM@STER",
+                "ja": "新音源・譜面 「THE IDOLM@STER」より"
             },
             "category": "Game Music",
             "offset": -2.039,
@@ -66545,6 +66616,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Positive!/Positive! -Old Audio Chart-.tja",
+            "title": {
+                "en": "Positive! -Old Audio/Chart-",
+                "ja": "ポジティブ！"
+            },
+            "subtitle": {
+                "en": "Koji Nakagawa feat. IM@S ALLSTARS/THE iDOLM@STER",
+                "ja": "旧音源・譜面 「THE IDOLM@STER」より"
+            },
+            "category": "Game Music",
+            "offset": -2.538,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 4
             }
         },
         {
