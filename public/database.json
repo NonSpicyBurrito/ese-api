@@ -1,5 +1,5 @@
 {
-    "commit": "a40e404eed0e80695915e0ad47eeaecdd5010351",
+    "commit": "70956104b54758478068f2f9290f2dd069bd8de2",
     "blobs": [
         {
             "type": "blob",
@@ -1808,12 +1808,12 @@
         },
         {
             "type": "blob",
-            "hash": "7d6b642157ba9a2c81db0b88b05ff3f7325478c1",
+            "hash": "38b8efd36e1f677c527df8086c5ed575d61ea60d",
             "path": "01 Pop/Habit/Habit.ogg"
         },
         {
             "type": "blob",
-            "hash": "2a46694b7542b93739794531d664c253f67a71cd",
+            "hash": "7036634c2055f7da76407bd0a28a9e18b1812f7d",
             "path": "01 Pop/Habit/Habit.tja"
         },
         {
@@ -2608,12 +2608,12 @@
         },
         {
             "type": "blob",
-            "hash": "7046029a0ffdb392113d6b223e8ed5d54410aff5",
+            "hash": "08d75aa98ab20d751db336b3519ca684ee1c00bb",
             "path": "01 Pop/Kawaikute Gomen/Kawaikute Gomen.ogg"
         },
         {
             "type": "blob",
-            "hash": "4162b499793ab2f08d567cfd3e509c802a765e11",
+            "hash": "b9bc78ddcec3655da1a2f844561bfd13ae9c88cc",
             "path": "01 Pop/Kawaikute Gomen/Kawaikute Gomen.tja"
         },
         {
@@ -16778,12 +16778,12 @@
         },
         {
             "type": "blob",
-            "hash": "8f531c989cd3a71ac3ed1feebe5277ce8a83b5f6",
+            "hash": "a8ad325d5708b69468d9c35e4239e0cc5ff12c4d",
             "path": "07 Game Music/AWAKE ～Muscle Mezame no Theme～/AWAKE Muscle Mezame no Theme.ogg"
         },
         {
             "type": "blob",
-            "hash": "c4d78fafcd2161cd501ace1fee3fe3e832748ab3",
+            "hash": "365a8ecac7ada624c2be198170b0ae38b99db964",
             "path": "07 Game Music/AWAKE ～Muscle Mezame no Theme～/AWAKE Muscle Mezame no Theme.tja"
         },
         {
@@ -18578,7 +18578,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd105122276cf8c6912ac26184de40a36c87160a",
+            "hash": "751ab1a0090ccd595168563fc994062ed02df6c3",
             "path": "07 Game Music/Life Will Change/Life Will Change.tja"
         },
         {
@@ -18718,7 +18718,7 @@
         },
         {
             "type": "blob",
-            "hash": "3299fcf6aed5debb9af55c8e6468e165fb02a63a",
+            "hash": "54aafade18a3d97dad805ac704d722465ffe0af5",
             "path": "07 Game Music/MEGALOVANIA/MEGALOVANIA.tja"
         },
         {
@@ -23923,12 +23923,22 @@
         },
         {
             "type": "blob",
+            "hash": "638d3e2377d7a129e4a1a6c822d06825a85c317b",
+            "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ca7d2e3b6315f4f3b2215d57b1a76f51443db5e0",
+            "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b90b0ff0dc485c789604a02d9705e0e840662f06",
             "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei.ogg"
         },
         {
             "type": "blob",
-            "hash": "88bd5e74e88edfbb0f01ed72f5fd6af02b544470",
+            "hash": "d84912df51317622605d7c1be0ee79892231f8c9",
             "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei.tja"
         },
         {
@@ -25318,7 +25328,7 @@
         },
         {
             "type": "blob",
-            "hash": "57598c05c19e7a4184324fa0d1dab92607963a79",
+            "hash": "4e21d6d8be7787dc40f41bed02e42d86d63a2d58",
             "path": "09 Namco Original/Kumo no Kanata no Taichi no Kaze/Kumo no Kanata no Taichi no Kaze.tja"
         },
         {
@@ -26520,6 +26530,16 @@
             "type": "blob",
             "hash": "c9a1191c85c0ad300acc417e17af9442c7a6b091",
             "path": "09 Namco Original/Picopico Ruin/Picopico Ruin.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "effffd1128ad9271cf772e963def410a6552ba3f",
+            "path": "09 Namco Original/Pitch Fader/Pitch Fader.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b8659792a04bb47e567c6dd1b71a6065edffb9c4",
+            "path": "09 Namco Original/Pitch Fader/Pitch Fader.tja"
         },
         {
             "type": "blob",
@@ -33728,11 +33748,11 @@
                 "ja": "Habit"
             },
             "subtitle": {
-                "en": "SEKAI NO OWARI / Movie \"xxxHOLiC\" Theme Song",
+                "en": "Movie \"xxxHOLiC\" Theme Song",
                 "ja": "映画『ホリック xxxHOLiC』主題歌"
             },
             "category": "Pop",
-            "offset": -0.674,
+            "offset": -1.585,
             "courses": {
                 "Edit": 8,
                 "Oni": 7,
@@ -35216,11 +35236,9 @@
                 "en": "Kawaikute Gomen",
                 "ja": "可愛くてごめん"
             },
-            "subtitle": {
-                "en": "HoneyWorks feat. Chuu-tan (CV: Saori Hayami)"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -0.57,
+            "offset": -1.401,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -61292,16 +61310,17 @@
         {
             "path": "07 Game Music/AWAKE ～Muscle Mezame no Theme～/AWAKE Muscle Mezame no Theme.tja",
             "title": {
-                "en": "AWAKE ～Muscle Mezame no Theme～",
+                "en": "AWAKE!! ～Muscle Mezame no Theme～",
                 "ja": "AWAKE!! ～マッスル目覚めのテーマ～"
             },
             "subtitle": {
                 "en": "Yoshihito Yano feat. Crab Prince/Muscle March",
-                "ja": "「マッスル行進曲」より"
+                "ja": "feat. 蟹プリンス 「マッスル行進曲」より"
             },
             "category": "Game Music",
-            "offset": 0,
+            "offset": -1.164,
             "courses": {
+                "Edit": 10,
                 "Oni": 7,
                 "Hard": 4,
                 "Normal": 4,
@@ -64738,7 +64757,7 @@
                 "ja": "Life Will Change"
             },
             "subtitle": {
-                "en": "Shoji Meguro feat. Benjamin Franklin/Persona 5",
+                "en": "Shoji Meguro feat. Lyn/Persona 5",
                 "ja": "「ペルソナ5」より"
             },
             "category": "Game Music",
@@ -72888,21 +72907,42 @@
             }
         },
         {
-            "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei.tja",
+            "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei -Old Audio Chart-.tja",
             "title": {
-                "en": "Fuun! Bachio Sensei",
+                "en": "Fuun! Bachio Sensei -Old Audio/Chart-",
                 "ja": "風雲！バチお先生"
             },
             "subtitle": {
-                "en": "Go Shiina"
+                "en": "Go Shiina",
+                "ja": "旧音源・譜面"
+            },
+            "category": "Namco Original",
+            "offset": -5.097,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei.tja",
+            "title": {
+                "en": "Fuun! Bachio Sensei -New Audio/Chart-",
+                "ja": "風雲！バチお先生"
+            },
+            "subtitle": {
+                "en": "Go Shiina",
+                "ja": "新音源・譜面"
             },
             "category": "Namco Original",
             "offset": -5.279,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 5,
-                "Easy": 4
+                "Easy": 3
             }
         },
         {
@@ -77785,6 +77825,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Pitch Fader/Pitch Fader.tja",
+            "title": {
+                "en": "Pitch Fader",
+                "ja": "ピッチフェイダ"
+            },
+            "subtitle": {
+                "en": "Sho Okada(BNSI) feat. Bonjour Suzuki",
+                "ja": "Sho Okada(BNSI) feat. ボンジュール鈴木"
+            },
+            "category": "Namco Original",
+            "offset": -0.852,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
