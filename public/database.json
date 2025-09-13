@@ -1,5 +1,5 @@
 {
-    "commit": "70956104b54758478068f2f9290f2dd069bd8de2",
+    "commit": "cb9c00e6996bd4bf381175a16a63268a73f8e1d3",
     "blobs": [
         {
             "type": "blob",
@@ -6773,7 +6773,7 @@
         },
         {
             "type": "blob",
-            "hash": "f01d15286202c54008050928c04eafc73c5cc457",
+            "hash": "41e590f4bbc69220a8fca7dd6459c952b0b17fa0",
             "path": "02 Anime/Ai Scream/Ai Scream.tja"
         },
         {
@@ -11188,6 +11188,16 @@
         },
         {
             "type": "blob",
+            "hash": "d86b82a5e10d88fd2217f9b03aa16d2bc02d80f3",
+            "path": "02 Anime/TWILIGHT!!!/TWILIGHT!!!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b0e84d440df1ab26d7c2636a7dbf28aea18812e0",
+            "path": "02 Anime/TWILIGHT!!!/TWILIGHT!!!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "53e4c3c53c999c811f62c995ff65c5e72956c77b",
             "path": "02 Anime/Tagatame/Tagatame.ogg"
         },
@@ -15013,12 +15023,12 @@
         },
         {
             "type": "blob",
-            "hash": "c035fcf42f2961567959899457afa55ed492acf5",
+            "hash": "b2aa2f81f8ada3019c94e26ff7676f4e793dad0a",
             "path": "05 Variety/Doppelgangers/Doppelgangers.ogg"
         },
         {
             "type": "blob",
-            "hash": "a3866a2df2a3205cdfa25695efb4d19d9170e8d9",
+            "hash": "3bdeff26d95d42fc1ad0e0631b02fc2805b3001a",
             "path": "05 Variety/Doppelgangers/Doppelgangers.tja"
         },
         {
@@ -22618,7 +22628,7 @@
         },
         {
             "type": "blob",
-            "hash": "109412d5ec39d67e49129fc4b17065eebb5080f7",
+            "hash": "9ce6436483ccf36541a7fd56e0ded0abd1a184c9",
             "path": "09 Namco Original/Beat Again/Beat Again.tja"
         },
         {
@@ -23228,7 +23238,7 @@
         },
         {
             "type": "blob",
-            "hash": "753a54a6c7c7788f58620776d7b555adade21a89",
+            "hash": "2f032bcfa896f82cd2554f96352ab1c2a59e4656",
             "path": "09 Namco Original/Dairokuten Maou/Dairokuten Maou.tja"
         },
         {
@@ -23503,7 +23513,7 @@
         },
         {
             "type": "blob",
-            "hash": "f03e73824b68ca9e50657bfda15e667072d3d270",
+            "hash": "647db06dd388acf21fbfbff1844a51d6f1b6d7bb",
             "path": "09 Namco Original/Donderful Everyday/Donderful Everyday.tja"
         },
         {
@@ -23893,12 +23903,12 @@
         },
         {
             "type": "blob",
-            "hash": "95d1b0c210d6559a0aca497f560522c63caa18cd",
+            "hash": "5cf5c192f1e28b1d6c61c9931b73bacdaef440bd",
             "path": "09 Namco Original/Fuuma Module 6768/Fuuma Module 6768.ogg"
         },
         {
             "type": "blob",
-            "hash": "b9a2cbfbb2b79edb6936d14fc304080743e86ae7",
+            "hash": "f37a6f781c9ef2672db2327a44a6181650a83d22",
             "path": "09 Namco Original/Fuuma Module 6768/Fuuma Module 6768.tja"
         },
         {
@@ -24868,7 +24878,7 @@
         },
         {
             "type": "blob",
-            "hash": "a1b9973f4fe117f5724e23b0f172a7204d4ae303",
+            "hash": "d0b82992ff862a8ffa7eb52137fa4680f24d261b",
             "path": "09 Namco Original/Kagami no Kuni no Alice/Kagami no Kuni no Alice.tja"
         },
         {
@@ -24924,12 +24934,12 @@
         {
             "type": "blob",
             "hash": "a8633ab9bf608020dba36c790a22b7186fc64eff",
-            "path": "09 Namco Original/Kappa_no_Sara_wa_Konna_ni_mo/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.ogg"
+            "path": "09 Namco Original/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.ogg"
         },
         {
             "type": "blob",
-            "hash": "0fe843ecc5999ac121ab82950e117d2f1bd32ab4",
-            "path": "09 Namco Original/Kappa_no_Sara_wa_Konna_ni_mo/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja"
+            "hash": "99f3a1260b6a9f53118aeab389be094557a4bbfb",
+            "path": "09 Namco Original/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja"
         },
         {
             "type": "blob",
@@ -25433,12 +25443,12 @@
         },
         {
             "type": "blob",
-            "hash": "e9769720e5712368fe0ad8e32060929eb6dcb2dc",
+            "hash": "c91a9697f290092ff14b9c71955d7d79986952c0",
             "path": "09 Namco Original/LECIEL GLISSANDO/LECIEL GLISSANDO.ogg"
         },
         {
             "type": "blob",
-            "hash": "f03d59f22c695b1406dc730043dce2767fdd1b00",
+            "hash": "3e01d62a565ff863d8009783da94cca2f91dded2",
             "path": "09 Namco Original/LECIEL GLISSANDO/LECIEL GLISSANDO.tja"
         },
         {
@@ -25853,7 +25863,7 @@
         },
         {
             "type": "blob",
-            "hash": "f9e5118bc1c24870df561fae2ea767ecd3860aad",
+            "hash": "b2f01ed992785d01d91d6d889202c1048a70cf45",
             "path": "09 Namco Original/Metameta Universe!/Metameta Universe!.tja"
         },
         {
@@ -26538,7 +26548,7 @@
         },
         {
             "type": "blob",
-            "hash": "b8659792a04bb47e567c6dd1b71a6065edffb9c4",
+            "hash": "9d03435e05608316ecd2eecb795738b1b7c9eb72",
             "path": "09 Namco Original/Pitch Fader/Pitch Fader.tja"
         },
         {
@@ -51107,6 +51117,25 @@
             }
         },
         {
+            "path": "02 Anime/TWILIGHT!!!/TWILIGHT!!!.tja",
+            "title": {
+                "en": "TWILIGHT!!!",
+                "ja": "TWILIGHT!!!"
+            },
+            "subtitle": {
+                "en": "Detective Conan: One-eyed Flashback",
+                "ja": "劇場版「名探偵コナン 隻眼の残像」より"
+            },
+            "category": "Anime",
+            "offset": -1.843,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Tagatame/Tagatame.tja",
             "title": {
                 "en": "Tagatame",
@@ -58034,7 +58063,7 @@
                 "ja": "アリスシャッハと魔法の楽団"
             },
             "category": "Variety",
-            "offset": -8.719,
+            "offset": -2.841,
             "courses": {
                 "Edit": 10,
                 "Oni": 8,
@@ -72121,7 +72150,7 @@
                 "ja": "まいにちがドンダフル"
             },
             "subtitle": {
-                "en": "Cory Tarrow",
+                "en": "Cory Tarrow / \"Taiko no Tatsujin: Rhythm Festival\" Main Theme",
                 "ja": "「太鼓の達人 ドンダフルフェスティバル」テーマソング"
             },
             "category": "Namco Original",
@@ -72861,7 +72890,7 @@
                 "ja": "翡翠"
             },
             "category": "Namco Original",
-            "offset": -0.144,
+            "offset": -1.48,
             "courses": {
                 "Edit": 9,
                 "Oni": 7,
@@ -74678,6 +74707,7 @@
             "category": "Namco Original",
             "offset": -0.34,
             "courses": {
+                "Edit": 8,
                 "Oni": 6,
                 "Hard": 5,
                 "Normal": 4,
@@ -74780,7 +74810,7 @@
             }
         },
         {
-            "path": "09 Namco Original/Kappa_no_Sara_wa_Konna_ni_mo/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja",
+            "path": "09 Namco Original/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja",
             "title": {
                 "en": "Kappa no Sara wa Konna ni mo",
                 "ja": "河童の皿はこんなにも"
@@ -74790,7 +74820,7 @@
                 "ja": "大澤めい(BNSI) feat. 池澤孝之"
             },
             "category": "Namco Original",
-            "offset": -0.706,
+            "offset": -2.041,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -75743,7 +75773,7 @@
                 "ja": "よみぃ"
             },
             "category": "Namco Original",
-            "offset": -4.246,
+            "offset": -4.718,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
@@ -76545,6 +76575,7 @@
             "category": "Namco Original",
             "offset": -1.476,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 5,
