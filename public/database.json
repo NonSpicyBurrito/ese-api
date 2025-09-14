@@ -1,5 +1,5 @@
 {
-    "commit": "cb9c00e6996bd4bf381175a16a63268a73f8e1d3",
+    "commit": "b6606055fdddb869dfe0afcef4187ea956e4c119",
     "blobs": [
         {
             "type": "blob",
@@ -17893,6 +17893,16 @@
         },
         {
             "type": "blob",
+            "hash": "b4e35abe34c88503f9814a94c7946115976a82c2",
+            "path": "07 Game Music/Hajime/Hajime.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6864d1a1cffb14c7a19a452a57ecace9fe5bb873",
+            "path": "07 Game Music/Hajime/Hajime.tja"
+        },
+        {
+            "type": "blob",
             "hash": "30693bb013c40bf75f41300129ce7c390055fe21",
             "path": "07 Game Music/Hashi!/Hashi!.ogg"
         },
@@ -22503,12 +22513,12 @@
         },
         {
             "type": "blob",
-            "hash": "e132cac2ff5f30b73eeaf7a2479c4a466dbd3c4c",
+            "hash": "15269eef108af696607cba6782ccdff659d74890",
             "path": "09 Namco Original/Arc/Arc.ogg"
         },
         {
             "type": "blob",
-            "hash": "66ae823de26a05d33e2f6dbe392a73e997a3f37f",
+            "hash": "1b8ad2a4e873229d26eeedf59017c11fba493c7b",
             "path": "09 Namco Original/Arc/Arc.tja"
         },
         {
@@ -24928,7 +24938,7 @@
         },
         {
             "type": "blob",
-            "hash": "1c4d9bf1e899586231b11c863be0563eff5dceab",
+            "hash": "87c977b0443770d29f9cf85d01c8cc63a75ae521",
             "path": "09 Namco Original/Kakashi Hime Princess Scarecrow/Kakashi Hime Princess Scarecrow.tja"
         },
         {
@@ -25508,7 +25518,7 @@
         },
         {
             "type": "blob",
-            "hash": "a078118a69d2e0541d288eb0a43ced0317f95f78",
+            "hash": "3f3ae6cad38d246485354de7a99f3d542c1b195b",
             "path": "09 Namco Original/Lightning Boys/Lightning Boys.tja"
         },
         {
@@ -26548,7 +26558,7 @@
         },
         {
             "type": "blob",
-            "hash": "9d03435e05608316ecd2eecb795738b1b7c9eb72",
+            "hash": "104cff85703a6c69a0fc81fc7d27647076a5e45a",
             "path": "09 Namco Original/Pitch Fader/Pitch Fader.tja"
         },
         {
@@ -26878,7 +26888,7 @@
         },
         {
             "type": "blob",
-            "hash": "76579b58ab0722a4539c87d923cb1f55148945f9",
+            "hash": "39530297de8b5625ed5fecc595630daa5627e06b",
             "path": "09 Namco Original/SORA-III Heliopause/SORA-III Heliopause.tja"
         },
         {
@@ -26938,7 +26948,7 @@
         },
         {
             "type": "blob",
-            "hash": "9f1df2ea77846198096f7e17da06e28eb50ba573",
+            "hash": "16d9e7389dac47167bd51eee1109b03fdae5a8a8",
             "path": "09 Namco Original/SUDDEN GUST OC/SUDDEN GUST OC.tja"
         },
         {
@@ -28663,7 +28673,7 @@
         },
         {
             "type": "blob",
-            "hash": "577aeb49bfcb12e1a98df82c46a025476a6abe3f",
+            "hash": "fe0db3aa69fcdb3f80cbc0b998b9555d6bc627da",
             "path": "09 Namco Original/exTora Trap!!/exTora Trap!!.tja"
         },
         {
@@ -28795,6 +28805,16 @@
             "type": "blob",
             "hash": "9b3a4d97f5e4106eb0d3e7a9cb9ceac0f5846e61",
             "path": "09 Namco Original/void setup/void setup.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4cdfec6305259928d759ff7f0fe3a30b6b403a72",
+            "path": "09 Namco Original/vs VIGVANGS/vs VIGVANGS.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "69bdb2be5adad45c0cf3007377645b0d4701b946",
+            "path": "09 Namco Original/vs VIGVANGS/vs VIGVANGS.tja"
         },
         {
             "type": "blob",
@@ -63463,6 +63483,25 @@
             }
         },
         {
+            "path": "07 Game Music/Hajime/Hajime.tja",
+            "title": {
+                "en": "Hajime",
+                "ja": "初"
+            },
+            "subtitle": {
+                "en": "Gakuen iDOLM@STER",
+                "ja": "「学園アイドルマスター」より"
+            },
+            "category": "Game Music",
+            "offset": -4.978,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "07 Game Music/Hashi!/Hashi!.tja",
             "title": {
                 "en": "Hashi!",
@@ -74803,6 +74842,7 @@
             "category": "Namco Original",
             "offset": -1.475,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 8,
                 "Normal": 7,
@@ -75890,6 +75930,7 @@
             "category": "Namco Original",
             "offset": -1.601,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 5,
@@ -77871,6 +77912,7 @@
             "category": "Namco Original",
             "offset": -0.852,
             "courses": {
+                "Edit": 10,
                 "Oni": 9,
                 "Hard": 7,
                 "Normal": 6,
@@ -78486,7 +78528,7 @@
             "category": "Namco Original",
             "offset": -1.98,
             "courses": {
-                "Oni": 9,
+                "Oni": 8,
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 4
@@ -82102,6 +82144,26 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/vs VIGVANGS/vs VIGVANGS.tja",
+            "title": {
+                "en": "vs.VIGVANGS",
+                "ja": "vs.VIGVANGS"
+            },
+            "subtitle": {
+                "en": "MisoilePunch♪",
+                "ja": "MisoilePunch♪"
+            },
+            "category": "Namco Original",
+            "offset": -0.74,
+            "courses": {
+                "Edit": 10,
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
             }
         },
         {
