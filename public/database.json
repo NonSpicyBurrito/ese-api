@@ -1,5 +1,5 @@
 {
-    "commit": "b6606055fdddb869dfe0afcef4187ea956e4c119",
+    "commit": "bb9ef48e8c91629b07a5a930ecee7452f93896f1",
     "blobs": [
         {
             "type": "blob",
@@ -1758,12 +1758,22 @@
         },
         {
             "type": "blob",
+            "hash": "1b707e8889aa16513658d82bcae9c583ccb26051",
+            "path": "01 Pop/Gunjou/Gunjou (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5ddab37d0836e22a57c4aadc67a9f916d1e191a3",
+            "path": "01 Pop/Gunjou/Gunjou (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "6543cb03bcd1bee4f93e92aefa49416c59f033ed",
             "path": "01 Pop/Gunjou/Gunjou.ogg"
         },
         {
             "type": "blob",
-            "hash": "d148f0162583308ea1ab54a5ee4d7cd0dabf9dab",
+            "hash": "1448bd3588931e58eccc9d97e1cbdfbbbb08476f",
             "path": "01 Pop/Gunjou/Gunjou.tja"
         },
         {
@@ -1858,12 +1868,22 @@
         },
         {
             "type": "blob",
+            "hash": "84022f0bf9233364b8170c868bde6678d8fcd636",
+            "path": "01 Pop/Halzion/Halzion (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "817de33f689eb1bf1420d296451109842000bb7f",
+            "path": "01 Pop/Halzion/Halzion (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "8a01a493226c243a4893610b30e5cbaa9da86771",
             "path": "01 Pop/Halzion/Halzion.ogg"
         },
         {
             "type": "blob",
-            "hash": "6904216d66abbce571e76d0a1246d74ffd6a0546",
+            "hash": "42b288a414e7345f7c0a723c18330310e2709c1e",
             "path": "01 Pop/Halzion/Halzion.tja"
         },
         {
@@ -2508,12 +2528,22 @@
         },
         {
             "type": "blob",
+            "hash": "5f504602fda5c0f6417dcfb798a3a7d5e64be0d9",
+            "path": "01 Pop/Kaibutsu/Kaibutsu (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9baeadb70af96ecab018f3a8daefd9c951dbef1b",
+            "path": "01 Pop/Kaibutsu/Kaibutsu (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "819fa5ed610f84144af2d8ead908859e3a3f190e",
             "path": "01 Pop/Kaibutsu/Kaibutsu.ogg"
         },
         {
             "type": "blob",
-            "hash": "399f4402a24cbcee43123613e15009c7feddb658",
+            "hash": "42f6cd3da66480f4308311119fc9604fe15c9072",
             "path": "01 Pop/Kaibutsu/Kaibutsu.tja"
         },
         {
@@ -3450,6 +3480,16 @@
             "type": "blob",
             "hash": "fddaef90413ea02b8f923e5b0a1411b471da889d",
             "path": "01 Pop/Mayonaka no Door Stay with me/Mayonaka no Door Stay with me.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "363b36bd1fd79b784baeb3269dcd5f440dcb6b70",
+            "path": "01 Pop/Megitsune/Megitsune.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "34222d962b3660e7440d73a0e3ea33966cbef50f",
+            "path": "01 Pop/Megitsune/Megitsune.tja"
         },
         {
             "type": "blob",
@@ -5643,6 +5683,16 @@
         },
         {
             "type": "blob",
+            "hash": "4f96143c1c5c27c8e644cc8620051715e96f49ce",
+            "path": "01 Pop/Tamamono/Tamamono.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3b50cd4780c09aab933bd8ab3833f1c397d294c8",
+            "path": "01 Pop/Tamamono/Tamamono.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b49c66d1e5e89e918d6c7c10f9d0d880e3f45e50",
             "path": "01 Pop/Tamashii Revolution/Tamashii Revolution.ogg"
         },
@@ -6578,12 +6628,12 @@
         },
         {
             "type": "blob",
-            "hash": "32e07e1f6ba37aa23600e5c593a3c9735d746063",
+            "hash": "8a3c063a9cf5d4f7575dd1e872876cf960d65685",
             "path": "01 Pop/oddloop/oddloop.ogg"
         },
         {
             "type": "blob",
-            "hash": "1ef8c348d446a0cc70393f013a084287f1d7d6ed",
+            "hash": "700180182ef66018dcc9cde1e40348b66103077a",
             "path": "01 Pop/oddloop/oddloop.tja"
         },
         {
@@ -9088,12 +9138,22 @@
         },
         {
             "type": "blob",
+            "hash": "36ca4588aca82d026f63cfec0c3e39c6dbcca0fa",
+            "path": "02 Anime/Kaikai Kitan/Kaikai Kitan (Cover).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8389396b65b9015994fcfa97233276d89d63bcf2",
+            "path": "02 Anime/Kaikai Kitan/Kaikai Kitan (Cover).tja"
+        },
+        {
+            "type": "blob",
             "hash": "c1f91cd913c6a2bf3a858a45d60d0cc7ada8b28c",
             "path": "02 Anime/Kaikai Kitan/Kaikai Kitan.ogg"
         },
         {
             "type": "blob",
-            "hash": "985dab819f8116ee7ac7789d183d5df0f14c26a9",
+            "hash": "9d67e59246a4008b95aa7fcc797515c53caa449a",
             "path": "02 Anime/Kaikai Kitan/Kaikai Kitan.tja"
         },
         {
@@ -12068,16 +12128,6 @@
         },
         {
             "type": "blob",
-            "hash": "d468305cfd193603704345606d66c7447b53c369",
-            "path": "02 Anime/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "021f86d4bc98bfb9c01ab23ca43e3321ac2539ef",
-            "path": "02 Anime/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.tja"
-        },
-        {
-            "type": "blob",
             "hash": "90f0921f0dc43f9b68e601abf60753532f6d04a4",
             "path": "02 Anime/Zutto Zutto Tomodachi/Zutto Zutto Tomodachi.ogg"
         },
@@ -13090,6 +13140,16 @@
             "type": "blob",
             "hash": "3ed27eea955ffc3cf5700e035858a6f6d1ad2c02",
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "8f8184d16fc05f3ad387993424836a4736a6e877",
+            "path": "03 Vocaloid/Rakuen CASINO GALAXY!/Rakuen CASINO GALAXY!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ac363b615b14129e7ef03ce90235997333c15766",
+            "path": "03 Vocaloid/Rakuen CASINO GALAXY!/Rakuen CASINO GALAXY!.tja"
         },
         {
             "type": "blob",
@@ -14598,6 +14658,16 @@
         },
         {
             "type": "blob",
+            "hash": "791539ccd1419d742ffb40b5b9536c40733e0ac6",
+            "path": "04 Children and Folk/WINNER! Gozyuger!/WINNER! Gozyuger!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "be8dce800404a0d2cdb98a84bbad5c58ce8c94b6",
+            "path": "04 Children and Folk/WINNER! Gozyuger!/WINNER! Gozyuger!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "cd160048fc02b95c9fe31abaa0f8be516c5f9a2b",
             "path": "04 Children and Folk/Walking on the Railroad/Walking on the Railroad.ogg"
         },
@@ -14725,6 +14795,16 @@
             "type": "blob",
             "hash": "f1c5be07fce410bff085338c45e722fff1746ac8",
             "path": "04 Children and Folk/Zenryoku King/Zenryoku King.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "876f26d9c23105bff74532a9258a4a3a8f9c5478",
+            "path": "04 Children and Folk/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3a20370bdc21ca021a53bf4a6e83ecba233f2ecc",
+            "path": "04 Children and Folk/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.tja"
         },
         {
             "type": "blob",
@@ -17763,7 +17843,7 @@
         },
         {
             "type": "blob",
-            "hash": "ccfbbcc7a6f76e8bb5c0b6c81d0f1646405b28af",
+            "hash": "8e9164c5dad08888c36610c2bb8fe2c42126f01c",
             "path": "07 Game Music/Garakuta Doll Play/Garakuta Doll Play (Sou-uchi).tja"
         },
         {
@@ -17773,7 +17853,7 @@
         },
         {
             "type": "blob",
-            "hash": "8798242880d9d30b9c3a1b714a2d09fdfca73060",
+            "hash": "df9a4af958df1172aea486589469f38b706a345c",
             "path": "07 Game Music/Garakuta Doll Play/Garakuta Doll Play.tja"
         },
         {
@@ -19348,6 +19428,16 @@
         },
         {
             "type": "blob",
+            "hash": "789d4606dd8d561d13150045bfc823338d6dd87b",
+            "path": "07 Game Music/Oshama Scramble!/Oshama Scramble!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5e51e1cbc3e97fb82263d6aee7ab2cdce20b15a1",
+            "path": "07 Game Music/Oshama Scramble!/Oshama Scramble!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "d8c3464b5aa835448db0dc6d8fee621d9d73fab2",
             "path": "07 Game Music/Oshiete, Kuma Tomo/Oshiete, Kuma Tomo.ogg"
         },
@@ -20718,8 +20808,18 @@
         },
         {
             "type": "blob",
-            "hash": "2a33ad21d5c57dccf2a275b90e4f4ce27ce8375d",
+            "hash": "63b7804cd67cda162c3c0df2e623befb84d31ca4",
             "path": "07 Game Music/VERTeX/VERTeX.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "47986cb1801252952b46895dfb45a3449e563f67",
+            "path": "07 Game Music/Valsqotch/Valsqotch.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "e81097b5cafddd5a1cf688f5221c1da74f6ae936",
+            "path": "07 Game Music/Valsqotch/Valsqotch.tja"
         },
         {
             "type": "blob",
@@ -23988,7 +24088,7 @@
         },
         {
             "type": "blob",
-            "hash": "a38c363bc5bac22cdf45c80657cde7c2698e04d7",
+            "hash": "724b782ed010bc3f5f4935f1d1f2d5a47dd6a59e",
             "path": "09 Namco Original/GIGALODOON/GIGALODOON.tja"
         },
         {
@@ -27728,7 +27828,7 @@
         },
         {
             "type": "blob",
-            "hash": "761d0b73b9f6b0c1022bca40b8c59601e9f84d5f",
+            "hash": "d4251b20f9e8692428bda0bc799bfea6f5a29a53",
             "path": "09 Namco Original/Takara no Oka/Takara no Oka.tja"
         },
         {
@@ -33683,6 +33783,24 @@
             }
         },
         {
+            "path": "01 Pop/Gunjou/Gunjou (Cover).tja",
+            "title": {
+                "en": "Gunjou -Cover Audio-",
+                "ja": "群青"
+            },
+            "subtitle": {
+                "ja": "カバー音源"
+            },
+            "category": "Pop",
+            "offset": -1.876,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Gunjou/Gunjou.tja",
             "title": {
                 "en": "Gunjou",
@@ -33864,6 +33982,24 @@
                 "Oni": 8,
                 "Hard": 2,
                 "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Halzion/Halzion (Cover).tja",
+            "title": {
+                "en": "Halzion -Cover Audio/Chart-",
+                "ja": "ハルジオン"
+            },
+            "subtitle": {
+                "ja": "カバー音源・譜面"
+            },
+            "category": "Pop",
+            "offset": -1.956,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
                 "Easy": 2
             }
         },
@@ -35069,6 +35205,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Kaibutsu/Kaibutsu (Cover).tja",
+            "title": {
+                "en": "Kaibutsu -Cover Audio-",
+                "ja": "怪物"
+            },
+            "subtitle": {
+                "en": "BEASTARS",
+                "ja": "カバー音源"
+            },
+            "category": "Pop",
+            "offset": -2.3,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -36807,6 +36962,22 @@
                 "Oni": 8,
                 "Hard": 5,
                 "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Megitsune/Megitsune.tja",
+            "title": {
+                "en": "Megitsune",
+                "ja": "メギツネ"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.424,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -40799,6 +40970,25 @@
             }
         },
         {
+            "path": "01 Pop/Tamamono/Tamamono.tja",
+            "title": {
+                "en": "Tamamono",
+                "ja": "賜物"
+            },
+            "subtitle": {
+                "en": "Anpan",
+                "ja": "連続テレビ小説「あんぱん」主題歌"
+            },
+            "category": "Pop",
+            "offset": -1.564,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Tamashii Revolution/Tamashii Revolution.tja",
             "title": {
                 "en": "Tamashii Revolution",
@@ -42490,7 +42680,7 @@
                 "ja": "フレデリック"
             },
             "category": "Pop",
-            "offset": -0.488,
+            "offset": -0.959,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -47187,6 +47377,25 @@
             }
         },
         {
+            "path": "02 Anime/Kaikai Kitan/Kaikai Kitan (Cover).tja",
+            "title": {
+                "en": "Kaikai Kitan -Cover Audio-",
+                "ja": "廻廻奇譚"
+            },
+            "subtitle": {
+                "en": "Jujutsu Kaisen",
+                "ja": "カバー音源 TVアニメ『呪術廻戦』第1クールオープニングテーマ"
+            },
+            "category": "Anime",
+            "offset": -2.381,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "02 Anime/Kaikai Kitan/Kaikai Kitan.tja",
             "title": {
                 "en": "Kaikai Kitan",
@@ -47199,10 +47408,10 @@
             "category": "Anime",
             "offset": -2.384,
             "courses": {
-                "0": 4,
-                "1": 5,
                 "Oni": 8,
-                "Hard": 6
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
             }
         },
         {
@@ -52777,25 +52986,6 @@
             }
         },
         {
-            "path": "02 Anime/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.tja",
-            "title": {
-                "en": "Zenryoku Zenkai! Zenkaiger",
-                "ja": "全力全開！ゼンカイジャー"
-            },
-            "subtitle": {
-                "en": "Takeshi Tsuruno/Kikai Sentai Zenkaiger",
-                "ja": "「機界戦隊ゼンカイジャー」より"
-            },
-            "category": "Anime",
-            "offset": -1.704,
-            "courses": {
-                "Oni": 6,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Zutto Zutto Tomodachi/Zutto Zutto Tomodachi.tja",
             "title": {
                 "en": "Zutto Zutto Tomodachi",
@@ -54736,6 +54926,25 @@
                 "Hard": 7,
                 "Normal": 5,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "03 Vocaloid/Rakuen CASINO GALAXY!/Rakuen CASINO GALAXY!.tja",
+            "title": {
+                "en": "★Rakuen☆CASINO GALAXY!",
+                "ja": "★楽園☆CASINO GALAXY！"
+            },
+            "subtitle": {
+                "en": "nami (OyakataP) feat. galaco",
+                "ja": "nami（親方P） feat. galaco"
+            },
+            "category": "Vocaloid",
+            "offset": -1.043,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -57323,6 +57532,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/WINNER! Gozyuger!/WINNER! Gozyuger!.tja",
+            "title": {
+                "en": "WINNER! Gozyuger! ",
+                "ja": "WINNER！ゴジュウジャー！"
+            },
+            "subtitle": {
+                "en": "No.1 Sentai Gozyuger",
+                "ja": "「ナンバーワン戦隊ゴジュウジャー」より"
+            },
+            "category": "Children and Folk",
+            "offset": -0.821,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
             "path": "04 Children and Folk/Walking on the Railroad/Walking on the Railroad.tja",
             "title": {
                 "en": "Walking on the Railroad",
@@ -57528,6 +57756,25 @@
                 "Hard": 3,
                 "Normal": 2,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "04 Children and Folk/Zenryoku Zenkai! Zenkaiger/Zenryoku Zenkai! Zenkaiger.tja",
+            "title": {
+                "en": "Zenryoku Zenkai! Zenkaiger",
+                "ja": "全力全開！ゼンカイジャー"
+            },
+            "subtitle": {
+                "en": "Kikai Sentai Zenkaiger",
+                "ja": "「機界戦隊ゼンカイジャー」より"
+            },
+            "category": "Children and Folk",
+            "offset": -2.339,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -63222,7 +63469,7 @@
             },
             "subtitle": {
                 "en": "t+pazolite/maimai",
-                "ja": "t+pazolite 「maimai」より"
+                "ja": "t+pazolite 「maimai でらっくす」より"
             },
             "category": "Game Music",
             "offset": -1.98,
@@ -63242,7 +63489,7 @@
             },
             "subtitle": {
                 "en": "t+pazolite/maimai",
-                "ja": "t+pazolite 「maimai」より"
+                "ja": "t+pazolite 「maimai でらっくす」より"
             },
             "category": "Game Music",
             "offset": -1.98,
@@ -66275,6 +66522,26 @@
             }
         },
         {
+            "path": "07 Game Music/Oshama Scramble!/Oshama Scramble!.tja",
+            "title": {
+                "en": "Oshama Scramble!",
+                "ja": "Oshama Scramble!"
+            },
+            "subtitle": {
+                "en": "t+pazolite/maimai DX",
+                "ja": "t+pazolite 「maimai でらっくす」より"
+            },
+            "category": "Game Music",
+            "offset": -0.941,
+            "courses": {
+                "Edit": 10,
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/Oshiete, Kuma Tomo/Oshiete, Kuma Tomo.tja",
             "title": {
                 "en": "Oshiete, Kuma Tomo",
@@ -68841,10 +69108,29 @@
             },
             "subtitle": {
                 "en": "Hiro (SEGA)/maimai",
-                "ja": "Hiro 「maimai」より"
+                "ja": "Hiro 「maimai でらっくす」より"
             },
             "category": "Game Music",
             "offset": -1.869,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
+            "path": "07 Game Music/Valsqotch/Valsqotch.tja",
+            "title": {
+                "en": "Valsqotch",
+                "ja": "Valsqotch"
+            },
+            "subtitle": {
+                "en": "owl*tree feat.chi*tree/maimai DX",
+                "ja": "owl＊tree feat.chi＊tree 「maimai でらっくす」より"
+            },
+            "category": "Game Music",
+            "offset": -1.489,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -80141,7 +80427,8 @@
                 "ja": "宝の丘"
             },
             "subtitle": {
-                "en": "Hiroto Sasaki feat. Takane Yabuki"
+                "en": "Hiroto Sasaki feat. Takane Yabuki",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -3.618,
