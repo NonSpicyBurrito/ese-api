@@ -1,5 +1,5 @@
 {
-    "commit": "bb9ef48e8c91629b07a5a930ecee7452f93896f1",
+    "commit": "72cba1d52fd0061a40e4a465c9ec313c736f54ff",
     "blobs": [
         {
             "type": "blob",
@@ -423,7 +423,7 @@
         },
         {
             "type": "blob",
-            "hash": "ad282cea5987e6d2ad95c0dd96434f65e913f4b7",
+            "hash": "10a6c9efd9bb5d319bc1241e958ad4c3da0f4ba1",
             "path": "01 Pop/Apollo/Apollo.tja"
         },
         {
@@ -3038,7 +3038,7 @@
         },
         {
             "type": "blob",
-            "hash": "ff8e45ede046ca6888ae2df9cd9265e8a8651e7e",
+            "hash": "4f7bcb092dfbe8f425316daea10ac344e3448e20",
             "path": "01 Pop/LOSER/LOSER.tja"
         },
         {
@@ -11308,6 +11308,16 @@
         },
         {
             "type": "blob",
+            "hash": "7f3ed8a945542b716842a5eb72c4730de72dc6cf",
+            "path": "02 Anime/Tenshi to Akuma/Tenshi to Akuma.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "34e10ef5aa5be3eee52f59a18a17ba6e4d975c4e",
+            "path": "02 Anime/Tenshi to Akuma/Tenshi to Akuma.tja"
+        },
+        {
+            "type": "blob",
             "hash": "6ea95a2b539ec4d7846a9b504913d2f1e0d74865",
             "path": "02 Anime/Tensou Sentai Goseiger/Tensou Sentai Goseiger.ogg"
         },
@@ -13818,16 +13828,6 @@
         },
         {
             "type": "blob",
-            "hash": "db4942aac3c3501ce013d5af749f448e7aa56854",
-            "path": "04 Children and Folk/Hello Kitty/Hello Kitty.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "a1640428d1148a26327a0616f6215805be3fe452",
-            "path": "04 Children and Folk/Hello Kitty/Hello Kitty.tja"
-        },
-        {
-            "type": "blob",
             "hash": "12117fdb14ce5b082e3754d36b0a4e629d28ecc9",
             "path": "04 Children and Folk/Hitorigotsu Band Ver/Hitorigotsu Band Ver.ogg"
         },
@@ -15283,6 +15283,16 @@
         },
         {
             "type": "blob",
+            "hash": "db4942aac3c3501ce013d5af749f448e7aa56854",
+            "path": "05 Variety/Hello Kitty/Hello Kitty.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1d4aaa147b2ed7159da342bed4aed602c344fab0",
+            "path": "05 Variety/Hello Kitty/Hello Kitty.tja"
+        },
+        {
+            "type": "blob",
             "hash": "ac0743dce38f9004fc8388923616a841c492bd90",
             "path": "05 Variety/Help me Saitama 2000/Help me Saitama 2000.ogg"
         },
@@ -16303,7 +16313,7 @@
         },
         {
             "type": "blob",
-            "hash": "7550dce7dba6fe042e4d1208815459a6434fc74e",
+            "hash": "322961c5208fbe79a5c1e90f4a899715fffdfe81",
             "path": "06 Classical/Hung-rock/Hung-rock.tja"
         },
         {
@@ -17173,7 +17183,7 @@
         },
         {
             "type": "blob",
-            "hash": "d3a7f526dfb69928ba8b325641cc090997a81668",
+            "hash": "49c7d1c5a8fcf1690ab5524d79dcdc5bb5f8a3a9",
             "path": "07 Game Music/Brand New Theater!/Brand New Theater!.tja"
         },
         {
@@ -18008,7 +18018,7 @@
         },
         {
             "type": "blob",
-            "hash": "3e249d0a24ac3ad4bd5d78a39afe06fdb0911906",
+            "hash": "14557dfba51d6a95c7f13c2c6544e9fdaa1b32f8",
             "path": "07 Game Music/Heat Haze Shadow 2/Heat Haze Shadow 2.tja"
         },
         {
@@ -19853,7 +19863,7 @@
         },
         {
             "type": "blob",
-            "hash": "7bcecd6af2d57b60f09f19b2aa130788eb3144e3",
+            "hash": "d973a7f54a204d170fcdee0e743ab624b6155236",
             "path": "07 Game Music/Ryu no Theme/Ryu no Theme.tja"
         },
         {
@@ -20458,7 +20468,7 @@
         },
         {
             "type": "blob",
-            "hash": "8bb72d2bca5bde2f9ec902756ee8a63ae28c4f9b",
+            "hash": "91ca2c7719f7d356a5453da053cafe8e2c140cd9",
             "path": "07 Game Music/Tales of Berseria Medley/Tales of Berseria Medley.tja"
         },
         {
@@ -20798,7 +20808,7 @@
         },
         {
             "type": "blob",
-            "hash": "9cbeedfccb6b7370d6886ec240fb2c0bcee90058",
+            "hash": "f13523dd2429939770c879ba9548d16cebc58c84",
             "path": "07 Game Music/Urban Striker/Urban Striker.tja"
         },
         {
@@ -24448,7 +24458,7 @@
         },
         {
             "type": "blob",
-            "hash": "b1d032009f853fe8a0cf16262c92684f764c4d18",
+            "hash": "8ee1c61b130b11f49dc1fd40a9db9225630cc4d5",
             "path": "09 Namco Original/Hello, Worldooon!!/Hello, Worldooon!!.tja"
         },
         {
@@ -25768,7 +25778,7 @@
         },
         {
             "type": "blob",
-            "hash": "ab33603e68944bd0855e78c452f9bb3fc7e7d00e",
+            "hash": "1c96b67ba8cf70f44b5ef7d7c596c8cf9183cae1",
             "path": "09 Namco Original/Magical Parfait/Magical Parfait.tja"
         },
         {
@@ -27483,7 +27493,7 @@
         },
         {
             "type": "blob",
-            "hash": "f9815e23983c4436234d0720c3a15f6f5f8a66d1",
+            "hash": "a8a560cb92eab04dcf4af4662984408d1731adbe",
             "path": "09 Namco Original/Sotsu Omeshiki -Full Version-/Sotsu Omeshiki -Full Version-.tja"
         },
         {
@@ -28138,7 +28148,7 @@
         },
         {
             "type": "blob",
-            "hash": "b6569badae3cbc814033edb05aadc880ec7e0346",
+            "hash": "793f01f04e537d56f16208dde3037d9f34a74cf5",
             "path": "09 Namco Original/Trust Game/Trust Game.tja"
         },
         {
@@ -31364,7 +31374,7 @@
                 "ja": "アポロ"
             },
             "subtitle": {
-                "en": "Porno Graffitti"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -1.637,
@@ -51457,6 +51467,25 @@
             }
         },
         {
+            "path": "02 Anime/Tenshi to Akuma/Tenshi to Akuma.tja",
+            "title": {
+                "en": "Tenshi to Akuma",
+                "ja": "天使と悪魔"
+            },
+            "subtitle": {
+                "en": "One Piece",
+                "ja": "「ワンピース」より"
+            },
+            "category": "Anime",
+            "offset": -1.869,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Tensou Sentai Goseiger/Tensou Sentai Goseiger.tja",
             "title": {
                 "en": "Tensou Sentai Goseiger",
@@ -56127,24 +56156,6 @@
             }
         },
         {
-            "path": "04 Children and Folk/Hello Kitty/Hello Kitty.tja",
-            "title": {
-                "en": "Hello Kitty",
-                "ja": "ハローキティ"
-            },
-            "subtitle": {
-                "en": "Megumi Hayashibara/Hello Kitty"
-            },
-            "category": "Children and Folk",
-            "offset": -2.121,
-            "courses": {
-                "Oni": 4,
-                "Hard": 3,
-                "Normal": 3,
-                "Easy": 1
-            }
-        },
-        {
             "path": "04 Children and Folk/Hitorigotsu Band Ver/Hitorigotsu Band Ver.tja",
             "title": {
                 "en": "Hitorigotsu～Band Ver.～",
@@ -58656,6 +58667,25 @@
             }
         },
         {
+            "path": "05 Variety/Hello Kitty/Hello Kitty.tja",
+            "title": {
+                "en": "Hello Kitty",
+                "ja": "ハローキティ"
+            },
+            "subtitle": {
+                "en": "Megumi Hayashibara/Hello Kitty",
+                "ja": " "
+            },
+            "category": "Variety",
+            "offset": -2.091,
+            "courses": {
+                "Oni": 4,
+                "Hard": 3,
+                "Normal": 3,
+                "Easy": 1
+            }
+        },
+        {
             "path": "05 Variety/Help me Saitama 2000/Help me Saitama 2000.tja",
             "title": {
                 "en": "Help me, Saitama 2000!!",
@@ -60555,7 +60585,8 @@
                 "ja": "ハンロック"
             },
             "subtitle": {
-                "en": "Katsuro Tajima -Hungarian Dance No. 6 Rendition-"
+                "en": "Katsuro Tajima -Hungarian Dance No. 6 Rendition-",
+                "ja": " "
             },
             "category": "Classical",
             "offset": -2.626,
@@ -62177,7 +62208,7 @@
             },
             "subtitle": {
                 "en": "Takafumi Sato feat. Haruka Yamazaki/THE iDOLM@STER Million Live! Theater Days",
-                "ja": "「アイドルマスター ミリオンライブ！ シアターデイズ」より"
+                "ja": "「アイドルマスター ミリオンライブ！」より"
             },
             "category": "Game Music",
             "offset": -1.904,
@@ -68467,7 +68498,8 @@
                 "ja": "テイルズ オブ ベルセリア メドレー"
             },
             "subtitle": {
-                "en": "Motoi Sakuraba/Tales of Berseria"
+                "en": "Motoi Sakuraba/Tales of Berseria",
+                "ja": " "
             },
             "category": "Game Music",
             "offset": -2.278,
@@ -76509,15 +76541,16 @@
                 "ja": "マジカル・パフェ"
             },
             "subtitle": {
-                "en": "Maya"
+                "en": "Maya",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -3.494,
             "courses": {
-                "0": 4,
-                "1": 7,
                 "Oni": 9,
-                "Hard": 8
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 4
             }
         },
         {
