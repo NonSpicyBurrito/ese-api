@@ -1,5 +1,5 @@
 {
-    "commit": "72cba1d52fd0061a40e4a465c9ec313c736f54ff",
+    "commit": "781858a0e61ebfe21554bb258e1a469c4d0b3c01",
     "blobs": [
         {
             "type": "blob",
@@ -373,7 +373,7 @@
         },
         {
             "type": "blob",
-            "hash": "f6bafb7c61f77930bc937659f8b1fe042bfd2b97",
+            "hash": "f5dbebd97908e5411f0bd1c6c7e403e4e2e3a2a0",
             "path": "01 Pop/Anata to/Anata to.tja"
         },
         {
@@ -645,6 +645,16 @@
             "type": "blob",
             "hash": "e8876bac34f8e398b6e1264d74f0240fb7ee0a03",
             "path": "01 Pop/Boukenshatachi/Boukenshatachi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0f112e71fb91a716764b0ab31dde7f4b9fbee022",
+            "path": "01 Pop/Boundless Oceans Vast Skies/Boundless Oceans Vast Skies.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b82f41a20f92e7695ea0240240196eaf23872974",
+            "path": "01 Pop/Boundless Oceans Vast Skies/Boundless Oceans Vast Skies.tja"
         },
         {
             "type": "blob",
@@ -975,16 +985,6 @@
             "type": "blob",
             "hash": "f5d14d51f5e8b7f2f09a57f11fa5998e07e96736",
             "path": "01 Pop/Connected World/Connected World.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "1f76ac5d6bc06592b33280beeb57d9f923116cd9",
-            "path": "01 Pop/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "cdff0afad29921f344621f99223fbc76aa91d646",
-            "path": "01 Pop/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja"
         },
         {
             "type": "blob",
@@ -1753,7 +1753,7 @@
         },
         {
             "type": "blob",
-            "hash": "8bf30ecd326182a1d015f9baf652cfab178750a3",
+            "hash": "8a2df5513fc76ce7ee127ee605b74bad9bbab7f7",
             "path": "01 Pop/Guai Guai Nu/Guai Guai Nu.tja"
         },
         {
@@ -2388,6 +2388,16 @@
         },
         {
             "type": "blob",
+            "hash": "36cd9522470339b056b76423c839aab6a9851e7c",
+            "path": "01 Pop/Invisible Wings/Invisible Wings.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9113d3abb9fd0d099007467013d5af5491c13d05",
+            "path": "01 Pop/Invisible Wings/Invisible Wings.tja"
+        },
+        {
+            "type": "blob",
             "hash": "5c78687541ae20c2b7eb30c97a723541a047b794",
             "path": "01 Pop/Iroha Step/Iroha Step.ogg"
         },
@@ -2545,6 +2555,16 @@
             "type": "blob",
             "hash": "42f6cd3da66480f4308311119fc9604fe15c9072",
             "path": "01 Pop/Kaibutsu/Kaibutsu.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "fa77558458dc2e4a3d011043e5ee6c55b32b95b5",
+            "path": "01 Pop/Kaijuu/Kaijuu.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "94477590a8a0fed650276ccf7caab1a9dff574d0",
+            "path": "01 Pop/Kaijuu/Kaijuu.tja"
         },
         {
             "type": "blob",
@@ -3600,6 +3620,16 @@
             "type": "blob",
             "hash": "6d87181bddd2eb72184c2aba0d9ece19519c789b",
             "path": "01 Pop/Misenai Namida wa, Kitto Itsuka/Misenai Namida wa, Kitto Itsuka.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "232f147dc6e471decc0490af0b6fa78fbdde5de7",
+            "path": "01 Pop/Miss You 3000/Miss You 3000.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "93ed49ab5b18fd2eca0210fc1216363cc5316eec",
+            "path": "01 Pop/Miss You 3000/Miss You 3000.tja"
         },
         {
             "type": "blob",
@@ -5703,6 +5733,16 @@
         },
         {
             "type": "blob",
+            "hash": "7e5fd4c1f7ea4bb649d6ab376b8e27fe9a6b12ad",
+            "path": "01 Pop/Taotai/Taotai.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5063f556b4ddf7b057a5b7722ee00ed7f59e376e",
+            "path": "01 Pop/Taotai/Taotai.tja"
+        },
+        {
+            "type": "blob",
             "hash": "ac5f04c02955bb19d7d912e8bc6c56145b4b3bba",
             "path": "01 Pop/Telecastic fake show/Telecastic fake show.ogg"
         },
@@ -5790,6 +5830,16 @@
             "type": "blob",
             "hash": "897a0478f06681e1436a2aad1a4832af76e31b49",
             "path": "01 Pop/The Power Of Love/The Power Of Love.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "ca7a3b0ec707d5f15b954afc3a16befea4d4e2f5",
+            "path": "01 Pop/Those Bygone Years/Those Bygone Years.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9e35bc0841bf04d37ab82d26c3cfb1b7b9846f34",
+            "path": "01 Pop/Those Bygone Years/Those Bygone Years.tja"
         },
         {
             "type": "blob",
@@ -6053,6 +6103,16 @@
         },
         {
             "type": "blob",
+            "hash": "af7bab15226e1c2a6c4c9ce6832389bec6bec151",
+            "path": "01 Pop/Unbreakable Love/Unbreakable Love.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "774a0bc651bcdd4a35b2c9d629a1b4f1204f0a58",
+            "path": "01 Pop/Unbreakable Love/Unbreakable Love.tja"
+        },
+        {
+            "type": "blob",
             "hash": "7f09eef9105f3fbab8067e7dc34efe5afb8f2ed1",
             "path": "01 Pop/Uninhabited Island/Uninhabited Island.ogg"
         },
@@ -6170,6 +6230,16 @@
             "type": "blob",
             "hash": "4166fbee4af523ea7ac1883006cae40c47214d40",
             "path": "01 Pop/Wan Ou/Wan Ou.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "558108637f70979ef373d1321c2e2913550fceca",
+            "path": "01 Pop/Wangfei/Wangfei.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8ee00857650eb225e093ccd091ba6163246a0047",
+            "path": "01 Pop/Wangfei/Wangfei.tja"
         },
         {
             "type": "blob",
@@ -11853,7 +11923,7 @@
         },
         {
             "type": "blob",
-            "hash": "86369bc1cecd257a5efc62ce6a91a2c2205446c4",
+            "hash": "1f7cdd0a7ce190cfc91d297f71210b893f22b008",
             "path": "02 Anime/We Are! -TVXQ Version-/We Are! -TVXQ Version-.tja"
         },
         {
@@ -12125,6 +12195,16 @@
             "type": "blob",
             "hash": "6c28cf9ba7abd6b28a679ee41ceeff1da8e9ba13",
             "path": "02 Anime/Zankyou Sanka/Zankyou Sanka.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6984e9df309f29f6636c2bd97b561fc350818f1c",
+            "path": "02 Anime/Zattou Bokura no Machi/Zattou Bokura no Machi.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8fc705e63db84f1829492f225e46179c0c2cdfff",
+            "path": "02 Anime/Zattou Bokura no Machi/Zattou Bokura no Machi.tja"
         },
         {
             "type": "blob",
@@ -13603,7 +13683,7 @@
         },
         {
             "type": "blob",
-            "hash": "596ad3d2b3b2cf14ee393647bc971a2e6408d50c",
+            "hash": "77dbd85eae0b3639edafabd380a2a899e186019f",
             "path": "04 Children and Folk/Bu Yu Ge/Bu Yu Ge.tja"
         },
         {
@@ -14733,7 +14813,7 @@
         },
         {
             "type": "blob",
-            "hash": "ac5ba670cac79f9c98cdf1c52f032d41c14d9f04",
+            "hash": "43eda9c9ceb0414e502a5396bfc61e620a15049b",
             "path": "04 Children and Folk/Xiang Xia Laoshu/Xiang Xia Laoshu.tja"
         },
         {
@@ -15020,6 +15100,16 @@
             "type": "blob",
             "hash": "d04a37b5a3a00e26764387b153988ca9cb1f61d8",
             "path": "05 Variety/Cirno’s Perfect Math Class/Cirnos Perfect Math Class.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1f76ac5d6bc06592b33280beeb57d9f923116cd9",
+            "path": "05 Variety/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "31801334c0dbb02ed9e869bf93539b5d7c4c3667",
+            "path": "05 Variety/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja"
         },
         {
             "type": "blob",
@@ -20303,6 +20393,16 @@
         },
         {
             "type": "blob",
+            "hash": "4d9ac300df89f69153bea67240567cc104d3e936",
+            "path": "07 Game Music/Sync Your World/Sync Your World.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "773982bbf07eccb3462fcecd8e080b344a474376",
+            "path": "07 Game Music/Sync Your World/Sync Your World.tja"
+        },
+        {
+            "type": "blob",
             "hash": "67bdf17e00b2f55d4e354037353754460819b8dd",
             "path": "07 Game Music/Synchronica Airlines/Synchronica Airlines.ogg"
         },
@@ -23988,7 +24088,7 @@
         },
         {
             "type": "blob",
-            "hash": "173bec052d43622c13ec040f5574bf1ef6bde7f1",
+            "hash": "3f61701821eb608416d497a96274791b87f89576",
             "path": "09 Namco Original/Freeway3234/Freeway3234.tja"
         },
         {
@@ -26528,7 +26628,7 @@
         },
         {
             "type": "blob",
-            "hash": "396509da47e47c280d0efffcc9db838a2a5bca5e",
+            "hash": "2c4cb301fb639345ca6a11594d07df1c1f50f22e",
             "path": "09 Namco Original/Original Mirai/Original Mirai.tja"
         },
         {
@@ -26548,7 +26648,7 @@
         },
         {
             "type": "blob",
-            "hash": "0b6f023e610cdf713a8b21287f406e7e5c8f9f36",
+            "hash": "496c1ba2b9a1b654e049ec48d0333066f23cd025",
             "path": "09 Namco Original/Otomushi o Tsukamaero!/Otomushi o Tsukamaero!.tja"
         },
         {
@@ -26918,7 +27018,7 @@
         },
         {
             "type": "blob",
-            "hash": "a79da341b8456664ad1913aab13732d43ad06891",
+            "hash": "dd6c1d28be118a6903a8385d7fb0cc9ca1dee494",
             "path": "09 Namco Original/Rurou no Kohaku Hime/Rurou no Kohaku Hime.tja"
         },
         {
@@ -28098,7 +28198,7 @@
         },
         {
             "type": "blob",
-            "hash": "6c4bac3d2ade61ccc5a287c2d838b2b03a3605c5",
+            "hash": "3f4c85c402ed237faf6581866539f70b1f86954a",
             "path": "09 Namco Original/Tongachin/Tongachin.tja"
         },
         {
@@ -31287,13 +31387,15 @@
             },
             "subtitle": {
                 "en": "Ayaka × Kobukuro/CUBE LOVES MUSIC",
-                "ja": "DREAMS COME TRUE/「まんぷく」より"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -3.543,
             "courses": {
                 "Oni": 5,
-                "Hard": 5
+                "Hard": 5,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -31786,6 +31888,22 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Boundless Oceans Vast Skies/Boundless Oceans Vast Skies.tja",
+            "title": {
+                "en": "Boundless Oceans, Vast Skies",
+                "ja": "海闊天空"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.331,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -32381,25 +32499,6 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 4
-            }
-        },
-        {
-            "path": "01 Pop/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja",
-            "title": {
-                "en": "CoroCoro Comic 40th Anniversary Song",
-                "ja": "コロコロコミック40周年のうた"
-            },
-            "subtitle": {
-                "en": "Taiiku Okazaki",
-                "ja": "岡崎体育"
-            },
-            "category": "Pop",
-            "offset": -1.725,
-            "courses": {
-                "Oni": 7,
-                "Hard": 6,
-                "Normal": 4,
-                "Easy": 2
             }
         },
         {
@@ -33779,15 +33878,18 @@
         {
             "path": "01 Pop/Guai Guai Nu/Guai Guai Nu.tja",
             "title": {
-                "en": "Guai Guai Nu"
+                "en": "Guai Guai Nu",
+                "ja": "怪怪女"
             },
             "subtitle": {
-                "en": "Blue Bird Flying Fish"
+                "en": "Blue Bird Flying Fish",
+                "ja": "青鳥飛魚"
             },
             "category": "Pop",
             "offset": -2.625,
             "courses": {
                 "Oni": 6,
+                "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
             }
@@ -34965,6 +35067,22 @@
             }
         },
         {
+            "path": "01 Pop/Invisible Wings/Invisible Wings.tja",
+            "title": {
+                "en": "Invisible Wings",
+                "ja": "隱形的翅膀"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.348,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 1
+            }
+        },
+        {
             "path": "01 Pop/Iroha Step/Iroha Step.tja",
             "title": {
                 "en": "Iroha Step!",
@@ -35252,6 +35370,22 @@
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Kaijuu/Kaijuu.tja",
+            "title": {
+                "en": "Kaijuu",
+                "ja": "怪獣"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.518,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
                 "Easy": 3
             }
         },
@@ -37189,6 +37323,25 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "01 Pop/Miss You 3000/Miss You 3000.tja",
+            "title": {
+                "en": "Miss You 3000",
+                "ja": "Miss You 3000"
+            },
+            "subtitle": {
+                "en": "Someday or One Day",
+                "ja": "ドラマ「時をかける愛」より"
+            },
+            "category": "Pop",
+            "offset": -3.877,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -41017,6 +41170,22 @@
             }
         },
         {
+            "path": "01 Pop/Taotai/Taotai.tja",
+            "title": {
+                "en": "Taotai",
+                "ja": "淘汰"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -4.133,
+            "courses": {
+                "Oni": 5,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "01 Pop/Telecastic fake show/Telecastic fake show.tja",
             "title": {
                 "en": "Telecastic fake show",
@@ -41178,6 +41347,22 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Those Bygone Years/Those Bygone Years.tja",
+            "title": {
+                "en": "Those Bygone Years",
+                "ja": "那些年"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.24,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -41653,6 +41838,22 @@
             }
         },
         {
+            "path": "01 Pop/Unbreakable Love/Unbreakable Love.tja",
+            "title": {
+                "en": "Unbreakable Love",
+                "ja": "永不失聯的愛 Unbreakable Love"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.059,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Uninhabited Island/Uninhabited Island.tja",
             "title": {
                 "en": "Uninhabited Island",
@@ -41861,6 +42062,22 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Wangfei/Wangfei.tja",
+            "title": {
+                "en": "Wangfei",
+                "ja": "王妃"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.946,
+            "courses": {
+                "Oni": 5,
+                "Hard": 3,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -52487,7 +52704,10 @@
             "category": "Anime",
             "offset": -2.36,
             "courses": {
-                "Oni": 6
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 3
             }
         },
         {
@@ -52992,6 +53212,26 @@
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Zattou Bokura no Machi/Zattou Bokura no Machi.tja",
+            "title": {
+                "en": "Zattou, Bokura no Machi",
+                "ja": "雑踏、僕らの街"
+            },
+            "subtitle": {
+                "en": "Girls Band Cry",
+                "ja": "「ガールズバンドクライ」より"
+            },
+            "category": "Anime",
+            "offset": -1.958,
+            "courses": {
+                "Edit": 9,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -55788,7 +56028,9 @@
             "offset": -1.9,
             "courses": {
                 "Oni": 6,
-                "Hard": 4
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -57670,7 +57912,10 @@
             "category": "Children and Folk",
             "offset": -2.613,
             "courses": {
-                "Oni": 3
+                "Oni": 3,
+                "Hard": 3,
+                "Normal": 1,
+                "Easy": 2
             }
         },
         {
@@ -58178,6 +58423,25 @@
                 "Hard": 7,
                 "Normal": 5,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "05 Variety/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja",
+            "title": {
+                "en": "CoroCoro Comic 40th Anniversary Song",
+                "ja": "コロコロコミック40周年のうた"
+            },
+            "subtitle": {
+                "en": "Taiiku Okazaki",
+                "ja": "岡崎体育"
+            },
+            "category": "Variety",
+            "offset": -1.725,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -68190,6 +68454,25 @@
             }
         },
         {
+            "path": "07 Game Music/Sync Your World/Sync Your World.tja",
+            "title": {
+                "en": "Sync Your World",
+                "ja": "Sync Your World"
+            },
+            "subtitle": {
+                "en": "Mifumei/Synchronica",
+                "ja": "ミフメイ 「シンクロニカ」より"
+            },
+            "category": "Game Music",
+            "offset": -1.52,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/Synchronica Airlines/Synchronica Airlines.tja",
             "title": {
                 "en": "Synchronica Airlines",
@@ -73169,7 +73452,8 @@
                 "ja": "Freeway3234"
             },
             "subtitle": {
-                "en": "mao & K Masera"
+                "en": "mao & K Masera",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.789,
@@ -77961,10 +78245,10 @@
             },
             "subtitle": {
                 "en": "Kawagen Kollagen feat. Mamoru (nhhmbase)",
-                "ja": "feat.マモル(nhhmbase)"
+                "ja": "feat. マモル(nhhmbase) 「右脳の達人 爽解！まちがいミュージアム」より"
             },
             "category": "Namco Original",
-            "offset": -2.624,
+            "offset": -1.824,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -78004,7 +78288,7 @@
             "category": "Namco Original",
             "offset": -2.106,
             "courses": {
-                "3": 9,
+                "Oni": 9,
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 3
@@ -78696,12 +78980,13 @@
                 "ja": "流浪の琥珀姫"
             },
             "subtitle": {
-                "en": "Seifu Meigetsu [Drop × Yura Hatsuki]"
+                "en": "Seifu Meigetsu [Drop × Yura Hatsuki]",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.57,
             "courses": {
-                "3": 8,
+                "Oni": 8,
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
