@@ -1,5 +1,5 @@
 {
-    "commit": "781858a0e61ebfe21554bb258e1a469c4d0b3c01",
+    "commit": "69912cd67f1de14f4ce9ed8942efcd64d63c294c",
     "blobs": [
         {
             "type": "blob",
@@ -1713,7 +1713,7 @@
         },
         {
             "type": "blob",
-            "hash": "8a1db1ecff119b11eaa106c89d226d4438d37b3b",
+            "hash": "710aad80f85bfbb2c48b811394941be2483ecd16",
             "path": "01 Pop/Gokuraku Joudo/Gokuraku Joudo.tja"
         },
         {
@@ -4803,6 +4803,16 @@
         },
         {
             "type": "blob",
+            "hash": "e686b73938604cb45a7baaaceab53004ebb82085",
+            "path": "01 Pop/SHEESH/SHEESH.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "33239653ee208421e077eb12bb1c417b4a7e2bf1",
+            "path": "01 Pop/SHEESH/SHEESH.tja"
+        },
+        {
+            "type": "blob",
             "hash": "c8a1ba97cd4ec87d8c35b54447024addd8ea85ff",
             "path": "01 Pop/SMILY/SMILY.ogg"
         },
@@ -7848,12 +7858,12 @@
         },
         {
             "type": "blob",
-            "hash": "ac8de807c82d580b3692380b182fd4c4d0b5c915",
+            "hash": "91b72683c0851a97afe641edaffca279bb5b2f1d",
             "path": "02 Anime/Dont say “lazy”/Don’t say “lazy”.ogg"
         },
         {
             "type": "blob",
-            "hash": "9ed0a9952f833877bf13d6c750484d0df53f1234",
+            "hash": "5075055658e6ae599158ab2fcfa7ac362a247ba2",
             "path": "02 Anime/Dont say “lazy”/Don’t say “lazy”.tja"
         },
         {
@@ -8993,7 +9003,7 @@
         },
         {
             "type": "blob",
-            "hash": "ad546acef7cf10e4690aa5837351630785448b41",
+            "hash": "a71fc2b8d656ef27202181485a8a53849ecf36e3",
             "path": "02 Anime/Inferno/Inferno.tja"
         },
         {
@@ -10213,12 +10223,12 @@
         },
         {
             "type": "blob",
-            "hash": "fc129cbf890acffe2dd27efccf47d286b1fbb466",
+            "hash": "71ab892453bcd5702bf0cb3b5cef08eacadfe1fe",
             "path": "02 Anime/New Stranger/New Stranger.ogg"
         },
         {
             "type": "blob",
-            "hash": "4d06ee15354ea5c6ae3e34ada728ab250020f410",
+            "hash": "5516fb1f8a137d54ea123cf9f35093d13fbeed50",
             "path": "02 Anime/New Stranger/New Stranger.tja"
         },
         {
@@ -10358,13 +10368,23 @@
         },
         {
             "type": "blob",
-            "hash": "27c1847cdcfcf4163f8f7e8b29d04c242658cc30",
+            "hash": "74bd29d3d1f303960dcc0a90245db1645217ff77",
             "path": "02 Anime/Onegai Muscle/Onegai Muscle.ogg"
         },
         {
             "type": "blob",
-            "hash": "df8ef788356bd910d79ae4049065955b1517ea0a",
+            "hash": "839f31d318a20420221c92b9e1614ef8d843362a",
             "path": "02 Anime/Onegai Muscle/Onegai Muscle.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "62c0fd734bb067496784b847b90879a29704c979",
+            "path": "02 Anime/Orange/Orange.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5e990a91b7b84f34c4809008c3fdc0859799677f",
+            "path": "02 Anime/Orange/Orange.tja"
         },
         {
             "type": "blob",
@@ -11518,12 +11538,12 @@
         },
         {
             "type": "blob",
-            "hash": "043458613d2ac3657e40375f504b0f06aa449ef9",
+            "hash": "893de58eb83bae28d637db96a65fbd7abb3cc27c",
             "path": "02 Anime/Touch off/Touch off.ogg"
         },
         {
             "type": "blob",
-            "hash": "ba9cb7b78c0c7eae614535618d9207d9b68fd70f",
+            "hash": "ddc0f1bd3634c65ac99e5ad2f51eb54223033c2c",
             "path": "02 Anime/Touch off/Touch off.tja"
         },
         {
@@ -11998,12 +12018,12 @@
         },
         {
             "type": "blob",
-            "hash": "da81853b12d995613819fb21522b5bf501cd592a",
+            "hash": "40c92b660b836762d6ff9c901fd7e7dc8f810d3d",
             "path": "02 Anime/Winding Road/Winding Road.ogg"
         },
         {
             "type": "blob",
-            "hash": "16e9e15a90ec399c5a22b681a450a684893ae927",
+            "hash": "fec78335b82a6d7d47864d945de0e5a951dff17a",
             "path": "02 Anime/Winding Road/Winding Road.tja"
         },
         {
@@ -14573,7 +14593,7 @@
         },
         {
             "type": "blob",
-            "hash": "694c6ab9e43c48d79f4fe9135fc4b9a1d44f130a",
+            "hash": "fb52dc6c82ff872a268bb6a1d34f6a49778f2604",
             "path": "04 Children and Folk/Shinako World/Shinako World.tja"
         },
         {
@@ -15258,7 +15278,7 @@
         },
         {
             "type": "blob",
-            "hash": "6fca6e63e34249cfe48ee757e63a31af8e963dd9",
+            "hash": "8a3257c227b4374e175a8341b597b60ca1d13805",
             "path": "05 Variety/FREEDOM DiVE/FREEDOM DiVE.tja"
         },
         {
@@ -19943,7 +19963,7 @@
         },
         {
             "type": "blob",
-            "hash": "059657149500f505f4cd8fc5c75b8175b7fb4601",
+            "hash": "3c6016837678e6d72a7783e556db8825e5a2ce5c",
             "path": "07 Game Music/Roca Roja/Roca Roja.tja"
         },
         {
@@ -20878,7 +20898,7 @@
         },
         {
             "type": "blob",
-            "hash": "b06e1665ee48e0762d0b2281a3cac676612e1a67",
+            "hash": "3057ecdc28cb0a3e8ab494bb0d491d23095c3c1c",
             "path": "07 Game Music/Undying Legend/Undying Legend.tja"
         },
         {
@@ -22393,7 +22413,7 @@
         },
         {
             "type": "blob",
-            "hash": "24f2e949f46ef4c6c7c82a8cca6506b52f978165",
+            "hash": "b0196ec61e0ad5f603bd6ce4a2c17ca2abfddf84",
             "path": "09 Namco Original/1 2 ～inside me～/1 2 inside me.tja"
         },
         {
@@ -22403,7 +22423,7 @@
         },
         {
             "type": "blob",
-            "hash": "4c88822d7af9222b6fdadbf8dbe6aae6b9a28625",
+            "hash": "aea4655a771728e28cbaacadf6ded7e12f817486",
             "path": "09 Namco Original/142 Toki no Watari-dori/142 Toki no Watari-dori.tja"
         },
         {
@@ -22438,7 +22458,7 @@
         },
         {
             "type": "blob",
-            "hash": "2400c81c13af4104232480a94b4ed691df468579",
+            "hash": "b90defc2c1a37e2f39cc2d19f765bd11df91c885",
             "path": "09 Namco Original/241 Deep Learning/241 Deep Learning.tja"
         },
         {
@@ -22708,7 +22728,7 @@
         },
         {
             "type": "blob",
-            "hash": "2ba15a3e832cd683b7344ba9850cc930ef7eee10",
+            "hash": "8a20dca9572ec42e0ea25c548b37e6a6a4804cd3",
             "path": "09 Namco Original/Ao no Senritsu/Ao no Senritsu.tja"
         },
         {
@@ -22738,7 +22758,7 @@
         },
         {
             "type": "blob",
-            "hash": "897a9d137f580486caec7f6627a21fe38a6b7083",
+            "hash": "f7979fbfe10418c40e2c772157e5c13177b921c2",
             "path": "09 Namco Original/Argent Memories/Argent Memories.tja"
         },
         {
@@ -23368,7 +23388,7 @@
         },
         {
             "type": "blob",
-            "hash": "529ec02c39da004db2702104d64b3fef614a70b5",
+            "hash": "9507bc5601bae0e31669b9382c2e1c905d572568",
             "path": "09 Namco Original/Cycle of Rebirth/Cycle of Rebirth.tja"
         },
         {
@@ -24888,7 +24908,7 @@
         },
         {
             "type": "blob",
-            "hash": "8886ddfc019c3ef0916c47b643332c2fd083c540",
+            "hash": "50a736a855c692e33ebdf2797248e15e37c1b259",
             "path": "09 Namco Original/Ishiki no Waze/Ishiki no Waze.tja"
         },
         {
@@ -25428,7 +25448,7 @@
         },
         {
             "type": "blob",
-            "hash": "4474e2b2b5ba85d2d07bd63a6cf9ae730356d0b7",
+            "hash": "d92fef8dcc8bae0892e32cec8fe3c41a489636b2",
             "path": "09 Namco Original/Koi no Shohousen/Koi no Shohousen.tja"
         },
         {
@@ -27318,7 +27338,7 @@
         },
         {
             "type": "blob",
-            "hash": "260181abf583a88b0179bdfcf46dfbcefb7d1dfd",
+            "hash": "13647cdb320480d9759e6a08d3502a7a461f08a4",
             "path": "09 Namco Original/Senkou Valkyria/Senkou Valkyria.tja"
         },
         {
@@ -28583,6 +28603,16 @@
         },
         {
             "type": "blob",
+            "hash": "874a81e51636410fc4f7067ce927bc97a268d69c",
+            "path": "09 Namco Original/YOUre your HERO/YOUre your HERO.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "42a7e2a9bd0a8976fa7f33526061b71010019afa",
+            "path": "09 Namco Original/YOUre your HERO/YOUre your HERO.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1c8a162e7f92466030fb54aa0ec995b042c44326",
             "path": "09 Namco Original/Yamatai★Night Party/Yamatai Night Party.ogg"
         },
@@ -29003,7 +29033,7 @@
         },
         {
             "type": "blob",
-            "hash": "3767c137b02d260964f366ae61eb376cd9ec0621",
+            "hash": "1177f2a5cfa17176d00662a1b5a4a3e0e789304f",
             "path": "09 Namco Original/via lactea/via lactea.tja"
         },
         {
@@ -33810,7 +33840,8 @@
                 "ja": "極楽浄土"
             },
             "subtitle": {
-                "en": "toku feat. GARNiDELiA/Onmyoji"
+                "en": "Onmyoji",
+                "ja": " "
             },
             "category": "Pop",
             "offset": -2.29,
@@ -39476,6 +39507,22 @@
             }
         },
         {
+            "path": "01 Pop/SHEESH/SHEESH.tja",
+            "title": {
+                "en": "SHEESH",
+                "ja": "SHEESH"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.159,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/SMILY/SMILY.tja",
             "title": {
                 "en": "SMILY",
@@ -45057,10 +45104,11 @@
                 "ja": "Don't say ”lazy”"
             },
             "subtitle": {
-                "en": "Sakuragaoka High School Light Music Club/K-ON!"
+                "en": "K-ON!",
+                "ja": "「けいおん！」より"
             },
             "category": "Anime",
-            "offset": -0.301,
+            "offset": -1.015,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -47194,16 +47242,16 @@
                 "ja": "インフェルノ"
             },
             "subtitle": {
-                "en": "Mrs. GREEN APPLE/Fire Force",
+                "en": "Fire Force",
                 "ja": "「炎炎ノ消防隊」より"
             },
             "category": "Anime",
             "offset": -1.428,
             "courses": {
-                "0": 3,
-                "1": 5,
                 "Oni": 8,
-                "Hard": 5
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -49501,7 +49549,7 @@
                 "ja": "New Stranger"
             },
             "subtitle": {
-                "en": "sora tob sakana/Hi-Score Girl",
+                "en": "Hi-Score Girl",
                 "ja": "「ハイスコアガール」より"
             },
             "category": "Anime",
@@ -49788,11 +49836,30 @@
                 "ja": "「ダンベル何キロ持てる？」より"
             },
             "category": "Anime",
-            "offset": 0.001,
+            "offset": -1.115,
             "courses": {
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/Orange/Orange.tja",
+            "title": {
+                "en": "Orange",
+                "ja": "オレンジ"
+            },
+            "subtitle": {
+                "en": "Haikyuu! The Dumpster Battle",
+                "ja": "「劇場版ハイキュー!! ゴミ捨て場の決戦」より"
+            },
+            "category": "Anime",
+            "offset": -1.086,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
                 "Easy": 3
             }
         },
@@ -51956,7 +52023,7 @@
                 "ja": "「約束のネバーランド」より"
             },
             "category": "Anime",
-            "offset": -2.251,
+            "offset": -2.785,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -52848,11 +52915,11 @@
                 "ja": "Winding Road"
             },
             "subtitle": {
-                "en": "MAN WITH A MISSION/Golden Kamuy",
+                "en": "Golden Kamuy",
                 "ja": "「ゴールデンカムイ」より"
             },
             "category": "Anime",
-            "offset": -0.65,
+            "offset": -2.014,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -58718,7 +58785,7 @@
                 "ja": "xi"
             },
             "category": "Variety",
-            "offset": -1.397,
+            "offset": -1.396,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
@@ -69346,7 +69413,7 @@
             },
             "subtitle": {
                 "en": "Yoshihito Yano/SOULCALIBUR Ⅵ",
-                "ja": "「SOULCALIBUR VI」より"
+                "ja": "「SOULCALIBUR Ⅵ」より"
             },
             "category": "Game Music",
             "offset": -1.673,
@@ -70278,7 +70345,8 @@
                 "ja": "1／2 ～inside me"
             },
             "subtitle": {
-                "en": "Mizuki Shinohara feat. Kaiori Aihara"
+                "en": "Mizuki Shinohara feat. Kaiori Aihara",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.576,
@@ -70296,10 +70364,11 @@
                 "ja": "142トキノワタリドリ"
             },
             "subtitle": {
-                "en": "Hisui feat. isao & Asuka Suzuki"
+                "en": "Hisui feat. isao & Asuka Suzuki",
+                "ja": " "
             },
             "category": "Namco Original",
-            "offset": -2.41,
+            "offset": -2.405,
             "courses": {
                 "Oni": 8,
                 "Hard": 7,
@@ -70354,7 +70423,8 @@
                 "ja": "241ディープラーニング"
             },
             "subtitle": {
-                "en": "Hisui feat. Kuriyama Kano"
+                "en": "Hisui feat. Kuriyama Kano",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.406,
@@ -70866,7 +70936,7 @@
                 "en": "AILE feat. Sariyajin"
             },
             "category": "Namco Original",
-            "offset": -1.53,
+            "offset": -1.534,
             "courses": {
                 "Edit": 10,
                 "Oni": 9,
@@ -70921,7 +70991,8 @@
                 "ja": "Argent Memories"
             },
             "subtitle": {
-                "en": "K Masera feat. YuusA"
+                "en": "K Masera feat. YuusA",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -3.285,
@@ -72101,7 +72172,7 @@
                 "en": "Takafumi Sato"
             },
             "category": "Namco Original",
-            "offset": -2.777,
+            "offset": -2.799,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -74949,7 +75020,8 @@
                 "ja": "意識のワーゼ"
             },
             "subtitle": {
-                "en": "Hisui"
+                "en": "Hisui",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.037,
@@ -81949,6 +82021,25 @@
             }
         },
         {
+            "path": "09 Namco Original/YOUre your HERO/YOUre your HERO.tja",
+            "title": {
+                "en": "YOU're your HERO",
+                "ja": "YOU're your HERO"
+            },
+            "subtitle": {
+                "en": "for all DONDERS",
+                "ja": "for all DONDERS"
+            },
+            "category": "Namco Original",
+            "offset": -0.759,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/Yamatai★Night Party/Yamatai Night Party.tja",
             "title": {
                 "en": "Yamatai★Night Party",
@@ -82718,7 +82809,8 @@
         {
             "path": "09 Namco Original/via lactea/via lactea.tja",
             "title": {
-                "en": "via lactea"
+                "en": "via lactea",
+                "ja": "via lactea"
             },
             "subtitle": {
                 "en": "EAjRock feat. Setsunann (Harmonic Reflection)",
