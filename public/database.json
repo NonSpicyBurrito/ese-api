@@ -1,5 +1,5 @@
 {
-    "commit": "16a2b9165af3e71e56e060096eb95f38531bf4e1",
+    "commit": "b69c19183f28a54049e309a1641cd32fc9dfb69a",
     "blobs": [
         {
             "type": "blob",
@@ -3463,7 +3463,7 @@
         },
         {
             "type": "blob",
-            "hash": "64e17486aab815cee1ef08fc514917a93fddd1b3",
+            "hash": "6cbd567fba8e8af05a142efdd6335590c489eeed",
             "path": "01 Pop/Material Girl/Material Girl.tja"
         },
         {
@@ -7858,7 +7858,7 @@
         },
         {
             "type": "blob",
-            "hash": "e90462718a573a4b8a176f79d463a4c63fa379d6",
+            "hash": "2a64b089b8f5dec807877760ad0b971356c87a7f",
             "path": "02 Anime/Doko Made Mo ～How Far I’ll Go～/Doko Made Mo How Far Ill Go.tja"
         },
         {
@@ -8678,7 +8678,7 @@
         },
         {
             "type": "blob",
-            "hash": "0f8351eacfe2711c75a5784600111944c0c4378c",
+            "hash": "1991a8bfb514fe95443de8353fc01fff43179989",
             "path": "02 Anime/Hareru Michi ～Uchuu-jin ni Awaseru Kao ga nee!～/Hareru Michi Uchuu-jin ni Awaseru Kao ga nee!.tja"
         },
         {
@@ -9593,6 +9593,16 @@
         },
         {
             "type": "blob",
+            "hash": "fde0bd5e7f6076ace3a31fc8a595e06ebed222d4",
+            "path": "02 Anime/Kusushiki/Kusushiki.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4af8fd4c0573bc21617f9f160629c687d71e0ff8",
+            "path": "02 Anime/Kusushiki/Kusushiki.tja"
+        },
+        {
+            "type": "blob",
             "hash": "ffa1e9a48ddb77b670484ee10242594b5d3e2755",
             "path": "02 Anime/LET’S GO OUT/LETS GO OUT.ogg"
         },
@@ -10438,7 +10448,7 @@
         },
         {
             "type": "blob",
-            "hash": "305f99c7c4df349c09e2c52f86233bc421667ab4",
+            "hash": "4f558be0c65e86f8c849ec0c960807504d1e9637",
             "path": "02 Anime/Oshiri no Yama wa Everest/Oshiri no Yama wa Everest.tja"
         },
         {
@@ -11918,7 +11928,7 @@
         },
         {
             "type": "blob",
-            "hash": "e68196f7dae91186128dc89cfc8bbaee0aa146de",
+            "hash": "6691e96d6b4e7c7e863f1ea5c616db891c95935b",
             "path": "02 Anime/Warau ga Kachi! de GO!/“Warau ga Kachi!” de GO!.tja"
         },
         {
@@ -17133,12 +17143,12 @@
         },
         {
             "type": "blob",
-            "hash": "313ec197cc449806ee124fe896bf586d5cf30cac",
+            "hash": "f84b0e3209deb89276d4a639286209d18e082774",
             "path": "07 Game Music/Angel Dream -iDOLM@STER Version-/Angel Dream -iDOLMASTER Version-.ogg"
         },
         {
             "type": "blob",
-            "hash": "5879dd72b52b5f8a609ba1e6d201d7a838e5dbfb",
+            "hash": "105f596c60fd36f8b9da638974e42c399561bb35",
             "path": "07 Game Music/Angel Dream -iDOLM@STER Version-/Angel Dream -iDOLMASTER Version-.tja"
         },
         {
@@ -18098,7 +18108,7 @@
         },
         {
             "type": "blob",
-            "hash": "ed12e27933f43d8779f9d64b816849c25338c18a",
+            "hash": "627c6d77c3f1aa86781e453ba893c49eea8aafb8",
             "path": "07 Game Music/Great! Animal Kaiser!!/Great! Animal Kaiser!!.tja"
         },
         {
@@ -18408,6 +18418,11 @@
         },
         {
             "type": "blob",
+            "hash": "f03bc1a6fe347b07369107cdd9b396a44c6882a7",
+            "path": "07 Game Music/KAGEKIYO ～Genpei Touma Den Medley～/KAGEKIYO Genpei Touma Den Medley (Ura).tja"
+        },
+        {
+            "type": "blob",
             "hash": "e71ec70d64438261d7f75710b7577d43cf21dde6",
             "path": "07 Game Music/KAGEKIYO ～Genpei Touma Den Medley～/KAGEKIYO Genpei Touma Den Medley -Old Chart-.tja"
         },
@@ -18668,7 +18683,7 @@
         },
         {
             "type": "blob",
-            "hash": "4cbc37a908703f621ee5be28655e527a6cacd651",
+            "hash": "10bc8d872140fc99078fed7f88eab2c6e8bfae93",
             "path": "07 Game Music/Kurae! Butto Burst!!/Kurae! Butto Burst!!.tja"
         },
         {
@@ -18823,7 +18838,7 @@
         },
         {
             "type": "blob",
-            "hash": "751ab1a0090ccd595168563fc994062ed02df6c3",
+            "hash": "cd06d0b44467eedc39c73ec3c7f2b4513f6b2e00",
             "path": "07 Game Music/Life Will Change/Life Will Change.tja"
         },
         {
@@ -18953,7 +18968,7 @@
         },
         {
             "type": "blob",
-            "hash": "b0d44cb5cc46bdaa216dcfcf5534d49774983e9e",
+            "hash": "55d0d187f6ef60829d5e3589a9eb5ad631e9e4ef",
             "path": "07 Game Music/MANKAI☆Kaika Sengen/MANKAI Kaika Sengen.tja"
         },
         {
@@ -19018,7 +19033,7 @@
         },
         {
             "type": "blob",
-            "hash": "2b756828fd25941ed4b64ab2f75f2123d5275ff3",
+            "hash": "900389da9f82b796812188ef50a2e112fbf6a532",
             "path": "07 Game Music/MagiCatz/MagiCatz.tja"
         },
         {
@@ -19498,7 +19513,7 @@
         },
         {
             "type": "blob",
-            "hash": "d81a3b52e89ca3071c2d8a41dc8f2eb4d5669342",
+            "hash": "8dfa155a16bde38a7a1f824c20da35a363378968",
             "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE (AC16).tja"
         },
         {
@@ -19508,7 +19523,7 @@
         },
         {
             "type": "blob",
-            "hash": "c97a524eb366e10d25cc0a2b56bb9b8e1e639d75",
+            "hash": "07f73eff3f81d9306d37e44c0bcea475c067ac49",
             "path": "07 Game Music/ONLY MY NOTE/ONLY MY NOTE.tja"
         },
         {
@@ -19928,7 +19943,7 @@
         },
         {
             "type": "blob",
-            "hash": "8a230112d3478599148b3d7e7fc003e2f38700aa",
+            "hash": "9bef470557dbe985aab203fe419cdf6647283fdf",
             "path": "07 Game Music/Reason!!/Reason!!.tja"
         },
         {
@@ -20713,7 +20728,7 @@
         },
         {
             "type": "blob",
-            "hash": "7b9d05e0951669bf902dce885e0249c40d7bc4ae",
+            "hash": "6bdaeab3d767a16650fd194a697ea09c262a36d9",
             "path": "07 Game Music/The Legend of Zelda Breath of the Wild Medley/The Legend of Zelda Breath of the Wild Medley.tja"
         },
         {
@@ -22718,12 +22733,17 @@
         },
         {
             "type": "blob",
+            "hash": "710c904bf2374a8961ac6b605faa8998af0495df",
+            "path": "09 Namco Original/Angel Dream/Angel Dream (Ura).tja"
+        },
+        {
+            "type": "blob",
             "hash": "ca04eefc7d955a28034c2780d71990ca160483b5",
             "path": "09 Namco Original/Angel Dream/Angel Dream.ogg"
         },
         {
             "type": "blob",
-            "hash": "1a6454e4562ccc52d97f7c7a72b98463a439cc2b",
+            "hash": "5319b3d1f6fa62c64e49b1ed7846d40ce1950060",
             "path": "09 Namco Original/Angel Dream/Angel Dream.tja"
         },
         {
@@ -27123,7 +27143,7 @@
         },
         {
             "type": "blob",
-            "hash": "e435810df241dcf9ab534e59fad016bc1acd90ed",
+            "hash": "e7d803ed49c85d69fa51a5f57a16e79ad87f6f1a",
             "path": "09 Namco Original/SORA-I Earthrise/SORA-I Earthrise.tja"
         },
         {
@@ -27133,7 +27153,7 @@
         },
         {
             "type": "blob",
-            "hash": "d076158d63815a07b821ed4d60143c0e4cb72810",
+            "hash": "f82685573b4911455474dcfcecec893e5efec60a",
             "path": "09 Namco Original/SORA-II Gliese 581/SORA-II Gliese 581.tja"
         },
         {
@@ -27143,7 +27163,7 @@
         },
         {
             "type": "blob",
-            "hash": "39530297de8b5625ed5fecc595630daa5627e06b",
+            "hash": "3ea5ff94fa5bf63c1fa3708bec75597634e39253",
             "path": "09 Namco Original/SORA-III Heliopause/SORA-III Heliopause.tja"
         },
         {
@@ -27153,7 +27173,7 @@
         },
         {
             "type": "blob",
-            "hash": "ea3e20da86c9bcc61cc4f09e5a82edc8f4ea8a4e",
+            "hash": "0f00897a2f76619587be9d76b0a2fb2993243a24",
             "path": "09 Namco Original/SORA-IV Bunpasong/SORA-IV Bunpasong.tja"
         },
         {
@@ -27163,7 +27183,7 @@
         },
         {
             "type": "blob",
-            "hash": "fb38d2e0bf17fbe85fc46d928e178dcca1fab293",
+            "hash": "6abc1060834a33de1a3a4d5c655ab0ff4f918235",
             "path": "09 Namco Original/SORA-V Cosmic Bird/SORA-V Cosmic Bird.tja"
         },
         {
@@ -27173,7 +27193,7 @@
         },
         {
             "type": "blob",
-            "hash": "790f913b30231a3a93951cd83b52904b6f327b99",
+            "hash": "6571ff386f25adf6c34930bd593186fc7af8a2c5",
             "path": "09 Namco Original/SORA-VI Hinotori/SORA-VI Hinotori.tja"
         },
         {
@@ -27183,8 +27203,18 @@
         },
         {
             "type": "blob",
-            "hash": "57e8afc0102ee5f455813e99e694930d626f5e08",
+            "hash": "7a76b28e6418e752fb6eb5026e04f84841e84382",
             "path": "09 Namco Original/SORA-VII Cygnus Wall/SORA-VII Cygnus Wall.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "66b4c95296758e6111332265f210dee02b313742",
+            "path": "09 Namco Original/SORA-VIII Nebula Trail/SORA-VIII Nebula Trail.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "790c36558e313efbd2dfa2188fc1b25179243641",
+            "path": "09 Namco Original/SORA-VIII Nebula Trail/SORA-VIII Nebula Trail.tja"
         },
         {
             "type": "blob",
@@ -27583,12 +27613,17 @@
         },
         {
             "type": "blob",
+            "hash": "66dc2bf02401e691269ba59e2daca777d523fbad",
+            "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion (Ura).tja"
+        },
+        {
+            "type": "blob",
             "hash": "1b76d56e4ff410a742ef12ee9f661d0d239192f6",
             "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion.ogg"
         },
         {
             "type": "blob",
-            "hash": "db912076f662041be539e876571b72faa4da60bb",
+            "hash": "ca8b2a0181b3a419f7d9c954afe747ea2c3975ac",
             "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion.tja"
         },
         {
@@ -27818,7 +27853,7 @@
         },
         {
             "type": "blob",
-            "hash": "8653117cc34800f935e88b92506ac15696400b1f",
+            "hash": "dfa77f4b3419a6e54f8fb238f916a0eb1f3491ef",
             "path": "09 Namco Original/TENSEI Kiyoshi ga Matsu Tsuwamono/TENSEI Kiyoshi ga Matsu Tsuwamono.tja"
         },
         {
@@ -27923,7 +27958,7 @@
         },
         {
             "type": "blob",
-            "hash": "b32ae4412a8c028597cb0ef413b0a922359b8010",
+            "hash": "2f740d67008a05de28371a28357ce2c637a7ade7",
             "path": "09 Namco Original/Taiko Session ～Live Version～/Taiko Session Live Version.tja"
         },
         {
@@ -37107,11 +37142,11 @@
             "path": "01 Pop/Material Girl/Material Girl.tja",
             "title": {
                 "en": "Material Girl",
-                "ja": "Dual Moon"
+                "ja": "Material Girl"
             },
             "subtitle": {
                 "en": "Madonna",
-                "ja": "タイトー「METAL BLACK」より"
+                "ja": "Madonna"
             },
             "category": "Pop",
             "offset": -4.494,
@@ -45139,7 +45174,8 @@
                 "ja": "どこまでも～How Far I’ll Go～"
             },
             "subtitle": {
-                "en": "Lin-Manuel Miranda feat. Tomona Yabiku/Moana"
+                "en": "Lin-Manuel Miranda feat. Tomona Yabiku/Moana",
+                "ja": "「モアナと伝説の海」より"
             },
             "category": "Anime",
             "offset": -3.011,
@@ -48391,6 +48427,25 @@
                 "Oni": 7,
                 "Hard": 4,
                 "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/Kusushiki/Kusushiki.tja",
+            "title": {
+                "en": "Kusushiki",
+                "ja": "クスシキ"
+            },
+            "subtitle": {
+                "en": "The Apothecary Diaries S2 Opening Theme",
+                "ja": "TVアニメ『薬屋のひとりごと』第2期 オープニングテーマ"
+            },
+            "category": "Anime",
+            "offset": -1.177,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 2,
                 "Easy": 2
             }
         },
@@ -62295,11 +62350,11 @@
                 "ja": "「アイドルマスター シンデレラガールズ」より"
             },
             "category": "Game Music",
-            "offset": -6.6,
+            "offset": -1.485,
             "courses": {
                 "Oni": 8,
                 "Hard": 7,
-                "Normal": 5,
+                "Normal": 6,
                 "Easy": 3
             }
         },
@@ -64746,6 +64801,24 @@
             }
         },
         {
+            "path": "07 Game Music/KAGEKIYO ～Genpei Touma Den Medley～/KAGEKIYO Genpei Touma Den Medley (Ura).tja",
+            "title": {
+                "en": "KAGEKIYO (Ura)",
+                "ja": "KAGEKIYO (裏)"
+            },
+            "subtitle": {
+                "en": "Yuuji Masubuchi/Genpei Touma Den Medley",
+                "ja": "～源平討魔伝メドレー～"
+            },
+            "category": "Game Music",
+            "offset": -2.173,
+            "courses": {
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/KAGEKIYO ～Genpei Touma Den Medley～/KAGEKIYO Genpei Touma Den Medley -Old Chart-.tja",
             "title": {
                 "en": "KAGEKIYO -Old Chart-",
@@ -65235,7 +65308,7 @@
             "path": "07 Game Music/Kurae! Butto Burst!!/Kurae! Butto Burst!!.tja",
             "title": {
                 "en": "Kurae! Butto Burst‼",
-                "ja": "FIXME"
+                "ja": "くらえ！ ブットバースト！！"
             },
             "subtitle": {
                 "en": "Hironobu Kageyama/Yuujou Souchaku! Butto Burst"
@@ -67655,7 +67728,7 @@
             "path": "07 Game Music/Reason!!/Reason!!.tja",
             "title": {
                 "en": "Reason‼",
-                "ja": "FIXME"
+                "ja": "Reason!!"
             },
             "subtitle": {
                 "en": "EFFY feat. Takuma Terashima/THE iDOLM@STER SideM"
@@ -69119,7 +69192,8 @@
                 "ja": "ゼルダの伝説 ブレス オブ ザ ワイルド メドレー"
             },
             "subtitle": {
-                "en": "Manaka Kataoka/The Legend of Zelda Breath of the Wild"
+                "en": "Manaka Kataoka/The Legend of Zelda Breath of the Wild",
+                "ja": " "
             },
             "category": "Game Music",
             "offset": -4.441,
@@ -70961,13 +71035,32 @@
             }
         },
         {
+            "path": "09 Namco Original/Angel Dream/Angel Dream (Ura).tja",
+            "title": {
+                "en": "Angel Dream (Ura)",
+                "ja": "エンジェル ドリーム (裏)"
+            },
+            "subtitle": {
+                "en": "Keiichi Okabe feat. Youko Takamitsu",
+                "ja": " "
+            },
+            "category": "Namco Original",
+            "offset": -1.603,
+            "courses": {
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Angel Dream/Angel Dream.tja",
             "title": {
                 "en": "Angel Dream",
                 "ja": "エンジェル ドリーム"
             },
             "subtitle": {
-                "en": "Keiichi Okabe feat. Youko Takamitsu"
+                "en": "Keiichi Okabe feat. Youko Takamitsu",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.603,
@@ -79249,11 +79342,12 @@
         {
             "path": "09 Namco Original/SORA-I Earthrise/SORA-I Earthrise.tja",
             "title": {
-                "en": "SORA-Ⅰ Earthrise",
-                "ja": "SORA‐Ⅰ アースライズ"
+                "en": "SORA-I Earthrise",
+                "ja": "SORA-I アースライズ"
             },
             "subtitle": {
-                "en": "Satoshi Ishikawa"
+                "en": "Satoshi Ishikawa",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.898,
@@ -79268,10 +79362,11 @@
             "path": "09 Namco Original/SORA-II Gliese 581/SORA-II Gliese 581.tja",
             "title": {
                 "en": "SORA-II Gliese 581",
-                "ja": "SORA‐Ⅱ グリーゼ581"
+                "ja": "SORA-II グリーゼ581"
             },
             "subtitle": {
-                "en": "Ryuuichi Takada"
+                "en": "Ryuuichi Takada",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -3.437,
@@ -79285,11 +79380,12 @@
         {
             "path": "09 Namco Original/SORA-III Heliopause/SORA-III Heliopause.tja",
             "title": {
-                "en": "SORA-Ⅲ Heliopause",
+                "en": "SORA-III Heliopause",
                 "ja": "SORA-III ヘリオポーズ"
             },
             "subtitle": {
-                "en": "Satoshi Ishikawa"
+                "en": "Satoshi Ishikawa",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.98,
@@ -79303,11 +79399,12 @@
         {
             "path": "09 Namco Original/SORA-IV Bunpasong/SORA-IV Bunpasong.tja",
             "title": {
-                "en": "SORA-Ⅳ Bunpasong",
+                "en": "SORA-IV Bunpasong",
                 "ja": "SORA-IV ブンパソング"
             },
             "subtitle": {
-                "en": "Ryuuichi Takada feat. Keiori Aihara"
+                "en": "Ryuuichi Takada feat. Keiori Aihara",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.568,
@@ -79321,11 +79418,12 @@
         {
             "path": "09 Namco Original/SORA-V Cosmic Bird/SORA-V Cosmic Bird.tja",
             "title": {
-                "en": "SORA-Ⅴ Cosmic Bird",
+                "en": "SORA-V Cosmic Bird",
                 "ja": "SORA-V コズミックバード"
             },
             "subtitle": {
-                "en": "Tori-Oto"
+                "en": "Tori-Oto",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.978,
@@ -79339,11 +79437,12 @@
         {
             "path": "09 Namco Original/SORA-VI Hinotori/SORA-VI Hinotori.tja",
             "title": {
-                "en": "SORA-Ⅵ Hinotori",
+                "en": "SORA-VI Hinotori",
                 "ja": "SORA-VI 火ノ鳥"
             },
             "subtitle": {
-                "en": "Hisui"
+                "en": "Hisui",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -3.194,
@@ -79357,11 +79456,12 @@
         {
             "path": "09 Namco Original/SORA-VII Cygnus Wall/SORA-VII Cygnus Wall.tja",
             "title": {
-                "en": "SORA-Ⅶ Cygnus Wall",
+                "en": "SORA-VII Cygnus Wall",
                 "ja": "SORA-VII シグナスウォール"
             },
             "subtitle": {
-                "en": "Hisui"
+                "en": "Hisui",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.795,
@@ -79370,6 +79470,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/SORA-VIII Nebula Trail/SORA-VIII Nebula Trail.tja",
+            "title": {
+                "en": "SORA-VIII Nebula Trail",
+                "ja": "SORA-VIII ネビュラトレイル"
+            },
+            "subtitle": {
+                "en": "Shin Sazaki(BNSI)",
+                "ja": "Shin Sazaki(BNSI)"
+            },
+            "category": "Namco Original",
+            "offset": -0.949,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 5
             }
         },
         {
@@ -80128,10 +80247,28 @@
             }
         },
         {
+            "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion (Ura).tja",
+            "title": {
+                "en": "Shunyuu ～happy excursion～ (Ura)",
+                "ja": "春遊 (裏)"
+            },
+            "subtitle": {
+                "en": "Chai Found Music Workshop",
+                "ja": "～happy excursion～"
+            },
+            "category": "Namco Original",
+            "offset": -2.02,
+            "courses": {
+                "Hard": 8,
+                "Normal": 6,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion.tja",
             "title": {
                 "en": "Shunyuu ～happy excursion～",
-                "ja": "春遊 ～happy excursion～"
+                "ja": "春遊"
             },
             "subtitle": {
                 "en": "Chai Found Music Workshop",
