@@ -1,5 +1,5 @@
 {
-    "commit": "c9e1e199cf2e16dba3e83eedc08a12d503120aa0",
+    "commit": "aef7de77e5fe281defb361c12716e321638a1b3e",
     "blobs": [
         {
             "type": "blob",
@@ -483,7 +483,7 @@
         },
         {
             "type": "blob",
-            "hash": "9d78ad2a95425c025352e1e4841af2e1899a2f4d",
+            "hash": "f7cc07a1a8bee56d480c68c1c5e8017679813e2d",
             "path": "01 Pop/Ashita mo/Ashita mo.tja"
         },
         {
@@ -1043,7 +1043,7 @@
         },
         {
             "type": "blob",
-            "hash": "5bcdafe3a63f3bb0f7ec4692e0e98f2e83a6cc5f",
+            "hash": "658281ea3c006299bb8b1a08a2bbcda3bbb71d14",
             "path": "01 Pop/DIAMONDS -Diamond-/DIAMONDS -Diamond-.tja"
         },
         {
@@ -2398,16 +2398,6 @@
         },
         {
             "type": "blob",
-            "hash": "36cd9522470339b056b76423c839aab6a9851e7c",
-            "path": "01 Pop/Invisible Wings/Invisible Wings.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "9113d3abb9fd0d099007467013d5af5491c13d05",
-            "path": "01 Pop/Invisible Wings/Invisible Wings.tja"
-        },
-        {
-            "type": "blob",
             "hash": "5c78687541ae20c2b7eb30c97a723541a047b794",
             "path": "01 Pop/Iroha Step/Iroha Step.ogg"
         },
@@ -2435,6 +2425,16 @@
             "type": "blob",
             "hash": "3b5de6543e7211f3fe660c91d2cbdbefe2815895",
             "path": "01 Pop/Itoshii Hito e/Itoshii Hito e.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "d8fa2d07db4c5ada579080fcf14992ebe3b421bd",
+            "path": "01 Pop/Itoshisa to Setsunasa to Kokoro-zuyosa to/Itoshisa to Setsunasa to Kokoro-zuyosa to.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "aedd877ac6540f9df5c31cfa4272d57a4f6d1223",
+            "path": "01 Pop/Itoshisa to Setsunasa to Kokoro-zuyosa to/Itoshisa to Setsunasa to Kokoro-zuyosa to.tja"
         },
         {
             "type": "blob",
@@ -2653,7 +2653,7 @@
         },
         {
             "type": "blob",
-            "hash": "13a8700825ce9bf07c2368eaf2964016429eb8a0",
+            "hash": "d96c873ff0ceb6f65d2dad5bd20b0c444f427a25",
             "path": "01 Pop/Katte ni Sinbad/Katte ni Sinbad.tja"
         },
         {
@@ -5253,7 +5253,7 @@
         },
         {
             "type": "blob",
-            "hash": "24f873c4e62fcbbeda1a90b60fcd1411f09d8f69",
+            "hash": "f9b1b46113e335345934920446d0108b63e5143a",
             "path": "01 Pop/Sil vous President/S’il vous President.tja"
         },
         {
@@ -5863,7 +5863,7 @@
         },
         {
             "type": "blob",
-            "hash": "9e35bc0841bf04d37ab82d26c3cfb1b7b9846f34",
+            "hash": "ef3adc2b4cc6e42c6563d75c831108f1dd39d29f",
             "path": "01 Pop/Those Bygone Years/Those Bygone Years.tja"
         },
         {
@@ -6425,6 +6425,16 @@
             "type": "blob",
             "hash": "e43a0d2596c81d9950728de929fb7803bf6ff718",
             "path": "01 Pop/YES or YES/YES or YES.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "36cd9522470339b056b76423c839aab6a9851e7c",
+            "path": "01 Pop/YIN XING DE CHI BANG/YIN XING DE CHI BANG.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "256a177bf942ab803042e2f9469940994a0cef0b",
+            "path": "01 Pop/YIN XING DE CHI BANG/YIN XING DE CHI BANG.tja"
         },
         {
             "type": "blob",
@@ -7598,7 +7608,7 @@
         },
         {
             "type": "blob",
-            "hash": "d37cef26b1720e6c909b09d081d69bc199fa40b5",
+            "hash": "32e2bf00f4b8ae2991628e7fb8405e38bc6163a4",
             "path": "02 Anime/Cocotama Happy～Paradise!/Cocotama HappyParadise!.tja"
         },
         {
@@ -7908,7 +7918,7 @@
         },
         {
             "type": "blob",
-            "hash": "c4b4742c7a027e672962900d8519a5a1a0962951",
+            "hash": "39cdb3d77d398a44a17168213f1f60d16a38d7b8",
             "path": "02 Anime/Doraemon no Uta/Doraemon no Uta -New Audio-.tja"
         },
         {
@@ -7918,7 +7928,7 @@
         },
         {
             "type": "blob",
-            "hash": "bfd1f0cb16b55b496fff5a5c2ae65538267057db",
+            "hash": "187cc5268636934a1d4bdd40e978a8d6cdc11ef2",
             "path": "02 Anime/Doraemon no Uta/Doraemon no Uta -Old Audio-.tja"
         },
         {
@@ -8940,6 +8950,16 @@
             "type": "blob",
             "hash": "f5c61d41e6c6c520618cd1cad07ecd7b93f2235a",
             "path": "02 Anime/INSIDE IDENTITY/INSIDE IDENTITY.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1ef62fe1745f4bb151e302025173aa54688f1d0c",
+            "path": "02 Anime/IRIS OUT/IRIS OUT.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a317ae8c49e914ad2e1706ce0acb5556e882efda",
+            "path": "02 Anime/IRIS OUT/IRIS OUT.tja"
         },
         {
             "type": "blob",
@@ -10703,6 +10723,16 @@
         },
         {
             "type": "blob",
+            "hash": "a1627e55551de03ba0a8df63a61bcc4d8e39324e",
+            "path": "02 Anime/RUNNING IN THE 90S/RUNNING IN THE 90S.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "43ceb540ddf2c78c1b8094aef3b0daa5c5a8a240",
+            "path": "02 Anime/RUNNING IN THE 90S/RUNNING IN THE 90S.tja"
+        },
+        {
+            "type": "blob",
             "hash": "9725ca0c24c7893237900c3f1d933d182a1a34e9",
             "path": "02 Anime/Rain/Rain.ogg"
         },
@@ -10798,7 +10828,7 @@
         },
         {
             "type": "blob",
-            "hash": "39466b9fcd3b9401a4fd53dab2169cfa3cad3a6d",
+            "hash": "34ccbe4be79a048c5bd10ccfd31eed48eb5b1631",
             "path": "02 Anime/Road Movie/Road Movie.tja"
         },
         {
@@ -12833,7 +12863,7 @@
         },
         {
             "type": "blob",
-            "hash": "cdf8abf4af0bf9590f1ca11ce1f0d0db32703b38",
+            "hash": "7e0e8a89575453050a11c3b031601793d641f0e6",
             "path": "03 Vocaloid/Happy Synthesizer/Happy Synthesizer.tja"
         },
         {
@@ -17838,7 +17868,7 @@
         },
         {
             "type": "blob",
-            "hash": "cb85caf7ae4972ca00cb4b126591f4e0ce9ee3bc",
+            "hash": "f5547d4095bd2c8fecab03bad749dc1a384114c6",
             "path": "07 Game Music/Dragon Spirit Medley/Dragon Spirit Medley.tja"
         },
         {
@@ -19920,6 +19950,16 @@
             "type": "blob",
             "hash": "03fb3bc35f2da3dcd6979248a4fb129d9b24cac5",
             "path": "07 Game Music/Positive!/Positive! -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "834cb93881770cd6b8375c778f767f5a26b2064e",
+            "path": "07 Game Music/Priyo City/Priyo City.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "b9de3205712f62510e9b9c35c2eab85787b417ba",
+            "path": "07 Game Music/Priyo City/Priyo City.tja"
         },
         {
             "type": "blob",
@@ -22618,7 +22658,7 @@
         },
         {
             "type": "blob",
-            "hash": "fad3879b58343e82672f828b72c0d0c860e4ed29",
+            "hash": "db4167538ab02fcb2a7f74d6192caf54ed2822e5",
             "path": "09 Namco Original/8OROCHI/8OROCHI.tja"
         },
         {
@@ -23093,7 +23133,7 @@
         },
         {
             "type": "blob",
-            "hash": "973f26c2edc763e9bb5c0fc9a09c3f5de1d5a691",
+            "hash": "cf6baa806282a834bd79612fd6c24b8bcdf5a6e4",
             "path": "09 Namco Original/Boukyaku no Tirnanog/Boukyaku no Tirnanog.tja"
         },
         {
@@ -24433,7 +24473,7 @@
         },
         {
             "type": "blob",
-            "hash": "e48a280032ec6d47b85a71dd9a5530a623d6b77c",
+            "hash": "97519f7d7858dad0ecbffe89566bc518072a8f57",
             "path": "09 Namco Original/Geki-un! Shichifuku Happy Crew/Geki-un! Shichifuku Happy Crew.tja"
         },
         {
@@ -24583,7 +24623,7 @@
         },
         {
             "type": "blob",
-            "hash": "1a6404985cebd36d30ad5d089b438aab9294c250",
+            "hash": "7989307fe96e1add7c4d22d7650ec4341aebf7dd",
             "path": "09 Namco Original/Hakujitsumu, Kirisame ni Tokete/Hakujitsumu, Kirisame ni Tokete.tja"
         },
         {
@@ -35277,22 +35317,6 @@
             }
         },
         {
-            "path": "01 Pop/Invisible Wings/Invisible Wings.tja",
-            "title": {
-                "en": "Invisible Wings",
-                "ja": "隱形的翅膀"
-            },
-            "subtitle": {},
-            "category": "Pop",
-            "offset": -3.348,
-            "courses": {
-                "Oni": 5,
-                "Hard": 4,
-                "Normal": 3,
-                "Easy": 1
-            }
-        },
-        {
             "path": "01 Pop/Iroha Step/Iroha Step.tja",
             "title": {
                 "en": "Iroha Step!",
@@ -35345,6 +35369,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Itoshisa to Setsunasa to Kokoro-zuyosa to/Itoshisa to Setsunasa to Kokoro-zuyosa to.tja",
+            "title": {
+                "en": "Itoshisa to Setsunasa to Kokoro-zuyosa to",
+                "ja": "恋しさと せつなさと 心強さと"
+            },
+            "subtitle": {
+                "en": "Street Fighter Ⅱ MOVIE",
+                "ja": "「ストリートファイターⅡ MOVIE」より"
+            },
+            "category": "Pop",
+            "offset": -1.069,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -41595,7 +41638,7 @@
             "path": "01 Pop/Those Bygone Years/Those Bygone Years.tja",
             "title": {
                 "en": "Those Bygone Years",
-                "ja": "那些年"
+                "ja": "Those Bygone Years"
             },
             "subtitle": {},
             "category": "Pop",
@@ -42610,6 +42653,22 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/YIN XING DE CHI BANG/YIN XING DE CHI BANG.tja",
+            "title": {
+                "en": "YIN XING DE CHI BANG",
+                "ja": "YIN XING DE CHI BANG"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.348,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 1
             }
         },
         {
@@ -44773,7 +44832,8 @@
                 "ja": "ここたまハッピ～パラダイス！"
             },
             "subtitle": {
-                "en": "ERIKA/Kamisama Minarai： Himitsu no Cocotama"
+                "en": "ERIKA/Kamisama Minarai： Himitsu no Cocotama",
+                "ja": "--「かみさまみならい ヒミツのここたま」より"
             },
             "category": "Anime",
             "offset": -1.838,
@@ -47293,6 +47353,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "02 Anime/IRIS OUT/IRIS OUT.tja",
+            "title": {
+                "en": "IRIS OUT",
+                "ja": "IRIS OUT"
+            },
+            "subtitle": {
+                "en": "Kenshi Yonezu / \"Chainsaw Man The Movie: Reze Arc\" Theme Song",
+                "ja": "米津玄師 / 劇場版『チェンソーマン レゼ篇』主題歌"
+            },
+            "category": "Anime",
+            "offset": -3.934,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 2
             }
         },
         {
@@ -50619,6 +50698,25 @@
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 6,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/RUNNING IN THE 90S/RUNNING IN THE 90S.tja",
+            "title": {
+                "en": "RUNNING IN THE \"90S\"",
+                "ja": "RUNNING IN THE \"90S\""
+            },
+            "subtitle": {
+                "en": "Initial D",
+                "ja": "「頭文字D」より"
+            },
+            "category": "Anime",
+            "offset": -1.144,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
                 "Easy": 3
             }
         },
@@ -67778,6 +67876,25 @@
             }
         },
         {
+            "path": "07 Game Music/Priyo City/Priyo City.tja",
+            "title": {
+                "en": "Priyo City",
+                "ja": "Priyo City"
+            },
+            "subtitle": {
+                "en": "Critical Velocity",
+                "ja": "「クリティカルベロシティ」より"
+            },
+            "category": "Game Music",
+            "offset": -1.534,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/RAGE vs self/RAGE vs self.tja",
             "title": {
                 "en": "RAGE ℣ self",
@@ -71808,7 +71925,8 @@
                 "ja": "忘却のティルナノグ"
             },
             "subtitle": {
-                "en": "YMY & Hawk"
+                "en": "YMY & Hawk",
+                "ja": "山本由貴子"
             },
             "category": "Namco Original",
             "offset": -5.953,
