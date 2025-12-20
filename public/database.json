@@ -1,5 +1,5 @@
 {
-    "commit": "aef7de77e5fe281defb361c12716e321638a1b3e",
+    "commit": "228818a189fb49ff7bae2849e29345fdad26c1a9",
     "blobs": [
         {
             "type": "blob",
@@ -618,6 +618,16 @@
         },
         {
             "type": "blob",
+            "hash": "8baff9e9c2f368ca0643470fe35ea876a3fb47a2",
+            "path": "01 Pop/Blue Jeans/Blue Jeans.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "695418d230f5b41abf0cb3c0d8b3d41c68da925b",
+            "path": "01 Pop/Blue Jeans/Blue Jeans.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1009335f79843f8513b118d2ec4e9a83ac7d3638",
             "path": "01 Pop/Boku no Kimochi/Boku no Kimochi.ogg"
         },
@@ -1058,6 +1068,16 @@
         },
         {
             "type": "blob",
+            "hash": "f07c53fc0b564af6260f83309db6055b0c7af595",
+            "path": "01 Pop/Daddy's Style -Konya wa Daddy Daddy-/Daddy's Style -Konya wa Daddy Daddy-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "bf3988aacd8246017fd5a3cf0a049f662ac44e6a",
+            "path": "01 Pop/Daddy's Style -Konya wa Daddy Daddy-/Daddy's Style -Konya wa Daddy Daddy-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "99e6ab26325080fa4cf99155576d0f002800d5ec",
             "path": "01 Pop/Dai Meiwaku/Dai Meiwaku.ogg"
         },
@@ -1375,6 +1395,16 @@
             "type": "blob",
             "hash": "66818809275d9d0f70c01e961eb0b15eb213b629",
             "path": "01 Pop/Egao ni Kanpai!/Egao ni Kanpai!.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9eed2a0e49b18129c343aca8d1002b74b9c0775a",
+            "path": "01 Pop/Everlasting Love/Everlasting Love.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4ccc52d96dcfbcba5bd37ed35b449fbfbe8c55ad",
+            "path": "01 Pop/Everlasting Love/Everlasting Love.tja"
         },
         {
             "type": "blob",
@@ -1923,7 +1953,7 @@
         },
         {
             "type": "blob",
-            "hash": "ef018cae95efb21861185dc3c31c218ed18fb36b",
+            "hash": "61a8757d11dfbd4383c912680e4264ef966f5a91",
             "path": "01 Pop/Hana/Hana.tja"
         },
         {
@@ -2705,6 +2735,16 @@
             "type": "blob",
             "hash": "a32ee6d7385e915990ed01561cdf373b24cd06ee",
             "path": "01 Pop/Kaze wa Fuiteiru/Kaze wa Fuiteiru.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "348430748d243830592ed1dad34fc1d074ed4ac4",
+            "path": "01 Pop/Kegarenaki Kusoyarou-domo/Kegarenaki Kusoyarou-domo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d9040e022b25da9b5407e05a5baf785c60b0e1a3",
+            "path": "01 Pop/Kegarenaki Kusoyarou-domo/Kegarenaki Kusoyarou-domo.tja"
         },
         {
             "type": "blob",
@@ -6133,7 +6173,7 @@
         },
         {
             "type": "blob",
-            "hash": "774a0bc651bcdd4a35b2c9d629a1b4f1204f0a58",
+            "hash": "ab822b0f939947e57d702b4e3bc4ea380a60a388",
             "path": "01 Pop/Unbreakable Love/Unbreakable Love.tja"
         },
         {
@@ -6708,7 +6748,7 @@
         },
         {
             "type": "blob",
-            "hash": "ef98cd3c5e46231cbdbe63f50896f89533c9c905",
+            "hash": "6153ce4268293a1967f55c4e3613911a7285668a",
             "path": "01 Pop/box.def"
         },
         {
@@ -8958,7 +8998,7 @@
         },
         {
             "type": "blob",
-            "hash": "a317ae8c49e914ad2e1706ce0acb5556e882efda",
+            "hash": "40e6eeb01c5a3c853e6325af04848d62fddacba2",
             "path": "02 Anime/IRIS OUT/IRIS OUT.tja"
         },
         {
@@ -10420,6 +10460,16 @@
             "type": "blob",
             "hash": "dce46538c368ae68d4c1eca0abf7112b4fea063d",
             "path": "02 Anime/Ohayou! Shining Day/Ohayou! Shining Day.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "ce2c465a02c340403d5eacbc47b46356034aacb8",
+            "path": "02 Anime/Ojamajo Carnival!!/Ojamajo Carnival!!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "80331ccb81fbc719a3aec238f313813d01de4e63",
+            "path": "02 Anime/Ojamajo Carnival!!/Ojamajo Carnival!!.tja"
         },
         {
             "type": "blob",
@@ -12323,7 +12373,7 @@
         },
         {
             "type": "blob",
-            "hash": "fe6fb7b4dbeb4a0338f81ff1e8be7e8eadf7a698",
+            "hash": "042cd582da6e08ab11c4e5cf5346073c3808ad81",
             "path": "02 Anime/box.def"
         },
         {
@@ -13648,7 +13698,7 @@
         },
         {
             "type": "blob",
-            "hash": "134cb2545fe2f4aa5f471ecff5450f256bd81102",
+            "hash": "0adef0538eab173105a11491ceed2c559b4ce7d0",
             "path": "03 Vocaloid/box.def"
         },
         {
@@ -15003,7 +15053,7 @@
         },
         {
             "type": "blob",
-            "hash": "7b3dd85d0392aa58699c732b546c31c01fb4bdcb",
+            "hash": "cdf5bca9523ac9882bccd9f865c3bc4eec83ec33",
             "path": "04 Children and Folk/box.def"
         },
         {
@@ -15083,7 +15133,7 @@
         },
         {
             "type": "blob",
-            "hash": "05b61459ec760d9f5720292fcea14edfa103a1ca",
+            "hash": "64c1619f01237b89822a20d8b76acdcf040dc9f8",
             "path": "05 Variety/Asteroid/Asteroid.tja"
         },
         {
@@ -16218,7 +16268,7 @@
         },
         {
             "type": "blob",
-            "hash": "3a48ecb1012ee5c5b3e75f0c7cba7b72bb6c6ee1",
+            "hash": "f92eeabcef6edbc4119d46134325772184ff19fa",
             "path": "05 Variety/box.def"
         },
         {
@@ -16410,6 +16460,16 @@
             "type": "blob",
             "hash": "bad065b24512a2593937e1880ad5a642f5b47a18",
             "path": "06 Classical/Classical Medley -Wedding Version-/Classical Medley -Wedding Version-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2589d24dc6bf2f08cd21c40da4ac35f4f9903ed0",
+            "path": "06 Classical/Classical Medley -Winter Break Version-/Classical Medley -Winter Break Version-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "272760f8d4b9205d72aba8d53c5ec39f754cb4c7",
+            "path": "06 Classical/Classical Medley -Winter Break Version-/Classical Medley -Winter Break Version-.tja"
         },
         {
             "type": "blob",
@@ -17108,7 +17168,7 @@
         },
         {
             "type": "blob",
-            "hash": "5654e160dd9d6ca5f11ee79d1d5cb38614ba5e66",
+            "hash": "6468d5e44f63b6e6c16d931f8fc7a129b1a90b98",
             "path": "06 Classical/box.def"
         },
         {
@@ -18198,7 +18258,7 @@
         },
         {
             "type": "blob",
-            "hash": "ba2b7f8c66b5845d8daea17fa7f7825ef26d903d",
+            "hash": "6ab79c69267a69b7f6f7c3d79cf77bc723f9d2a0",
             "path": "07 Game Music/God Ray/God Ray.tja"
         },
         {
@@ -21418,7 +21478,7 @@
         },
         {
             "type": "blob",
-            "hash": "7b18eed60f29acfed0ff6afe19d770b4ccf185b3",
+            "hash": "90c897498a7b8d071b19788efc4df9921d837f13",
             "path": "07 Game Music/box.def"
         },
         {
@@ -22573,7 +22633,7 @@
         },
         {
             "type": "blob",
-            "hash": "b856c6e90c6d0733df679319a1cd6e0fe48e5db1",
+            "hash": "fa72905cd47482b200d777e6eb9712208e6fb45a",
             "path": "08 Live Festival Mode/box.def"
         },
         {
@@ -23153,7 +23213,7 @@
         },
         {
             "type": "blob",
-            "hash": "186659fb3f4c635d4228f2a7b786fcb329f6e315",
+            "hash": "d1a53d0bad1dfca6d8cc082e41ea8354d67221ea",
             "path": "09 Namco Original/Bubble Lips Rave Machine/Bubble Lips Rave Machine.tja"
         },
         {
@@ -23808,6 +23868,16 @@
         },
         {
             "type": "blob",
+            "hash": "46d32d2585b552a2136c2b64f2286da221a4674f",
+            "path": "09 Namco Original/Dimpy Dimper/Dimpy Dimper.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "72821c4a4ea94d818504bf7f16cfc431334937a1",
+            "path": "09 Namco Original/Dimpy Dimper/Dimpy Dimper.tja"
+        },
+        {
+            "type": "blob",
             "hash": "9c57dc8f78e8de4bd4537db24037d60cb76aa12b",
             "path": "09 Namco Original/Diving Drive/Diving Drive.ogg"
         },
@@ -24433,7 +24503,7 @@
         },
         {
             "type": "blob",
-            "hash": "d9415c4b35297b5389674c034a47b52e38eeb684",
+            "hash": "e49aec7a916a5c7cd09c0e0502df199104f84260",
             "path": "09 Namco Original/Garyoutensei/Garyoutensei.tja"
         },
         {
@@ -25263,7 +25333,7 @@
         },
         {
             "type": "blob",
-            "hash": "3095ebe892bf5f254e9b95ce9b5f84405c51b826",
+            "hash": "9d183264cdce13f078521c13c227c3a6627d4b64",
             "path": "09 Namco Original/Ka Ma Se/Ka Ma Se.tja"
         },
         {
@@ -25293,7 +25363,7 @@
         },
         {
             "type": "blob",
-            "hash": "d0b82992ff862a8ffa7eb52137fa4680f24d261b",
+            "hash": "a19482cd86038460d32d19e619abf69e9e7538b1",
             "path": "09 Namco Original/Kagami no Kuni no Alice/Kagami no Kuni no Alice.tja"
         },
         {
@@ -25333,7 +25403,7 @@
         },
         {
             "type": "blob",
-            "hash": "3df43dd4d8848c4d10bc6c99efcc666891698024",
+            "hash": "b819a1540415b040331c604a45d8d1285a143e98",
             "path": "09 Namco Original/Kaidan/Kaidan.tja"
         },
         {
@@ -26308,7 +26378,7 @@
         },
         {
             "type": "blob",
-            "hash": "349358f7e73a78f292e7db77ba276f11a640df76",
+            "hash": "dbcd6f3f8c9b92f57c30c84f8d05ce147cd86346",
             "path": "09 Namco Original/Mitsusegawa Ranbu/Mitsusegawa Ranbu.tja"
         },
         {
@@ -27443,7 +27513,7 @@
         },
         {
             "type": "blob",
-            "hash": "c4a62c88310dfb1d06d6aa9dc2060b3cc68db22b",
+            "hash": "5de8dd7a7a219d1e9e7253db1eadbea9c8c83e9f",
             "path": "09 Namco Original/Sayonara Varya/Sayonara Varya.tja"
         },
         {
@@ -28438,7 +28508,7 @@
         },
         {
             "type": "blob",
-            "hash": "ca43af9452eac77c7c120b8f2b54d9d348f7316f",
+            "hash": "c154f041853377b0319ad7671d0f65cc469d60a5",
             "path": "09 Namco Original/Toroika 2000/Toroika 2000.tja"
         },
         {
@@ -29093,7 +29163,7 @@
         },
         {
             "type": "blob",
-            "hash": "93c356fb6fd94dc1f3cd11f5501f90430c1aab63",
+            "hash": "427d7f4ba66ff6d0993a06a18b5abef1f611da6c",
             "path": "09 Namco Original/box.def"
         },
         {
@@ -29468,7 +29538,7 @@
         },
         {
             "type": "blob",
-            "hash": "4f904f31558d34d4ea945c0332c1e920017d0e48",
+            "hash": "910ff14bf1aac632210752d318fe4473fb8ef845",
             "path": "10 Taiko Towers/box.def"
         },
         {
@@ -30943,7 +31013,7 @@
         },
         {
             "type": "blob",
-            "hash": "d70c3532517c4aea55884a11bd675643d0840667",
+            "hash": "6b61a2bca3dab7c91383947db3474f80a1df4427",
             "path": "box.def"
         },
         {
@@ -32065,6 +32135,22 @@
             }
         },
         {
+            "path": "01 Pop/Blue Jeans/Blue Jeans.tja",
+            "title": {
+                "en": "Blue Jeans",
+                "ja": "Blue Jeans"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.447,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 1
+            }
+        },
+        {
             "path": "01 Pop/Boku no Kimochi/Boku no Kimochi.tja",
             "title": {
                 "en": "Boku no Kimochi",
@@ -32861,6 +32947,26 @@
             }
         },
         {
+            "path": "01 Pop/Daddy's Style -Konya wa Daddy Daddy-/Daddy's Style -Konya wa Daddy Daddy-.tja",
+            "title": {
+                "en": "Daddy's Style -Konya wa Daddy Daddy-",
+                "ja": "Daddy's Style -今夜はダディダディ-"
+            },
+            "subtitle": {
+                "en": "Nishiyama Daddy Daddy",
+                "ja": "西山ダディダディ"
+            },
+            "category": "Pop",
+            "offset": -2.804,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Dai Meiwaku/Dai Meiwaku.tja",
             "title": {
                 "en": "Dai Meiwaku",
@@ -33441,6 +33547,22 @@
                 "Hard": 6,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Everlasting Love/Everlasting Love.tja",
+            "title": {
+                "en": "Everlasting Love",
+                "ja": "千年之恋"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -3.451,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -35882,6 +36004,25 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Kegarenaki Kusoyarou-domo/Kegarenaki Kusoyarou-domo.tja",
+            "title": {
+                "en": "Kegarenaki Kusoyarou-domo",
+                "ja": "汚れなきクソ野郎ども"
+            },
+            "subtitle": {
+                "en": "Kishidan",
+                "ja": "氣志團"
+            },
+            "category": "Pop",
+            "offset": -3.514,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -50138,6 +50279,26 @@
             }
         },
         {
+            "path": "02 Anime/Ojamajo Carnival!!/Ojamajo Carnival!!.tja",
+            "title": {
+                "en": "Ojamajo Carnival!! ",
+                "ja": "おジャ魔女カーニバル!!"
+            },
+            "subtitle": {
+                "en": "Ojamajo Doremi",
+                "ja": "「おジャ魔女どれみ」より"
+            },
+            "category": "Anime",
+            "offset": -1.175,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/One day/One day.tja",
             "title": {
                 "en": "One day",
@@ -61099,6 +61260,22 @@
             }
         },
         {
+            "path": "06 Classical/Classical Medley -Winter Break Version-/Classical Medley -Winter Break Version-.tja",
+            "title": {
+                "en": "Classical Medley -Winter Break Version-",
+                "ja": "クラシックメドレー（冬休み編）"
+            },
+            "subtitle": {},
+            "category": "Classical",
+            "offset": -3.492,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "06 Classical/Concerto in F -Third Movement-/Concerto in F -Third Movement-.tja",
             "title": {
                 "en": "Concerto in F -Third Movement-",
@@ -64491,7 +64668,7 @@
                 "ja": "kyo(BNSI) 「シンクロニカ」より"
             },
             "category": "Game Music",
-            "offset": -6.67,
+            "offset": -3.423,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
@@ -73196,6 +73373,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Dimpy Dimper/Dimpy Dimper.tja",
+            "title": {
+                "en": "Dimpy Dimper!",
+                "ja": "でぃんぴーでぃんぱー！"
+            },
+            "subtitle": {
+                "en": "Omiko Sisters feat. EDOGA-SULLIVAN / WADIVE RECORD",
+                "ja": "オミコシスターズ feat. エドガー・サリヴァン / WADIVE RECORD"
+            },
+            "category": "Namco Original",
+            "offset": -2.282,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/Diving Drive/Diving Drive.tja",
             "title": {
                 "en": "Diving Drive",
@@ -75981,7 +76177,7 @@
                 "ja": "伊東歌詞太郎"
             },
             "category": "Namco Original",
-            "offset": -0.34,
+            "offset": -1.844,
             "courses": {
                 "Edit": 8,
                 "Oni": 6,
@@ -77906,10 +78102,11 @@
                 "ja": "三瀬川乱舞"
             },
             "subtitle": {
-                "en": "Hisui feat. Yuko Ueda"
+                "en": "Hisui feat. Yuko Ueda",
+                "ja": " "
             },
             "category": "Namco Original",
-            "offset": -4.288,
+            "offset": -2.304,
             "courses": {
                 "Edit": 10,
                 "Oni": 8,
