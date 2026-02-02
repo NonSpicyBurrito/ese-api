@@ -1,5 +1,5 @@
 {
-    "commit": "ba4b72df69ebb6f17d5f4732e2fec46374a88384",
+    "commit": "170b367d46664f09504d9e582e40ce47bb092edb",
     "blobs": [
         {
             "type": "blob",
@@ -9703,7 +9703,7 @@
         },
         {
             "type": "blob",
-            "hash": "95e2373003abae84fef855e816b7ff47ae368307",
+            "hash": "7857db99da84f0cb0dd609ff8fea28f37e810ea7",
             "path": "02 Anime/Let it Go ～Ari no Mama de～/Let it Go Ari no Mama de (3DS2).tja"
         },
         {
@@ -11540,6 +11540,16 @@
             "type": "blob",
             "hash": "a0537c845472f5e52fc65083681669444f28da9c",
             "path": "02 Anime/The Other Self/The Other Self.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "a8e63aa24849897549824a441e0a34b4176e84a4",
+            "path": "02 Anime/The Rumbling/The Rumbling.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "60c4829dd38cdd646d91286d383d0333cfff14ea",
+            "path": "02 Anime/The Rumbling/The Rumbling.tja"
         },
         {
             "type": "blob",
@@ -15568,6 +15578,16 @@
         },
         {
             "type": "blob",
+            "hash": "5d010a827f2efbd807606fe0c9ff11d2b8b5f327",
+            "path": "05 Variety/Hataraku Kuruma/Hataraku Kuruma.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5782a0a6733eb1ca1581ee83c244c732a57144ab",
+            "path": "05 Variety/Hataraku Kuruma/Hataraku Kuruma.tja"
+        },
+        {
+            "type": "blob",
             "hash": "db4942aac3c3501ce013d5af749f448e7aa56854",
             "path": "05 Variety/Hello Kitty/Hello Kitty.ogg"
         },
@@ -18613,7 +18633,7 @@
         },
         {
             "type": "blob",
-            "hash": "c955237f7ee437aec22f3e6bbbc3b544aa8d723d",
+            "hash": "ee5f80894b2c042453f56213b50feffe91a72859",
             "path": "07 Game Music/Jibun REST@RT/Jibun RESTART -Anime Version-.tja"
         },
         {
@@ -19193,7 +19213,7 @@
         },
         {
             "type": "blob",
-            "hash": "2dec3a938fcd00cd507702d3b6dbd3b4e9823be9",
+            "hash": "eef8ebb8aea4eb49b6ac90fda9b6a7657c6fa1d0",
             "path": "07 Game Music/M@STERPIECE/MASTERPIECE.tja"
         },
         {
@@ -23248,7 +23268,7 @@
         },
         {
             "type": "blob",
-            "hash": "7c572f02e259f9fe993a186a376a2fb00aa6bcb2",
+            "hash": "8f634c2a9bc4a330127fabd446edb071f6f37922",
             "path": "09 Namco Original/Boku wa Synth/Boku wa Synth.tja"
         },
         {
@@ -23348,7 +23368,7 @@
         },
         {
             "type": "blob",
-            "hash": "9ec74b0ec5e16c78a6d0dce16c2fb8226419431c",
+            "hash": "6b0b0ea48056c35fc1e28fa42428997a95ec6501",
             "path": "09 Namco Original/Byoudouin Houou-Don vs Chojugi-Katsu/Byoudouin Houou-Don vs Chojugi-Katsu.tja"
         },
         {
@@ -24368,7 +24388,7 @@
         },
         {
             "type": "blob",
-            "hash": "41410d33f1897518c825ee366045564755d4fe8c",
+            "hash": "9efd943c8974b9317d41d473839a1d8fe1e4e237",
             "path": "09 Namco Original/Extreme End/Extreme End.tja"
         },
         {
@@ -24388,7 +24408,7 @@
         },
         {
             "type": "blob",
-            "hash": "f44a8243453956ac7bf052719029c36bd8f097ca",
+            "hash": "d8943a5db50099d46a34ef29a9e9ff8f74c98eea",
             "path": "09 Namco Original/Famires Wars/Famires Wars.tja"
         },
         {
@@ -24418,7 +24438,7 @@
         },
         {
             "type": "blob",
-            "hash": "d6bf6fd3c984d6bb02f8858e203152f6afb2e41b",
+            "hash": "76b5c0e1384cb68b6f6e57530045bfd2729cccb2",
             "path": "09 Namco Original/Fly away/Fly away.tja"
         },
         {
@@ -26288,7 +26308,7 @@
         },
         {
             "type": "blob",
-            "hash": "b5889b5c3f94faf3e7e82041d6ae65b362b4df01",
+            "hash": "cf93ddb2e6a2fc7ef05d216f0e05df68099c47dc",
             "path": "09 Namco Original/Many wow bang!/Many wow bang! (Sou-uchi).tja"
         },
         {
@@ -26298,7 +26318,7 @@
         },
         {
             "type": "blob",
-            "hash": "2faacb7e390cb7e88aa4aabc9ad8c3689d4261e3",
+            "hash": "a5c60258c09172e74e4011b3db5651fa9b195f4d",
             "path": "09 Namco Original/Many wow bang!/Many wow bang!.tja"
         },
         {
@@ -27133,7 +27153,7 @@
         },
         {
             "type": "blob",
-            "hash": "3fa239ab31ca36994eddae5631e9141127117c61",
+            "hash": "ef1bc9b27011545d4ca2175e9fd2912207859508",
             "path": "09 Namco Original/Phoenix/Phoenix.tja"
         },
         {
@@ -52507,6 +52527,25 @@
             }
         },
         {
+            "path": "02 Anime/The Rumbling/The Rumbling.tja",
+            "title": {
+                "en": "The Rumbling",
+                "ja": "The Rumbling"
+            },
+            "subtitle": {
+                "en": "Attack on Titan The Final Season Part 2",
+                "ja": "「進撃の巨人 The Final Season Part 2」より"
+            },
+            "category": "Anime",
+            "offset": -1.343,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Tobe! Gundam/Tobe! Gundam.tja",
             "title": {
                 "en": "Tobe! Gundam",
@@ -59818,6 +59857,25 @@
             }
         },
         {
+            "path": "05 Variety/Hataraku Kuruma/Hataraku Kuruma.tja",
+            "title": {
+                "en": "Hataraku Kuruma",
+                "ja": "はたらくくるま"
+            },
+            "subtitle": {
+                "ja": " "
+            },
+            "category": "Variety",
+            "offset": -1.41,
+            "courses": {
+                "Edit": 8,
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 1,
+                "Easy": 1
+            }
+        },
+        {
             "path": "05 Variety/Hello Kitty/Hello Kitty.tja",
             "title": {
                 "en": "Hello Kitty",
@@ -65602,7 +65660,7 @@
             },
             "subtitle": {
                 "en": "Hidekazu Tanaka feat. 765PRO ALLSTARS/THE iDOLM@STER",
-                "ja": "「アイドルマスター」より"
+                "ja": "別歌唱バージョン ‐ TVアニメ13話"
             },
             "category": "Game Music",
             "offset": -1.713,
@@ -72521,7 +72579,8 @@
                 "ja": "ボクハシンセ"
             },
             "subtitle": {
-                "en": "Yoshihito Yano feat. Nobuyoshi Sano"
+                "en": "Yoshihito Yano feat. Nobuyoshi Sano",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -2.5,
@@ -74639,6 +74698,7 @@
             "category": "Namco Original",
             "offset": -2.448,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 6,
@@ -74671,7 +74731,8 @@
                 "ja": "ファミレスウォーズ"
             },
             "subtitle": {
-                "en": "Mirai feat. Keiori Aihara"
+                "en": "Mirai feat. Keiori Aihara",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.5,
@@ -74727,7 +74788,8 @@
                 "ja": "Fly away"
             },
             "subtitle": {
-                "en": "Yoshihito Yano feat. Takayoshi Tanimoto"
+                "en": "Yoshihito Yano feat. Takayoshi Tanimoto",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.425,
@@ -78281,7 +78343,8 @@
                 "ja": "【双打】 Many wow bang!"
             },
             "subtitle": {
-                "en": "Yuri Misumi feat. Basho"
+                "en": "Yuri Misumi feat. Basho",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -5.415,
@@ -78300,7 +78363,8 @@
                 "ja": "Many wow bang!"
             },
             "subtitle": {
-                "en": "Yuri Misumi feat. Basho"
+                "en": "Yuri Misumi feat. Basho",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -5.415,
@@ -79892,7 +79956,8 @@
                 "ja": "Phoenix"
             },
             "subtitle": {
-                "en": "Yoshinori Hirai feat. Singman"
+                "en": "Yoshinori Hirai feat. Singman",
+                "ja": " "
             },
             "category": "Namco Original",
             "offset": -1.603,
