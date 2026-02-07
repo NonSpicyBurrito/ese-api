@@ -1,5 +1,5 @@
 {
-    "commit": "170b367d46664f09504d9e582e40ce47bb092edb",
+    "commit": "7b20b347115cf59497dfae9e930aaebc4616b033",
     "blobs": [
         {
             "type": "blob",
@@ -4858,6 +4858,16 @@
         },
         {
             "type": "blob",
+            "hash": "97a61f43ec6b86134b41da37820bdc2b5a11bb3c",
+            "path": "01 Pop/SO BAD/SO BAD.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "187e28d85c0210d03585df6da1a2335b4acb1bdb",
+            "path": "01 Pop/SO BAD/SO BAD.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1c182cc7c5cf99baee616125dbf0edeaa3a638a2",
             "path": "01 Pop/SPEED KING/SPEED KING.ogg"
         },
@@ -8268,7 +8278,7 @@
         },
         {
             "type": "blob",
-            "hash": "36819532a00892b213882d8ae5e8ded36c03eaca",
+            "hash": "811f47a1f28027b05987edb51fe3d0c852416f1d",
             "path": "02 Anime/Gatchaman no Uta/Gatchaman no Uta.tja"
         },
         {
@@ -22778,12 +22788,12 @@
         },
         {
             "type": "blob",
-            "hash": "37ef7e42682e0b19d581383e5f77f988523201d6",
+            "hash": "a1c029cd805bb37f92ef8749eb97f238cd7a0db0",
             "path": "09 Namco Original/2354 Prelude for The Journey of Sunlight/2354 Prelude for The Journey of Sunlight.ogg"
         },
         {
             "type": "blob",
-            "hash": "fad0f0b3a438c4b9f8798aea1f61f7d086002d68",
+            "hash": "93aa85b5d85ed99149f54b5ce71cc4384fe7fa9c",
             "path": "09 Namco Original/2354 Prelude for The Journey of Sunlight/2354 Prelude for The Journey of Sunlight.tja"
         },
         {
@@ -23383,12 +23393,12 @@
         },
         {
             "type": "blob",
-            "hash": "4b420b6cd6c68bee1e2cf81ea7f02c12edfb7a9a",
+            "hash": "881fa0feccb95378e9da987051d2d93e9e683e82",
             "path": "09 Namco Original/CUT! into the FUTURE/CUT! into the FUTURE.ogg"
         },
         {
             "type": "blob",
-            "hash": "66df8c336662dd2148f475eabc0e96de6763e32a",
+            "hash": "2108e4a2672a6bbf4ad1652a3a346f1e430bb259",
             "path": "09 Namco Original/CUT! into the FUTURE/CUT! into the FUTURE.tja"
         },
         {
@@ -24298,7 +24308,7 @@
         },
         {
             "type": "blob",
-            "hash": "5a0008a3e0f1d7da47840e8b5a8852843536cbaf",
+            "hash": "330787ceacbf62a70f611f784d110c0f63bdbfe2",
             "path": "09 Namco Original/EXRiXiS/EXRiXiS.tja"
         },
         {
@@ -24598,7 +24608,7 @@
         },
         {
             "type": "blob",
-            "hash": "c452b5ec88d695a9f6510b894a02dc2ca2b2104d",
+            "hash": "de040cbe21622ffbd31f6b40b13c7e2d99b3ea6c",
             "path": "09 Namco Original/GORI x GORI x SafaRI/GORI x GORI x SafaRI.tja"
         },
         {
@@ -26808,12 +26818,12 @@
         },
         {
             "type": "blob",
-            "hash": "d0c910e5e73ba5e4ed555157cf71539326815334",
+            "hash": "7d5d97ddd14a78feffb93cabe43fc13498778399",
             "path": "09 Namco Original/Nosferatu/Nosferatu.ogg"
         },
         {
             "type": "blob",
-            "hash": "784cac8ee06b01995de1ec835581ba6be0f9f1b9",
+            "hash": "4f04d865271c99591287306f2f07a72b6203b883",
             "path": "09 Namco Original/Nosferatu/Nosferatu.tja"
         },
         {
@@ -40091,6 +40101,25 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/SO BAD/SO BAD.tja",
+            "title": {
+                "en": "SO BAD",
+                "ja": "SO BAD"
+            },
+            "subtitle": {
+                "en": "Universal Studios Japan 2025 \"Zombie de Dance\" Theme Song",
+                "ja": "ユニバーサル・スタジオ・ジャパン 2025年『ゾンビ・デ・ダンス』テーマソング"
+            },
+            "category": "Pop",
+            "offset": -2.536,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -71656,7 +71685,7 @@
                 "ja": "かめりあ"
             },
             "category": "Namco Original",
-            "offset": -0.4,
+            "offset": -0.911,
             "courses": {
                 "Edit": 10,
                 "Oni": 10,
@@ -72809,7 +72838,7 @@
                 "ja": "モリモリあつし"
             },
             "category": "Namco Original",
-            "offset": -0.37,
+            "offset": -1.743,
             "courses": {
                 "Edit": 10,
                 "Oni": 10,
@@ -74529,6 +74558,7 @@
             "category": "Namco Original",
             "offset": -0.748,
             "courses": {
+                "Edit": 10,
                 "Oni": 9,
                 "Hard": 8,
                 "Normal": 7,
@@ -75095,7 +75125,7 @@
                 "ja": "小林伸嘉(BNSI)"
             },
             "category": "Namco Original",
-            "offset": -1.94,
+            "offset": -1.935,
             "courses": {
                 "Edit": 10,
                 "Oni": 8,
@@ -79306,7 +79336,7 @@
                 "ja": "清風明月（Drop×葉月ゆら）"
             },
             "category": "Namco Original",
-            "offset": -0.756,
+            "offset": -1.5,
             "courses": {
                 "Edit": 10,
                 "Oni": 9,
