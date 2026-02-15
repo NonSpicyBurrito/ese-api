@@ -1,5 +1,5 @@
 {
-    "commit": "7b20b347115cf59497dfae9e930aaebc4616b033",
+    "commit": "530ef51ffe7b56dc9fac688cc3e54250dea78d88",
     "blobs": [
         {
             "type": "blob",
@@ -3333,7 +3333,7 @@
         },
         {
             "type": "blob",
-            "hash": "598e7af3c9c8b6a5f9b2296a6e6fd8e10b3b6268",
+            "hash": "44ae13b44f148c8fc32ebc7df7166b5f725293f4",
             "path": "01 Pop/Love You/Love You.tja"
         },
         {
@@ -4033,7 +4033,7 @@
         },
         {
             "type": "blob",
-            "hash": "393f8a16a287061c4e459ddd1eeb5e3f3d2da543",
+            "hash": "fdedcea26559ad5925bfca2dff382e6a77e7ed6b",
             "path": "01 Pop/Ni Zhan/Ni Zhan.tja"
         },
         {
@@ -4293,7 +4293,7 @@
         },
         {
             "type": "blob",
-            "hash": "6cfd0f9a91d09455b929592d7b33283bf330fc57",
+            "hash": "7aea12f9b26b07f68bb4b3db71575248f653c95f",
             "path": "01 Pop/Otonablue/Otonablue.tja"
         },
         {
@@ -5923,6 +5923,16 @@
         },
         {
             "type": "blob",
+            "hash": "fe4d98fa351523e3b319bb718985fb8a4585e85a",
+            "path": "01 Pop/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f6d83c600ff3441d17f02024680af980499174d7",
+            "path": "01 Pop/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.tja"
+        },
+        {
+            "type": "blob",
             "hash": "72ea178dd4a9b65be514015919ef0223ee63dd19",
             "path": "01 Pop/Tomoni/Tomoni.ogg"
         },
@@ -5978,7 +5988,7 @@
         },
         {
             "type": "blob",
-            "hash": "0a6e97ee8b260bf9c58daf62696574546c113654",
+            "hash": "b4d542b2c6925eb19bd61388dbfd24f40325ef43",
             "path": "01 Pop/Toxic/Toxic.tja"
         },
         {
@@ -8718,7 +8728,7 @@
         },
         {
             "type": "blob",
-            "hash": "af3343276bc0832765c3e2696cd76941e5a68dd6",
+            "hash": "ed6b28611abf410d7d6bbccab53d128c74799367",
             "path": "02 Anime/Hare Hare Yukai/Hare Hare Yukai.tja"
         },
         {
@@ -11603,16 +11613,6 @@
         },
         {
             "type": "blob",
-            "hash": "ada4aae5a50bf35728266e99ed51daac17dae613",
-            "path": "02 Anime/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "7d56dc49ea11180ac4d40f1af980f4d89e99d851",
-            "path": "02 Anime/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.tja"
-        },
-        {
-            "type": "blob",
             "hash": "4fe867255938cfec07a4f460843452dfe47ea0db",
             "path": "02 Anime/Tomare!/Tomare!.ogg"
         },
@@ -13173,7 +13173,7 @@
         },
         {
             "type": "blob",
-            "hash": "ee75353d61b738fd39b4cfae1aad075adeb8a2b9",
+            "hash": "0c4e514ad55128c3ae130039baf14597ce3aabba",
             "path": "03 Vocaloid/Kyoufuu All Back/Kyoufuu All Back.tja"
         },
         {
@@ -13408,12 +13408,12 @@
         },
         {
             "type": "blob",
-            "hash": "2a7984f0c814801eaa36a8cbcac88b123f011132",
+            "hash": "04d25a7f3aa074b5d9912001e305f5ea41358e15",
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.ogg"
         },
         {
             "type": "blob",
-            "hash": "3ed27eea955ffc3cf5700e035858a6f6d1ad2c02",
+            "hash": "177d7b690364d53b939139f5c3ef0ccf3d523ec1",
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.tja"
         },
         {
@@ -15043,12 +15043,12 @@
         },
         {
             "type": "blob",
-            "hash": "767a466e99eef35faa8a7ac5fde0d9836d6ac07c",
+            "hash": "b0bdb1c40b1070d1c6e6ecc2bfb44ec5c4a16f68",
             "path": "04 Children and Folk/Zenryoku King/Zenryoku King.ogg"
         },
         {
             "type": "blob",
-            "hash": "f1c5be07fce410bff085338c45e722fff1746ac8",
+            "hash": "eabbd5897dc2cc7e1916336fce7377c3aeaedfcc",
             "path": "04 Children and Folk/Zenryoku King/Zenryoku King.tja"
         },
         {
@@ -17443,6 +17443,16 @@
         },
         {
             "type": "blob",
+            "hash": "8044d37aa2b7a1d11d7a78f31d1c8a6ddeafb062",
+            "path": "07 Game Music/Aria/Aria.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "27bd9502070b5cf85d3161352d11a42debece3d8",
+            "path": "07 Game Music/Aria/Aria.tja"
+        },
+        {
+            "type": "blob",
             "hash": "12285cb98896465e79c3c0e42efffba477d9fa70",
             "path": "07 Game Music/Ashita e no Kodou/Ashita e no Kodou.ogg"
         },
@@ -17670,6 +17680,16 @@
             "type": "blob",
             "hash": "27bc721f5f212b1390111e9234718bddace7a694",
             "path": "07 Game Music/CHAOS RINGS/CHAOS RINGS.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6df14064873b0890d860674a70c2e89ae10a1215",
+            "path": "07 Game Music/CHAOTiC BATTLE/CHAOTiC BATTLE.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "17ec8f891fb2350a5e3d68bb1b572f9926b3b71d",
+            "path": "07 Game Music/CHAOTiC BATTLE/CHAOTiC BATTLE.tja"
         },
         {
             "type": "blob",
@@ -21258,12 +21278,12 @@
         },
         {
             "type": "blob",
-            "hash": "c838d207bacb547b0cac20bbcb5d1b0341a762f4",
+            "hash": "2fa2a01af71281d7dd79ec31e34aaad2851a9889",
             "path": "07 Game Music/Unwelcome School MRM Remix/Unwelcome School (MRM Remix).ogg"
         },
         {
             "type": "blob",
-            "hash": "3184310913c66442364641b2808a0c297e8d28da",
+            "hash": "28f8ad5b259fd3a6b2b66a3868c2a5ee592b500d",
             "path": "07 Game Music/Unwelcome School MRM Remix/Unwelcome School (MRM Remix).tja"
         },
         {
@@ -26543,7 +26563,7 @@
         },
         {
             "type": "blob",
-            "hash": "87f62b835fb1681ecec61c0830c1b8b1b0e7c522",
+            "hash": "50cc9efcb8ad7b87aa9dee21cbea41887ff55a08",
             "path": "09 Namco Original/Monochrome Utopia/Monochrome Utopia.ogg"
         },
         {
@@ -27273,7 +27293,7 @@
         },
         {
             "type": "blob",
-            "hash": "44594323eb900fb3ed88a45893faed260c14d8e2",
+            "hash": "4397188d8f159c9bfe7040426f10e9ef0b1dcdb2",
             "path": "09 Namco Original/RAGING FIRE/RAGING FIRE.tja"
         },
         {
@@ -28208,7 +28228,7 @@
         },
         {
             "type": "blob",
-            "hash": "350ed18c812780e3fbfe4de80afe0018ddcbc31b",
+            "hash": "124f92459e2c2c6081b5d841a0f1343d0f67e33a",
             "path": "09 Namco Original/TENSEI Kiyoshi ga Matsu Tsuwamono/TENSEI Kiyoshi ga Matsu Tsuwamono.ogg"
         },
         {
@@ -29158,7 +29178,7 @@
         },
         {
             "type": "blob",
-            "hash": "94a38a7a24885189f285c286c46781748c4c1ce6",
+            "hash": "b2388c0164cfe9a92f2d1d0cacaf222946905c7f",
             "path": "09 Namco Original/You don't need a reason to like it!/You don't need a reason to like it!.tja"
         },
         {
@@ -42024,6 +42044,25 @@
             }
         },
         {
+            "path": "01 Pop/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.tja",
+            "title": {
+                "en": "Tokyo Shandy Rendezvous",
+                "ja": "トウキョウ・シャンディ・ランデヴ"
+            },
+            "subtitle": {
+                "en": "MAISONdes feat. KAF, Tsumiki / Urusei Yatsura",
+                "ja": "TVアニメ「うる星やつら」より"
+            },
+            "category": "Pop",
+            "offset": -1.725,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Tomoni/Tomoni.tja",
             "title": {
                 "en": "Tomoni",
@@ -52649,25 +52688,6 @@
             }
         },
         {
-            "path": "02 Anime/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.tja",
-            "title": {
-                "en": "Tokyo Shandy Rendezvous",
-                "ja": "トウキョウ・シャンディ・ランデヴ"
-            },
-            "subtitle": {
-                "en": "MAISONdes feat. KAF, Tsumiki / Urusei Yatsura",
-                "ja": "TVアニメ「うる星やつら」より"
-            },
-            "category": "Anime",
-            "offset": -1.154,
-            "courses": {
-                "Oni": 8,
-                "Hard": 5,
-                "Normal": 3,
-                "Easy": 3
-            }
-        },
-        {
             "path": "02 Anime/Tomare!/Tomare!.tja",
             "title": {
                 "en": "Tomare!",
@@ -55619,7 +55639,7 @@
                 "ja": "ゆこぴ"
             },
             "category": "Vocaloid",
-            "offset": -0.517,
+            "offset": -0.515,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -56084,7 +56104,7 @@
                 "ja": "DECO*27 feat. 初音ミク"
             },
             "category": "Vocaloid",
-            "offset": -2.214,
+            "offset": -1.078,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -58884,7 +58904,7 @@
                 "ja": "「王様戦隊キングオージャー」より"
             },
             "category": "Children and Folk",
-            "offset": -1.127,
+            "offset": -1.585,
             "courses": {
                 "Oni": 6,
                 "Hard": 3,
@@ -63357,6 +63377,25 @@
             }
         },
         {
+            "path": "07 Game Music/Aria/Aria.tja",
+            "title": {
+                "en": "Aria",
+                "ja": "Aria"
+            },
+            "subtitle": {
+                "en": "Nanatsukaze from \"Cosmic Radio 2025\"",
+                "ja": "Nanatsukaze from \"Cosmic Radio 2025\""
+            },
+            "category": "Game Music",
+            "offset": -2.365,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Ashita e no Kodou/Ashita e no Kodou.tja",
             "title": {
                 "en": "Ashita e no Kodou",
@@ -63803,6 +63842,25 @@
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 4,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/CHAOTiC BATTLE/CHAOTiC BATTLE.tja",
+            "title": {
+                "en": "CHAOTiC BATTLE",
+                "ja": "CHAOTiC BATTLE"
+            },
+            "subtitle": {
+                "en": "YOFUKASHi Sound Team from \"Cosmic Radio 2025\"",
+                "ja": "YOFUKASHi Sound Team from \"Cosmic Radio 2025\""
+            },
+            "category": "Game Music",
+            "offset": -1.992,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
                 "Easy": 4
             }
         },
@@ -70718,7 +70776,7 @@
                 "ja": "ミツキヨ Remixed by モリモリあつし モバイルゲーム「ブルーアーカイブ」より"
             },
             "category": "Game Music",
-            "offset": -0.052,
+            "offset": -1.052,
             "courses": {
                 "Edit": 10,
                 "Oni": 9,
@@ -80200,6 +80258,7 @@
             "category": "Namco Original",
             "offset": -0.56,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 7,
                 "Normal": 6,
@@ -83793,7 +83852,7 @@
                 "ja": "オミコシスターズ feat. Ponchi♪ / WADIVE RECORD"
             },
             "category": "Namco Original",
-            "offset": -0.681,
+            "offset": -0.679,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
