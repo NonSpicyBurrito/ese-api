@@ -1,5 +1,5 @@
 {
-    "commit": "530ef51ffe7b56dc9fac688cc3e54250dea78d88",
+    "commit": "817fd6ed97b1930d142a2cabd75b79ff71856ff9",
     "blobs": [
         {
             "type": "blob",
@@ -178,7 +178,7 @@
         },
         {
             "type": "blob",
-            "hash": "90cfec7d54e8735b535d93cab211092cfc03b1b7",
+            "hash": "09dd9e3ae9dda2eeb0251614c8e0e124e2bdd8dd",
             "path": "01 Pop/Ahoy!! Warera Houshou Kaizokudan☆/Ahoy!! Warera Houshou Kaizokudan.ogg"
         },
         {
@@ -488,12 +488,12 @@
         },
         {
             "type": "blob",
-            "hash": "759d1b5489cde433cee3eedbb05e828d95f91ef7",
+            "hash": "e60efee57232c199fa0a79f753f5fba1ca4427be",
             "path": "01 Pop/Ashura-chan/Ashura-chan.ogg"
         },
         {
             "type": "blob",
-            "hash": "685e4ff5584a68c3de88ad9d7bf6cbabbbdb41b5",
+            "hash": "dc77229033add59a2bed28d2f3b74af3742e5d19",
             "path": "01 Pop/Ashura-chan/Ashura-chan.tja"
         },
         {
@@ -698,12 +698,12 @@
         },
         {
             "type": "blob",
-            "hash": "0823aa4d0327da3ad95639534534f86d1f9b4822",
+            "hash": "34fbe671548b6570baa2ea24caa35fe9c7d4b7d7",
             "path": "01 Pop/Bukan Cinta Biasa/Bukan Cinta Biasa.ogg"
         },
         {
             "type": "blob",
-            "hash": "96a8dad553b684d8f03072b270e5c8a4ec489e82",
+            "hash": "aeaa2babdd0d04469e1e257a12304860f5a9a5eb",
             "path": "01 Pop/Bukan Cinta Biasa/Bukan Cinta Biasa.tja"
         },
         {
@@ -1278,7 +1278,7 @@
         },
         {
             "type": "blob",
-            "hash": "2180a65431860bb3aed0ee192229b89e8e4ca88a",
+            "hash": "3fb0839215b3d17ec0ac569b39978ab3f9c1256d",
             "path": "01 Pop/Doro no Bunzai de Watashi Dake no Taisetsu o Ubaouda Nante/Doro no Bunzai de Watashi Dake no Taisetsu o Ubaouda Nante.ogg"
         },
         {
@@ -1485,16 +1485,6 @@
             "type": "blob",
             "hash": "1e58aab044baf6eb412823f4ecb37e25c033969c",
             "path": "01 Pop/Fashion Monster/Fashion Monster.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "087ab3d74924ba2c38ba8fa53a068fca6d3b4efd",
-            "path": "01 Pop/Favorite Days/Favorite Days.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "5dc474229fe37d5f9721d14e160ffb8c04e1a8f8",
-            "path": "01 Pop/Favorite Days/Favorite Days.tja"
         },
         {
             "type": "blob",
@@ -1948,16 +1938,6 @@
         },
         {
             "type": "blob",
-            "hash": "e9a42734b2413e8a023ef3d2b231f83c4f1e2d30",
-            "path": "01 Pop/Hand Over/Hand Over.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "9666ee6b1f6be50d3efaafc14fdc30ced0c51bdb",
-            "path": "01 Pop/Hand Over/Hand Over.tja"
-        },
-        {
-            "type": "blob",
             "hash": "3bf877bfeadd252478ebdb9f1eb0d0b7d5eda7d4",
             "path": "01 Pop/Happy Wedding-mae Song/Happy Wedding-mae Song.ogg"
         },
@@ -2178,16 +2158,6 @@
         },
         {
             "type": "blob",
-            "hash": "ed9dd9110f0cd8bf742f21c853806a2b4c86e7ac",
-            "path": "01 Pop/Hyper Bass/Hyper Bass.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "9c0d7061c46e8b9e4547d5d70c71ff20a8c99977",
-            "path": "01 Pop/Hyper Bass/Hyper Bass.tja"
-        },
-        {
-            "type": "blob",
             "hash": "93b2fa341d105af391148971a89b2a7884ff6f17",
             "path": "01 Pop/Hypnosis Mic -Division Battle Anthem-/Hypnosis Mic -Division Battle Anthem-.ogg"
         },
@@ -2285,16 +2255,6 @@
             "type": "blob",
             "hash": "719d845291166736b8b366327d944c86ad5da093",
             "path": "01 Pop/Ichizu/Ichizu.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "d2758cc15bbb9d5d9663e23efb5ef1bdfecc2758",
-            "path": "01 Pop/Idol Kyousenshi/Idol Kyousenshi.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "932ca234945c7e065e493421dc38abb8b9766847",
-            "path": "01 Pop/Idol Kyousenshi/Idol Kyousenshi.tja"
         },
         {
             "type": "blob",
@@ -2425,16 +2385,6 @@
             "type": "blob",
             "hash": "4ee336484265cda018a0ddd88b49020d80e315a2",
             "path": "01 Pop/Iroha Step/Iroha Step.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "b29e1b6c882bd43d2458c4ea431705249ec91b62",
-            "path": "01 Pop/Itadaki Babel/Itadaki Babel.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "81cde10a0707e57fe25c64aeb680527fa2308a31",
-            "path": "01 Pop/Itadaki Babel/Itadaki Babel.tja"
         },
         {
             "type": "blob",
@@ -3033,7 +2983,7 @@
         },
         {
             "type": "blob",
-            "hash": "ca62eb5546c689aa5822f24b2834f27347ce78ef",
+            "hash": "367b8a1eb540bc71740bf0d1debc00fc596c338a",
             "path": "01 Pop/Kuraberarekko/Kuraberarekko.ogg"
         },
         {
@@ -3425,16 +3375,6 @@
             "type": "blob",
             "hash": "d95c14ec57ac9815d4f7cc3960dd0ab3a3b42418",
             "path": "01 Pop/Manatsu no Sounds Good!/Manatsu no Sounds Good!.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "1cb59057e900da1016efc20133b2c58ecbdfbe04",
-            "path": "01 Pop/Mani Mani/Mani Mani.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "eae2ab76b3a2588098ad2adcc91217453cbb2e9d",
-            "path": "01 Pop/Mani Mani/Mani Mani.tja"
         },
         {
             "type": "blob",
@@ -4963,7 +4903,7 @@
         },
         {
             "type": "blob",
-            "hash": "3d82e7acd342ca0519d3d7ff0866fbad30b0aa3a",
+            "hash": "0690e79ca4fe9ec595249bb3af4590ceb56d6f13",
             "path": "01 Pop/San Ren/San Ren.tja"
         },
         {
@@ -5160,16 +5100,6 @@
             "type": "blob",
             "hash": "4382f418a0744e1e42fc4fa6c828d7c62658e238",
             "path": "01 Pop/Shine/Shine.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "4b640cc98c788fe8ad96addbbb1cfb80c8b26e2d",
-            "path": "01 Pop/Shining Lights/Shining Lights.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "ff63a86aa8a495d864532d757283af8f375293ce",
-            "path": "01 Pop/Shining Lights/Shining Lights.tja"
         },
         {
             "type": "blob",
@@ -7553,16 +7483,6 @@
         },
         {
             "type": "blob",
-            "hash": "0a80527342fa588e6a548146e3fb0b7130a94ff1",
-            "path": "02 Anime/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "51749d8615a2f4bba5c530096fc1d1e5cb727664",
-            "path": "02 Anime/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.tja"
-        },
-        {
-            "type": "blob",
             "hash": "e68718331657abd0af7476971c180c692335f54e",
             "path": "02 Anime/Chiki Chiki Bam Bam/Chiki Chiki Bam Bam.ogg"
         },
@@ -8873,16 +8793,6 @@
         },
         {
             "type": "blob",
-            "hash": "ddcd4e3ecef44f5f61ebf73f13f82d7542b213bf",
-            "path": "02 Anime/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "43c503b6a0a5e06c14348d6bbf5ca6cd46cb35b7",
-            "path": "02 Anime/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.tja"
-        },
-        {
-            "type": "blob",
             "hash": "4eda0ac615ca2863be5d92663e428b5205afba1a",
             "path": "02 Anime/Homura/Homura.ogg"
         },
@@ -9583,16 +9493,6 @@
         },
         {
             "type": "blob",
-            "hash": "416e39d123bead51a595c23d3cdcbc1724e807d2",
-            "path": "02 Anime/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "76d3909a1277c84c2aaec36f4c39a25ab0fe6ee1",
-            "path": "02 Anime/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.tja"
-        },
-        {
-            "type": "blob",
             "hash": "901860d9d41204d2dfb1c8845bcaba557686c54f",
             "path": "02 Anime/Kizuna no Kiseki/Kizuna no Kiseki.ogg"
         },
@@ -10205,6 +10105,16 @@
             "type": "blob",
             "hash": "bb55d9d13463a1d5fad4f84a325860d4880b2385",
             "path": "02 Anime/Muscat/Muscat.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "dfe5a3f6982e6bc6f72129a0408f3f94714b5081",
+            "path": "02 Anime/Muteki-teki Happiness/Muteki-teki Happiness.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a6491ccf1f3c2f14b207694a8b7946a5851df60d",
+            "path": "02 Anime/Muteki-teki Happiness/Muteki-teki Happiness.tja"
         },
         {
             "type": "blob",
@@ -12813,7 +12723,7 @@
         },
         {
             "type": "blob",
-            "hash": "584757da3838cbc037ba2435c2d68811e3f77e77",
+            "hash": "3bdb7541fda04485b2db4b3f47b4cf84a7800d7d",
             "path": "03 Vocaloid/Fallen Angel/Fallen Angel.tja"
         },
         {
@@ -13408,7 +13318,7 @@
         },
         {
             "type": "blob",
-            "hash": "04d25a7f3aa074b5d9912001e305f5ea41358e15",
+            "hash": "d68552867bdd6fda083e05772ba032f376f50d57",
             "path": "03 Vocaloid/Rabbit Hole/Rabbit Hole.ogg"
         },
         {
@@ -13903,6 +13813,16 @@
         },
         {
             "type": "blob",
+            "hash": "d503d82910afa84025d10b5addd27ca00ac8610c",
+            "path": "04 Children and Folk/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7327be58f7b8550bd342fb4a698de7b82effd0e6",
+            "path": "04 Children and Folk/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.tja"
+        },
+        {
+            "type": "blob",
             "hash": "c45e72e2e5304c322974e4dee1acebc544c2ddc5",
             "path": "04 Children and Folk/Chouchou/Chouchou.ogg"
         },
@@ -14093,6 +14013,16 @@
         },
         {
             "type": "blob",
+            "hash": "b9d92bbb15681cab19c776cb178300caafc6f12e",
+            "path": "04 Children and Folk/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7d5b722167b863434cd013b4ace845b9582aaccf",
+            "path": "04 Children and Folk/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.tja"
+        },
+        {
+            "type": "blob",
             "hash": "12117fdb14ce5b082e3754d36b0a4e629d28ecc9",
             "path": "04 Children and Folk/Hitorigotsu Band Ver/Hitorigotsu Band Ver.ogg"
         },
@@ -14240,6 +14170,16 @@
             "type": "blob",
             "hash": "f4f1d6afe0838e429b90961ffebb37ec36fc5c23",
             "path": "04 Children and Folk/Kiso Bushi/Kiso Bushi.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "416e39d123bead51a595c23d3cdcbc1724e807d2",
+            "path": "04 Children and Folk/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "e797a572bb8ed7548fc5fe2dfb5d59e75fdafc59",
+            "path": "04 Children and Folk/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.tja"
         },
         {
             "type": "blob",
@@ -14998,7 +14938,7 @@
         },
         {
             "type": "blob",
-            "hash": "e477aa51aff4f38b9e023d5d15006f0290f5145a",
+            "hash": "adea17edb9d5e1df0eeb50a27858c0a076d3c9f5",
             "path": "04 Children and Folk/Xiao Maolu/Xiao Maolu.tja"
         },
         {
@@ -15108,12 +15048,12 @@
         },
         {
             "type": "blob",
-            "hash": "883986901c851ab398b72b18272ef08e529926f2",
+            "hash": "c3b9f39339ff0d23f455637bd84961702b9e82c8",
             "path": "05 Variety/Aleph-0/Aleph-0.ogg"
         },
         {
             "type": "blob",
-            "hash": "f9d2a3f6e4e765b23df435299a66ae0d39c27994",
+            "hash": "a89e55f7242d856abf4bc7f46bd3859e5ff12a5a",
             "path": "05 Variety/Aleph-0/Aleph-0.tja"
         },
         {
@@ -15218,12 +15158,12 @@
         },
         {
             "type": "blob",
-            "hash": "84b53568d3764c29d492782cbbfffe3dd42beb7b",
+            "hash": "a2230a95baa8c7da8220f4ac3f4260b5e05c0d36",
             "path": "05 Variety/Brain Power/Brain Power.ogg"
         },
         {
             "type": "blob",
-            "hash": "a7bb47f483db97c586fd97ab29f923f941e2142f",
+            "hash": "685200b1be5f18e52f5f937e749689df9b186819",
             "path": "05 Variety/Brain Power/Brain Power.tja"
         },
         {
@@ -15458,6 +15398,16 @@
         },
         {
             "type": "blob",
+            "hash": "087ab3d74924ba2c38ba8fa53a068fca6d3b4efd",
+            "path": "05 Variety/Favorite Days/Favorite Days.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5dc474229fe37d5f9721d14e160ffb8c04e1a8f8",
+            "path": "05 Variety/Favorite Days/Favorite Days.tja"
+        },
+        {
+            "type": "blob",
             "hash": "fa02c18e99c14031e4b079f0608084609c02ae05",
             "path": "05 Variety/Freedom/Freedom.ogg"
         },
@@ -15588,6 +15538,16 @@
         },
         {
             "type": "blob",
+            "hash": "e9a42734b2413e8a023ef3d2b231f83c4f1e2d30",
+            "path": "05 Variety/Hand Over/Hand Over.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "da5fe97bfeffdd3f5596a361d8cedc38c248ee3e",
+            "path": "05 Variety/Hand Over/Hand Over.tja"
+        },
+        {
+            "type": "blob",
             "hash": "5d010a827f2efbd807606fe0c9ff11d2b8b5f327",
             "path": "05 Variety/Hataraku Kuruma/Hataraku Kuruma.ogg"
         },
@@ -15688,6 +15648,16 @@
         },
         {
             "type": "blob",
+            "hash": "ed9dd9110f0cd8bf742f21c853806a2b4c86e7ac",
+            "path": "05 Variety/Hyper Bass/Hyper Bass.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "2aebde2d5cd0030c848822077be3301be9a2a81c",
+            "path": "05 Variety/Hyper Bass/Hyper Bass.tja"
+        },
+        {
+            "type": "blob",
             "hash": "d1e2d027c145516721307a4fddb9b1f5d12f17bd",
             "path": "05 Variety/IAM (feat. Shogo, Tsubasa)/IAM (feat. Shogo, Tsubasa).ogg"
         },
@@ -15705,6 +15675,16 @@
             "type": "blob",
             "hash": "c0b889825cda271b74109a1731f6a2cbf1f98c70",
             "path": "05 Variety/INSPION/INSPION.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "d2758cc15bbb9d5d9663e23efb5ef1bdfecc2758",
+            "path": "05 Variety/Idol Berserker/Idol Berserker.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "45f548b0262b29fe03c28d9a7b977d4609c314a8",
+            "path": "05 Variety/Idol Berserker/Idol Berserker.tja"
         },
         {
             "type": "blob",
@@ -15735,6 +15715,16 @@
             "type": "blob",
             "hash": "11cf955da662e3038345148290012a2e01c63b5e",
             "path": "05 Variety/Iro wa Nioedo Chirinuru o/Iro wa Nioedo Chirinuru o.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "b29e1b6c882bd43d2458c4ea431705249ec91b62",
+            "path": "05 Variety/Itadaki Babel/Itadaki Babel.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c6d4b8613ca61d990d0ac56e0703bdf07bf3f7fe",
+            "path": "05 Variety/Itadaki Babel/Itadaki Babel.tja"
         },
         {
             "type": "blob",
@@ -15865,6 +15855,16 @@
             "type": "blob",
             "hash": "0ef130643af5c40a1d51203a319720ce5a0d97ec",
             "path": "05 Variety/Licht/Licht.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1cb59057e900da1016efc20133b2c58ecbdfbe04",
+            "path": "05 Variety/Mani Mani/Mani Mani.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "eae2ab76b3a2588098ad2adcc91217453cbb2e9d",
+            "path": "05 Variety/Mani Mani/Mani Mani.tja"
         },
         {
             "type": "blob",
@@ -16088,12 +16088,12 @@
         },
         {
             "type": "blob",
-            "hash": "d3d99c544ba181d4baf8a91be80510816428985a",
+            "hash": "07ff861ed840c312dd04e5d52e3a440914d29efb",
             "path": "05 Variety/Re：End of a Dream/Re End of a Dream.ogg"
         },
         {
             "type": "blob",
-            "hash": "510630d782fdee75abb24d1dc373c2a5772f237c",
+            "hash": "ce1d8a8bcac0d806280d2b62782e29dc9751cfd0",
             "path": "05 Variety/Re：End of a Dream/Re End of a Dream.tja"
         },
         {
@@ -16205,6 +16205,16 @@
             "type": "blob",
             "hash": "dfbb91ced09c3ead4e144f1410b3450d2ac1a579",
             "path": "05 Variety/Shinano no Kuni/Shinano no Kuni.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4b640cc98c788fe8ad96addbbb1cfb80c8b26e2d",
+            "path": "05 Variety/Shining Lights/Shining Lights.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9c2f53b9387b2e95a21b47ad33629689650fd2de",
+            "path": "05 Variety/Shining Lights/Shining Lights.tja"
         },
         {
             "type": "blob",
@@ -17473,12 +17483,12 @@
         },
         {
             "type": "blob",
-            "hash": "f59336418e30bde51573e78a0bebe722050d8b7f",
+            "hash": "8065c1819efdb1be3bde7a84c92e6fe07c7b2d66",
             "path": "07 Game Music/AtoZ,I leave toZ/AtoZ,I leave toZ.ogg"
         },
         {
             "type": "blob",
-            "hash": "85db20426a6465be67688a4d973d3691366440fb",
+            "hash": "51d2d0c7ea647385756f65422151f620cca3bc62",
             "path": "07 Game Music/AtoZ,I leave toZ/AtoZ,I leave toZ.tja"
         },
         {
@@ -17513,12 +17523,12 @@
         },
         {
             "type": "blob",
-            "hash": "a3175f1069cf1489d88a4c5bb74f53f1d47cec54",
+            "hash": "4f7ebb08541cb465b26baad887dcb71e51f082d9",
             "path": "07 Game Music/Back to Life/Back to Life.ogg"
         },
         {
             "type": "blob",
-            "hash": "f1dbe252d286f535ec3a2c411acb79d72fc4586f",
+            "hash": "687cf4dd3b5d463ed62c66afdf64614ff11321f3",
             "path": "07 Game Music/Back to Life/Back to Life.tja"
         },
         {
@@ -18243,7 +18253,7 @@
         },
         {
             "type": "blob",
-            "hash": "fa196b42c1662cd5e1bc1b34368bc45618b9b0b1",
+            "hash": "38efb943a518a39daa1d7ef3f7a4e3c3528698b8",
             "path": "07 Game Music/GO ON YA WAY/GO ON YA WAY.tja"
         },
         {
@@ -24803,12 +24813,12 @@
         },
         {
             "type": "blob",
-            "hash": "a6d604be5f8d9953bf642f674aad73909aa94a1e",
+            "hash": "28616359007b043216aaeaf19f8eba611840ed30",
             "path": "09 Namco Original/Haikei, Gakkou ni te/Haikei, Gakkou ni te....ogg"
         },
         {
             "type": "blob",
-            "hash": "c29d0393b327f8dff19b4062c10bf68ab8cf1c9c",
+            "hash": "35dbf1ace45cce85b2a4f86069673959862b0242",
             "path": "09 Namco Original/Haikei, Gakkou ni te/Haikei, Gakkou ni te....tja"
         },
         {
@@ -25948,12 +25958,12 @@
         },
         {
             "type": "blob",
-            "hash": "d848244b09bc31ac0146acb9e2a93b0861aec9d4",
+            "hash": "9ffb349a9eef4be933b78b643644bd5f35603cdc",
             "path": "09 Namco Original/Koritsu Aoharu Gakuen Kouka/Koritsu Aoharu Gakuen Kouka.ogg"
         },
         {
             "type": "blob",
-            "hash": "208a402fc3fb6cbd63a6238b0702525ae2e10d69",
+            "hash": "9ffbab956903023eed47986acbd01013b0aeb2b8",
             "path": "09 Namco Original/Koritsu Aoharu Gakuen Kouka/Koritsu Aoharu Gakuen Kouka.tja"
         },
         {
@@ -27345,6 +27355,16 @@
             "type": "blob",
             "hash": "630d37e5ed9760b74cf6541e4debcb77f9bdce3b",
             "path": "09 Namco Original/Rasen Shuukai Kidou/Rasen Shuukai Kidou.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "6e83daf9ac475ea0974b05ca62547880b0a1332d",
+            "path": "09 Namco Original/RePlay!!/RePlay!!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "957ebdb71499ab989e3623c7fa6d88088f50a5ae",
+            "path": "09 Namco Original/RePlay!!/RePlay!!.tja"
         },
         {
             "type": "blob",
@@ -28743,6 +28763,16 @@
         },
         {
             "type": "blob",
+            "hash": "dddf1d5b28548137b9a7cbdd00a53bf397c4d178",
+            "path": "09 Namco Original/TsunagaRhythm/TsunagaRhythm.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "78fb65fb5a7745605f8d927d0a0e6d3f45469841",
+            "path": "09 Namco Original/TsunagaRhythm/TsunagaRhythm.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4354432fdcb293e22ca5457476633941434965c5",
             "path": "09 Namco Original/Tsunagare! Hirogare! Uchiagare!/Tsunagare! Hirogare! Uchiagare!.ogg"
         },
@@ -29043,6 +29073,16 @@
         },
         {
             "type": "blob",
+            "hash": "4d36a053feca916fa4af58092a2c03b43335d94c",
+            "path": "09 Namco Original/World Keeps Turning/World Keeps Turning.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "833e2014952e369d485e8306e03fa1b36f2caf8d",
+            "path": "09 Namco Original/World Keeps Turning/World Keeps Turning.tja"
+        },
+        {
+            "type": "blob",
             "hash": "43dbeb8eaad9a0d6309c04ea01dc06db35f2172d",
             "path": "09 Namco Original/XDAY 2000/X-DAY 2000.ogg"
         },
@@ -29138,7 +29178,7 @@
         },
         {
             "type": "blob",
-            "hash": "1b56cc43b33343b62ff8c381b591dacb30e1b605",
+            "hash": "1cb25f8980f707ebb79e6eeab4158d68a9be0427",
             "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina.tja"
         },
         {
@@ -32129,7 +32169,7 @@
                 "ja": "Ado"
             },
             "category": "Pop",
-            "offset": -0.16,
+            "offset": -0.604,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -32505,13 +32545,12 @@
         {
             "path": "01 Pop/Bukan Cinta Biasa/Bukan Cinta Biasa.tja",
             "title": {
-                "en": "Bukan Cinta Biasa"
+                "en": "Bukan Cinta Biasa",
+                "ja": "Bukan Cinta Biasa"
             },
-            "subtitle": {
-                "en": "Siti Nurhaliza"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -1.218,
+            "offset": -1.953,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -33936,25 +33975,6 @@
             }
         },
         {
-            "path": "01 Pop/Favorite Days/Favorite Days.tja",
-            "title": {
-                "en": "Favorite Days",
-                "ja": "Favorite Days"
-            },
-            "subtitle": {
-                "en": "Yuuka Shidomi/DEN-ON-BU",
-                "ja": "日高零奈(CV:蔀 祐佳)  「電音部」より"
-            },
-            "category": "Pop",
-            "offset": -1.874,
-            "courses": {
-                "0": 2,
-                "1": 3,
-                "Oni": 8,
-                "Hard": 7
-            }
-        },
-        {
             "path": "01 Pop/Feel Special/Feel Special.tja",
             "title": {
                 "en": "Feel Special",
@@ -34774,24 +34794,6 @@
             }
         },
         {
-            "path": "01 Pop/Hand Over/Hand Over.tja",
-            "title": {
-                "en": "Hand Over",
-                "ja": "Hand Over (Prod. TEMPLIME)"
-            },
-            "subtitle": {
-                "en": "TEMPLIME & Sotokanda Bungei Koukou/DEN-ON-BU"
-            },
-            "category": "Pop",
-            "offset": -1.842,
-            "courses": {
-                "0": 3,
-                "1": 4,
-                "Oni": 9,
-                "Hard": 4
-            }
-        },
-        {
             "path": "01 Pop/Happy Wedding-mae Song/Happy Wedding-mae Song.tja",
             "title": {
                 "en": "Happy Wedding-mae Song",
@@ -35205,24 +35207,6 @@
             }
         },
         {
-            "path": "01 Pop/Hyper Bass/Hyper Bass.tja",
-            "title": {
-                "en": "Hyper Bass",
-                "ja": "Hyper Bass (feat. Yunomi)"
-            },
-            "subtitle": {
-                "en": "Jingumae Sando Gakuen feat. Yunomi/DEN-ON-BU"
-            },
-            "category": "Pop",
-            "offset": -1.502,
-            "courses": {
-                "0": 2,
-                "1": 2,
-                "3": 9,
-                "Hard": 5
-            }
-        },
-        {
             "path": "01 Pop/Hypnosis Mic -Division Battle Anthem-/Hypnosis Mic -Division Battle Anthem-.tja",
             "title": {
                 "en": "Hypnosis Mic -Division Battle Anthem-",
@@ -35406,25 +35390,6 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/Idol Kyousenshi/Idol Kyousenshi.tja",
-            "title": {
-                "en": "Idol Kyousenshi",
-                "ja": "アイドル狂戦士(feat.佐藤貴文)"
-            },
-            "subtitle": {
-                "en": "Sena Horikoshi feat. Takafumi Sato/DEN-ON-BU"
-            },
-            "category": "Pop",
-            "offset": -1.337,
-            "courses": {
-                "0": 3,
-                "1": 4,
-                "Edit": 9,
-                "Oni": 7,
-                "Hard": 5
             }
         },
         {
@@ -35667,24 +35632,6 @@
                 "Hard": 5,
                 "Normal": 5,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/Itadaki Babel/Itadaki Babel.tja",
-            "title": {
-                "en": "Itadaki Babel",
-                "ja": "いただきバベル (Prod. ケンモチヒデフミ)"
-            },
-            "subtitle": {
-                "en": "Kenmochi Hidefumi feat. Akina/DEN-ON-BU"
-            },
-            "category": "Pop",
-            "offset": -1.814,
-            "courses": {
-                "0": 2,
-                "1": 3,
-                "Oni": 8,
-                "Hard": 5
             }
         },
         {
@@ -37516,25 +37463,6 @@
                 "Hard": 3,
                 "Normal": 3,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/Mani Mani/Mani Mani.tja",
-            "title": {
-                "en": "Mani Mani",
-                "ja": "Mani Mani(Prod.TAKU INOUE)"
-            },
-            "subtitle": {
-                "en": "Taku Inoue feat. Miho Amane/DEN-ON-BU",
-                "ja": "東雲和音(CV:天音みほ) 「電音部」より"
-            },
-            "category": "Pop",
-            "offset": -2.667,
-            "courses": {
-                "0": 2,
-                "1": 4,
-                "Oni": 8,
-                "Hard": 6
             }
         },
         {
@@ -40319,7 +40247,10 @@
             "category": "Pop",
             "offset": -12.17,
             "courses": {
-                "Oni": 5
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -40666,24 +40597,6 @@
                 "Hard": 3,
                 "Normal": 4,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/Shining Lights/Shining Lights.tja",
-            "title": {
-                "en": "Shining Lights",
-                "ja": "Shining Lights (feat. PSYQUI)"
-            },
-            "subtitle": {
-                "en": "Kana Sukoya feat. PSYQUI/DEN-ON-BU"
-            },
-            "category": "Pop",
-            "offset": -1.657,
-            "courses": {
-                "0": 2,
-                "1": 2,
-                "Oni": 9,
-                "Hard": 6
             }
         },
         {
@@ -45042,24 +44955,6 @@
             }
         },
         {
-            "path": "02 Anime/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.tja",
-            "title": {
-                "en": "Cheers! Delicious Party♡Pretty Cure",
-                "ja": "Cheers！デリシャスパーティ♡プリキュア"
-            },
-            "subtitle": {
-                "en": "Machico/Delicious Party♡Pretty Cure"
-            },
-            "category": "Anime",
-            "offset": -2.794,
-            "courses": {
-                "Oni": 3,
-                "Hard": 2,
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Chiki Chiki Bam Bam/Chiki Chiki Bam Bam.tja",
             "title": {
                 "en": "Chiki Chiki Bam Bam",
@@ -47524,25 +47419,6 @@
             }
         },
         {
-            "path": "02 Anime/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.tja",
-            "title": {
-                "en": "Hirogaru Sky! Precure ～Hero Girls～",
-                "ja": "ひろがるスカイ！プリキュア ～Hero Girls～"
-            },
-            "subtitle": {
-                "en": "Ami Ishii",
-                "ja": "石井あみ"
-            },
-            "category": "Anime",
-            "offset": -2.084,
-            "courses": {
-                "Oni": 6,
-                "Hard": 3,
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Homura/Homura.tja",
             "title": {
                 "en": "Homura",
@@ -48861,25 +48737,6 @@
             }
         },
         {
-            "path": "02 Anime/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.tja",
-            "title": {
-                "en": "Kisoutengai Fushigi wo Douzo",
-                "ja": "奇想天外ふしぎをどうぞ"
-            },
-            "subtitle": {
-                "en": "Fushigi Dagashiya Zenitendou",
-                "ja": "「ふしぎ駄菓子屋 銭天堂」より"
-            },
-            "category": "Anime",
-            "offset": -1.33,
-            "courses": {
-                "Oni": 6,
-                "Hard": 3,
-                "Normal": 1,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Kizuna no Kiseki/Kizuna no Kiseki.tja",
             "title": {
                 "en": "Kizuna no Kiseki",
@@ -50039,6 +49896,26 @@
                 "Hard": 1,
                 "Normal": 1,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "02 Anime/Muteki-teki Happiness/Muteki-teki Happiness.tja",
+            "title": {
+                "en": "Muteki-teki Happiness! (SOS Brigade 5-Person Ver.)",
+                "ja": "無敵的ハピネス！(SOS団5人Ver.)"
+            },
+            "subtitle": {
+                "en": "The Haruhi Suzumiya Series",
+                "ja": "The Haruhi Suzumiya Series"
+            },
+            "category": "Anime",
+            "offset": -0.346,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -54939,7 +54816,7 @@
             },
             "subtitle": {
                 "en": "Rio Hamamoto (BNSI) feat. ZOLA PROJECT",
-                "ja": "濱本理央 (BNSI) feat. ZOLA PROJECT"
+                "ja": "濱本理央(BNSI) feat. ZOLA PROJECT"
             },
             "category": "Vocaloid",
             "offset": -1.578,
@@ -56999,6 +56876,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/Cheers! Delicious Party Pretty Cure/Cheers! Delicious Party Pretty Cure.tja",
+            "title": {
+                "en": "Cheers! Delicious Party♡Pretty Cure",
+                "ja": "Cheers！デリシャスパーティ♡プリキュア"
+            },
+            "subtitle": {
+                "en": "Machico/Delicious Party♡Pretty Cure",
+                "ja": " "
+            },
+            "category": "Children and Folk",
+            "offset": -2.797,
+            "courses": {
+                "Oni": 3,
+                "Hard": 2,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "04 Children and Folk/Chouchou/Chouchou.tja",
             "title": {
                 "en": "Chouchou",
@@ -57314,6 +57210,22 @@
             }
         },
         {
+            "path": "04 Children and Folk/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.tja",
+            "title": {
+                "en": "Hirogaru Sky! Precure ～Hero Girls～",
+                "ja": "ひろがるスカイ！プリキュア ～Hero Girls～"
+            },
+            "subtitle": {},
+            "category": "Children and Folk",
+            "offset": -2.142,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "04 Children and Folk/Hitorigotsu Band Ver/Hitorigotsu Band Ver.tja",
             "title": {
                 "en": "Hitorigotsu～Band Ver.～",
@@ -57557,6 +57469,25 @@
             "category": "Children and Folk",
             "offset": -5.544,
             "courses": {
+                "Normal": 1,
+                "Easy": 1
+            }
+        },
+        {
+            "path": "04 Children and Folk/Kisoutengai Fushigi wo Douzo/Kisoutengai Fushigi wo Douzo.tja",
+            "title": {
+                "en": "Kisoutengai Fushigi wo Douzo",
+                "ja": "奇想天外ふしぎをどうぞ"
+            },
+            "subtitle": {
+                "en": "Fushigi Dagashiya Zenitendou",
+                "ja": "「ふしぎ駄菓子屋 銭天堂」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.329,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
                 "Normal": 1,
                 "Easy": 1
             }
@@ -58828,7 +58759,10 @@
             "category": "Children and Folk",
             "offset": -2.612,
             "courses": {
-                "Oni": 7
+                "Oni": 7,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -59005,10 +58939,12 @@
         {
             "path": "05 Variety/Aleph-0/Aleph-0.tja",
             "title": {
-                "en": "Aleph-0"
+                "en": "Aleph-0",
+                "ja": "Aleph-0"
             },
             "subtitle": {
-                "en": "LeaF"
+                "en": "LeaF",
+                "ja": "LeaF"
             },
             "category": "Variety",
             "offset": -1.926,
@@ -59212,13 +59148,15 @@
         {
             "path": "05 Variety/Brain Power/Brain Power.tja",
             "title": {
-                "en": "Brain Power"
+                "en": "Brain Power",
+                "ja": "Brain Power"
             },
             "subtitle": {
-                "en": "NOMA"
+                "en": "NOMA",
+                "ja": "NOMA"
             },
             "category": "Variety",
-            "offset": -2.178,
+            "offset": -2.182,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -59663,6 +59601,25 @@
             }
         },
         {
+            "path": "05 Variety/Favorite Days/Favorite Days.tja",
+            "title": {
+                "en": "Favorite Days",
+                "ja": "Favorite Days"
+            },
+            "subtitle": {
+                "en": "Yuuka Shidomi/DEN-ON-BU",
+                "ja": "日高零奈(CV:蔀 祐佳)  「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.874,
+            "courses": {
+                "0": 2,
+                "1": 3,
+                "Oni": 8,
+                "Hard": 7
+            }
+        },
+        {
             "path": "05 Variety/Freedom/Freedom.tja",
             "title": {
                 "en": "Freedom",
@@ -59906,6 +59863,25 @@
             }
         },
         {
+            "path": "05 Variety/Hand Over/Hand Over.tja",
+            "title": {
+                "en": "Hand Over",
+                "ja": "Hand Over (Prod. TEMPLIME)"
+            },
+            "subtitle": {
+                "en": "TEMPLIME & Sotokanda Bungei Koukou/DEN-ON-BU",
+                "ja": "外神田文芸高校電音部 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.842,
+            "courses": {
+                "0": 3,
+                "1": 4,
+                "Oni": 9,
+                "Hard": 4
+            }
+        },
+        {
             "path": "05 Variety/Hataraku Kuruma/Hataraku Kuruma.tja",
             "title": {
                 "en": "Hataraku Kuruma",
@@ -60094,6 +60070,25 @@
             }
         },
         {
+            "path": "05 Variety/Hyper Bass/Hyper Bass.tja",
+            "title": {
+                "en": "Hyper Bass",
+                "ja": "Hyper Bass (feat. Yunomi)"
+            },
+            "subtitle": {
+                "en": "Jingumae Sando Gakuen feat. Yunomi/DEN-ON-BU",
+                "ja": "神宮前参道學園電音部 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.502,
+            "courses": {
+                "0": 2,
+                "1": 2,
+                "3": 9,
+                "Hard": 5
+            }
+        },
+        {
             "path": "05 Variety/IAM (feat. Shogo, Tsubasa)/IAM (feat. Shogo, Tsubasa).tja",
             "title": {
                 "en": "IAM (feat. Shogo, Tsubasa)",
@@ -60129,6 +60124,26 @@
                 "Hard": 8,
                 "Normal": 6,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "05 Variety/Idol Berserker/Idol Berserker.tja",
+            "title": {
+                "en": "Idol Berserker",
+                "ja": "アイドル狂戦士(feat.佐藤貴文)"
+            },
+            "subtitle": {
+                "en": "Sena Horikoshi feat. Takafumi Sato/DEN-ON-BU",
+                "ja": "茅野ふたば(CV:堀越せな) 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.337,
+            "courses": {
+                "0": 3,
+                "1": 4,
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5
             }
         },
         {
@@ -60185,6 +60200,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "05 Variety/Itadaki Babel/Itadaki Babel.tja",
+            "title": {
+                "en": "Itadaki Babel",
+                "ja": "いただきバベル (Prod. ケンモチヒデフミ)"
+            },
+            "subtitle": {
+                "en": "Kenmochi Hidefumi feat. Akina/DEN-ON-BU",
+                "ja": "黒鉄たま(CV:秋奈) 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.814,
+            "courses": {
+                "0": 2,
+                "1": 3,
+                "Oni": 8,
+                "Hard": 5
             }
         },
         {
@@ -60430,6 +60464,25 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "05 Variety/Mani Mani/Mani Mani.tja",
+            "title": {
+                "en": "Mani Mani",
+                "ja": "Mani Mani(Prod.TAKU INOUE)"
+            },
+            "subtitle": {
+                "en": "Taku Inoue feat. Miho Amane/DEN-ON-BU",
+                "ja": "東雲和音(CV:天音みほ) 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -2.667,
+            "courses": {
+                "0": 2,
+                "1": 4,
+                "Oni": 8,
+                "Hard": 6
             }
         },
         {
@@ -60856,7 +60909,7 @@
                 "ja": "uma vs. モリモリあつし"
             },
             "category": "Variety",
-            "offset": -0.42,
+            "offset": -1.651,
             "courses": {
                 "Edit": 10,
                 "Oni": 7,
@@ -61069,6 +61122,25 @@
                 "Hard": 4,
                 "Normal": 2,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "05 Variety/Shining Lights/Shining Lights.tja",
+            "title": {
+                "en": "Shining Lights",
+                "ja": "Shining Lights (feat. PSYQUI)"
+            },
+            "subtitle": {
+                "en": "Kana Sukoya feat. PSYQUI/DEN-ON-BU",
+                "ja": "鳳凰火凛(CV: 健屋花那) 「電音部」より"
+            },
+            "category": "Variety",
+            "offset": -1.657,
+            "courses": {
+                "0": 2,
+                "1": 2,
+                "Oni": 9,
+                "Hard": 6
             }
         },
         {
@@ -63436,14 +63508,15 @@
         {
             "path": "07 Game Music/AtoZ,I leave toZ/AtoZ,I leave toZ.tja",
             "title": {
-                "en": "AtoZ,I leave toZ"
+                "en": "AtoZ,I leave toZ",
+                "ja": "AtoZ,I leave toZ"
             },
             "subtitle": {
-                "en": "Dr.Laintrigger Demo:MonA'/Synchronica",
+                "en": "Dr.Laintrigger Demo:MonA\"/Synchronica",
                 "ja": "Dr.Laintrigger Demo:MonA\" 「シンクロニカ」より"
             },
             "category": "Game Music",
-            "offset": -0.975,
+            "offset": -2.179,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -63519,7 +63592,7 @@
                 "ja": "平原綾香 「テイルズ オブ ザ レイズ」より"
             },
             "category": "Game Music",
-            "offset": -3.523,
+            "offset": -3.893,
             "courses": {
                 "Oni": 6,
                 "Hard": 4,
@@ -75518,13 +75591,13 @@
                 "ja": "風間飛鳥(CV:白石涼子)"
             },
             "category": "Namco Original",
-            "offset": -3.581,
+            "offset": -3.385,
             "courses": {
+                "Edit": 8,
                 "Oni": 7,
                 "Hard": 4,
                 "Normal": 3,
-                "Easy": 2,
-                "Edit": 8
+                "Easy": 2
             }
         },
         {
@@ -77680,7 +77753,7 @@
                 "ja": "ブルーバック合唱団"
             },
             "category": "Namco Original",
-            "offset": -5.07,
+            "offset": -2.963,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
@@ -80361,6 +80434,25 @@
             }
         },
         {
+            "path": "09 Namco Original/RePlay!!/RePlay!!.tja",
+            "title": {
+                "en": "Re:Play!!",
+                "ja": "Re:Play!!"
+            },
+            "subtitle": {
+                "en": "Licht Tsuboi × Yoshihito Yano(BNSI) feat. Nanahira & Yoko Takamitsu",
+                "ja": "坪井リヒト × 矢野義人(BNSI) feat. ななひら & たかみつようこ"
+            },
+            "category": "Namco Original",
+            "offset": -1.104,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/Red Rose Evangel/Red Rose Evangel.tja",
             "title": {
                 "en": "Red Rose Evangel",
@@ -83034,6 +83126,25 @@
             }
         },
         {
+            "path": "09 Namco Original/TsunagaRhythm/TsunagaRhythm.tja",
+            "title": {
+                "en": "TsunagaRhythm",
+                "ja": "ツナガリズム"
+            },
+            "subtitle": {
+                "en": "Kei Kawaguchi feat. Shinobu Kawashima (CHiLi GiRL) / WADIVE RECORD",
+                "ja": "川口ケイ feat. 川嶋志乃舞(CHiLi GiRL) / WADIVE RECORD"
+            },
+            "category": "Namco Original",
+            "offset": -1.499,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/Tsunagare! Hirogare! Uchiagare!/Tsunagare! Hirogare! Uchiagare!.tja",
             "title": {
                 "en": "Tsunagare! Hirogare! Uchiagare!",
@@ -83598,6 +83709,25 @@
             }
         },
         {
+            "path": "09 Namco Original/World Keeps Turning/World Keeps Turning.tja",
+            "title": {
+                "en": "World Keeps Turning",
+                "ja": "World Keeps Turning"
+            },
+            "subtitle": {
+                "en": "illiomote feat. Ryo Aikawa / WADIVE RECORD",
+                "ja": "illiomote feat. 藍川涼 / WADIVE RECORD"
+            },
+            "category": "Namco Original",
+            "offset": -1.877,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "09 Namco Original/XDAY 2000/X-DAY 2000.tja",
             "title": {
                 "en": "X-DAY 2000",
@@ -83773,7 +83903,7 @@
                 "ja": "エール・エクス・マキナ！"
             },
             "subtitle": {
-                "en": "Machina prod. Rihito Tsuboi (BNSI)",
+                "en": "Machina prod. Licht Tsuboi (BNSI)",
                 "ja": "まきな prod. 坪井リヒト(BNSI)"
             },
             "category": "Namco Original",
