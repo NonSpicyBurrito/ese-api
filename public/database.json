@@ -1,5 +1,5 @@
 {
-    "commit": "817fd6ed97b1930d142a2cabd75b79ff71856ff9",
+    "commit": "9ec41c7611d6901f479926a28c4eed8d9516f79b",
     "blobs": [
         {
             "type": "blob",
@@ -6724,12 +6724,12 @@
         {
             "type": "blob",
             "hash": "820f7905085e0cb0232c225bacf6d9a499d0d820",
-            "path": "01 Pop/travelling/travelling.ogg"
+            "path": "01 Pop/traveling/traveling.ogg"
         },
         {
             "type": "blob",
-            "hash": "20a5fe82a991ddfe0aab94a5847fe0fcba8cc768",
-            "path": "01 Pop/travelling/travelling.tja"
+            "hash": "7533b80f75468c3e02c7d8dc232ae89d1a9facbd",
+            "path": "01 Pop/traveling/traveling.tja"
         },
         {
             "type": "blob",
@@ -7958,7 +7958,7 @@
         },
         {
             "type": "blob",
-            "hash": "2ada5fb6212d1a883850af113c72361ca3ef2042",
+            "hash": "28e42f508dd5a564f5fc9a138bee7bb8a431d3d9",
             "path": "02 Anime/Du-Du-Wa DO IT!!/Du-Du-Wa DO IT!!.tja"
         },
         {
@@ -8703,16 +8703,6 @@
         },
         {
             "type": "blob",
-            "hash": "a8eb40f6e99f2eb17b7f616b5920f86f105b9738",
-            "path": "02 Anime/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "8766a0420d092c91ce588ca3325f367551b028c9",
-            "path": "02 Anime/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja"
-        },
-        {
-            "type": "blob",
             "hash": "1c60094aaa53070786fb9b3a382f20f6940f5871",
             "path": "02 Anime/Heavenly Visitor/Heavenly Visitor.ogg"
         },
@@ -9408,7 +9398,7 @@
         },
         {
             "type": "blob",
-            "hash": "11fa854395df35520839762fefdff2b099ee314c",
+            "hash": "e39e37d6dd326b12f339b80d0da172d19f42e007",
             "path": "02 Anime/Kimi ni Kono Koe ga Todoki Masu You ni/Kimi ni Kono Koe ga Todoki Masu You ni.tja"
         },
         {
@@ -9653,7 +9643,7 @@
         },
         {
             "type": "blob",
-            "hash": "518158d34ad0771b9e8b7a54e2867aa6c4f460b4",
+            "hash": "a85416ae515a7bfb39cd61cdc608b3ea629d5bf8",
             "path": "02 Anime/Let’s Go!! Rider Kick/Lets Go!! Rider Kick.tja"
         },
         {
@@ -9755,16 +9745,6 @@
             "type": "blob",
             "hash": "45fcafea7f8f9e22fbbe01d705e720b787370215",
             "path": "02 Anime/Lupin III Theme/Lupin III Theme.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "511083a3a5c4c7ad523472942b6c96e0370873f6",
-            "path": "02 Anime/Lupinranger vs Patranger/Lupinranger vs Patranger.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "8691fe4099f3b287f7fe851b838bd9d564ea9697",
-            "path": "02 Anime/Lupinranger vs Patranger/Lupinranger vs Patranger.tja"
         },
         {
             "type": "blob",
@@ -11408,7 +11388,7 @@
         },
         {
             "type": "blob",
-            "hash": "1a29df63cdddecec91441d572acb378d42865acf",
+            "hash": "eca7c1a7877c2d0a2a1fcf639d400bc6e7f92f5a",
             "path": "02 Anime/Tan Tan Taan!/Tan Tan Taan!.tja"
         },
         {
@@ -14013,6 +13993,16 @@
         },
         {
             "type": "blob",
+            "hash": "a8eb40f6e99f2eb17b7f616b5920f86f105b9738",
+            "path": "04 Children and Folk/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d3ef0e51cff9cf7d82a3bd1e6fd538212cde32f7",
+            "path": "04 Children and Folk/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b9d92bbb15681cab19c776cb178300caafc6f12e",
             "path": "04 Children and Folk/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.ogg"
         },
@@ -14260,6 +14250,16 @@
             "type": "blob",
             "hash": "e23080c38392bfee3185a9caf6586f8c18fff896",
             "path": "04 Children and Folk/London Bridge is Falling Down/London Bridge is Falling Down.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "511083a3a5c4c7ad523472942b6c96e0370873f6",
+            "path": "04 Children and Folk/Lupinranger vs Patranger/Lupinranger vs Patranger.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "9bf4c4d515579af538b82feb0b27f6736bce1d8e",
+            "path": "04 Children and Folk/Lupinranger vs Patranger/Lupinranger vs Patranger.tja"
         },
         {
             "type": "blob",
@@ -15603,7 +15603,7 @@
         },
         {
             "type": "blob",
-            "hash": "c98f7505f2d043652e9a01620af9ba34e443a7d8",
+            "hash": "bfcda9054a1f00d13bb7fe32aa19c1e7590bb4a7",
             "path": "05 Variety/Help me, ERINNNNNN!!/Help me, ERINNNNNN!!.tja"
         },
         {
@@ -17098,7 +17098,7 @@
         },
         {
             "type": "blob",
-            "hash": "3d86e5e58113411d5e245b629bd6eb3ae352e581",
+            "hash": "eae29a0ff54329fae263e6a36deeb89a767a101b",
             "path": "06 Classical/The Entertainer/The Entertainer.tja"
         },
         {
@@ -17223,7 +17223,7 @@
         },
         {
             "type": "blob",
-            "hash": "ec5fa2c2ee59c31113c86fcee826c758cc8e6a43",
+            "hash": "24300bb564bfd1a7f1a7a61b69949a064049e358",
             "path": "06 Classical/Violin Concerto in E Minor/Violin Concerto in E Minor.tja"
         },
         {
@@ -17653,6 +17653,16 @@
         },
         {
             "type": "blob",
+            "hash": "825ddbd50712b4d785b5dbcf517a37d65d59a4c2",
+            "path": "07 Game Music/Bug/Bug.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c2ff95b8247fc56c29976bcabd174fb4b272c12f",
+            "path": "07 Game Music/Bug/Bug.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b6835d90072b11ea7c2cba23fdd8b5468d53484e",
             "path": "07 Game Music/Burning Force Medley/Burning Force Medley.ogg"
         },
@@ -17700,6 +17710,16 @@
             "type": "blob",
             "hash": "17ec8f891fb2350a5e3d68bb1b572f9926b3b71d",
             "path": "07 Game Music/CHAOTiC BATTLE/CHAOTiC BATTLE.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "5b26c4bada94817998494b632d4cf0ff7e472345",
+            "path": "07 Game Music/CRaZY/CRaZY.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "999fd3fbe0f3d95de1c2ebed2584fd574b96ccae",
+            "path": "07 Game Music/CRaZY/CRaZY.tja"
         },
         {
             "type": "blob",
@@ -19593,6 +19613,16 @@
         },
         {
             "type": "blob",
+            "hash": "4306b7e2ce9156659a3bc3f3510e431ec5ca612d",
+            "path": "07 Game Music/More! Jump! More!/More! Jump! More!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c20dac0a49b28f4081707d82a3bf6592520647a3",
+            "path": "07 Game Music/More! Jump! More!/More! Jump! More!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "2f7790428b064173566b35fee53f95d0339117ce",
             "path": "07 Game Music/Mujihi na Ou/Mujihi na Ou.ogg"
         },
@@ -21028,6 +21058,16 @@
         },
         {
             "type": "blob",
+            "hash": "1f4ecb44089f3db457ee0ff81db6da02ae4b1107",
+            "path": "07 Game Music/Teratera/Teratera.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "63eadd2e9b2bf2fbcf605a29a5ab4028851ff513",
+            "path": "07 Game Music/Teratera/Teratera.tja"
+        },
+        {
+            "type": "blob",
             "hash": "97a67ed7aad8e69d573267d3a369351b7a86e514",
             "path": "07 Game Music/Thank You!/Thank You!.ogg"
         },
@@ -21185,6 +21225,16 @@
             "type": "blob",
             "hash": "df65796de62b2d9106661e6d2994631111dc3116",
             "path": "07 Game Music/Tonari ni/Tonari ni....tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0194028517b5344c1f3fcd256caa9d77a7abb2f1",
+            "path": "07 Game Music/Tondemo-Wonderz/Tondemo-Wonderz.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "518de46c65939e619c4410f2309bb506fe3b45a2",
+            "path": "07 Game Music/Tondemo-Wonderz/Tondemo-Wonderz.tja"
         },
         {
             "type": "blob",
@@ -23888,7 +23938,7 @@
         },
         {
             "type": "blob",
-            "hash": "fdb77103ec1ba951bce4848cfcff4e586d710cbd",
+            "hash": "fb821ec3f56b80705104786d0d106e81cb06a345",
             "path": "09 Namco Original/Danba Danba Din Dan/Danba Danba Din Dan.tja"
         },
         {
@@ -43534,13 +43584,14 @@
             }
         },
         {
-            "path": "01 Pop/travelling/travelling.tja",
+            "path": "01 Pop/traveling/traveling.tja",
             "title": {
-                "en": "travelling",
+                "en": "traveling",
                 "ja": "traveling"
             },
             "subtitle": {
-                "en": "Hikaru Utada/FOMA"
+                "en": "Hikaru Utada/FOMA",
+                "ja": " "
             },
             "category": "Pop",
             "offset": -8.516,
@@ -45843,10 +45894,11 @@
             "path": "02 Anime/Du-Du-Wa DO IT!!/Du-Du-Wa DO IT!!.tja",
             "title": {
                 "en": "Du-Du-Wa DO IT‼",
-                "ja": "FIXME"
+                "ja": "Du-Du-Wa DO IT‼"
             },
             "subtitle": {
-                "en": "AIKATSU☆STARS! & STAR☆ANIS/Aikatsu!"
+                "en": "AIKATSU☆STARS! & STAR☆ANIS/Aikatsu!",
+                "ja": "「アイカツ！」より"
             },
             "category": "Anime",
             "offset": -1.909,
@@ -47251,24 +47303,6 @@
             }
         },
         {
-            "path": "02 Anime/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja",
-            "title": {
-                "en": "Healin’ Good♥Pretty Cure Touch‼",
-                "ja": "FIXME"
-            },
-            "subtitle": {
-                "en": "Rie Kitagawa/Healin’ Good♥Pretty Cure"
-            },
-            "category": "Anime",
-            "offset": -2.092,
-            "courses": {
-                "Oni": 6,
-                "Hard": 3,
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Heavenly Visitor/Heavenly Visitor.tja",
             "title": {
                 "en": "Heavenly Visitor",
@@ -48573,11 +48607,11 @@
             "path": "02 Anime/Kimi ni Kono Koe ga Todoki Masu You ni/Kimi ni Kono Koe ga Todoki Masu You ni.tja",
             "title": {
                 "en": "Kimi ni Kono Koe ga Todoki Masu You ni",
-                "ja": "NO MORE CRY"
+                "ja": "君にこの声が 届きますように"
             },
             "subtitle": {
                 "en": "Kaoru Okubo feat. Takayoshi Tanimoto/Zatch Bell‼",
-                "ja": "TVドラマ「ごくせん」より"
+                "ja": " "
             },
             "category": "Anime",
             "offset": -2.858,
@@ -49037,10 +49071,11 @@
             "path": "02 Anime/Let’s Go!! Rider Kick/Lets Go!! Rider Kick.tja",
             "title": {
                 "en": "Let’s Go‼ Rider Kick",
-                "ja": "FIXME"
+                "ja": "レッツゴー!!ライダーキック"
             },
             "subtitle": {
-                "en": "Hiroshi Fujioka/Kamen Rider"
+                "en": "Hiroshi Fujioka/Kamen Rider",
+                "ja": "「仮面ライダー」より"
             },
             "category": "Anime",
             "offset": -2.049,
@@ -49237,24 +49272,6 @@
                 "Hard": 7,
                 "Normal": 5,
                 "Easy": 4
-            }
-        },
-        {
-            "path": "02 Anime/Lupinranger vs Patranger/Lupinranger vs Patranger.tja",
-            "title": {
-                "en": "Lupinranger ℣ Patranger",
-                "ja": "FIXME"
-            },
-            "subtitle": {
-                "en": "Project.R/Kaitou Sentai Lupinranger ℣ Keisatsu Sentai Patranger"
-            },
-            "category": "Anime",
-            "offset": -2.028,
-            "courses": {
-                "Oni": 5,
-                "Hard": 3,
-                "Normal": 2,
-                "Easy": 1
             }
         },
         {
@@ -52347,16 +52364,19 @@
             "path": "02 Anime/Tan Tan Taan!/Tan Tan Taan!.tja",
             "title": {
                 "en": "Tan Tan Taan!",
-                "ja": "Marionette"
+                "ja": "タンタンターン！"
             },
             "subtitle": {
                 "en": "Milky Way/Kirarin☆Revolution",
-                "ja": "-マリオネット-"
+                "ja": "「花漾明星KIRARIN」主題曲"
             },
             "category": "Anime",
             "offset": -1.825,
             "courses": {
-                "Oni": 7
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -57210,6 +57230,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja",
+            "title": {
+                "en": "Healin’ Good♥Pretty Cure Touch‼",
+                "ja": "ヒーリングっど♥プリキュア Touch!!"
+            },
+            "subtitle": {
+                "en": "Rie Kitagawa/Healin’ Good♥Pretty Cure",
+                "ja": " "
+            },
+            "category": "Children and Folk",
+            "offset": -2.092,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "04 Children and Folk/Hirogaru Sky! Precure ~Hero Girls~/Hirogaru Sky! Precure Hero Girls.tja",
             "title": {
                 "en": "Hirogaru Sky! Precure ～Hero Girls～",
@@ -57618,6 +57657,25 @@
             "courses": {
                 "Hard": 4,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "04 Children and Folk/Lupinranger vs Patranger/Lupinranger vs Patranger.tja",
+            "title": {
+                "en": "Lupinranger ℣ Patranger",
+                "ja": "ルパンレンジャーVSパトレンジャー"
+            },
+            "subtitle": {
+                "en": "Project.R/Kaitou Sentai Lupinranger ℣ Keisatsu Sentai Patranger",
+                "ja": " "
+            },
+            "category": "Children and Folk",
+            "offset": -2.028,
+            "courses": {
+                "Oni": 5,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -59980,10 +60038,11 @@
             "path": "05 Variety/Help me, ERINNNNNN!!/Help me, ERINNNNNN!!.tja",
             "title": {
                 "en": "Help me, ERINNNNNN‼",
-                "ja": "FIXME"
+                "ja": "Help me, ERINNNNNN‼"
             },
             "subtitle": {
-                "en": "beatMARIO (COOL&CREATE)/Touhou Project"
+                "en": "beatMARIO (COOL&CREATE)/Touhou Project",
+                "ja": "東方Projectアレンジ ビートまりお"
             },
             "category": "Variety",
             "offset": -2.404,
@@ -63017,16 +63076,17 @@
             "path": "06 Classical/Violin Concerto in E Minor/Violin Concerto in E Minor.tja",
             "title": {
                 "en": "Violin Concerto in E Minor",
-                "ja": "Town ～Must Mix～"
+                "ja": "ヴァイオリン協奏曲ホ短調"
             },
             "subtitle": {
-                "en": "Junichi Nakatsuru"
+                "en": "Junichi Nakatsuru",
+                "ja": " "
             },
             "category": "Classical",
             "offset": -6.86,
             "courses": {
-                "Oni": 4,
-                "Hard": 4,
+                "Oni": 5,
+                "Hard": 6,
                 "Normal": 4,
                 "Easy": 3
             }
@@ -63845,6 +63905,25 @@
             }
         },
         {
+            "path": "07 Game Music/Bug/Bug.tja",
+            "title": {
+                "en": "Bug",
+                "ja": "バグ"
+            },
+            "subtitle": {
+                "en": "Kairiki Bear / 25-ji, Nightcord de. × Kagamine Len / Project Sekai: Colorful Stage feat. Hatsune Miku",
+                "ja": "25時、ナイトコードで。 × 鏡音レン 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+            },
+            "category": "Game Music",
+            "offset": -1.307,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Burning Force Medley/Burning Force Medley.tja",
             "title": {
                 "en": "Burning Force Medley",
@@ -63934,6 +64013,25 @@
                 "Oni": 10,
                 "Hard": 7,
                 "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/CRaZY/CRaZY.tja",
+            "title": {
+                "en": "CRaZY",
+                "ja": "CR詠ZY"
+            },
+            "subtitle": {
+                "en": "UMITORA / Vivid BAD SQUAD × Megurine Luka / Project Sekai: Colorful Stage feat. Hatsune Miku",
+                "ja": "Vivid BAD SQUAD × 巡音ルカ 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+            },
+            "category": "Game Music",
+            "offset": -1.02,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
                 "Easy": 4
             }
         },
@@ -67613,6 +67711,25 @@
             }
         },
         {
+            "path": "07 Game Music/More! Jump! More!/More! Jump! More!.tja",
+            "title": {
+                "en": "More! Jump! More!",
+                "ja": "モア！ジャンプ！モア！"
+            },
+            "subtitle": {
+                "en": "NayutalieN / MORE MORE JUMP × Hatsune Miku / Project Sekai: Colorful Stage feat. Hatsune Miku",
+                "ja": "MORE MORE JUMP！ × 初音ミク 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+            },
+            "category": "Game Music",
+            "offset": -1.188,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Mujihi na Ou/Mujihi na Ou.tja",
             "title": {
                 "en": "Mujihi na Ou",
@@ -70354,6 +70471,25 @@
             }
         },
         {
+            "path": "07 Game Music/Teratera/Teratera.tja",
+            "title": {
+                "en": "Teratera",
+                "ja": "てらてら"
+            },
+            "subtitle": {
+                "en": "Leo/need × Hatsune Miku / Project Sekai: Colorful Stage feat. Hatsune Miku",
+                "ja": "Leo/need × 初音ミク 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+            },
+            "category": "Game Music",
+            "offset": -1.272,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Thank You!/Thank You!.tja",
             "title": {
                 "en": "Thank You!",
@@ -70645,6 +70781,25 @@
                 "Hard": 4,
                 "Normal": 2,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "07 Game Music/Tondemo-Wonderz/Tondemo-Wonderz.tja",
+            "title": {
+                "en": "Tondemo-Wonderz",
+                "ja": "トンデモワンダーズ"
+            },
+            "subtitle": {
+                "en": "sasakure.UK / Wonderlands×Showtime × KAITO / Project Sekai: Colorful Stage feat. Hatsune Miku",
+                "ja": "ワンダーランズ×ショウタイム × KAITO 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+            },
+            "category": "Game Music",
+            "offset": -0.942,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -73834,12 +73989,13 @@
                 "ja": "ダンバ・ダンバ・ディン・ダン"
             },
             "subtitle": {
-                "en": "YMCK",
+                "en": "by YMCK",
                 "ja": "by YMCK"
             },
             "category": "Namco Original",
-            "offset": -1.595,
+            "offset": -1.6,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 7,
                 "Normal": 6,
