@@ -1,5 +1,5 @@
 {
-    "commit": "c8c256a1abb3ab3f0dae67f0d9fcf350a01ea811",
+    "commit": "3b9ff730d32e4777f35ed519de5a521a26fb9676",
     "blobs": [
         {
             "type": "blob",
@@ -148,12 +148,12 @@
         },
         {
             "type": "blob",
-            "hash": "6bf40274b58119fe005924220cd75b19aa2dfa50",
+            "hash": "6d9b4b8e28798319187c575ec6ccd68a845e0fa3",
             "path": "01 Pop/AWAY/AWAY.ogg"
         },
         {
             "type": "blob",
-            "hash": "ed1faa91486bbe1656b06bf368b5d9e986cb9870",
+            "hash": "a624b4c9f962c1a8cbb2e3cb7cd6f8d3dd4f2417",
             "path": "01 Pop/AWAY/AWAY.tja"
         },
         {
@@ -1028,12 +1028,12 @@
         },
         {
             "type": "blob",
-            "hash": "1d4ca09250bc36a4c2453c661f0d2f32f2e3b8bd",
+            "hash": "cdd06842fcda116cd6ef1b833ea0cd88a88b3682",
             "path": "01 Pop/DANCE MONKEY/DANCE MONKEY.ogg"
         },
         {
             "type": "blob",
-            "hash": "72a19c621ed6d5a5c56c9669ccd929c8b3f6e1dd",
+            "hash": "57d8edcdfcd4009b08826a85247fd4d997474b98",
             "path": "01 Pop/DANCE MONKEY/DANCE MONKEY.tja"
         },
         {
@@ -4668,16 +4668,6 @@
         },
         {
             "type": "blob",
-            "hash": "5cb648d32d42ef2e71ea20167c2a64b8e44d56ef",
-            "path": "01 Pop/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "ae7442c29a0fd698b39a868919cb4d0354594031",
-            "path": "01 Pop/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.tja"
-        },
-        {
-            "type": "blob",
             "hash": "c941e24057eddb28c0d40bc0258af5b8b6fa574b",
             "path": "01 Pop/Roppongi ～GIROPPON～/Roppongi GIROPPON.ogg"
         },
@@ -7453,12 +7443,12 @@
         },
         {
             "type": "blob",
-            "hash": "e68718331657abd0af7476971c180c692335f54e",
+            "hash": "94c5de6f2868fa1e5f05d62898c520d370cb9ae3",
             "path": "02 Anime/Chiki Chiki Bam Bam/Chiki Chiki Bam Bam.ogg"
         },
         {
             "type": "blob",
-            "hash": "7090105eeb77119b4c6167974eac425b84752927",
+            "hash": "183d80336c88b92afa9d82193c69ac2adea45135",
             "path": "02 Anime/Chiki Chiki Bam Bam/Chiki Chiki Bam Bam.tja"
         },
         {
@@ -12443,7 +12433,7 @@
         },
         {
             "type": "blob",
-            "hash": "fa947a4e798539b74190165c46db0ebbddbf15a6",
+            "hash": "759ee3d4a8dcdcf40c1bf80099c88afcd2a59acc",
             "path": "03 Vocaloid/Animal/Animal.tja"
         },
         {
@@ -12593,7 +12583,7 @@
         },
         {
             "type": "blob",
-            "hash": "eb5d8d50248559c8e3253ab500320e3a5630bf64",
+            "hash": "9d36a370da993ca00e3ac08cf6f305af70d8b28a",
             "path": "03 Vocaloid/Darling Dance/Darling Dance.tja"
         },
         {
@@ -15028,12 +15018,12 @@
         },
         {
             "type": "blob",
-            "hash": "5b0c393788c9d8f40af62a3c42785888a68ad103",
+            "hash": "2b4bad1302d0c8efca829aa9fe5beede6ddeae17",
             "path": "05 Variety/Aragami/Aragami.ogg"
         },
         {
             "type": "blob",
-            "hash": "19e47e0c5ecbbd384827d9d070d1e9d972745d34",
+            "hash": "5ae099fe481805efb1e2de9a090cb3d50094cb03",
             "path": "05 Variety/Aragami/Aragami.tja"
         },
         {
@@ -27368,12 +27358,12 @@
         },
         {
             "type": "blob",
-            "hash": "f53dd26d3df5f953e3f486d95ec863f52bd50e1f",
+            "hash": "8f8e787fcd224294374053e229742646997488df",
             "path": "09 Namco Original/R.I.P. Hero/R.I.P. Hero.ogg"
         },
         {
             "type": "blob",
-            "hash": "6fc473310bca7f2539739ded4d24c37986b66e92",
+            "hash": "d454f4b63886cefe914aeb738a78ea7ef21ef4bb",
             "path": "09 Namco Original/R.I.P. Hero/R.I.P. Hero.tja"
         },
         {
@@ -27525,6 +27515,16 @@
             "type": "blob",
             "hash": "a893a163a8d98fa354e0f6687e9894a8e94e5da7",
             "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e6c060df5ddda2908caed330c6d5883df34085c1",
+            "path": "09 Namco Original/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "e4de625e236dedddf386ae7928942d0506d29644",
+            "path": "09 Namco Original/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.tja"
         },
         {
             "type": "blob",
@@ -27708,12 +27708,12 @@
         },
         {
             "type": "blob",
-            "hash": "a1adc3404a5df923d0dc43b64f8edd3ca56ca7bd",
+            "hash": "143897944cafd8d7b9e769e36aafb566aea12da7",
             "path": "09 Namco Original/SUPERNOVA/SUPERNOVA.ogg"
         },
         {
             "type": "blob",
-            "hash": "d43b7fb6e74659aedfa3337984aa3bc5dd0ab4d3",
+            "hash": "59ef4402724673146d6f4c2d7c313d894301a83e",
             "path": "09 Namco Original/SUPERNOVA/SUPERNOVA.tja"
         },
         {
@@ -31626,13 +31626,12 @@
         {
             "path": "01 Pop/AWAY/AWAY.tja",
             "title": {
-                "en": "AWAY"
+                "en": "AWAY",
+                "ja": "AWAY"
             },
-            "subtitle": {
-                "en": "G.E.M."
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -0.37,
+            "offset": -1.517,
             "courses": {
                 "Oni": 6,
                 "Hard": 4,
@@ -33224,13 +33223,12 @@
         {
             "path": "01 Pop/DANCE MONKEY/DANCE MONKEY.tja",
             "title": {
-                "en": "DANCE MONKEY"
+                "en": "DANCE MONKEY",
+                "ja": "DANCE MONKEY"
             },
-            "subtitle": {
-                "en": "TONES AND I"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -2.502,
+            "offset": -2.905,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -39905,26 +39903,6 @@
             }
         },
         {
-            "path": "01 Pop/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.tja",
-            "title": {
-                "en": "Roppon no Bara to Sai no Uta",
-                "ja": "六本の薔薇と采の歌"
-            },
-            "subtitle": {
-                "en": "Bara☆Dice(TakaneLui,ShiranuiFlare,ShiroganeNoel,HoushouMarine,MomosuzuNene,KazamaIroha)",
-                "ja": "--薔薇☆Dice(鷹嶺ルイ・不知火フレア・白銀ノエル・宝鐘マリン・桃鈴ねね・風真いろは)"
-            },
-            "category": "Pop",
-            "offset": -1.369,
-            "courses": {
-                "Edit": 10,
-                "Oni": 6,
-                "Hard": 3,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
             "path": "01 Pop/Roppongi ～GIROPPON～/Roppongi GIROPPON.tja",
             "title": {
                 "en": "Roppongi ～GIROPPON～",
@@ -45009,7 +44987,7 @@
                 "ja": "「パリピ孔明」より"
             },
             "category": "Anime",
-            "offset": -2.671,
+            "offset": -2.315,
             "courses": {
                 "Oni": 7,
                 "Hard": 6,
@@ -54681,7 +54659,7 @@
                 "ja": "かいりきベア feat. 初音ミク"
             },
             "category": "Vocaloid",
-            "offset": -1.619,
+            "offset": -1.617,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -59019,7 +58997,7 @@
                 "ja": "xi"
             },
             "category": "Variety",
-            "offset": -1.097,
+            "offset": -2.161,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -80588,7 +80566,7 @@
                 "ja": "打打だいず"
             },
             "category": "Namco Original",
-            "offset": -0.352,
+            "offset": -2.303,
             "courses": {
                 "Edit": 10,
                 "Oni": 9,
@@ -80878,6 +80856,26 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.tja",
+            "title": {
+                "en": "Roppon no Bara to Sai no Uta",
+                "ja": "六本の薔薇と采の歌"
+            },
+            "subtitle": {
+                "en": "Bara☆Dice(Takane Lui, Shiranui Flare, Shirogane Noel, Houshou Marine, Momosuzu Nene, Kazama Iroha)",
+                "ja": "--薔薇☆Dice(鷹嶺ルイ・不知火フレア・白銀ノエル・宝鐘マリン・桃鈴ねね・風真いろは)"
+            },
+            "category": "Namco Original",
+            "offset": -2.085,
+            "courses": {
+                "Edit": 10,
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -81233,7 +81231,7 @@
                 "ja": "USAO"
             },
             "category": "Namco Original",
-            "offset": -0.129,
+            "offset": -0.951,
             "courses": {
                 "Edit": 10,
                 "Oni": 10,
