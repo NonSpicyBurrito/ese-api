@@ -1,5 +1,5 @@
 {
-    "commit": "3b9ff730d32e4777f35ed519de5a521a26fb9676",
+    "commit": "4121f6d9dba3a0aae1e2e172ff1690a4ba422259",
     "blobs": [
         {
             "type": "blob",
@@ -2098,12 +2098,12 @@
         },
         {
             "type": "blob",
-            "hash": "bb02a87a091fe1416dfc5a74e1d72e3c1005f899",
+            "hash": "b2b97df8f4f81ef22451dd8a6aac3cb450859c17",
             "path": "01 Pop/Hololive Ondo/Hololive Ondo.ogg"
         },
         {
             "type": "blob",
-            "hash": "84e069890ba410691a4fe6d48ae70ca841b0abe8",
+            "hash": "806fd79e526b2a5ca3c974c82bc16db9c384fb66",
             "path": "01 Pop/Hololive Ondo/Hololive Ondo.tja"
         },
         {
@@ -2475,6 +2475,16 @@
             "type": "blob",
             "hash": "6ddd266da1adaa5dad4f10574901520d941b773e",
             "path": "01 Pop/Junjou ～Sunjeong～/Junjou Sunjeong.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e80860520f184d314df32887958f997f9b7ca9c4",
+            "path": "01 Pop/Just Awake/Just Awake.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "32d547399582dd2562736129cfc3fd52f40713f9",
+            "path": "01 Pop/Just Awake/Just Awake.tja"
         },
         {
             "type": "blob",
@@ -4423,7 +4433,7 @@
         },
         {
             "type": "blob",
-            "hash": "8a7df6fdb667be79020fb8b106c3a5d1442a319e",
+            "hash": "661199dbd028ed422cd895da0cad4f6ffafe0c33",
             "path": "01 Pop/Promise the Star/Promise the Star.tja"
         },
         {
@@ -9093,16 +9103,6 @@
         },
         {
             "type": "blob",
-            "hash": "ac880adaa814e3c7ad00811a948977589ec5ee2b",
-            "path": "02 Anime/Just Awake/Just Awake.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "2d1f0ae32686a01c9d54523d5de3fa99e1833779",
-            "path": "02 Anime/Just Awake/Just Awake.tja"
-        },
-        {
-            "type": "blob",
             "hash": "25da103320cbf8d7d101322f85031e31ca16cca4",
             "path": "02 Anime/Juuken Sentai Gekiranger/Juuken Sentai Gekiranger.ogg"
         },
@@ -9224,11 +9224,21 @@
         {
             "type": "blob",
             "hash": "e797648f6abe412f98738abebdbc031d4e246fef",
+            "path": "02 Anime/Kasabuta/Kasabuta -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "321d70c503d8b642f4d5471656246c987f102043",
+            "path": "02 Anime/Kasabuta/Kasabuta -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "efd558b52ed2423a693cf375d22c7590234869ea",
             "path": "02 Anime/Kasabuta/Kasabuta.ogg"
         },
         {
             "type": "blob",
-            "hash": "00ec11c60d02be4b9bb6dd4cf61eb15593a8582b",
+            "hash": "f6053f5f44ba8fb275d6d672f642bdac9d4f8314",
             "path": "02 Anime/Kasabuta/Kasabuta.tja"
         },
         {
@@ -11303,6 +11313,16 @@
         },
         {
             "type": "blob",
+            "hash": "cd6fe623513a5e0d7dc1d7d826097161605dc578",
+            "path": "02 Anime/THE REVO/THE REVO.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "875bcae3ec396855035e0d1b3afac4354c722a6a",
+            "path": "02 Anime/THE REVO/THE REVO.tja"
+        },
+        {
+            "type": "blob",
             "hash": "54d2a738bc114031c067fb462e1b9aa040ccad70",
             "path": "02 Anime/TOGETHER -Beena Version-/TOGETHER -Beena Version-.ogg"
         },
@@ -12903,7 +12923,7 @@
         },
         {
             "type": "blob",
-            "hash": "1b5916b8175477bcf5dbb6cbcd7dde93a6dd00fa",
+            "hash": "ef374095cde269a5ba849c47cd1852d2c56dce40",
             "path": "03 Vocaloid/Irodoru Future/Irodoru Future.tja"
         },
         {
@@ -19153,12 +19173,12 @@
         },
         {
             "type": "blob",
-            "hash": "6770cde0fc0c5bdb293a4c02fabd2202dfaaeb20",
+            "hash": "8d6d24379b74c48d4b4bd140e48ec3ba50d173b4",
             "path": "07 Game Music/Libera Ray/Libera Ray.ogg"
         },
         {
             "type": "blob",
-            "hash": "49acbad470bbd62259237be35336c960386be785",
+            "hash": "c4c8792ed7826124732e0250d99e884b4181eb46",
             "path": "07 Game Music/Libera Ray/Libera Ray.tja"
         },
         {
@@ -19233,7 +19253,7 @@
         },
         {
             "type": "blob",
-            "hash": "34543d60d0288a7bd7a76ab2f7e9cc08b1083c5e",
+            "hash": "5145bfddba1cf6a1aa295e53d92e0386db427178",
             "path": "07 Game Music/Lunar Maria/Lunar Maria.tja"
         },
         {
@@ -26583,12 +26603,12 @@
         },
         {
             "type": "blob",
-            "hash": "fb3e29ba2e12c334b3df4f4b9a87548a8bb01412",
+            "hash": "7cf5672ed2af0988492c6bf0822d726c7ebcb023",
             "path": "09 Namco Original/Metameta Universe!/Metameta Universe!.ogg"
         },
         {
             "type": "blob",
-            "hash": "b2f01ed992785d01d91d6d889202c1048a70cf45",
+            "hash": "3bd2e12534af3d44cef18e32eeb8abfe125c27ce",
             "path": "09 Namco Original/Metameta Universe!/Metameta Universe!.tja"
         },
         {
@@ -27478,6 +27498,16 @@
         },
         {
             "type": "blob",
+            "hash": "0bfb9a0650516158b037710656926ff24eb56a41",
+            "path": "09 Namco Original/Rikka no Mai/Rikka no Mai.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5d67a5d56c0a4e14312f159178f84e2ed4dbf529",
+            "path": "09 Namco Original/Rikka no Mai/Rikka no Mai.tja"
+        },
+        {
+            "type": "blob",
             "hash": "c11bbcabdb14a8d2e869c606e9ffb6028362855a",
             "path": "09 Namco Original/Rin/Rin.ogg"
         },
@@ -27505,16 +27535,6 @@
             "type": "blob",
             "hash": "7ba98a0a38664af25da499064737835332431a97",
             "path": "09 Namco Original/Rocket Mode/Rocket Mode.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "eb03ab13680e29598498ce41b2ed534ee5e887a1",
-            "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "a893a163a8d98fa354e0f6687e9894a8e94e5da7",
-            "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.tja"
         },
         {
             "type": "blob",
@@ -29098,7 +29118,7 @@
         },
         {
             "type": "blob",
-            "hash": "c121329d9bd590f644f4bbb9953756cea5d6c8d5",
+            "hash": "c1f5a6296c0870d95c200219588355e2cef8a888",
             "path": "09 Namco Original/Waruruu-sama no Uta o Kike!/Waruruu-sama no Uta o Kike!.tja"
         },
         {
@@ -35189,7 +35209,7 @@
                 "ja": "--hololive IDOL PROJECT"
             },
             "category": "Pop",
-            "offset": -0.287,
+            "offset": -1.199,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -35880,6 +35900,25 @@
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Just Awake/Just Awake.tja",
+            "title": {
+                "en": "Just Awake",
+                "ja": "Just Awake"
+            },
+            "subtitle": {
+                "en": "Fear, and Loathing in Las Vegas/HUNTER×HUNTER",
+                "ja": "Fear, and Loathing in Las Vegas 「HUNTER×HUNTER」より"
+            },
+            "category": "Pop",
+            "offset": -1.006,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
                 "Easy": 3
             }
         },
@@ -39463,7 +39502,7 @@
                 "ja": "BiSH"
             },
             "category": "Pop",
-            "offset": -6.25,
+            "offset": -4.836,
             "courses": {
                 "Edit": 8,
                 "Oni": 6,
@@ -48084,25 +48123,6 @@
             }
         },
         {
-            "path": "02 Anime/Just Awake/Just Awake.tja",
-            "title": {
-                "en": "Just Awake",
-                "ja": "Just Awake"
-            },
-            "subtitle": {
-                "en": "Fear, and Loathing in Las Vegas/HUNTER×HUNTER",
-                "ja": "Fear, and Loathing in Las Vegas 「Hunter×Hunter」より"
-            },
-            "category": "Anime",
-            "offset": -0.546,
-            "courses": {
-                "Oni": 8,
-                "Hard": 5,
-                "Normal": 4,
-                "Easy": 3
-            }
-        },
-        {
             "path": "02 Anime/Juuken Sentai Gekiranger/Juuken Sentai Gekiranger.tja",
             "title": {
                 "en": "Juuken Sentai Gekiranger",
@@ -48330,22 +48350,41 @@
             }
         },
         {
-            "path": "02 Anime/Kasabuta/Kasabuta.tja",
+            "path": "02 Anime/Kasabuta/Kasabuta -Old Audio Chart-.tja",
             "title": {
-                "en": "Kasabuta",
+                "en": "Kasabuta -Old Audio/Chart-",
                 "ja": "カサブタ"
             },
             "subtitle": {
                 "en": "Hidenori Chiwata/Zatch Bell‼",
-                "ja": "金色のガッシュベル!!"
+                "ja": "旧音源・譜面 金色のガッシュベル!!"
             },
             "category": "Anime",
-            "offset": -6.356,
+            "offset": -6.358,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "02 Anime/Kasabuta/Kasabuta.tja",
+            "title": {
+                "en": "Kasabuta -New Audio/Chart-",
+                "ja": "カサブタ"
+            },
+            "subtitle": {
+                "en": "Hidenori Chiwata/Zatch Bell‼",
+                "ja": "新音源・譜面 「金色のガッシュベル！！」より"
+            },
+            "category": "Anime",
+            "offset": -1.223,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
@@ -52261,6 +52300,25 @@
             }
         },
         {
+            "path": "02 Anime/THE REVO/THE REVO.tja",
+            "title": {
+                "en": "THE REVO",
+                "ja": "THE REVO"
+            },
+            "subtitle": {
+                "en": "My Hero Academia FINAL SEASON",
+                "ja": "「僕のヒーローアカデミア FINAL SEASON」より"
+            },
+            "category": "Anime",
+            "offset": -1.58,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "02 Anime/TOGETHER -Beena Version-/TOGETHER -Beena Version-.tja",
             "title": {
                 "en": "TOGETHER -Beena Version-"
@@ -55272,11 +55330,11 @@
                 "ja": "Irodoru♡Future"
             },
             "subtitle": {
-                "en": "Kobayashi Nobuyoshi feat. Mirai Komachi",
+                "en": "Kobayashi Nobuyoshi(BNSI) feat. Mirai Komachi",
                 "ja": "小林伸嘉(BNSI) feat. ミライ小町"
             },
             "category": "Vocaloid",
-            "offset": -1.31,
+            "offset": -1.312,
             "courses": {
                 "Oni": 8,
                 "Hard": 4,
@@ -66875,14 +66933,15 @@
         {
             "path": "07 Game Music/Libera Ray/Libera Ray.tja",
             "title": {
-                "en": "Libera Ray"
+                "en": "Libera Ray",
+                "ja": "Libera Ray"
             },
             "subtitle": {
                 "en": "steμ feat. siroa/Synchronica ",
                 "ja": "--steμ feat. siroa 「シンクロニカ」より"
             },
             "category": "Game Music",
-            "offset": -0.745,
+            "offset": -1.409,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
@@ -80784,6 +80843,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Rikka no Mai/Rikka no Mai.tja",
+            "title": {
+                "en": "Rikka no Mai",
+                "ja": "六華の舞"
+            },
+            "subtitle": {
+                "en": "Penoreri",
+                "ja": "ぺのれり"
+            },
+            "category": "Namco Original",
+            "offset": -2.194,
+            "courses": {
+                "Oni": 10,
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/Rin/Rin.tja",
             "title": {
                 "en": "Rin",
@@ -80836,25 +80914,6 @@
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 5,
-                "Easy": 4
-            }
-        },
-        {
-            "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.tja",
-            "title": {
-                "en": "Rokka no Mai",
-                "ja": "六華の舞"
-            },
-            "subtitle": {
-                "en": "Penoreri",
-                "ja": "ぺのれり"
-            },
-            "category": "Namco Original",
-            "offset": -2.788,
-            "courses": {
-                "Oni": 10,
-                "Hard": 6,
-                "Normal": 6,
                 "Easy": 4
             }
         },
@@ -83886,8 +83945,8 @@
             "category": "Namco Original",
             "offset": -2.947,
             "courses": {
-                "Oni": 9,
-                "Hard": 8,
+                "Oni": 8,
+                "Hard": 7,
                 "Normal": 5,
                 "Easy": 4
             }
