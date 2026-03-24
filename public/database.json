@@ -1,5 +1,5 @@
 {
-    "commit": "4121f6d9dba3a0aae1e2e172ff1690a4ba422259",
+    "commit": "30c995aee1cba09167a85ba9877eddfcad3a920d",
     "blobs": [
         {
             "type": "blob",
@@ -1423,7 +1423,7 @@
         },
         {
             "type": "blob",
-            "hash": "a649f75ecf8500326d5926da99bb2ca654e57d94",
+            "hash": "1c072010c4ad45e28e39c78e575c476d6de670ac",
             "path": "01 Pop/FIREWORKS/FIREWORKS.tja"
         },
         {
@@ -2633,7 +2633,7 @@
         },
         {
             "type": "blob",
-            "hash": "b9bc78ddcec3655da1a2f844561bfd13ae9c88cc",
+            "hash": "1e19070ed8ad2de4bc3f29cd62384b0893802b1f",
             "path": "01 Pop/Kawaikute Gomen/Kawaikute Gomen.tja"
         },
         {
@@ -3013,7 +3013,7 @@
         },
         {
             "type": "blob",
-            "hash": "3b40c07bbcd5906697338ad4fc4482df58d09be4",
+            "hash": "1b8668bbe78d394939e054d29bc48fc9541d7283",
             "path": "01 Pop/Kyu-kurarin/Kyu-kurarin.tja"
         },
         {
@@ -3583,7 +3583,7 @@
         },
         {
             "type": "blob",
-            "hash": "bf9d977434326caa9748800d18d09a43ea04a6c3",
+            "hash": "0cbe7128643936a6224e355308846ec046625e53",
             "path": "01 Pop/Mirai no Chizu/Mirai no Chizu.tja"
         },
         {
@@ -4613,7 +4613,7 @@
         },
         {
             "type": "blob",
-            "hash": "d6f3bfdf83b09e8d4e64d5cfbda7e5630008ea88",
+            "hash": "4d29eadf49ff058365bc14c03425bfddbdd00aa5",
             "path": "01 Pop/Ri Bu Luo/Ri Bu Luo.tja"
         },
         {
@@ -5078,7 +5078,7 @@
         },
         {
             "type": "blob",
-            "hash": "f769b17e55c6e34c7667be150bf56db2be595643",
+            "hash": "e8cc6e8fdf5d7a5c9557d82a92b79037762dbd64",
             "path": "01 Pop/Shining Star/Shining Star.tja"
         },
         {
@@ -5298,7 +5298,7 @@
         },
         {
             "type": "blob",
-            "hash": "89480d5f56524ebeaf3feb746a3cf79b372f214a",
+            "hash": "7086220f3d17b1ae353fe340b591eb35a2a1b68b",
             "path": "01 Pop/Star Mine/Star Mine.tja"
         },
         {
@@ -5908,7 +5908,7 @@
         },
         {
             "type": "blob",
-            "hash": "efbe23ab605bfe4145947bffcecefaf84fda471f",
+            "hash": "e5c53f3f43256fed6f3c4b3dd4024a124cfff21a",
             "path": "01 Pop/Trust・Last/Trust Last.tja"
         },
         {
@@ -6468,7 +6468,7 @@
         },
         {
             "type": "blob",
-            "hash": "750ac49f19b566fa1b7ad8fb4d94e7086dd760bb",
+            "hash": "69fadf009d64668ed9ce70d3333ec5cfcae5cfe4",
             "path": "01 Pop/Yoihanabi/Yoihanabi.tja"
         },
         {
@@ -6488,7 +6488,7 @@
         },
         {
             "type": "blob",
-            "hash": "87fd97376b59eb43d948a1f68badd85ac764ea86",
+            "hash": "69feb512c7bda0dd1b78a984e7543625f298ff77",
             "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.tja"
         },
         {
@@ -6988,7 +6988,7 @@
         },
         {
             "type": "blob",
-            "hash": "10f21d54e36cb7362d854e9b305f8fd9d25c9fd1",
+            "hash": "ebe58a135f7ab28f21a0436f4c84b04ec5dd6d2a",
             "path": "02 Anime/Anpanman no March -Beena Version-/Anpanman no March -Beena Version-.tja"
         },
         {
@@ -7248,7 +7248,7 @@
         },
         {
             "type": "blob",
-            "hash": "d3c509e67fab7d3dea8d1125645c33380c8956d9",
+            "hash": "fae50718ea7b9f87619ed0520f5ad0f495da5fa1",
             "path": "02 Anime/Bowling For Soup - Jimmy Neutron Theme/Bowling For Soup - Jimmy Neutron Theme.tja"
         },
         {
@@ -8058,7 +8058,7 @@
         },
         {
             "type": "blob",
-            "hash": "af38d2f1833205c45d69dc597b6bb85544045c88",
+            "hash": "65ece6188bffc8c0af2a62c213ce6317c56ba4e5",
             "path": "02 Anime/GALAXY EXPRESS 999/GALAXY EXPRESS 999.tja"
         },
         {
@@ -8088,7 +8088,7 @@
         },
         {
             "type": "blob",
-            "hash": "e55aa0d0c21add1052ab0bb9d65a3905f9562d4f",
+            "hash": "39abaa1e7f5209e5c8a3e23783d80cd1c97ec726",
             "path": "02 Anime/GO!!!/GO!!! -New Audio-.tja"
         },
         {
@@ -8098,7 +8098,7 @@
         },
         {
             "type": "blob",
-            "hash": "39b233c755e3acd25c905b375338d761f9161711",
+            "hash": "e7f49e4bf5e7dd49a630c2dd4007044231a5d0f1",
             "path": "02 Anime/GO!!!/GO!!! -Old Audio-.tja"
         },
         {
@@ -8168,7 +8168,7 @@
         },
         {
             "type": "blob",
-            "hash": "996f1871a2bf26062db9d7238fb648c8e3da2676",
+            "hash": "cdb5d9cf3421f02b76e92fb0149681b58083a5bc",
             "path": "02 Anime/Gakuen Tengoku/Gakuen Tengoku.tja"
         },
         {
@@ -8188,7 +8188,7 @@
         },
         {
             "type": "blob",
-            "hash": "0af24805a1307a69eb8fb24cedf3142ffcaa4a76",
+            "hash": "b5c3c71f868a7dc0416e16799594f59708557fd9",
             "path": "02 Anime/Gegege no Kitaro (Fifth Season)/Gegege no Kitaro.tja"
         },
         {
@@ -8208,7 +8208,7 @@
         },
         {
             "type": "blob",
-            "hash": "25596ccf93d53d6bb8ab41f61ca122b5855e5631",
+            "hash": "5b771212c4397485dcf79ab9d9e4b41f312924d5",
             "path": "02 Anime/Gekidou/Gekidou.tja"
         },
         {
@@ -8218,7 +8218,7 @@
         },
         {
             "type": "blob",
-            "hash": "46ea0afb9a4f92a1e838d6a99c4885fca17b4426",
+            "hash": "461735f9a38f325e6773d91fefc5b4b3da18a834",
             "path": "02 Anime/Gekkouka/Gekkouka.tja"
         },
         {
@@ -8268,7 +8268,7 @@
         },
         {
             "type": "blob",
-            "hash": "04d12bc259e000dcdd32fc6094a86e9247b0cce4",
+            "hash": "26e7189cc289645eaf5b86fca5a9b3c6fed8acdc",
             "path": "02 Anime/Getchu! Love Love!/Getchu! Love Love!.tja"
         },
         {
@@ -8298,7 +8298,7 @@
         },
         {
             "type": "blob",
-            "hash": "209677c8afd13e5d8a786762f4e3ff5be4ea7f21",
+            "hash": "5ed079af382a330ca4b2af8bcd3d92e4e7cb8344",
             "path": "02 Anime/Giniro no Sora/Giniro no Sora.tja"
         },
         {
@@ -8308,7 +8308,7 @@
         },
         {
             "type": "blob",
-            "hash": "99be76b2d8b10356fa3afc376de9ec2c5bd47474",
+            "hash": "b477b88ba34edb625a18b9e6d1c0430ebddc95a2",
             "path": "02 Anime/Glorious Mind/Glorious Mind.tja"
         },
         {
@@ -8508,7 +8508,7 @@
         },
         {
             "type": "blob",
-            "hash": "43788558d5aa0fd39699cfd80768915f7ab73957",
+            "hash": "625908bde0affcace830ba25fc39f98a8098f3eb",
             "path": "02 Anime/Hamtaro Tottokou Uta 2005 -Short Version-/Hamtaro Tottokou Uta 2005 -Short Version-.tja"
         },
         {
@@ -8828,7 +8828,7 @@
         },
         {
             "type": "blob",
-            "hash": "91d0093d70a1525427eb8e81a935708b53cc40f1",
+            "hash": "d4e99d1f90888e5d3531ec50d09367407deb5176",
             "path": "02 Anime/Hug Shichao -Beena Version-/Hug Shichao -Beena Version-.tja"
         },
         {
@@ -9723,7 +9723,7 @@
         },
         {
             "type": "blob",
-            "hash": "3839a4770ee3765ee94325753c59d02732f3a8ba",
+            "hash": "1594ae29a1ac41cb59eb6aa716f6fd6cf626def8",
             "path": "02 Anime/MOIL/MOIL.tja"
         },
         {
@@ -10163,7 +10163,7 @@
         },
         {
             "type": "blob",
-            "hash": "8bb0619aea8e1d6b32b295508732ea0f046b93a9",
+            "hash": "6626d1c5cfe3b02fe3437763e6805f24765dea76",
             "path": "02 Anime/Nandedarou -Ryousan Version-/Nandedarou -Ryousan Version-.tja"
         },
         {
@@ -10183,7 +10183,7 @@
         },
         {
             "type": "blob",
-            "hash": "cd7c974f89a48a4e6963680b5de1a93d3f61f19f",
+            "hash": "d0a2cc577d309d3158ab1b2e41023894f9b52faa",
             "path": "02 Anime/New Genesis/New Genesis (Cover).tja"
         },
         {
@@ -10193,7 +10193,7 @@
         },
         {
             "type": "blob",
-            "hash": "dccdd5d68c920ebc16ed8a21c1eb61eb36102416",
+            "hash": "d0616117663ee7bc1ab76f72a35e2600a5732d15",
             "path": "02 Anime/New Genesis/New Genesis.tja"
         },
         {
@@ -10348,7 +10348,7 @@
         },
         {
             "type": "blob",
-            "hash": "6c3caa9c540d007458785644e46afabc5743997f",
+            "hash": "e463f7ad86988db76d0b6467eca9adcd09acd87a",
             "path": "02 Anime/One day/One day.tja"
         },
         {
@@ -10408,7 +10408,7 @@
         },
         {
             "type": "blob",
-            "hash": "4f558be0c65e86f8c849ec0c960807504d1e9637",
+            "hash": "928f410f60e838a0fdbd4fa48955b52ee7c3691f",
             "path": "02 Anime/Oshiri no Yama wa Everest/Oshiri no Yama wa Everest.tja"
         },
         {
@@ -10438,7 +10438,7 @@
         },
         {
             "type": "blob",
-            "hash": "51c80409fdc6feea070461bf1fbeb5636cc324c9",
+            "hash": "5f3ea776ee829a89558efc4b87214c67da1815fd",
             "path": "02 Anime/Over the Future/Over the Future.tja"
         },
         {
@@ -10708,7 +10708,7 @@
         },
         {
             "type": "blob",
-            "hash": "a7036e3daaf246445394276e404b7f31000c0828",
+            "hash": "e41555c857f2d31eeb8dc5bc3247b3a566f5e811",
             "path": "02 Anime/Ressha Sentai ToQger/Ressha Sentai ToQger.tja"
         },
         {
@@ -10718,7 +10718,7 @@
         },
         {
             "type": "blob",
-            "hash": "497fd55b1ad390f0b6e236032231f98810976a60",
+            "hash": "ff25ba333f42e650592b995a5c2798a0a8a61638",
             "path": "02 Anime/Return of Ultraman/Return of Ultraman.tja"
         },
         {
@@ -10728,7 +10728,7 @@
         },
         {
             "type": "blob",
-            "hash": "adb3f45deb2d9f87848294804183fa5642d0201c",
+            "hash": "3bd0c5a9d2ed79df33bbf8ecf87cff1ee315b533",
             "path": "02 Anime/Rewrite/Rewrite.tja"
         },
         {
@@ -10928,7 +10928,7 @@
         },
         {
             "type": "blob",
-            "hash": "a40537faa152e7f74ed89712e0d6c5fd53d5ab58",
+            "hash": "efca4b0bed9af6a1fcea77708de565ba5b6c9947",
             "path": "02 Anime/Samurai Sentai Shinkenger/Samurai Sentai Shinkenger.tja"
         },
         {
@@ -10998,7 +10998,7 @@
         },
         {
             "type": "blob",
-            "hash": "999d945d314fedb38713f6178e8ccaa1498b57d8",
+            "hash": "38a6cfbe0767c96c22108eaebe1ba7d17c50bebe",
             "path": "02 Anime/School Days/School Days.tja"
         },
         {
@@ -11038,7 +11038,7 @@
         },
         {
             "type": "blob",
-            "hash": "6b0383cd86aaa178bdc41c669c17b7a2689af442",
+            "hash": "8ffa3a478b2da84297cdeffd2ad1d50165766f5d",
             "path": "02 Anime/Sha la la -Ayakashi NIGHT-/Sha la la -Ayakashi NIGHT-.tja"
         },
         {
@@ -11228,7 +11228,7 @@
         },
         {
             "type": "blob",
-            "hash": "4df1a10e386bf3f3b91c75a15bed77ff0b19ad44",
+            "hash": "f7528072ba91bebdf1d71df0142cac9d82f0617c",
             "path": "02 Anime/Spurt!/Spurt!.tja"
         },
         {
@@ -11768,7 +11768,7 @@
         },
         {
             "type": "blob",
-            "hash": "631ba0c2caaf5c562ba38c4582218274faf902ae",
+            "hash": "7843c960dbf00649d9eb93a0e364bf7ae081de1d",
             "path": "02 Anime/Unmei no Shizuku ～Destiny’s Star～/Unmei no Shizuku Destinys Star.tja"
         },
         {
@@ -12743,7 +12743,7 @@
         },
         {
             "type": "blob",
-            "hash": "5ac5f2125bceb245981bd02897673487939f350a",
+            "hash": "06cf71ff23e7ddccafee6dc174038a3069e5fcd1",
             "path": "03 Vocaloid/God-ish/God-ish.tja"
         },
         {
@@ -12783,7 +12783,7 @@
         },
         {
             "type": "blob",
-            "hash": "226b043ca83f194d659b0c1f5f58fa7e8e7c64e2",
+            "hash": "97079bcf642c8df50a47b1ac69c53b1f13b22622",
             "path": "03 Vocaloid/Haikei Doppelganger/Haikei Doppelganger.tja"
         },
         {
@@ -12933,7 +12933,7 @@
         },
         {
             "type": "blob",
-            "hash": "3f2361ea4f8d4115bcaf0673adc4e3406982323d",
+            "hash": "a6284db47e1ed3d1dfcc03dfd3cbe9484dfb34d6",
             "path": "03 Vocaloid/Jinsei Reset Button/Jinsei Reset Button.tja"
         },
         {
@@ -13618,7 +13618,7 @@
         },
         {
             "type": "blob",
-            "hash": "e4ce94c4915b54c79f5da25f554fe5aed6a4a970",
+            "hash": "71b6bc2c9ff8e25c582ec9512853cef41264e2e8",
             "path": "04 Children and Folk/10 Little Indians/10 Little Indians.tja"
         },
         {
@@ -13668,7 +13668,7 @@
         },
         {
             "type": "blob",
-            "hash": "31f18a16506b061ed2f5fec2950ed31f9d3ec619",
+            "hash": "6a9040919b62ec4168308949defe586448d0d373",
             "path": "04 Children and Folk/Antagata Dokosa/Antagata Dokosa.tja"
         },
         {
@@ -13748,7 +13748,7 @@
         },
         {
             "type": "blob",
-            "hash": "5b3377342f32b9254835e965456fca21d16afd71",
+            "hash": "d06881d6402e03a9c591a765e1f9c923e6869bfa",
             "path": "04 Children and Folk/Bunbun Bun/Bunbun Bun.tja"
         },
         {
@@ -13788,7 +13788,7 @@
         },
         {
             "type": "blob",
-            "hash": "d229c5e253a5745c29c6e73fcf99198a96f93f19",
+            "hash": "04067d7bf0f86178a8c6777280e2b11aa65f4749",
             "path": "04 Children and Folk/Chouchou/Chouchou.tja"
         },
         {
@@ -13808,7 +13808,7 @@
         },
         {
             "type": "blob",
-            "hash": "5f6f0d6992d77cb1bebac6521cbae4ad14b40ece",
+            "hash": "1602ca00ec5b1272e9b373d4d620317083c1c42c",
             "path": "04 Children and Folk/Clarinet o Kowashichatta -Beena Version-/Clarinet o Kowashichatta -Beena Version-.tja"
         },
         {
@@ -13888,7 +13888,7 @@
         },
         {
             "type": "blob",
-            "hash": "dae0f0da2f207d9f8985743fd6ccac355a14a96f",
+            "hash": "5cedccbcadd51954866fb243f22765468132c7e5",
             "path": "04 Children and Folk/Genkotsuyama no Tanukisan/Genkotsuyama no Tanukisan.tja"
         },
         {
@@ -13938,7 +13938,7 @@
         },
         {
             "type": "blob",
-            "hash": "1ee114ce0e92343042a639d38de0daafb9effa4c",
+            "hash": "1bbd38345725a4da8e753a479fbb86b834a53bed",
             "path": "04 Children and Folk/Haru Yokoi/Haru Yokoi.tja"
         },
         {
@@ -13958,7 +13958,7 @@
         },
         {
             "type": "blob",
-            "hash": "a1ea6753235540354afe3718f4550ff430efedb8",
+            "hash": "acb17ff5c8ac348fb4d67b28b48ced2a45831779",
             "path": "04 Children and Folk/Haruga Kita/Haruga Kita.tja"
         },
         {
@@ -13968,7 +13968,7 @@
         },
         {
             "type": "blob",
-            "hash": "c9995a94dd4903b719214bfed80b3419c643c239",
+            "hash": "a0b63e10f7fa9078b825c4b1c9986883d106b5ea",
             "path": "04 Children and Folk/Hato/Hato.tja"
         },
         {
@@ -14023,12 +14023,22 @@
         },
         {
             "type": "blob",
+            "hash": "c11b85f4b12946e2ca2bbcd6b1f231be761ef2c6",
+            "path": "04 Children and Folk/I've Been Working On The Railroad/I've Been Working On The Railroad.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "caabe5e29d7bb0c83fd2e8a4858642d79bc1313f",
+            "path": "04 Children and Folk/I've Been Working On The Railroad/I've Been Working On The Railroad.tja"
+        },
+        {
+            "type": "blob",
             "hash": "69a20d63687c2ef90fcd4ac4209200f14792f845",
             "path": "04 Children and Folk/If You're Happy And You Know It/If You're Happy And You Know It.ogg"
         },
         {
             "type": "blob",
-            "hash": "a8369bb2fca70e22e93c57f13669fd308bef8e37",
+            "hash": "d3429bd921c15f691d548ed660de783d9ad3526b",
             "path": "04 Children and Folk/If You're Happy And You Know It/If You're Happy And You Know It.tja"
         },
         {
@@ -14058,7 +14068,7 @@
         },
         {
             "type": "blob",
-            "hash": "8d82b17564af97168c8c665c104fb351106f17a7",
+            "hash": "893123afb17304e4c99aa78f8274046f02277be9",
             "path": "04 Children and Folk/Jingle Bells -Beena Version-/Jingle Bells -Beena Version-.tja"
         },
         {
@@ -14088,7 +14098,7 @@
         },
         {
             "type": "blob",
-            "hash": "dc38ab62de4b2faae9e3d789761d1a11941fab9b",
+            "hash": "95d92a8a067b79eac3ef27b84f8b76ab0b2d21e0",
             "path": "04 Children and Folk/Kaeru no Gajjou/Kaeru no Gajjou.tja"
         },
         {
@@ -14108,7 +14118,7 @@
         },
         {
             "type": "blob",
-            "hash": "bbbdee2de540bd8235d87e42a7bd25edf28e194f",
+            "hash": "a4eb233ad94241edac6aa65d669d3247ba627316",
             "path": "04 Children and Folk/Katatsumuri/Katatsumuri.tja"
         },
         {
@@ -14128,7 +14138,7 @@
         },
         {
             "type": "blob",
-            "hash": "4d538fbdf91e6f4aef255256711a275de703e7e2",
+            "hash": "b1b95fd03e4c894fd5d4d00637ba693d75fed26d",
             "path": "04 Children and Folk/Kisha Poppo/Kisha Poppo.tja"
         },
         {
@@ -14168,7 +14178,7 @@
         },
         {
             "type": "blob",
-            "hash": "825ed33b498cb08873aef0e4c40ebd0b5e894780",
+            "hash": "fdc1ceeeef4169d95aa2552f222ca1cf94e05201",
             "path": "04 Children and Folk/Koi no Bori/Koi no Bori.tja"
         },
         {
@@ -14228,7 +14238,7 @@
         },
         {
             "type": "blob",
-            "hash": "e23080c38392bfee3185a9caf6586f8c18fff896",
+            "hash": "7ca771b6e206122b00fb70d2972c22b161c073c3",
             "path": "04 Children and Folk/London Bridge is Falling Down/London Bridge is Falling Down.tja"
         },
         {
@@ -14268,7 +14278,7 @@
         },
         {
             "type": "blob",
-            "hash": "a0165098bed151e3b0e8c3270bdcf49138c541d2",
+            "hash": "745b5dc781878c8d0309e13ee98b44a74e217718",
             "path": "04 Children and Folk/Mary Had a Little Lamb/Mary Had a Little Lamb.tja"
         },
         {
@@ -14318,7 +14328,7 @@
         },
         {
             "type": "blob",
-            "hash": "47b94a3624189b305bb32d7488fb23f7815ff037",
+            "hash": "eb6e23e2bf89a2b40ba7def3bddae2de890c987c",
             "path": "04 Children and Folk/Momotarou -Beena Version-/Momotarou -Beena Version-.tja"
         },
         {
@@ -14338,7 +14348,7 @@
         },
         {
             "type": "blob",
-            "hash": "6f90427c5067c281c721504cdfcb832db1156f38",
+            "hash": "9acfbb03cc2026f2096ba5a8ba731ed6e24bffa2",
             "path": "04 Children and Folk/Mori no Kuma-san -Beena Version-/Mori no Kuma-san -Beena Version-.tja"
         },
         {
@@ -14378,7 +14388,7 @@
         },
         {
             "type": "blob",
-            "hash": "08ac79c83d5c0fe62a81e469229f0b9d81497346",
+            "hash": "626d2793daa7602ab1234f8fd9aa6a9a8c5bbc09",
             "path": "04 Children and Folk/Mushi no Koe/Mushi no Koe.tja"
         },
         {
@@ -14388,7 +14398,7 @@
         },
         {
             "type": "blob",
-            "hash": "797d226390abc2caf2ea21622ad7c0db6d4eae61",
+            "hash": "9aebb0167cdd90e7d32f01844618551d36e23089",
             "path": "04 Children and Folk/Musunde Hiraite/Musunde Hiraite.tja"
         },
         {
@@ -14418,7 +14428,7 @@
         },
         {
             "type": "blob",
-            "hash": "de7520eb0d76b4120edeea4275c9cf7bff9751fe",
+            "hash": "b8346ff99ad9f132e9ae48901a8454bedee7e7f9",
             "path": "04 Children and Folk/Obentou Bako no Uta/Obentou Bako no Uta.tja"
         },
         {
@@ -14478,7 +14488,7 @@
         },
         {
             "type": "blob",
-            "hash": "8635ebf4c69166f13175811dd262c51c7647ce91",
+            "hash": "c814bad6e3c84c74d2fc7f864cb244d0b05fcc63",
             "path": "04 Children and Folk/Onma wa Minna/Onma wa Minna.tja"
         },
         {
@@ -14488,7 +14498,7 @@
         },
         {
             "type": "blob",
-            "hash": "dee857ab7b5f912204f665db237cfc6ed2973e1a",
+            "hash": "381db76e53e168037661d36be847219d8a1a0459",
             "path": "04 Children and Folk/Ookina Furudokei/Ookina Furudokei.tja"
         },
         {
@@ -14498,7 +14508,7 @@
         },
         {
             "type": "blob",
-            "hash": "ee7d5450c2337216ff608b2cd1f793dbce3371f5",
+            "hash": "a6fe635938eb1e26e27dd0ecec6ae91d0a87890f",
             "path": "04 Children and Folk/Ookina Kurinoki no Shita de/Ookina Kurinoki no Shita de.tja"
         },
         {
@@ -14623,22 +14633,12 @@
         },
         {
             "type": "blob",
-            "hash": "c11b85f4b12946e2ca2bbcd6b1f231be761ef2c6",
-            "path": "04 Children and Folk/Senro wa Tsuduku Yodoko Mademo/Senro wa Tsuduku Yodoko Mademo.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "7ac4cb7a9bbd3eadd5e44610a4e48baa63ae7eab",
-            "path": "04 Children and Folk/Senro wa Tsuduku Yodoko Mademo/Senro wa Tsuduku Yodoko Mademo.tja"
-        },
-        {
-            "type": "blob",
             "hash": "6920cdcd3cd5b29feb6feaaec9e5ba505b930a1d",
             "path": "04 Children and Folk/Shabon Dama/Shabon Dama.ogg"
         },
         {
             "type": "blob",
-            "hash": "cad372bb1c99a787e296970d9fd55e81eecae057",
+            "hash": "28f47ad4a31909f8c4dfc47d0325933087aa65ff",
             "path": "04 Children and Folk/Shabon Dama/Shabon Dama.tja"
         },
         {
@@ -14658,7 +14658,7 @@
         },
         {
             "type": "blob",
-            "hash": "abf1b1ed45bf38a1383fc2434d9cb939b94205c6",
+            "hash": "acb5e5115968f6da2925b6f8af3ac9e432f83135",
             "path": "04 Children and Folk/Shizuka na Kohan/Shizuka na Kohan.tja"
         },
         {
@@ -14668,7 +14668,7 @@
         },
         {
             "type": "blob",
-            "hash": "43c0dc946a98f5cd2c252569f72839e177ff4962",
+            "hash": "10c61471107c8fd63ee6c2ad6373584f7d3a642c",
             "path": "04 Children and Folk/Silent Night/Silent Night.tja"
         },
         {
@@ -14758,7 +14758,7 @@
         },
         {
             "type": "blob",
-            "hash": "72b2cdece14f879514f490bdf86e26f63fcdb68d",
+            "hash": "b2b34b6a9b3b34368247d51353b9f2057bed9bf2",
             "path": "04 Children and Folk/The Flea Waltz/The Flea Waltz.tja"
         },
         {
@@ -14768,7 +14768,7 @@
         },
         {
             "type": "blob",
-            "hash": "c39a16032cc512188d427810cdc463f99e4ab00c",
+            "hash": "da778cd266396e914f854ab50a1770acb04fbb49",
             "path": "04 Children and Folk/Tooryanse/Tooryanse.tja"
         },
         {
@@ -14778,7 +14778,7 @@
         },
         {
             "type": "blob",
-            "hash": "fd6857e8259cf5a0d7d02298c91b0dc973818c3c",
+            "hash": "31b1f93e00469a100350de9620c1bfe4a73c8d8d",
             "path": "04 Children and Folk/Twinkle Twinkle Little Star/Twinkle Twinkle Little Star.tja"
         },
         {
@@ -14808,7 +14808,7 @@
         },
         {
             "type": "blob",
-            "hash": "399f1f44aa85c40b4f663db8f223bc40b22a6293",
+            "hash": "d423d2586c15d3d673b5c98a8c9c8d75c0e46da9",
             "path": "04 Children and Folk/Urashima Tarou/Urashima Tarou.tja"
         },
         {
@@ -14878,7 +14878,7 @@
         },
         {
             "type": "blob",
-            "hash": "6265772c1d0763644d2e3c33a2727898beaa8841",
+            "hash": "1a60140d613d4b4ee0af5e712a7c59b054a73dbb",
             "path": "04 Children and Folk/Ware wa Umi no Ko -Beena Version-/Ware wa Umi no Ko -Beena Version-.tja"
         },
         {
@@ -14918,7 +14918,7 @@
         },
         {
             "type": "blob",
-            "hash": "74da9afa4a2b4818016ab77f64cc05ef556ac07e",
+            "hash": "63966aecce60f32b349d55f45e6723ae3ff1625b",
             "path": "04 Children and Folk/Yama no Ongakuka/Yama no Ongakuka.tja"
         },
         {
@@ -14928,7 +14928,7 @@
         },
         {
             "type": "blob",
-            "hash": "d4ecf16fa2ae0c8437912f15ffeb0c1c2662010f",
+            "hash": "42aa3df9811f552f5369d0ece59bee67566389c5",
             "path": "04 Children and Folk/Yuki -Beena Version-/Yuki -Beena Version-.tja"
         },
         {
@@ -14948,7 +14948,7 @@
         },
         {
             "type": "blob",
-            "hash": "eabbd5897dc2cc7e1916336fce7377c3aeaedfcc",
+            "hash": "a13cf88f873bbf3ebeb8ac7f152e462c10c0ea73",
             "path": "04 Children and Folk/Zenryoku King/Zenryoku King.tja"
         },
         {
@@ -14968,7 +14968,7 @@
         },
         {
             "type": "blob",
-            "hash": "0d47021bac91a1e86fee550b536aff58188e6f0b",
+            "hash": "192a7d86af025fe74280b21a62449ba0e22be9d1",
             "path": "04 Children and Folk/Zuizuizukkoro Bashi/Zuizuizukkoro Bashi.tja"
         },
         {
@@ -15123,7 +15123,7 @@
         },
         {
             "type": "blob",
-            "hash": "685200b1be5f18e52f5f937e749689df9b186819",
+            "hash": "3f44966566cdaeb73d2b8a7210a794da4c3d36d8",
             "path": "05 Variety/Brain Power/Brain Power.tja"
         },
         {
@@ -15543,7 +15543,7 @@
         },
         {
             "type": "blob",
-            "hash": "c13db2fc8ac6c9c743cabb83e65fe946f0d547cb",
+            "hash": "0be90ea91b9b8456f0aba29314ccb4069eaa33e9",
             "path": "05 Variety/Help me, ERINNNNNN!! -Cranky Remix-/Help me, ERINNNNNN!! -Cranky Remix-.tja"
         },
         {
@@ -16533,7 +16533,7 @@
         },
         {
             "type": "blob",
-            "hash": "4c983bc044d9017536e01c97744341ee8eb6228f",
+            "hash": "98fd04c2695fea79620823cb8d4211209244f0c5",
             "path": "06 Classical/Classical Medley -Home Party Version-/Classical Medley -Home Party Version-.tja"
         },
         {
@@ -18298,7 +18298,7 @@
         },
         {
             "type": "blob",
-            "hash": "38efb943a518a39daa1d7ef3f7a4e3c3528698b8",
+            "hash": "40fa267f7a87301d2d0baca6c5301f6f2f654757",
             "path": "07 Game Music/GO ON YA WAY/GO ON YA WAY.tja"
         },
         {
@@ -20413,7 +20413,7 @@
         },
         {
             "type": "blob",
-            "hash": "25863526f8faa386568ed0a327d96cdcacf1e90d",
+            "hash": "1e3f8cbdd486ac2f194a4669038b79ce35891d84",
             "path": "07 Game Music/SAMURAI ROCKET/SAMURAI ROCKET.tja"
         },
         {
@@ -21368,7 +21368,7 @@
         },
         {
             "type": "blob",
-            "hash": "28f8ad5b259fd3a6b2b66a3868c2a5ee592b500d",
+            "hash": "2649867bf4c6f7184c540e1d9b1b15f092606866",
             "path": "07 Game Music/Unwelcome School MRM Remix/Unwelcome School (MRM Remix).tja"
         },
         {
@@ -21453,7 +21453,7 @@
         },
         {
             "type": "blob",
-            "hash": "14eb89bc63385894aa4cb3c1fbad5c05fce71f1e",
+            "hash": "6003d48a047d5cd6291910a888eb9403bb5f6714",
             "path": "07 Game Music/Walking Through the Towers/Walking Through the Towers.tja"
         },
         {
@@ -24238,7 +24238,7 @@
         },
         {
             "type": "blob",
-            "hash": "c2388fd84cc7c42985a62155c9be4fb5db700617",
+            "hash": "1c8d6bbc4c5d795e6ac465934d50725a7a40a22c",
             "path": "09 Namco Original/Donkama 2000/Donkama 2000.tja"
         },
         {
@@ -25333,7 +25333,7 @@
         },
         {
             "type": "blob",
-            "hash": "fa375e359a7f0eeef4b5a57fb2f5bb38a823ee04",
+            "hash": "83394110fac2ebcc89bb80fb2579447ef056fdc2",
             "path": "09 Namco Original/Illusion Flare/Illusion Flare.tja"
         },
         {
@@ -26068,7 +26068,7 @@
         },
         {
             "type": "blob",
-            "hash": "4e21d6d8be7787dc40f41bed02e42d86d63a2d58",
+            "hash": "7ff5a9519a177ba87c91acbd0b2366ca255eca57",
             "path": "09 Namco Original/Kumo no Kanata no Taichi no Kaze/Kumo no Kanata no Taichi no Kaze.tja"
         },
         {
@@ -26168,7 +26168,7 @@
         },
         {
             "type": "blob",
-            "hash": "a55ea264b649ffe691fae0a428cd4429d96a9226",
+            "hash": "186bc2f69aa4b632f0a549ba6362005bca82ec0d",
             "path": "09 Namco Original/Kyousou Kosai/Kyousou Kosai.tja"
         },
         {
@@ -26313,7 +26313,7 @@
         },
         {
             "type": "blob",
-            "hash": "020fdb78a1a9530433692cb73c3f96594b851356",
+            "hash": "5194809dd206e8c2108b3c302ff78bc243662d64",
             "path": "09 Namco Original/LΔchesis/Lchesis.tja"
         },
         {
@@ -27538,6 +27538,11 @@
         },
         {
             "type": "blob",
+            "hash": "5afe482ffcc39efa4025cb208dd4e6d2fd930d76",
+            "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.tja"
+        },
+        {
+            "type": "blob",
             "hash": "e6c060df5ddda2908caed330c6d5883df34085c1",
             "path": "09 Namco Original/Roppon no Bara to Sai no Uta/Roppon no Bara to Sai no Uta.ogg"
         },
@@ -28283,7 +28288,7 @@
         },
         {
             "type": "blob",
-            "hash": "af50270babd341a892462c400ce2e39e9b4c0fa9",
+            "hash": "a91bfde0480c0348a2af98fc709554d4941e187d",
             "path": "09 Namco Original/Suriken Runner/Suriken Runner.tja"
         },
         {
@@ -57349,6 +57354,20 @@
             }
         },
         {
+            "path": "04 Children and Folk/I've Been Working On The Railroad/I've Been Working On The Railroad.tja",
+            "title": {
+                "en": "I've Been Working On The Railroad",
+                "ja": "せんろはつづくよどこまでも"
+            },
+            "subtitle": {},
+            "category": "Children and Folk",
+            "offset": -3.872,
+            "courses": {
+                "Hard": 3,
+                "Easy": 4
+            }
+        },
+        {
             "path": "04 Children and Folk/If You're Happy And You Know It/If You're Happy And You Know It.tja",
             "title": {
                 "en": "If You're Happy And You Know It",
@@ -58359,20 +58378,6 @@
             }
         },
         {
-            "path": "04 Children and Folk/Senro wa Tsuduku Yodoko Mademo/Senro wa Tsuduku Yodoko Mademo.tja",
-            "title": {
-                "en": "Senro wa Tsuduku Yodoko Mademo",
-                "ja": "せんろはつづくよどこまでも"
-            },
-            "subtitle": {},
-            "category": "Children and Folk",
-            "offset": -3.872,
-            "courses": {
-                "Hard": 3,
-                "Easy": 4
-            }
-        },
-        {
             "path": "04 Children and Folk/Shabon Dama/Shabon Dama.tja",
             "title": {
                 "en": "Shabon Dama",
@@ -58881,6 +58886,7 @@
         {
             "path": "04 Children and Folk/Zenryoku King/Zenryoku King.tja",
             "title": {
+                "en": "Zenryoku King",
                 "ja": "全力キング"
             },
             "subtitle": {
@@ -80914,6 +80920,25 @@
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Rokka no Mai/Rokka no Mai.tja",
+            "title": {
+                "en": "Rokka no Mai",
+                "ja": "六華の舞"
+            },
+            "subtitle": {
+                "en": "Penoreri",
+                "ja": "ぺのれり"
+            },
+            "category": "Namco Original",
+            "offset": -2.788,
+            "courses": {
+                "Oni": 10,
+                "Hard": 6,
+                "Normal": 6,
                 "Easy": 4
             }
         },
