@@ -1,5 +1,5 @@
 {
-    "commit": "1918074beb28d201d9ef5d8e9cb3be224c7a7c12",
+    "commit": "920ee2bb6e002f45ebb3c07fe6cf39e07b50acd0",
     "blobs": [
         {
             "type": "blob",
@@ -8503,42 +8503,42 @@
         },
         {
             "type": "blob",
-            "hash": "a69a281b0316337e0e808a8fce06edf15d4e5cbe",
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005 -Short Version-/Hamtaro Tottokou Uta 2005 -Short Version-.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "625908bde0affcace830ba25fc39f98a8098f3eb",
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005 -Short Version-/Hamtaro Tottokou Uta 2005 -Short Version-.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "4d6ce485354339d5b055b5938d4ef259cacc399b",
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005/Hamtaro Tottokou Uta 2005.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "0be1335b006de8fd01c1f0305414c2cd06e54465",
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005/Hamtaro Tottokou Uta 2005.tja"
-        },
-        {
-            "type": "blob",
             "hash": "d534345917d66a51d0a6f3efd43a9d7cfde40dbb",
             "path": "02 Anime/Hamtaro Tottokou Uta ～Norinori de Chu～/Hamtaro Tottokou Uta Norinori de Chu.ogg"
         },
         {
             "type": "blob",
-            "hash": "3af7071fe1228ea6419bba925f69783e7d34497f",
+            "hash": "ae040c108123d90aa45734211749127905909b04",
             "path": "02 Anime/Hamtaro Tottokou Uta ～Norinori de Chu～/Hamtaro Tottokou Uta Norinori de Chu.tja"
         },
         {
             "type": "blob",
             "hash": "9135cf4982215fef8bf0782519b0a26599f4f5bf",
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -AC4-6 Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "40550149d4dbd70f6e2e00acd4d56cbadf406aa1",
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -AC4-6 Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "a69a281b0316337e0e808a8fce06edf15d4e5cbe",
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -Wii4 Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "62e90f631d3badb419e0deed2fe9788181d897e9",
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -Wii4 Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "4d6ce485354339d5b055b5938d4ef259cacc399b",
             "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta.ogg"
         },
         {
             "type": "blob",
-            "hash": "78adc1522cc37c016133d6e1ea4c9485822d5ccd",
+            "hash": "d5181cedcc8f1365958722daa86e84a7b05f4ed6",
             "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta.tja"
         },
         {
@@ -9989,22 +9989,22 @@
         {
             "type": "blob",
             "hash": "0855c357602917fc99ba4c282d3a85ad53487b56",
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Version-.ogg"
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Audio Chart-.ogg"
         },
         {
             "type": "blob",
-            "hash": "fc5234e128766ff60c3ee4f363e1796c43715099",
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Version-.tja"
+            "hash": "98245551bcf3a7b2c803d09c597fd51ed454afc2",
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Audio Chart-.tja"
         },
         {
             "type": "blob",
             "hash": "ac2e4682bbd92816bbcb7839a7cee15b841da2eb",
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Version-.ogg"
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Audio Chart-.ogg"
         },
         {
             "type": "blob",
-            "hash": "4f71ba491882187fa9b680539f762c8d4daec22c",
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Version-.tja"
+            "hash": "3353d8f5299534193d6f2f532e92ab59abbdbd98",
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Audio Chart-.tja"
         },
         {
             "type": "blob",
@@ -10013,7 +10013,7 @@
         },
         {
             "type": "blob",
-            "hash": "2f5a433a2f756450ee1f39a58159a3de50541812",
+            "hash": "92ccd45f8c071a3a2b2734c0b8c13f250f358869",
             "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu.tja"
         },
         {
@@ -10288,12 +10288,12 @@
         },
         {
             "type": "blob",
-            "hash": "3fe9ea201820604738227de7acc6f6c29ae6dc85",
+            "hash": "64fbe67959851a9b14832d84f9283a0b794b7aeb",
             "path": "02 Anime/Odoru Ponpokorin/Odoru Ponpokorin (AC2).tja"
         },
         {
             "type": "blob",
-            "hash": "b39844f153c0b6c51f89a2453357019dda99beb8",
+            "hash": "dd1b7113ac4ee80225a9cd2cdce399e6b95d00d4",
             "path": "02 Anime/Odoru Ponpokorin/Odoru Ponpokorin (AC5).tja"
         },
         {
@@ -10308,7 +10308,7 @@
         },
         {
             "type": "blob",
-            "hash": "14ab2a40fe6a871b9954038465e76ac28e6cb664",
+            "hash": "5ab0190100401fcc65680997b08ffb60bf8e931a",
             "path": "02 Anime/Odoru Ponpokorin/Odoru Ponpokorin.tja"
         },
         {
@@ -11948,7 +11948,7 @@
         },
         {
             "type": "blob",
-            "hash": "96f102bfe06b52f4eb489f440a5a334d38513af1",
+            "hash": "1e75ebb93d056cd66a5a15dab38c7cd127b10a1a",
             "path": "02 Anime/We Are! -TVXQ Version-/We Are! -TVXQ Version-.tja"
         },
         {
@@ -47075,51 +47075,14 @@
             }
         },
         {
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005 -Short Version-/Hamtaro Tottokou Uta 2005 -Short Version-.tja",
-            "title": {
-                "en": "Hamtaro Tottokou Uta 2005 -Short Version-",
-                "ja": "ハム太郎とっとこうた2005 -Short Version-"
-            },
-            "subtitle": {
-                "en": "Ham-chanzu/Hamtaro Tottokou",
-                "ja": "とっとこハム太郎はむはむぱらだいちゅ！"
-            },
-            "category": "Anime",
-            "offset": -2.01,
-            "courses": {
-                "Oni": 5,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
-            "path": "02 Anime/Hamtaro Tottokou Uta 2005/Hamtaro Tottokou Uta 2005.tja",
-            "title": {
-                "en": "Hamtaro Tottokou Uta 2005",
-                "ja": "ハム太郎とっとこうた2005"
-            },
-            "subtitle": {
-                "en": "Ham-chanzu/Hamtaro Tottokou",
-                "ja": "とっとこハム太郎はむはむぱらだいちゅ！"
-            },
-            "category": "Anime",
-            "offset": -3.69,
-            "courses": {
-                "Oni": 6,
-                "Hard": 6,
-                "Normal": 3,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Hamtaro Tottokou Uta ～Norinori de Chu～/Hamtaro Tottokou Uta Norinori de Chu.tja",
             "title": {
                 "en": "Hamtaro Tottokou Uta ～Norinori de Chu～",
-                "ja": "ハム太郎とっとこうた　～ノリノリでちゅ～"
+                "ja": "ハム太郎とっとこうた～ノリノリでちゅ～"
             },
             "subtitle": {
-                "en": "Chiaki feat. Hamchanzu/Hamtaro Tottokou"
+                "en": "Chiaki feat. Hamchanzu/Hamtaro Tottokou",
+                "ja": " "
             },
             "category": "Anime",
             "offset": -1.764,
@@ -47131,20 +47094,59 @@
             }
         },
         {
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -AC4-6 Audio Chart-.tja",
+            "title": {
+                "en": "Hamtaro Tottokou Uta -AC4-6 Audio/Chart-",
+                "ja": "ハム太郎とっとこうた"
+            },
+            "subtitle": {
+                "en": "Ham-chanzu/Hamtaro Tottokou (2000)",
+                "ja": "AC4-6音源・譜面"
+            },
+            "category": "Anime",
+            "offset": -2.476,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta -Wii4 Audio Chart-.tja",
+            "title": {
+                "en": "Hamtaro Tottokou Uta -Wii4 Audio/Chart-",
+                "ja": "ハム太郎とっとこうた"
+            },
+            "subtitle": {
+                "en": "Ham-chanzu/Hamtaro Tottokou (2005)",
+                "ja": "Wii4音源・譜面 「とっとこハム太郎」より"
+            },
+            "category": "Anime",
+            "offset": -2,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Hamtaro Tottokou Uta/Hamtaro Tottokou Uta.tja",
             "title": {
                 "en": "Hamtaro Tottokou Uta",
                 "ja": "ハム太郎とっとこうた"
             },
             "subtitle": {
-                "en": "Ham-chanzu/Hamtaro Tottokou",
-                "ja": "とっとこハム太郎はむはむぱらだいちゅ！"
+                "en": "Ham-chanzu/Hamtaro Tottokou (2005)",
+                "ja": "「とっとこハム太郎」より"
             },
             "category": "Anime",
-            "offset": -2.459,
+            "offset": -3.684,
             "courses": {
+                "Edit": 10,
                 "Oni": 5,
-                "Hard": 4,
+                "Hard": 6,
                 "Normal": 2,
                 "Easy": 2
             }
@@ -49879,9 +49881,9 @@
             }
         },
         {
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Version-.tja",
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -AC3 Audio Chart-.tja",
             "title": {
-                "en": "Moonlight Densetsu -AC3 Version-",
+                "en": "Moonlight Densetsu -AC3 Audio/Chart-",
                 "ja": "ムーンライト伝説"
             },
             "subtitle": {
@@ -49898,9 +49900,9 @@
             }
         },
         {
-            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Version-.tja",
+            "path": "02 Anime/Moonlight Densetsu/Moonlight Densetsu -Anime Matsuri Audio Chart-.tja",
             "title": {
-                "en": "Moonlight Densetsu -Anime Matsuri Version-",
+                "en": "Moonlight Densetsu -Anime Matsuri Audio/Chart-",
                 "ja": "ムーンライト伝説"
             },
             "subtitle": {
