@@ -1,5 +1,5 @@
 {
-    "commit": "920ee2bb6e002f45ebb3c07fe6cf39e07b50acd0",
+    "commit": "f2338157583b87d205492c0648a61036549afe6a",
     "blobs": [
         {
             "type": "blob",
@@ -1008,16 +1008,6 @@
         },
         {
             "type": "blob",
-            "hash": "ae4165ed95215347d90e053a558cbfaafc6fc15b",
-            "path": "01 Pop/Connected World/Connected World.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "f5d14d51f5e8b7f2f09a57f11fa5998e07e96736",
-            "path": "01 Pop/Connected World/Connected World.tja"
-        },
-        {
-            "type": "blob",
             "hash": "6c2e4f1a233a7910dda3279b774457401e0007ab",
             "path": "01 Pop/D-Zettai! SAMURAI in the Rain/D-Zettai! SAMURAI in the Rain.ogg"
         },
@@ -1343,7 +1333,7 @@
         },
         {
             "type": "blob",
-            "hash": "b50d435be6c38bfcc6453a6ffb82de4fbe7da893",
+            "hash": "36c2ce763d005c7d86ac7c54293bd1b91bd54ac6",
             "path": "01 Pop/Du Jia Kuai Le/Du Jia Kuai Le.tja"
         },
         {
@@ -4603,7 +4593,7 @@
         },
         {
             "type": "blob",
-            "hash": "70dc68f8f5cc542ac369761ca22dac4a3f3e152a",
+            "hash": "56ad56f58ee0ef9c34e913e4a5038f299c8e23a5",
             "path": "01 Pop/Real voice/Real voice.tja"
         },
         {
@@ -4823,7 +4813,7 @@
         },
         {
             "type": "blob",
-            "hash": "6f758210bf074a602c819a44e6d571654b52b557",
+            "hash": "e8c84d8582d84967cf530547c499f861610872fb",
             "path": "01 Pop/Sakura (Ketsumeishi)/Sakura.tja"
         },
         {
@@ -4833,7 +4823,7 @@
         },
         {
             "type": "blob",
-            "hash": "288d1e63d878e44b2e67b24dcbe7e4e9cd324ab5",
+            "hash": "17904550611420fca61145219101d04e93fb464e",
             "path": "01 Pop/Sakura (Kobukuro)/Sakura.tja"
         },
         {
@@ -5158,7 +5148,7 @@
         },
         {
             "type": "blob",
-            "hash": "3b7d4c10e83acdf5ebb9ab6e12286154f3c79432",
+            "hash": "1c71847d30d55bc53977fadfba19672bbd6115ba",
             "path": "01 Pop/Shukumei/Shukumei.tja"
         },
         {
@@ -5498,7 +5488,7 @@
         },
         {
             "type": "blob",
-            "hash": "6107c3cb4e7b1515a28cb2f585b1c84e4c5f0ff2",
+            "hash": "253055ba8ca80506e3ea4d12acb905a59d3848db",
             "path": "01 Pop/Super Star/Super Star.tja"
         },
         {
@@ -5928,7 +5918,7 @@
         },
         {
             "type": "blob",
-            "hash": "329d054b1cfc44c05c19278301e7e055d655a775",
+            "hash": "7dc3b2d40a69ec6bfb543cefab0be9a52213b0a2",
             "path": "01 Pop/Tsubomi/Tsubomi.tja"
         },
         {
@@ -6083,12 +6073,12 @@
         },
         {
             "type": "blob",
-            "hash": "c3da4185e46a844b3eb198b3fed656ac87bb37b8",
+            "hash": "9438833bbb1172fd9a5aaff6757a51ddcfc57d86",
             "path": "01 Pop/Usseewa/Usseewa.ogg"
         },
         {
             "type": "blob",
-            "hash": "a1093828e7617a0548137abb783123100a98fcfb",
+            "hash": "aa47b70aaee1d48e7843367d08da93e4ea7e41f1",
             "path": "01 Pop/Usseewa/Usseewa.tja"
         },
         {
@@ -6408,7 +6398,7 @@
         },
         {
             "type": "blob",
-            "hash": "f3558bb7b2f08be4cf2f74af40fd889d9bd0e36a",
+            "hash": "8016b0719a3961692eba872ffa02db7fedba2f85",
             "path": "01 Pop/Ye Lai Ye Ai/Ye Lai Ye Ai.tja"
         },
         {
@@ -6700,16 +6690,6 @@
             "type": "blob",
             "hash": "f720e5f5eda51d5ecf2f5398e43f588a907877a0",
             "path": "01 Pop/true blue (ZONE)/true blue.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "f84dfe501897faea5ba5b8c7dc3179a299366a7e",
-            "path": "01 Pop/twinkle night/twinkle night.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "f4a77f1727471683826fe7e97addd216d47598fe",
-            "path": "01 Pop/twinkle night/twinkle night.tja"
         },
         {
             "type": "blob",
@@ -10103,7 +10083,7 @@
         },
         {
             "type": "blob",
-            "hash": "ff630f7ac3359256d41af5bde19a9183ff3eb192",
+            "hash": "9703ab347af84cad2d2d3471d43786a211034ab1",
             "path": "02 Anime/NEXT LEVEL/NEXT LEVEL.tja"
         },
         {
@@ -10688,7 +10668,7 @@
         },
         {
             "type": "blob",
-            "hash": "91eacdf49216ba4f3a720dc855e5ebd3382b9ba2",
+            "hash": "b23fc3f8d9bdb4042b60bd50b5801c72c05b4909",
             "path": "02 Anime/Realize/Realize.tja"
         },
         {
@@ -12138,7 +12118,7 @@
         },
         {
             "type": "blob",
-            "hash": "abd7a2745ab8f237395ad4ddf7c9466ede7cf54c",
+            "hash": "854e2630eb98f45b85f0a8e17cdc3fa24cdbb31b",
             "path": "02 Anime/Your World/Your World.tja"
         },
         {
@@ -13448,22 +13428,22 @@
         },
         {
             "type": "blob",
-            "hash": "fafa732eee7fe623753147d24be91d03832b72fb",
+            "hash": "e2484a40c2f1680cae290cae1494cae58e0b38e0",
             "path": "03 Vocaloid/Tell-me Beat/Tell-me Beat.ogg"
         },
         {
             "type": "blob",
-            "hash": "9dc5e22b1669f2b5d398e95ba16df71e24bc0ca9",
+            "hash": "c83e47d1279d66e299f4aa251def65b9a4a43c9e",
             "path": "03 Vocaloid/Tell-me Beat/Tell-me Beat.tja"
         },
         {
             "type": "blob",
-            "hash": "7a1b6f8fb23f85c754b32f097a902b2b43913c2a",
+            "hash": "f090fa55e95d452c7ad8c9afda2ed7d9db666c60",
             "path": "03 Vocaloid/Teo/Teo.ogg"
         },
         {
             "type": "blob",
-            "hash": "f5cbc8c346faf64df03c14089ff06e06e25e967c",
+            "hash": "e5f57b192aa391f391f83f16769a3ef6d7c66878",
             "path": "03 Vocaloid/Teo/Teo.tja"
         },
         {
@@ -15238,6 +15218,16 @@
         },
         {
             "type": "blob",
+            "hash": "0e5a69037dad0c160b8424a4419c7c78004f8767",
+            "path": "05 Variety/Connected World/Connected World.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "74e8c539fbd3eb67663e3afb442a70fa9ceb0409",
+            "path": "05 Variety/Connected World/Connected World.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1f76ac5d6bc06592b33280beeb57d9f923116cd9",
             "path": "05 Variety/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.ogg"
         },
@@ -15958,16 +15948,6 @@
         },
         {
             "type": "blob",
-            "hash": "21c42485f1ea0ff94fd42530ff32ff114679d061",
-            "path": "05 Variety/Naoki Hanzawa no Uta ～Title Theme～/Naoki Hanzawa no Uta Title Theme.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "7a8f2c4276e612df32dc4901cb7c1e93c45504fa",
-            "path": "05 Variety/Naoki Hanzawa no Uta ～Title Theme～/Naoki Hanzawa no Uta Title Theme.tja"
-        },
-        {
-            "type": "blob",
             "hash": "26961902e0e863882f52ed235abff43105483864",
             "path": "05 Variety/NeGa PoSi Love Call/NeGa PoSi Love Call.ogg"
         },
@@ -16318,6 +16298,16 @@
         },
         {
             "type": "blob",
+            "hash": "c9dc5f3a3fcccf2ec2abd8c880ac0dec7ceb2be6",
+            "path": "05 Variety/Theme of Naoki Hanzawa ~Main Title~/Theme of Naoki Hanzawa Main Title.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "958c8ee7420e6966968a1d8863e0c6a3305c3f92",
+            "path": "05 Variety/Theme of Naoki Hanzawa ~Main Title~/Theme of Naoki Hanzawa Main Title.tja"
+        },
+        {
+            "type": "blob",
             "hash": "ea80f709a3354d215aa32f73c87dfb019581bebf",
             "path": "05 Variety/Tsuki ni Murakumo Hana ni Kaze/Tsuki ni Murakumo Hana ni Kaze.ogg"
         },
@@ -16450,6 +16440,16 @@
             "type": "blob",
             "hash": "2ba84b50100b4f8ba81ae45c62a3676dcb5ad22c",
             "path": "05 Variety/thousand words/thousand words.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9bc2d1a7c24edda09ca3c0d8cb44b21ae493c6ac",
+            "path": "05 Variety/twinkle night (feat. somunia)/twinkle night (feat. somunia).ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1f34232913122257f197b4073e5b1f838a59c992",
+            "path": "05 Variety/twinkle night (feat. somunia)/twinkle night (feat. somunia).tja"
         },
         {
             "type": "blob",
@@ -33284,23 +33284,6 @@
             }
         },
         {
-            "path": "01 Pop/Connected World/Connected World.tja",
-            "title": {
-                "en": "Connected World"
-            },
-            "subtitle": {
-                "en": "somunia"
-            },
-            "category": "Pop",
-            "offset": -0.003,
-            "courses": {
-                "Oni": 8,
-                "Hard": 5,
-                "Normal": 5,
-                "Easy": 4
-            }
-        },
-        {
             "path": "01 Pop/D-Zettai! SAMURAI in the Rain/D-Zettai! SAMURAI in the Rain.tja",
             "title": {
                 "en": "D-Zettai! SAMURAI in the Rain",
@@ -33894,10 +33877,12 @@
         {
             "path": "01 Pop/Du Jia Kuai Le/Du Jia Kuai Le.tja",
             "title": {
-                "en": "Du Jia Kuai Le"
+                "en": "Du Jia Kuai Le",
+                "ja": "獨家快樂"
             },
             "subtitle": {
-                "en": "Genie Chuo"
+                "en": "Genie Chuo",
+                "ja": "卓文萱"
             },
             "category": "Pop",
             "offset": -1.766,
@@ -40283,11 +40268,10 @@
             "path": "01 Pop/Sakura (Ketsumeishi)/Sakura.tja",
             "title": {
                 "en": "Sakura",
-                "ja": "桜"
+                "ja": "さくら"
             },
             "subtitle": {
-                "en": "Ketsumeishi",
-                "ja": "東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi"
+                "en": "Ketsumeishi"
             },
             "category": "Pop",
             "offset": -2.32,
@@ -40306,7 +40290,7 @@
             },
             "subtitle": {
                 "en": "Kobukuro/Ns’Aoi",
-                "ja": "東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -6.797,
@@ -41511,7 +41495,7 @@
             },
             "subtitle": {
                 "en": "S.H.E.",
-                "ja": "「スーパーマリオ オデッセイ」より"
+                "ja": "S.H.E."
             },
             "category": "Pop",
             "offset": -4.116,
@@ -42286,7 +42270,7 @@
             },
             "subtitle": {
                 "en": "Kobukuro",
-                "ja": "「アイドルマスター シンデレラガールズ」より"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -3.587,
@@ -42580,7 +42564,7 @@
                 "ja": "Ado"
             },
             "category": "Pop",
-            "offset": -0.393,
+            "offset": -1.089,
             "courses": {
                 "Oni": 8,
                 "Hard": 3,
@@ -43151,7 +43135,8 @@
                 "ja": "越來越愛"
             },
             "subtitle": {
-                "en": "Fahrenheit/To Get Her"
+                "en": "Fahrenheit/To Get Her",
+                "ja": "飛輪海"
             },
             "category": "Pop",
             "offset": -1.616,
@@ -43691,25 +43676,6 @@
                 "Hard": 4,
                 "Normal": 3,
                 "Easy": 4
-            }
-        },
-        {
-            "path": "01 Pop/twinkle night/twinkle night.tja",
-            "title": {
-                "en": "twinkle night",
-                "ja": "twinkle night (feat. somunia)"
-            },
-            "subtitle": {
-                "en": "nyankobrq & yaca feat. somunia"
-            },
-            "category": "Pop",
-            "offset": -1.37,
-            "courses": {
-                "Edit": 9,
-                "Oni": 7,
-                "Hard": 5,
-                "Normal": 4,
-                "Easy": 3
             }
         },
         {
@@ -53924,7 +53890,7 @@
             },
             "subtitle": {
                 "en": "ketchup mania/IDATEN JUMP",
-                "ja": "原曲:livetune feat.初音ミク"
+                "ja": "「韋駄天翔」より"
             },
             "category": "Anime",
             "offset": -1.402,
@@ -56444,7 +56410,7 @@
                 "ja": "キノシタ feat. 鏡音リン"
             },
             "category": "Vocaloid",
-            "offset": -0.668,
+            "offset": -1.11,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -56463,7 +56429,7 @@
                 "ja": "Omoi feat.初音ミク"
             },
             "category": "Vocaloid",
-            "offset": -2.504,
+            "offset": -2.752,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -59514,6 +59480,25 @@
             }
         },
         {
+            "path": "05 Variety/Connected World/Connected World.tja",
+            "title": {
+                "en": "Connected World",
+                "ja": "Connected World"
+            },
+            "subtitle": {
+                "en": "somunia",
+                "ja": "somunia"
+            },
+            "category": "Variety",
+            "offset": -1.34,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "05 Variety/CoroCoro Comic 40th Anniversary Song/CoroCoro Comic 40th Anniversary Song.tja",
             "title": {
                 "en": "CoroCoro Comic 40th Anniversary Song",
@@ -60872,24 +60857,6 @@
             }
         },
         {
-            "path": "05 Variety/Naoki Hanzawa no Uta ～Title Theme～/Naoki Hanzawa no Uta Title Theme.tja",
-            "title": {
-                "en": "Naoki Hanzawa no Uta ～Title Theme～",
-                "ja": "テーマ・オブ・半沢直樹 ～Main Title～"
-            },
-            "subtitle": {
-                "en": "Takayuki Hattori/Naoki Hanzawa"
-            },
-            "category": "Variety",
-            "offset": -0.492,
-            "courses": {
-                "Oni": 8,
-                "Hard": 2,
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "05 Variety/NeGa PoSi Love Call/NeGa PoSi Love Call.tja",
             "title": {
                 "en": "NeGa/PoSi*Love/Call",
@@ -61540,6 +61507,25 @@
             }
         },
         {
+            "path": "05 Variety/Theme of Naoki Hanzawa ~Main Title~/Theme of Naoki Hanzawa Main Title.tja",
+            "title": {
+                "en": "Theme of Naoki Hanzawa ~Main Title~",
+                "ja": "テーマ・オブ・半沢直樹 ～Main Title～"
+            },
+            "subtitle": {
+                "en": "Takayuki Hattori/Naoki Hanzawa",
+                "ja": "TBS系日曜劇場「半沢直樹」より"
+            },
+            "category": "Variety",
+            "offset": -3.571,
+            "courses": {
+                "Oni": 8,
+                "Hard": 2,
+                "Normal": 2,
+                "Easy": 1
+            }
+        },
+        {
             "path": "05 Variety/Tsuki ni Murakumo Hana ni Kaze/Tsuki ni Murakumo Hana ni Kaze.tja",
             "title": {
                 "en": "Tsuki ni Murakumo Hana ni Kaze",
@@ -61781,6 +61767,26 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "05 Variety/twinkle night (feat. somunia)/twinkle night (feat. somunia).tja",
+            "title": {
+                "en": "twinkle night (feat. somunia)",
+                "ja": "twinkle night (feat. somunia)"
+            },
+            "subtitle": {
+                "en": "nyankobrq & yaca",
+                "ja": "nyankobrq & yaca"
+            },
+            "category": "Variety",
+            "offset": -1.646,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
