@@ -1,5 +1,5 @@
 {
-    "commit": "d0051d8de243b26f73a99c08ca0a3cb9f455baeb",
+    "commit": "151cc75bf522462b5d4a7294d2ce160de557ac79",
     "blobs": [
         {
             "type": "blob",
@@ -5958,7 +5958,7 @@
         },
         {
             "type": "blob",
-            "hash": "59390950ce4478ce404c62f2f6fbeeb1847b8006",
+            "hash": "27a5253f3913003995cbfb3713b436dc82dc39c7",
             "path": "01 Pop/Tsukiiro Chainon/Tsukiiro Chainon.tja"
         },
         {
@@ -14373,23 +14373,28 @@
         },
         {
             "type": "blob",
-            "hash": "e47639c4846a165c1879c2c39d6b691c08862410",
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio-.ogg"
+            "hash": "f74b37bfbe0b0d0174355afa8e2347ea2c1b1b5c",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san (Sou-uchi).tja"
         },
         {
             "type": "blob",
-            "hash": "c3264f7ccedb32a7d285a1bdb5418468825bc2b7",
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio-.tja"
+            "hash": "e47639c4846a165c1879c2c39d6b691c08862410",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "39b2d386c9433ed25b3f44c792a7f43a4b2e580d",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio Chart-.tja"
         },
         {
             "type": "blob",
             "hash": "790dd61e3ca46b0c99195e6d89b63a69f207f065",
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio-.ogg"
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio Chart-.ogg"
         },
         {
             "type": "blob",
-            "hash": "b26fd6ebfbe565a87381cbec2e6aac1e566332d8",
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio-.tja"
+            "hash": "11508d2ee832159f95ee1100e9491651e373d8c9",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio Chart-.tja"
         },
         {
             "type": "blob",
@@ -19793,12 +19798,12 @@
         },
         {
             "type": "blob",
-            "hash": "b251a699c8d9369504721f2057b64a6ef4a23213",
+            "hash": "140cf1d834cc7e3e68aed0afa6eb035b9b02181f",
             "path": "07 Game Music/Nandodemo Waraou/Nandodemo Waraou.ogg"
         },
         {
             "type": "blob",
-            "hash": "8d77b2078c81117bc160ef882e395f326b5eb19f",
+            "hash": "9462b34099cfc82365ad2939c4437c92fb1e9e98",
             "path": "07 Game Music/Nandodemo Waraou/Nandodemo Waraou.tja"
         },
         {
@@ -23648,12 +23653,12 @@
         },
         {
             "type": "blob",
-            "hash": "1474ef4cbbd1b7e942a1a43e3b7a38b7e1ba47f6",
+            "hash": "231cda7a06bb33eba07fb80015eca9fdd2ea4dba",
             "path": "09 Namco Original/Central Dogma Part 2/Central Dogma Part 2.ogg"
         },
         {
             "type": "blob",
-            "hash": "58a0dca346068f93841298f99068174f1bf95b85",
+            "hash": "c25258de2902c2b1ee339873bfedfab97629c692",
             "path": "09 Namco Original/Central Dogma Part 2/Central Dogma Part 2.tja"
         },
         {
@@ -27288,7 +27293,7 @@
         },
         {
             "type": "blob",
-            "hash": "27f42da5cda41e0aef58aa70c2ccb65f942c82b7",
+            "hash": "883d0c2ddc239b706d30bb4ca12ec4bae5dce139",
             "path": "09 Namco Original/Parallel Lollipop/Parallel Lollipop.tja"
         },
         {
@@ -28158,13 +28163,13 @@
         },
         {
             "type": "blob",
-            "hash": "2a7e883417a4a6f978239ea2f02e3229c44c0964",
-            "path": "09 Namco Original/Shouyou de Show You!/Shouyou de Show You!.ogg"
+            "hash": "e160c55a62dd8263f2486ab0869eef29e2170146",
+            "path": "09 Namco Original/Shouyu de Show You!/Shouyu de Show You!.ogg"
         },
         {
             "type": "blob",
-            "hash": "b9888be36a58ff46b8135cc356986f07e2a3d8e7",
-            "path": "09 Namco Original/Shouyou de Show You!/Shouyou de Show You!.tja"
+            "hash": "ce72bc3b6d02ba5be86114a6eb1aab5a2044876a",
+            "path": "09 Namco Original/Shouyu de Show You!/Shouyu de Show You!.tja"
         },
         {
             "type": "blob",
@@ -42348,7 +42353,7 @@
                 "ja": "ももいろクローバーZ 劇場版「美少女戦士セーラームーンEternal」より"
             },
             "category": "Pop",
-            "offset": -7.886,
+            "offset": -2.254,
             "courses": {
                 "Oni": 7,
                 "Hard": 6,
@@ -58015,13 +58020,33 @@
             }
         },
         {
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio-.tja",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san (Sou-uchi).tja",
             "title": {
-                "en": "Mori no Kuma-san -New Audio-",
-                "ja": "もりのくまさん"
+                "en": "[Sou-uchi] Mori no Kuma-san",
+                "ja": "【双打】 もりのくまさん"
             },
             "subtitle": {
                 "en": "Baba Yoshihiro"
+            },
+            "category": "Children and Folk",
+            "offset": -5.053,
+            "courses": {
+                "Edit": 8,
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -New Audio Chart-.tja",
+            "title": {
+                "en": "Mori no Kuma-san -New Audio/Chart-",
+                "ja": "もりのくまさん"
+            },
+            "subtitle": {
+                "en": "Baba Yoshihiro",
+                "ja": "新音源・譜面"
             },
             "category": "Children and Folk",
             "offset": -5.053,
@@ -58034,18 +58059,18 @@
             }
         },
         {
-            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio-.tja",
+            "path": "04 Children and Folk/Mori no Kuma-san/Mori no Kuma-san -Old Audio Chart-.tja",
             "title": {
-                "en": "Mori no Kuma-san -Old Audio-",
+                "en": "Mori no Kuma-san -Old Audio/Chart-",
                 "ja": "もりのくまさん"
             },
             "subtitle": {
-                "en": "Baba Yoshihiro"
+                "en": "Baba Yoshihiro",
+                "ja": "旧音源・譜面"
             },
             "category": "Children and Folk",
-            "offset": -4.82,
+            "offset": -4.822,
             "courses": {
-                "Edit": 9,
                 "Oni": 1,
                 "Hard": 1,
                 "Normal": 1,
@@ -68238,11 +68263,11 @@
                 "ja": "なんどでも笑おう"
             },
             "subtitle": {
-                "en": "THE iDOLM@STER FIVE STARS❣/THE iDOLM@STER",
+                "en": "THE IDOLM@STER FIVE STARS!!!!!/THE iDOLM@STER",
                 "ja": "THE IDOLM@STER FIVE STARS!!!!!"
             },
             "category": "Game Music",
-            "offset": -2,
+            "offset": -1.38,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -73616,7 +73641,7 @@
         {
             "path": "09 Namco Original/Central Dogma Part 2/Central Dogma Part 2.tja",
             "title": {
-                "en": "Central Dogma Part.2",
+                "en": "Central Dogma Pt.2",
                 "ja": "Central Dogma Pt.2"
             },
             "subtitle": {
@@ -73624,7 +73649,7 @@
                 "ja": "黒沢ダイスケ"
             },
             "category": "Namco Original",
-            "offset": -0.07,
+            "offset": -0.965,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -80532,16 +80557,16 @@
                 "ja": "パラレルロリポップ"
             },
             "subtitle": {
-                "en": "Sho Okada -Taiko de Taiko Travel： 2010’s-",
-                "ja": "太鼓 de タイムトラベル10's / Sho Okada"
+                "en": "Taiko de Time Travel 10's / Sho Okada(BNSI)",
+                "ja": "太鼓 de タイムトラベル10's / Sho Okada(BNSI)"
             },
             "category": "Namco Original",
             "offset": -1.617,
             "courses": {
-                "0": 4,
-                "1": 6,
                 "Oni": 9,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -82189,17 +82214,17 @@
             }
         },
         {
-            "path": "09 Namco Original/Shouyou de Show You!/Shouyou de Show You!.tja",
+            "path": "09 Namco Original/Shouyu de Show You!/Shouyu de Show You!.tja",
             "title": {
-                "en": "Shouyou de Show You!",
+                "en": "SHOUYU de Show you!",
                 "ja": "しょうゆ de Show you!"
             },
             "subtitle": {
-                "en": "Yoshihito Yano (BNSI) feat. Steμ & Funadi",
-                "ja": "BNSI（矢野義人） feat.steμ&フナディ"
+                "en": "Yoshihito Yano (BNSI) feat. Steμ & Funa-D",
+                "ja": "矢野義人(BNSI) feat. steμ&フナディ"
             },
             "category": "Namco Original",
-            "offset": -0.015,
+            "offset": -1.469,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
