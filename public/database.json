@@ -1,5 +1,5 @@
 {
-    "commit": "151cc75bf522462b5d4a7294d2ce160de557ac79",
+    "commit": "592991cf999fafd3e2517fcd8cb217e4d4853f33",
     "blobs": [
         {
             "type": "blob",
@@ -4303,7 +4303,7 @@
         },
         {
             "type": "blob",
-            "hash": "cc0baba66138767492b33fb070f0dadf758f8fdf",
+            "hash": "0c02e6661b17595a724476e7e85da8269b4c3a76",
             "path": "01 Pop/Paradise Ginga/Paradise Ginga.tja"
         },
         {
@@ -4343,7 +4343,7 @@
         },
         {
             "type": "blob",
-            "hash": "3c1f8119c8a516a74c5395b800ce2dea3d50cb1b",
+            "hash": "4c7e5083637b3ff65a12fdac4b83379a12cbb213",
             "path": "01 Pop/Plumeria ～Hana Uta～/Plumeria Hana Uta.tja"
         },
         {
@@ -10908,7 +10908,7 @@
         },
         {
             "type": "blob",
-            "hash": "efca4b0bed9af6a1fcea77708de565ba5b6c9947",
+            "hash": "9c6027824d303d671b4fdf0207a0388a558db650",
             "path": "02 Anime/Samurai Sentai Shinkenger/Samurai Sentai Shinkenger.tja"
         },
         {
@@ -25598,7 +25598,7 @@
         },
         {
             "type": "blob",
-            "hash": "8aaf188152bbb99f1a071fccfa61db868aba4c3d",
+            "hash": "ecfaa8be722f2f36d12b07f957ba04ffd3e80c22",
             "path": "09 Namco Original/Joubutsu 2000/Joubutsu 2000.tja"
         },
         {
@@ -39422,10 +39422,11 @@
             "path": "01 Pop/Plumeria ～Hana Uta～/Plumeria Hana Uta.tja",
             "title": {
                 "en": "Plumeria ～Hana Uta～",
-                "ja": "TITLE:プルメリア～花唄～"
+                "ja": "プルメリア～花唄～"
             },
             "subtitle": {
-                "en": "Aqua Timez/Gokusen THE MOVIE"
+                "en": "Aqua Timez/Gokusen THE MOVIE",
+                "ja": "映画「ごくせん THE MOVIE」より"
             },
             "category": "Pop",
             "offset": -2.387,
@@ -51627,7 +51628,8 @@
                 "ja": "侍戦隊シンケンジャー"
             },
             "subtitle": {
-                "en": "PSYCHIC LOVER/Samurai Sentai Shinkenger"
+                "en": "PSYCHIC LOVER/Samurai Sentai Shinkenger",
+                "ja": " "
             },
             "category": "Anime",
             "offset": -1.685,
@@ -77299,10 +77301,11 @@
                 "ja": "万戈イム－一ノ十"
             },
             "subtitle": {
-                "en": "Linda AI-CUE feat. Shoko"
+                "en": "Linda AI-CUE feat. Shoko",
+                "ja": " "
             },
             "category": "Namco Original",
-            "offset": -2.3,
+            "offset": -2.295,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
