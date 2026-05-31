@@ -1,5 +1,5 @@
 {
-    "commit": "50cf5499cdd3f848fa97770905c1358bd7896b13",
+    "commit": "1d516eed6f529a1732ece1365ae36b28dc67e165",
     "blobs": [
         {
             "type": "blob",
@@ -1043,7 +1043,7 @@
         },
         {
             "type": "blob",
-            "hash": "683cf18051da6899b70029bb035286d1b0044f3b",
+            "hash": "51dfa519c1da4cc59ff46a22eb06745b304c5bb4",
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.tja"
         },
         {
@@ -2633,7 +2633,7 @@
         },
         {
             "type": "blob",
-            "hash": "1e19070ed8ad2de4bc3f29cd62384b0893802b1f",
+            "hash": "a7c979b607f372b94728b067739cbe5eed84e288",
             "path": "01 Pop/Kawaikute Gomen/Kawaikute Gomen.tja"
         },
         {
@@ -6638,12 +6638,12 @@
         },
         {
             "type": "blob",
-            "hash": "045cdbd215ce2445afb78ba89515f266f3dc2daf",
+            "hash": "7afc9959784db536ed5595fe56f6ec27140bf4bd",
             "path": "01 Pop/bad guy/bad guy.ogg"
         },
         {
             "type": "blob",
-            "hash": "9145a6b8658eb41aa80bff41ab6bbbcef90a5e8f",
+            "hash": "20df68bfced7b771b69ce63dcf867b9986fa1276",
             "path": "01 Pop/bad guy/bad guy.tja"
         },
         {
@@ -12708,6 +12708,16 @@
         },
         {
             "type": "blob",
+            "hash": "9d8b97b79f46bbcc0889e2e4388b22f4d90a2718",
+            "path": "03 Vocaloid/Ego Rock/Ego Rock.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7fd7a85654e8d239c9544a8ac11d703f6d2ccc03",
+            "path": "03 Vocaloid/Ego Rock/Ego Rock.tja"
+        },
+        {
+            "type": "blob",
             "hash": "674e45252a54a234bc61091279a16f6a51093e61",
             "path": "03 Vocaloid/Enmei Chiryou/Enmei Chiryou.ogg"
         },
@@ -15193,12 +15203,12 @@
         },
         {
             "type": "blob",
-            "hash": "623c7be5e8a46260f1e14ca4264a2abc61b9d8f1",
+            "hash": "fd64f75e61a733cf7208427ad3f8be6f62104548",
             "path": "05 Variety/BATTLE NO. 1/BATTLE NO. 1.ogg"
         },
         {
             "type": "blob",
-            "hash": "47e233361592e6a9cd52070223e5ab3ee2c97ac0",
+            "hash": "62030ab103f50592ca51b9e4e47d8ffe6f8165bc",
             "path": "05 Variety/BATTLE NO. 1/BATTLE NO. 1.tja"
         },
         {
@@ -27838,6 +27848,16 @@
         },
         {
             "type": "blob",
+            "hash": "0a71a3da8784002748b21bc9cb5e3f3f7d321ea6",
+            "path": "09 Namco Original/Rough CHA0Z/Rough CHA0Z.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f1a8709c12ab57dd39a9193caad0f5ddb08e17c3",
+            "path": "09 Namco Original/Rough CHA0Z/Rough CHA0Z.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a5fe2bdd530b60b118571800ad986cc6b3c55d35",
             "path": "09 Namco Original/Rumble Ranbu/Rumble Ranbu.ogg"
         },
@@ -28053,7 +28073,7 @@
         },
         {
             "type": "blob",
-            "hash": "f946ddf02503603818b0859ccc28478e314f79ee",
+            "hash": "b7ededfc1153224b04202d8a898ad2c68addb35f",
             "path": "09 Namco Original/Saitama 2001/Saitama 2001.ogg"
         },
         {
@@ -33601,13 +33621,12 @@
         {
             "path": "01 Pop/DDU-DU DDU-DU/DDU-DU DDU-DU.tja",
             "title": {
-                "en": "DDU-DU DDU-DU"
+                "en": "DDU-DU DDU-DU",
+                "ja": "DDU-DU DDU-DU"
             },
-            "subtitle": {
-                "en": "BLΛƆKPIИK"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -1.927,
+            "offset": -1.866,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -36536,6 +36555,7 @@
             "category": "Pop",
             "offset": -1.401,
             "courses": {
+                "Edit": 9,
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 4,
@@ -43845,13 +43865,12 @@
         {
             "path": "01 Pop/bad guy/bad guy.tja",
             "title": {
-                "en": "bad guy"
+                "en": "bad guy",
+                "ja": "bad guy"
             },
-            "subtitle": {
-                "en": "Billie Eilish"
-            },
+            "subtitle": {},
             "category": "Pop",
-            "offset": -1.812,
+            "offset": -2.177,
             "courses": {
                 "Oni": 7,
                 "Hard": 6,
@@ -55260,6 +55279,25 @@
             }
         },
         {
+            "path": "03 Vocaloid/Ego Rock/Ego Rock.tja",
+            "title": {
+                "en": "Ego Rock",
+                "ja": "エゴロック"
+            },
+            "subtitle": {
+                "en": "THREEE feat. Kagamine Len",
+                "ja": "すりぃ feat. 鏡音レン"
+            },
+            "category": "Vocaloid",
+            "offset": -1,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "03 Vocaloid/Enmei Chiryou/Enmei Chiryou.tja",
             "title": {
                 "en": "Enmei Chiryou",
@@ -59709,7 +59747,7 @@
                 "ja": "TANO*C Sound Team"
             },
             "category": "Variety",
-            "offset": -1.629,
+            "offset": -1,
             "courses": {
                 "Oni": 10,
                 "Hard": 6,
@@ -81829,6 +81867,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "09 Namco Original/Rough CHA0Z/Rough CHA0Z.tja",
+            "title": {
+                "en": "Rough: CHA0Z",
+                "ja": "Rough: CHA0Z"
+            },
+            "subtitle": {
+                "en": "Nothing But Requiem",
+                "ja": "Nothing But Requiem"
+            },
+            "category": "Namco Original",
+            "offset": -10.241,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
             }
         },
         {
