@@ -1,5 +1,5 @@
 {
-    "commit": "1d516eed6f529a1732ece1365ae36b28dc67e165",
+    "commit": "a47ac9fde9e19ebf2e07d6448e345effd1445b97",
     "blobs": [
         {
             "type": "blob",
@@ -1093,7 +1093,7 @@
         },
         {
             "type": "blob",
-            "hash": "61e2361839c93acb3406f7715e73863a10365bbf",
+            "hash": "8354f0b8f01ebc04faa4e50e2a60928f42813b5c",
             "path": "01 Pop/Dairokkan/Dairokkan.tja"
         },
         {
@@ -4838,16 +4838,6 @@
         },
         {
             "type": "blob",
-            "hash": "24f9f7805bb38d4797b64c85a050d98a17e6ad9a",
-            "path": "01 Pop/Sakuranbo/Sakuranbo -New Audio-.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "45b82c712a9c04dee1c580afad5c74c8ea3e394d",
-            "path": "01 Pop/Sakuranbo/Sakuranbo -New Audio-.tja"
-        },
-        {
-            "type": "blob",
             "hash": "1728f5cb0c5fd92277a15111e6cfd3c1951a826f",
             "path": "01 Pop/Sakuranbo/Sakuranbo -Old Audio-.ogg"
         },
@@ -4855,6 +4845,26 @@
             "type": "blob",
             "hash": "1bf7cc7b93fa7e867952f4a83d0e6a3923ccccd4",
             "path": "01 Pop/Sakuranbo/Sakuranbo -Old Audio-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "24f9f7805bb38d4797b64c85a050d98a17e6ad9a",
+            "path": "01 Pop/Sakuranbo/Sakuranbo AC.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "efec3050fb2adbba64c7dd0b65e27431ccf0f3aa",
+            "path": "01 Pop/Sakuranbo/Sakuranbo AC.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "24f9f7805bb38d4797b64c85a050d98a17e6ad9a",
+            "path": "01 Pop/Sakuranbo/Sakuranbo DS1.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f4b33dd7758fe22a0b9d28c7cbc58e3da3edd5b3",
+            "path": "01 Pop/Sakuranbo/Sakuranbo DS1.tja"
         },
         {
             "type": "blob",
@@ -6968,7 +6978,7 @@
         },
         {
             "type": "blob",
-            "hash": "39369ae3fe8f4a9cda74e79b5ec55fb8823a8fe8",
+            "hash": "6786bd710386109597beb6aadd85a30395f531be",
             "path": "02 Anime/Angelic Angel/Angelic Angel.tja"
         },
         {
@@ -11798,7 +11808,7 @@
         },
         {
             "type": "blob",
-            "hash": "a7396024656ca031ea19b215077f98e5bc44d344",
+            "hash": "da8493e23f04742cc1b87531dd606da1b0512032",
             "path": "02 Anime/Umapyoi Densetsu/Umapyoi Densetsu.tja"
         },
         {
@@ -13053,7 +13063,7 @@
         },
         {
             "type": "blob",
-            "hash": "a07bb22abb00b183f723806ee809ad0497f1d3f5",
+            "hash": "753330d745fc7fbec9d5909fe34d025b512bd008",
             "path": "03 Vocaloid/Kaijuu Shoujo wa Hi o Fukanai/Kaijuu Shoujo wa Hi o Fukanai.tja"
         },
         {
@@ -13573,7 +13583,7 @@
         },
         {
             "type": "blob",
-            "hash": "d8d51e08ccc9531db1d1eab14014f8b037235270",
+            "hash": "7defce65bf79880d605ed39671268e4c86af589e",
             "path": "03 Vocaloid/Venom/Venom.tja"
         },
         {
@@ -17018,7 +17028,7 @@
         },
         {
             "type": "blob",
-            "hash": "ba7ef10913a05a056a3b43d7cd78c55bfa7ff659",
+            "hash": "7a7de230fc3a30ab51e3d8b4e434cdb7be498267",
             "path": "06 Classical/Minuet/Minuet.tja"
         },
         {
@@ -24013,6 +24023,16 @@
         },
         {
             "type": "blob",
+            "hash": "23df8f445b190232f68c352a9a23340c91d00af5",
+            "path": "09 Namco Original/DONKYO Likelihood/DONKYO Likelihood.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6f9d6f00aa5b9cb07450cd402038284f98005b75",
+            "path": "09 Namco Original/DONKYO Likelihood/DONKYO Likelihood.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b8325473880ec0fd518ed0c4852a7d0a92bba4b1",
             "path": "09 Namco Original/DONT CUT/DON’T CUT.ogg"
         },
@@ -24083,12 +24103,22 @@
         },
         {
             "type": "blob",
+            "hash": "421118fe5accb7295f8753344e43fe69cdb09dc0",
+            "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne -MV Version-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3cd6f0e90ab7c7707c85b67d7b7ebfa44828a27e",
+            "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne -MV Version-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "a31a87917b9a5b1a2a48e3ce079948175027fbfd",
             "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne.ogg"
         },
         {
             "type": "blob",
-            "hash": "dd179d7d9a3e56117b0d786eeeb4495b9249508d",
+            "hash": "b7b2f859cf49ae4cd26664cb5f3e85d33d18dad2",
             "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne.tja"
         },
         {
@@ -25745,6 +25775,16 @@
             "type": "blob",
             "hash": "ecfaa8be722f2f36d12b07f957ba04ffd3e80c22",
             "path": "09 Namco Original/Joubutsu 2000/Joubutsu 2000.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "fef5925ffb431158134fe34a05e0a9d361718e02",
+            "path": "09 Namco Original/KASSEI Likelihood/KASSEI Likelihood.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3b304041d225659a3be217fa445941c4d4c486f6",
+            "path": "09 Namco Original/KASSEI Likelihood/KASSEI Likelihood.tja"
         },
         {
             "type": "blob",
@@ -27463,7 +27503,7 @@
         },
         {
             "type": "blob",
-            "hash": "a947ea6a2875fa39bd8b032447cc48f8283f8f6c",
+            "hash": "168e507b350b8bcc557b8e549457e41d1c425805",
             "path": "09 Namco Original/Ouka Ranman/Ouka Ranman.tja"
         },
         {
@@ -28703,7 +28743,7 @@
         },
         {
             "type": "blob",
-            "hash": "0511624a9a8fc9f3dd0be60f280aad42f4d31bf4",
+            "hash": "c3c0c4c6c4604a3bc3d8267ccd7cd68ed96b27df",
             "path": "09 Namco Original/Taberuna 2000/Taberuna 2000.tja"
         },
         {
@@ -29578,7 +29618,7 @@
         },
         {
             "type": "blob",
-            "hash": "53820f40232d8679cbcd79a5066ee43984c3c956",
+            "hash": "a4298307806276406ba2f73e992c31338b8fc8a1",
             "path": "09 Namco Original/Yami no Mahou Shoujo/Yami no Mahou Shoujo.tja"
         },
         {
@@ -29828,7 +29868,7 @@
         },
         {
             "type": "blob",
-            "hash": "f78b5a02a90b9af66cac86e01a68981696c04f00",
+            "hash": "0a702fc6578cff744e338cfd38a1f0dce3b7ba94",
             "path": "09 Namco Original/Zero no Rhapsody/Zero no Rhapsody.tja"
         },
         {
@@ -33720,7 +33760,7 @@
                 "ja": "Reol"
             },
             "category": "Pop",
-            "offset": -1.866,
+            "offset": -1.863,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -40601,9 +40641,27 @@
             }
         },
         {
-            "path": "01 Pop/Sakuranbo/Sakuranbo -New Audio-.tja",
+            "path": "01 Pop/Sakuranbo/Sakuranbo -Old Audio-.tja",
             "title": {
-                "en": "Sakuranbo -New Audio-",
+                "en": "Sakuranbo -Old Audio-",
+                "ja": "さくらんぼ"
+            },
+            "subtitle": {
+                "en": "Ai Otsuka/COUNT DOWN TV"
+            },
+            "category": "Pop",
+            "offset": -7.118,
+            "courses": {
+                "Oni": 8,
+                "Hard": 4,
+                "Normal": 4,
+                "Easy": 4
+            }
+        },
+        {
+            "path": "01 Pop/Sakuranbo/Sakuranbo AC.tja",
+            "title": {
+                "en": "Sakuranbo AC Version",
                 "ja": "さくらんぼ"
             },
             "subtitle": {
@@ -40619,16 +40677,16 @@
             }
         },
         {
-            "path": "01 Pop/Sakuranbo/Sakuranbo -Old Audio-.tja",
+            "path": "01 Pop/Sakuranbo/Sakuranbo DS1.tja",
             "title": {
-                "en": "Sakuranbo -Old Audio-",
+                "en": "Sakuranbo DS1 Version",
                 "ja": "さくらんぼ"
             },
             "subtitle": {
                 "en": "Ai Otsuka/COUNT DOWN TV"
             },
             "category": "Pop",
-            "offset": -7.118,
+            "offset": -7.365,
             "courses": {
                 "Oni": 8,
                 "Hard": 4,
@@ -44471,7 +44529,7 @@
                 "ja": "μ's 映画「ラブライブ！The School Idol Movie」より"
             },
             "category": "Anime",
-            "offset": -2.508,
+            "offset": -1.765,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -53567,7 +53625,7 @@
                 "ja": "「ウマ娘 プリティーダービー」より"
             },
             "category": "Anime",
-            "offset": -0.518,
+            "offset": -0.566,
             "courses": {
                 "Edit": 9,
                 "Oni": 7,
@@ -56942,11 +57000,11 @@
         {
             "path": "03 Vocaloid/Venom/Venom.tja",
             "title": {
-                "en": "Venom(feat.flower)",
+                "en": "Venom (feat.flower)",
                 "ja": "ベノム（feat. flower）"
             },
             "subtitle": {
-                "en": "Kairiki Bear",
+                "en": "Kairiki bear",
                 "ja": "かいりきベア"
             },
             "category": "Vocaloid",
@@ -63148,9 +63206,7 @@
                 "en": "Minuet",
                 "ja": "メヌエット"
             },
-            "subtitle": {
-                "en": "Yuuji Masubuchi"
-            },
+            "subtitle": {},
             "category": "Classical",
             "offset": -2.015,
             "courses": {
@@ -74590,6 +74646,25 @@
             }
         },
         {
+            "path": "09 Namco Original/DONKYO Likelihood/DONKYO Likelihood.tja",
+            "title": {
+                "en": "DONKYO Likelihood",
+                "ja": "鈍響ライクリフド"
+            },
+            "subtitle": {
+                "en": "cosMo@Bousou-P vs Chiharu Kaneko",
+                "ja": "cosMo＠暴走P vs かねこちはる"
+            },
+            "category": "Namco Original",
+            "offset": -1.434,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/DONT CUT/DON’T CUT.tja",
             "title": {
                 "en": "DON’T CUT",
@@ -74722,13 +74797,29 @@
             }
         },
         {
+            "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne -MV Version-.tja",
+            "title": {
+                "en": "Daisuki na Taiko no Ne -MV Version-",
+                "ja": "大好きな太鼓の音"
+            },
+            "subtitle": {
+                "en": "Taiko No Tatsujin 20th Anniversary Song / Soshina feat. DON-chan",
+                "ja": "MV音源・譜面 太鼓の達人20周年記念ソング / 粗品 feat. どんちゃん"
+            },
+            "category": "Namco Original",
+            "offset": -1,
+            "courses": {
+                "Edit": 9
+            }
+        },
+        {
             "path": "09 Namco Original/Daisuki na Taiko no Ne/Daisuki na Taiko no Ne.tja",
             "title": {
                 "en": "Daisuki na Taiko no Ne",
                 "ja": "大好きな太鼓の音"
             },
             "subtitle": {
-                "en": "Soshina feat. Miki Narahashi",
+                "en": "Taiko No Tatsujin 20th Anniversary Song / Soshina feat. DON-chan",
                 "ja": "太鼓の達人20周年記念ソング / 粗品 feat. どんちゃん"
             },
             "category": "Namco Original",
@@ -77848,6 +77939,25 @@
             },
             "category": "Namco Original",
             "offset": -2.295,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/KASSEI Likelihood/KASSEI Likelihood.tja",
+            "title": {
+                "en": "KASSEI Likelihood",
+                "ja": "活声ライクリフド"
+            },
+            "subtitle": {
+                "en": "Chiharu Kaneko vs cosMo＠Bousou-P",
+                "ja": "かねこちはる vs cosMo＠暴走P"
+            },
+            "category": "Namco Original",
+            "offset": -1.185,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -83519,11 +83629,9 @@
                 "en": "Taberuna 2000",
                 "ja": "タベルナ2000"
             },
-            "subtitle": {
-                "en": "Linda AI-CUE"
-            },
+            "subtitle": {},
             "category": "Namco Original",
-            "offset": -1.504,
+            "offset": -1.502,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -85653,8 +85761,8 @@
                 "ja": "零の狂詩曲"
             },
             "subtitle": {
-                "en": "Kyo feat. Sariyajin",
-                "ja": " "
+                "en": "kyo(BNSI) feat. Sariyajin",
+                "ja": "kyo(BNSI) feat. サリヤ人"
             },
             "category": "Namco Original",
             "offset": -1.698,
