@@ -1,5 +1,5 @@
 {
-    "commit": "a47ac9fde9e19ebf2e07d6448e345effd1445b97",
+    "commit": "2a524ee0d961b252608b9ae59eea991cb8da45bb",
     "blobs": [
         {
             "type": "blob",
@@ -5853,6 +5853,16 @@
         },
         {
             "type": "blob",
+            "hash": "39014a2e6bfa66b2def2b724488555014d75ef7a",
+            "path": "01 Pop/Tokubechu Shite/Tokubechu Shite.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4359e66f7676eb4e36a45317d5f97ed256da5e11",
+            "path": "01 Pop/Tokubechu Shite/Tokubechu Shite.tja"
+        },
+        {
+            "type": "blob",
             "hash": "fe4d98fa351523e3b319bb718985fb8a4585e85a",
             "path": "01 Pop/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.ogg"
         },
@@ -6393,12 +6403,12 @@
         },
         {
             "type": "blob",
-            "hash": "ed3361ec54a24860a1edf3af8df5b08becc3100b",
+            "hash": "a908b945aaf4379df485e59385d40f4565dba4f5",
             "path": "01 Pop/YONA YONA DANCE/YONA YONA DANCE.ogg"
         },
         {
             "type": "blob",
-            "hash": "e2065c0597b0c380ca97fa8ca4b230d208241d16",
+            "hash": "ee7c26452407475b281294a1bd7e7b32237a67de",
             "path": "01 Pop/YONA YONA DANCE/YONA YONA DANCE.tja"
         },
         {
@@ -6923,12 +6933,12 @@
         },
         {
             "type": "blob",
-            "hash": "af851cb172c8168970dc601fc6dbb7e4f61eb170",
+            "hash": "44aa81bbc459a52b9be73a82ede2c5f781de2da3",
             "path": "02 Anime/Akeboshi/Akeboshi.ogg"
         },
         {
             "type": "blob",
-            "hash": "36586d14a515c34c45fccf0b334e37ccc5ba7643",
+            "hash": "d08a01cf4465a9ecf76609b50fdec6eabe6514bc",
             "path": "02 Anime/Akeboshi/Akeboshi.tja"
         },
         {
@@ -7233,12 +7243,12 @@
         },
         {
             "type": "blob",
-            "hash": "1a81f8dee8b44f8c95714d97ea2e6f8204598cb8",
+            "hash": "9618eee1ad86db8ce2b6396d11b5c8193d52fd60",
             "path": "02 Anime/Boku no Sensou/Boku no Sensou.ogg"
         },
         {
             "type": "blob",
-            "hash": "e3068fe4bdc22491e4a64dea232acbb177fd6c3c",
+            "hash": "4f23faf3924009d89e45d4038a40bfb0c36d4fed",
             "path": "02 Anime/Boku no Sensou/Boku no Sensou.tja"
         },
         {
@@ -8060,16 +8070,6 @@
             "type": "blob",
             "hash": "44e1c084833c7b87a901d0883df228ca4975be20",
             "path": "02 Anime/Fun! Fun! Fantasy/Fun! Fun! Fantasy.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "e8e8a5f4ade3a63aa1d854264e91cfcedde63657",
-            "path": "02 Anime/Fun! Fun! Fun! ～Yume∞～/Fun! Fun! Fun! Yume.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "3defcb85177cc149d1533f4fd9e1b882f685d1be",
-            "path": "02 Anime/Fun! Fun! Fun! ～Yume∞～/Fun! Fun! Fun! Yume.tja"
         },
         {
             "type": "blob",
@@ -12398,16 +12398,6 @@
         },
         {
             "type": "blob",
-            "hash": "97923164df134e9b177de2abd9850f83b837f25c",
-            "path": "02 Anime/liveDevil/liveDevil.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "07836e7ff3d0622a6a1f0967f06ea9d3a5efaef4",
-            "path": "02 Anime/liveDevil/liveDevil.tja"
-        },
-        {
-            "type": "blob",
             "hash": "e61f24269bb01be45492794e9a7777a4907988e4",
             "path": "02 Anime/only my railgun/only my railgun.ogg"
         },
@@ -13963,6 +13953,16 @@
         },
         {
             "type": "blob",
+            "hash": "f8427294890881d0dfbc2ef1615660a65e5ba40e",
+            "path": "04 Children and Folk/Fun! Fun! Fun! ～Yume∞～/Fun Fun Fun Yume Mugendai.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "78df5c5be93028fbd25e8539433719ac12d7a0a9",
+            "path": "04 Children and Folk/Fun! Fun! Fun! ～Yume∞～/Fun Fun Fun Yume Mugendai.tja"
+        },
+        {
+            "type": "blob",
             "hash": "59aa002b835eb8b6048a250b670ef70d315ef4d1",
             "path": "04 Children and Folk/GET BACK/GET BACK.ogg"
         },
@@ -15110,6 +15110,16 @@
             "type": "blob",
             "hash": "dd43ba254a982f1a246cb9799e1bf28928178200",
             "path": "04 Children and Folk/box.def"
+        },
+        {
+            "type": "blob",
+            "hash": "68ba28ea409e165ebaa7011a1ed212899c2c5c4c",
+            "path": "04 Children and Folk/liveDevil/liveDevil.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "632a8f6322b7213ad463db3e4bef5a73dc5263dd",
+            "path": "04 Children and Folk/liveDevil/liveDevil.tja"
         },
         {
             "type": "blob",
@@ -24198,7 +24208,7 @@
         },
         {
             "type": "blob",
-            "hash": "61a542ba48bb32c0aa10d6a6218bd75062dbbe44",
+            "hash": "374c12d5b7d3634902e4ad876a557af0e31af205",
             "path": "09 Namco Original/Day by Day!/Day by Day!.tja"
         },
         {
@@ -25893,7 +25903,7 @@
         },
         {
             "type": "blob",
-            "hash": "99f3a1260b6a9f53118aeab389be094557a4bbfb",
+            "hash": "31751cd4024a4d7762d17413993860ff861ef524",
             "path": "09 Namco Original/Kappa no Sara wa Konna ni mo/Kappa no Sara wa Konna ni mo.tja"
         },
         {
@@ -42470,6 +42480,22 @@
             }
         },
         {
+            "path": "01 Pop/Tokubechu Shite/Tokubechu Shite.tja",
+            "title": {
+                "en": "Tokubechu, Shite",
+                "ja": "とくべチュ、して"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.258,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Tokyo Shandy Rendezvous/Tokyo Shandy Rendezvous.tja",
             "title": {
                 "en": "Tokyo Shandy Rendezvous",
@@ -43456,7 +43482,7 @@
                 "ja": "和田アキ子"
             },
             "category": "Pop",
-            "offset": -0.455,
+            "offset": -1,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -44432,10 +44458,11 @@
                 "ja": "明け星"
             },
             "subtitle": {
-                "en": "LiSA/Kimetsu no Yaiba： Mugen Ressha"
+                "en": "LiSA/Kimetsu no Yaiba： Mugen Ressha",
+                "ja": " "
             },
             "category": "Anime",
-            "offset": -2.793,
+            "offset": -4.696,
             "courses": {
                 "Oni": 6,
                 "Hard": 5,
@@ -45015,7 +45042,7 @@
                 "ja": "「進撃の巨人 FinalSeason」より"
             },
             "category": "Anime",
-            "offset": -0.383,
+            "offset": -1.374,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -46565,24 +46592,6 @@
                 "Hard": 2,
                 "Normal": 2,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "02 Anime/Fun! Fun! Fun! ～Yume∞～/Fun! Fun! Fun! Yume.tja",
-            "title": {
-                "en": "Fun! Fun! Fun! ～Yume∞～",
-                "ja": "Fun!Fun!Fun! ～夢∞～"
-            },
-            "subtitle": {
-                "en": "Lucky²/Bittomo × Heroine Kirameki Powers!"
-            },
-            "category": "Anime",
-            "offset": -2.004,
-            "courses": {
-                "Oni": 6,
-                "Hard": 5,
-                "Normal": 3,
-                "Easy": 2
             }
         },
         {
@@ -54725,25 +54734,6 @@
             }
         },
         {
-            "path": "02 Anime/liveDevil/liveDevil.tja",
-            "title": {
-                "en": "liveDevil",
-                "ja": "liveDevil"
-            },
-            "subtitle": {
-                "en": "Da-iCE feat. Subaru Kimura/Kamen Rider Revice",
-                "ja": "「仮面ライダーリバイス」より"
-            },
-            "category": "Anime",
-            "offset": -2.27,
-            "courses": {
-                "Oni": 6,
-                "Hard": 5,
-                "Normal": 3,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/only my railgun/only my railgun.tja",
             "title": {
                 "en": "only my railgun",
@@ -57670,6 +57660,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/Fun! Fun! Fun! ～Yume∞～/Fun Fun Fun Yume Mugendai.tja",
+            "title": {
+                "en": "Fun! Fun! Fun! ～Yume∞～",
+                "ja": "Fun!Fun!Fun! ～夢∞～"
+            },
+            "subtitle": {
+                "en": "Lucky²/Bittomo × Heroine Kirameki Powers!",
+                "ja": "「ビッ友×戦士 キラメキパワーズ！」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.715,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "04 Children and Folk/GET BACK/GET BACK.tja",
             "title": {
                 "en": "GET BACK",
@@ -59601,6 +59610,25 @@
             "courses": {
                 "Hard": 2,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "04 Children and Folk/liveDevil/liveDevil.tja",
+            "title": {
+                "en": "liveDevil",
+                "ja": "liveDevil"
+            },
+            "subtitle": {
+                "en": "Da-iCE feat. Subaru Kimura/Kamen Rider Revice",
+                "ja": "「仮面ライダーリバイス」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.835,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
