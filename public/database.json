@@ -1,5 +1,5 @@
 {
-    "commit": "2a524ee0d961b252608b9ae59eea991cb8da45bb",
+    "commit": "a636de64b04b4c9cf67b350f10c37613c57c39cb",
     "blobs": [
         {
             "type": "blob",
@@ -5343,12 +5343,12 @@
         },
         {
             "type": "blob",
-            "hash": "2e13d5767f737676b3df10d8d18a754a80924c67",
+            "hash": "ecdeb974882d7f48b139b17bd990e4fcd0a0d184",
             "path": "01 Pop/Strawberry☆Planet!/Strawberry Planet!.ogg"
         },
         {
             "type": "blob",
-            "hash": "391c5e61d230908455b69ca522e486975bd52a8c",
+            "hash": "37333da415e78d7ad6d5de0c9bc5935268c7bade",
             "path": "01 Pop/Strawberry☆Planet!/Strawberry Planet!.tja"
         },
         {
@@ -5423,12 +5423,12 @@
         },
         {
             "type": "blob",
-            "hash": "011e4ca77f36fa14d0931c0fe30d2bf775abeb5c",
+            "hash": "d86ee481d1ea6a1fba001ddf4ca0d4e57e224749",
             "path": "01 Pop/Suki Suki Seijin/Suki Suki Seijin.ogg"
         },
         {
             "type": "blob",
-            "hash": "5a1e2329d1e0559354e58b5bb384638cde1454ff",
+            "hash": "aab0d154a424e26088e1f6941a3c8db6c8540bd2",
             "path": "01 Pop/Suki Suki Seijin/Suki Suki Seijin.tja"
         },
         {
@@ -12593,7 +12593,7 @@
         },
         {
             "type": "blob",
-            "hash": "fb2929a64512c84ddb06f76824f23667db90e8a2",
+            "hash": "dff2c09bda37b264c8bbc7d61df9cf6aa20f8a8a",
             "path": "03 Vocaloid/Cinderella/Cinderella.tja"
         },
         {
@@ -18798,6 +18798,16 @@
         },
         {
             "type": "blob",
+            "hash": "a74cc2eb25178cdad89dd58b0f9aa9fd4540bbf3",
+            "path": "07 Game Music/I am not Alice/I am not Alice.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7d42f07cbd6b343fdeafa560769277e692b23e04",
+            "path": "07 Game Music/I am not Alice/I am not Alice.tja"
+        },
+        {
+            "type": "blob",
             "hash": "125555030063cde6c2e5bf04ccaeef7674025dbd",
             "path": "07 Game Music/IDOL POWER RAINBOW/IDOL POWER RAINBOW.ogg"
         },
@@ -19703,12 +19713,12 @@
         },
         {
             "type": "blob",
-            "hash": "538d6bb7362a32985f84c68f8e36bc62212e7855",
+            "hash": "8ce1ff0a426e28a1a070c650c907b7b487f26b9f",
             "path": "07 Game Music/Misdeed -la bonte de Dieu et l’origine du mal-/Misdeed -la bonte de Dieu et lorigine du mal-.ogg"
         },
         {
             "type": "blob",
-            "hash": "2c052f26d9069f2487c12f24586febec8c607f35",
+            "hash": "39ff08232ad39f77af192ee69f95ea2514a3440c",
             "path": "07 Game Music/Misdeed -la bonte de Dieu et l’origine du mal-/Misdeed -la bonte de Dieu et lorigine du mal-.tja"
         },
         {
@@ -21458,6 +21468,16 @@
         },
         {
             "type": "blob",
+            "hash": "3c0e9b01b34da9e259c3df6df014065cc6ec53d1",
+            "path": "07 Game Music/Try!-Tough!-Tight!/Try!-Tough!-Tight!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "8047b50df6ddca4be5da64545b548e18700a0486",
+            "path": "07 Game Music/Try!-Tough!-Tight!/Try!-Tough!-Tight!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "07cb35ebb12fd6835388d4592d9525ca429d2b92",
             "path": "07 Game Music/Tsubasa Gravity/Tsubasa Gravity.ogg"
         },
@@ -21610,6 +21630,16 @@
             "type": "blob",
             "hash": "17247bb5edf904028a10269c93573877ce414e3e",
             "path": "07 Game Music/Wahoo Ondo/Wahoo Ondo.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "27ddb155f432535c8fbe3ebc3209cbfdfed96568",
+            "path": "07 Game Music/Walk with your smile/Walk with your smile.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "48f31e3bdcfa436e9aea901904ac493a4596f7c2",
+            "path": "07 Game Music/Walk with your smile/Walk with your smile.tja"
         },
         {
             "type": "blob",
@@ -23123,7 +23153,7 @@
         },
         {
             "type": "blob",
-            "hash": "5d7ba694ebe1a96199252c3da8a3d5a38f85f9e9",
+            "hash": "d7e65c033b612a97b6affb756e0fe87dc1e3cba6",
             "path": "09 Namco Original/Agent Hustle and Dr. Hassle/Agent Hustle and Dr. Hassle.tja"
         },
         {
@@ -24918,7 +24948,7 @@
         },
         {
             "type": "blob",
-            "hash": "4c80afd55318f02c456153d30cb1928a56d319d6",
+            "hash": "aa1a32292441684b69b85e6d9b07f8aea884b3a1",
             "path": "09 Namco Original/GO ON Mirai e/GO ON Mirai e.tja"
         },
         {
@@ -28263,7 +28293,7 @@
         },
         {
             "type": "blob",
-            "hash": "a2fb5199e93c46f636a07ab190d2a02ea53460f6",
+            "hash": "2b80dade911944654f027c3f008a3672dec41508",
             "path": "09 Namco Original/Senpuu no Mai [Earth]/Senpuu no Mai [Earth] (Anomaly).tja"
         },
         {
@@ -28475,6 +28505,11 @@
             "type": "blob",
             "hash": "da1da3fbb9ec67ae76d6d5f336cfbac96bcf4c54",
             "path": "09 Namco Original/Shugaku Travelers/Shugaku Travelers.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "8fe0c2355972558e39f468b8aa332a363b797129",
+            "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion (Sou-uchi) (Anomaly).tja"
         },
         {
             "type": "blob",
@@ -29018,7 +29053,7 @@
         },
         {
             "type": "blob",
-            "hash": "445642d4711b0f04d85c22ad502687e90eaebe50",
+            "hash": "7e8ca4382c3d118e65054dd2656af6d5d348b9b4",
             "path": "09 Namco Original/The Future of the Taiko Drum/The Future of the Taiko Drum.tja"
         },
         {
@@ -41573,7 +41608,7 @@
                 "ja": "ストロベリー☆プラネット！"
             },
             "subtitle": {
-                "en": "Strawberry Prince & NayutalieN",
+                "en": "Strawberry Prince / NayutalieN",
                 "ja": "すとぷり / ナユタン星人"
             },
             "category": "Pop",
@@ -41717,7 +41752,7 @@
                 "ja": "スキスキ星人"
             },
             "subtitle": {
-                "en": "Strawberry Prince & NayutalieN",
+                "en": "Strawberry Prince / NayutalieN",
                 "ja": "すとぷり / ナユタン星人"
             },
             "category": "Pop",
@@ -55105,7 +55140,7 @@
             },
             "subtitle": {
                 "en": "DECO*27 feat. Hatsune Miku",
-                "ja": "DECO*27 feat初音ミク"
+                "ja": "DECO*27 feat. 初音ミク"
             },
             "category": "Vocaloid",
             "offset": -0.427,
@@ -66623,6 +66658,25 @@
             }
         },
         {
+            "path": "07 Game Music/I am not Alice/I am not Alice.tja",
+            "title": {
+                "en": "I am not Alice.",
+                "ja": "I am not Alice."
+            },
+            "subtitle": {
+                "en": "Morimori Atsushi / Synchronica",
+                "ja": "モリモリあつし 「シンクロニカ」より"
+            },
+            "category": "Game Music",
+            "offset": -1.505,
+            "courses": {
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "07 Game Music/IDOL POWER RAINBOW/IDOL POWER RAINBOW.tja",
             "title": {
                 "en": "IDOL POWER RAINBOW",
@@ -68399,7 +68453,7 @@
                 "ja": "光吉猛修 VS 穴山大輔 「CHUNITHM」より"
             },
             "category": "Game Music",
-            "offset": -0.269,
+            "offset": -1,
             "courses": {
                 "Edit": 10,
                 "Oni": 9,
@@ -71721,6 +71775,26 @@
             }
         },
         {
+            "path": "07 Game Music/Try!-Tough!-Tight!/Try!-Tough!-Tight!.tja",
+            "title": {
+                "en": "Try!-Tough!-Tight!",
+                "ja": "Try!-Tough!-Tight!"
+            },
+            "subtitle": {
+                "en": "Tank! Tank! Tank!",
+                "ja": "「タンク！タンク！タンク！」より"
+            },
+            "category": "Game Music",
+            "offset": -1.103,
+            "courses": {
+                "Edit": 10,
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 4
+            }
+        },
+        {
             "path": "07 Game Music/Tsubasa Gravity/Tsubasa Gravity.tja",
             "title": {
                 "en": "Tsubasa Gravity",
@@ -72025,6 +72099,25 @@
                 "Hard": 6,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "07 Game Music/Walk with your smile/Walk with your smile.tja",
+            "title": {
+                "en": "Walk with your smile",
+                "ja": "Walk with your smile"
+            },
+            "subtitle": {
+                "en": "Ryusei-tai / Ensemble Stars!!",
+                "ja": "流星隊 「あんさんぶるスターズ！！」より"
+            },
+            "category": "Game Music",
+            "offset": -1.604,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -72941,14 +73034,14 @@
             "path": "09 Namco Original/Agent Hustle and Dr. Hassle/Agent Hustle and Dr. Hassle.tja",
             "title": {
                 "en": "Agent Hustle & Dr. Hassle",
-                "ja": "Agent Hustle ＆ Dr. Hassle"
+                "ja": "Agent Hustle & Dr. Hassle"
             },
             "subtitle": {
-                "en": "Cory Tarrow",
+                "en": "Cory Tarrow(BNSI)",
                 "ja": "Cory Tarrow(BNSI)"
             },
             "category": "Namco Original",
-            "offset": -1.239,
+            "offset": -1.253,
             "courses": {
                 "Edit": 9,
                 "Oni": 10,
@@ -76336,11 +76429,11 @@
         {
             "path": "09 Namco Original/GO ON Mirai e/GO ON Mirai e.tja",
             "title": {
-                "en": "GO ON ～Mirai e～",
+                "en": "GO ON ～Into the Future～",
                 "ja": "GO ON ～未来へ～ "
             },
             "subtitle": {
-                "en": "steμ",
+                "en": "Taiko de Time Travel 2022 / steμ(BNSI) respecting Time Travelers",
                 "ja": "太鼓 de タイムトラベル2022 / steμ(BNSI) respecting タイムトラベラーズ"
             },
             "category": "Namco Original",
@@ -83123,6 +83216,22 @@
             }
         },
         {
+            "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion (Sou-uchi) (Anomaly).tja",
+            "title": {
+                "en": "[Sou-uchi] Shunyuu ～happy excursion～ -Anomalous Chart-",
+                "ja": "【双打】 春遊"
+            },
+            "subtitle": {
+                "en": "ZZAN Shin-way",
+                "ja": "～happy excursion～ 「挑戦！闇のドンチャレ」異変譜面"
+            },
+            "category": "Namco Original",
+            "offset": -2.02,
+            "courses": {
+                "Oni": 6
+            }
+        },
+        {
             "path": "09 Namco Original/Shunyuu ～happy excursion～/Shunyuu happy excursion (Sou-uchi).tja",
             "title": {
                 "en": "[Sou-uchi] Shunyuu ～happy excursion～",
@@ -84177,11 +84286,11 @@
         {
             "path": "09 Namco Original/The Future of the Taiko Drum/The Future of the Taiko Drum.tja",
             "title": {
-                "en": "The Future of the Taiko Drum",
+                "en": "The Future of the TAIKO DRUM",
                 "ja": "The Future of the 太鼓ドラム"
             },
             "subtitle": {
-                "en": "Camellia",
+                "en": "Taiko de Time Travel 2765 / Camellia",
                 "ja": "太鼓 de タイムトラベル2765 / かめりあ"
             },
             "category": "Namco Original",
