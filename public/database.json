@@ -1,5 +1,5 @@
 {
-    "commit": "a636de64b04b4c9cf67b350f10c37613c57c39cb",
+    "commit": "462afb5eabbb5db721b1431bb6fbf2ea82ff7b0a",
     "blobs": [
         {
             "type": "blob",
@@ -28623,12 +28623,17 @@
         },
         {
             "type": "blob",
+            "hash": "4bfae3b86238dbc7f7e12c155b478f8387e7be2f",
+            "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi).tja"
+        },
+        {
+            "type": "blob",
             "hash": "a1af60e444e8d6fd3b3cef5b3bc67305bd097fbc",
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran.ogg"
         },
         {
             "type": "blob",
-            "hash": "571c7b4204765ed98e648af46c74f9ba54f2494b",
+            "hash": "9ed79a274c8b7fca0d9cbfbbfb3aac53a4b956a9",
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran.tja"
         },
         {
@@ -83459,6 +83464,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi).tja",
+            "title": {
+                "en": "[Sou-uchi] Souryuu no Ran",
+                "ja": "【双打】 双竜ノ乱"
+            },
+            "subtitle": {
+                "en": "Tatsh a.k.a. Zeami",
+                "ja": "世阿弥"
+            },
+            "category": "Namco Original",
+            "offset": -1.818,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran.tja",
             "title": {
                 "en": "Souryuu no Ran",
@@ -83471,7 +83495,6 @@
             "category": "Namco Original",
             "offset": -1.818,
             "courses": {
-                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 7,
