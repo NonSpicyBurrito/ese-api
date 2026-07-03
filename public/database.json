@@ -1,5 +1,5 @@
 {
-    "commit": "462afb5eabbb5db721b1431bb6fbf2ea82ff7b0a",
+    "commit": "4e755d0a0e0aeb7e205253368bcf291afd487097",
     "blobs": [
         {
             "type": "blob",
@@ -2333,7 +2333,7 @@
         },
         {
             "type": "blob",
-            "hash": "691ce3cca1f97105e9f4b488d042377d9a25bef3",
+            "hash": "65bf147ba814a0fa02e73fa07fda284fdfe2e13a",
             "path": "01 Pop/Ima/Ima.tja"
         },
         {
@@ -4323,7 +4323,7 @@
         },
         {
             "type": "blob",
-            "hash": "9406d867e30de6ac798df1f85134202f812da7c4",
+            "hash": "50b32092641dea79503200b319f67898218763e5",
             "path": "01 Pop/Peace Sign/Peace Sign.tja"
         },
         {
@@ -4413,7 +4413,7 @@
         },
         {
             "type": "blob",
-            "hash": "e1af1a64282fa39d8ac6d7e58035e9fd68ab65a5",
+            "hash": "80ead7b9b913f7bd9ebf16707d66fd3dd8966f14",
             "path": "01 Pop/Pretender/Pretender.tja"
         },
         {
@@ -10938,7 +10938,7 @@
         },
         {
             "type": "blob",
-            "hash": "4bdc8b29b79239918ccac7db6ac550ad5d18b008",
+            "hash": "605d2893a9d9ef40e92c82d4dcfab8a3b8a1b657",
             "path": "02 Anime/Sacrifice/Sacrifice.tja"
         },
         {
@@ -13333,7 +13333,7 @@
         },
         {
             "type": "blob",
-            "hash": "01748c632e41533a81e427abeb9dd5c495b4ee3f",
+            "hash": "8a006d441db9f0de091dd34c3521c48d87797b2b",
             "path": "03 Vocaloid/Otome Kaibou/Otome Kaibou.tja"
         },
         {
@@ -13998,7 +13998,7 @@
         },
         {
             "type": "blob",
-            "hash": "869156c2692df80f614afce7f0c69dd448c11789",
+            "hash": "34f889b9b695d78263f254c2762f81e37d80586b",
             "path": "04 Children and Folk/HIMAWARI HAPPY/HIMAWARI HAPPY.tja"
         },
         {
@@ -14098,7 +14098,7 @@
         },
         {
             "type": "blob",
-            "hash": "39ec78cff5c17d9a836302d1872d50e9428e7f3c",
+            "hash": "fcb413912d5463831d781ca29adf4e8c1354ea7b",
             "path": "04 Children and Folk/Hitorigotsu Band Ver/Hitorigotsu Band Ver.tja"
         },
         {
@@ -23508,7 +23508,7 @@
         },
         {
             "type": "blob",
-            "hash": "88df918ca704946eab6e08e299dbdeb3b62701d6",
+            "hash": "93c40af63eeac31b4b7282302d81fbcd02790689",
             "path": "09 Namco Original/Bakumatsu Ishintan/Bakumatsu Ishintan.tja"
         },
         {
@@ -26713,7 +26713,7 @@
         },
         {
             "type": "blob",
-            "hash": "f0e327786023ebf326ddca066634c49d2f96127c",
+            "hash": "a59a3b1d872c74d0157106ba210a31e02caee50c",
             "path": "09 Namco Original/Madou Gensoukyoku/Madou Gensoukyoku.tja"
         },
         {
@@ -27548,6 +27548,16 @@
         },
         {
             "type": "blob",
+            "hash": "b81e7569449ea1dcacee7ea1d2eb5a06ca0c0f18",
+            "path": "09 Namco Original/Out of Sight/Out of Sight.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "e5d66cf39f37dd91eddddf60d29167be2a0d2295",
+            "path": "09 Namco Original/Out of Sight/Out of Sight.tja"
+        },
+        {
+            "type": "blob",
             "hash": "8df62390035d695eeb40d47c182dc8eb2978a73b",
             "path": "09 Namco Original/POLARiSNAUT/POLARiSNAUT.ogg"
         },
@@ -28318,6 +28328,16 @@
         },
         {
             "type": "blob",
+            "hash": "29a72d2cd7c826ff9517fb43974b0c00c263ef5e",
+            "path": "09 Namco Original/Shanimuni Hanabi/Shanimuni Hanabi.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1afd46e71e7844c1151514b42cc01829cd6b99e1",
+            "path": "09 Namco Original/Shanimuni Hanabi/Shanimuni Hanabi.tja"
+        },
+        {
+            "type": "blob",
             "hash": "408a3875906b1a28e9a394f9034434c7a4b38604",
             "path": "09 Namco Original/Shikou no Ran/Shikou no Ran.ogg"
         },
@@ -28623,7 +28643,12 @@
         },
         {
             "type": "blob",
-            "hash": "4bfae3b86238dbc7f7e12c155b478f8387e7be2f",
+            "hash": "6638e32ae324bd48cec9da2e9b391c1fa61b73e6",
+            "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi) (Anomaly).tja"
+        },
+        {
+            "type": "blob",
+            "hash": "2ced3e24019d771990af680469c08284ba514f1e",
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi).tja"
         },
         {
@@ -28633,7 +28658,7 @@
         },
         {
             "type": "blob",
-            "hash": "9ed79a274c8b7fca0d9cbfbbfb3aac53a4b956a9",
+            "hash": "4f79d0d2f688fb07aee0052665714ffbdcaf4c73",
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran.tja"
         },
         {
@@ -29378,7 +29403,7 @@
         },
         {
             "type": "blob",
-            "hash": "daf2c548a21ece0a1c20f90948549bdc0bcdf635",
+            "hash": "6ca921862d0b3ba7b0ca2a1e07df83ba2c5b842d",
             "path": "09 Namco Original/Uchuu SAMURAI/Uchuu SAMURAI.tja"
         },
         {
@@ -29908,7 +29933,7 @@
         },
         {
             "type": "blob",
-            "hash": "b62235857f30d57132b680a4a86786256d350e61",
+            "hash": "355306a8e2e758ee962ad6e780a70d48853a89c1",
             "path": "09 Namco Original/Zero no Nocturne/Zero no Nocturne.tja"
         },
         {
@@ -29928,7 +29953,7 @@
         },
         {
             "type": "blob",
-            "hash": "899bc580dc776cdc3048ff053db901676356da09",
+            "hash": "03e3a8d39ee92a11a742ee0aeeecc0e61aa58a43",
             "path": "09 Namco Original/Zero no Symphony/Zero no Symphony.tja"
         },
         {
@@ -57950,6 +57975,7 @@
             "category": "Children and Folk",
             "offset": -1.079,
             "courses": {
+                "Edit": 9,
                 "Oni": 3,
                 "Hard": 3,
                 "Normal": 1,
@@ -73725,7 +73751,7 @@
                 "ja": "黒沢ダイスケ × Masahiro \"Godspeed\" Aoki"
             },
             "category": "Namco Original",
-            "offset": -1.942,
+            "offset": -1.94,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -79788,8 +79814,8 @@
                 "ja": "魔導幻想曲"
             },
             "subtitle": {
-                "en": "Katsuro Tajima",
-                "ja": " "
+                "en": "Katsuro Tajima (BNSI)",
+                "ja": "田島勝朗(BNSI)"
             },
             "category": "Namco Original",
             "offset": -1.665,
@@ -81391,6 +81417,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Out of Sight/Out of Sight.tja",
+            "title": {
+                "en": "Out of Sight",
+                "ja": "Out of Sight"
+            },
+            "subtitle": {
+                "en": "Hiroshi Okubo(BNRI)",
+                "ja": "Hiroshi Okubo(BNRI)"
+            },
+            "category": "Namco Original",
+            "offset": -1,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
+            }
+        },
+        {
             "path": "09 Namco Original/POLARiSNAUT/POLARiSNAUT.tja",
             "title": {
                 "en": "POLARiSNAUT",
@@ -82863,6 +82908,25 @@
             }
         },
         {
+            "path": "09 Namco Original/Shanimuni Hanabi/Shanimuni Hanabi.tja",
+            "title": {
+                "en": "Shanimuni Hanabi",
+                "ja": "シャニムニ花火"
+            },
+            "subtitle": {
+                "en": "PinocchioP feat. Hatsune Miku",
+                "ja": "ピノキオピー feat. 初音ミク"
+            },
+            "category": "Namco Original",
+            "offset": -1.039,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "09 Namco Original/Shikou no Ran/Shikou no Ran.tja",
             "title": {
                 "en": "Shikou no Ran",
@@ -83464,6 +83528,22 @@
             }
         },
         {
+            "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi) (Anomaly).tja",
+            "title": {
+                "en": "[Sou-uchi] Souryuu no Ran -Anomalous Chart-",
+                "ja": "【双打】 双竜ノ乱"
+            },
+            "subtitle": {
+                "en": "Tatsh a.k.a. Zeami",
+                "ja": "「挑戦！闇のドンチャレ」異変譜面 世阿弥"
+            },
+            "category": "Namco Original",
+            "offset": -1.813,
+            "courses": {
+                "Oni": 10
+            }
+        },
+        {
             "path": "09 Namco Original/Souryuu no Ran/Souryuu no Ran (Sou-uchi).tja",
             "title": {
                 "en": "[Sou-uchi] Souryuu no Ran",
@@ -83474,7 +83554,7 @@
                 "ja": "世阿弥"
             },
             "category": "Namco Original",
-            "offset": -1.818,
+            "offset": -1.813,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -83493,7 +83573,7 @@
                 "ja": "世阿弥"
             },
             "category": "Namco Original",
-            "offset": -1.818,
+            "offset": -1.813,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -84920,6 +85000,7 @@
             "category": "Namco Original",
             "offset": -2.001,
             "courses": {
+                "Edit": 9,
                 "Oni": 8,
                 "Hard": 7,
                 "Normal": 6,
@@ -85902,7 +85983,8 @@
                 "ja": "零の夜想曲"
             },
             "subtitle": {
-                "en": "Kyo feat. Sariyajin"
+                "en": "kyo(BNSI) feat. Sariyajin",
+                "ja": "kyo(BNSI) feat. サリヤ人"
             },
             "category": "Namco Original",
             "offset": -1.804,
@@ -85940,8 +86022,8 @@
                 "ja": "零の交響曲"
             },
             "subtitle": {
-                "en": "Kyo feat. Sariyajin",
-                "ja": "feat.サリヤ人"
+                "en": "kyo(BNSI) feat. Sariyajin",
+                "ja": "kyo(BNSI) feat. サリヤ人"
             },
             "category": "Namco Original",
             "offset": -1.41,
