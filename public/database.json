@@ -1,5 +1,5 @@
 {
-    "commit": "4e755d0a0e0aeb7e205253368bcf291afd487097",
+    "commit": "14e7b11435bb2dcb2d444c08ade94ab70e9501e9",
     "blobs": [
         {
             "type": "blob",
@@ -2543,7 +2543,7 @@
         },
         {
             "type": "blob",
-            "hash": "e7e652ccf4c30995800179123a808dab993dd090",
+            "hash": "e90bac246d960edaff1e429d8e123c760176bda2",
             "path": "01 Pop/Kamisama no Iutoori ni/Kamisama no Iutoori ni.tja"
         },
         {
@@ -3903,7 +3903,7 @@
         },
         {
             "type": "blob",
-            "hash": "1fa97ffcb63e2716e1644e1e4bc7583842376983",
+            "hash": "1dcc7b45a4657576017b4cc18e7abe7a6ecd3d09",
             "path": "01 Pop/Neko Thank You/Neko Thank You.tja"
         },
         {
@@ -3993,7 +3993,7 @@
         },
         {
             "type": "blob",
-            "hash": "d656a56a62bf4712a89e14714a99822c342dc287",
+            "hash": "96691fd5ba006a671ce962976a786a935e9a240d",
             "path": "01 Pop/Niji (Aqua Timez)/Niji.tja"
         },
         {
@@ -4003,7 +4003,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd221f3b7d6cc30a0be313df6c6abb0462d96f39",
+            "hash": "cda33ddc8fc0edf4c13cda953f6d048ff05c2c3f",
             "path": "01 Pop/Niji (Fischer’s)/Niji.tja"
         },
         {
@@ -17318,7 +17318,7 @@
         },
         {
             "type": "blob",
-            "hash": "946f3b8fe126b02602ec03ebc924e31e6fc97a2c",
+            "hash": "d4385050ca21d8a39ba21f0618cbc9a445a1cae8",
             "path": "06 Classical/Toccata and Fugue and Rock/Toccata and Fugue and Rock.tja"
         },
         {
@@ -24638,7 +24638,7 @@
         },
         {
             "type": "blob",
-            "hash": "71149a46a2247ec89e80874aa7ff48207de8f0bf",
+            "hash": "6403dc9a537bc9c8c1547f6c5ff493b03778f3e0",
             "path": "09 Namco Original/Dun Aonghasa no Fuefuki/Dun Aonghasa no Fuefuki.tja"
         },
         {
@@ -26913,7 +26913,7 @@
         },
         {
             "type": "blob",
-            "hash": "e445d05e805c9cc82844c3041719bd136d4ddfc4",
+            "hash": "bfcf0b6db8115f5f153dbff7aad16d3026ffea50",
             "path": "09 Namco Original/Mekadesu/Mekadesu. -New Chart-.tja"
         },
         {
@@ -27493,7 +27493,7 @@
         },
         {
             "type": "blob",
-            "hash": "736e2e5bf5dcd65f664581b90b0a6a853e997cfc",
+            "hash": "a4152100d867cd7d625f1a845f8cbd1bb49f176e",
             "path": "09 Namco Original/Operate Me/Operate Me.tja"
         },
         {
@@ -39011,7 +39011,7 @@
                 "ja": "夕闇に誘いし漆黒の天使達"
             },
             "category": "Pop",
-            "offset": -1.361,
+            "offset": -1.355,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -75877,10 +75877,11 @@
                 "ja": "ドン・エンガスの笛吹き"
             },
             "subtitle": {
-                "en": "YMY"
+                "en": "Yukiko Yamamoto (BNSI)",
+                "ja": "山本由貴子(BNSI)"
             },
             "category": "Namco Original",
-            "offset": -6.207,
+            "offset": -3.161,
             "courses": {
                 "Oni": 8,
                 "Hard": 7,
