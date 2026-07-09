@@ -1,5 +1,5 @@
 {
-    "commit": "14e7b11435bb2dcb2d444c08ade94ab70e9501e9",
+    "commit": "06ac054a569fb15ad51155e5127cf01718c58e7a",
     "blobs": [
         {
             "type": "blob",
@@ -143,7 +143,7 @@
         },
         {
             "type": "blob",
-            "hash": "eea5618cf4dc4ae25ed0015df97d416a7ba5b450",
+            "hash": "e3bb5b901f0128066ab130ee935e497a92733a44",
             "path": "01 Pop/AV-A-MI/AV-A-MI.tja"
         },
         {
@@ -393,7 +393,7 @@
         },
         {
             "type": "blob",
-            "hash": "e323a0aae08a1f1f073c58353bd637bd90749d97",
+            "hash": "15e7ab45d0728873ee9211482a980c85541e3710",
             "path": "01 Pop/Ao to Natsu/Ao to Natsu.tja"
         },
         {
@@ -763,7 +763,7 @@
         },
         {
             "type": "blob",
-            "hash": "0d220d04d79ab9350b07f121f47324f5c7f5e05a",
+            "hash": "68c261810ea70cb26ac9208544df5fdc0c4cdf06",
             "path": "01 Pop/Byoushin wo Kamu/Byoushin wo Kamu.tja"
         },
         {
@@ -1843,7 +1843,7 @@
         },
         {
             "type": "blob",
-            "hash": "698accbf1627a30a58cd346177c31962c5284cda",
+            "hash": "12487bacfe99e4fcfa93b49e540acd57c8f27549",
             "path": "01 Pop/Hachigatsu no Saka/Hachigatsu no Saka.tja"
         },
         {
@@ -2878,6 +2878,16 @@
         },
         {
             "type": "blob",
+            "hash": "9da8bec723d01cf1151b4858bcb164348a5bc4eb",
+            "path": "01 Pop/Koi no Yakusoku -2025ver.-/Koi no Yakusoku -2025ver.-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "2ba95b56a0fbb94103c49330f4049dfbbf9ac516",
+            "path": "01 Pop/Koi no Yakusoku -2025ver.-/Koi no Yakusoku -2025ver.-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "d67c8c75651bb3d046d2757c686aa6015dcf815c",
             "path": "01 Pop/Koi o Shichaimashita!/Koi o Shichaimashita!.ogg"
         },
@@ -3313,7 +3323,7 @@
         },
         {
             "type": "blob",
-            "hash": "2a50a5cd09689143fba80d010080e1b0bbc174bb",
+            "hash": "2b024c85623dd370e6600ed8add591f593372754",
             "path": "01 Pop/Machigai Sagashi/Machigai Sagashi.tja"
         },
         {
@@ -5163,6 +5173,16 @@
         },
         {
             "type": "blob",
+            "hash": "01f64deb06d0da6cfd211abe9afe0b0cfd1f725e",
+            "path": "01 Pop/Shugoi Suki!/Shugoi Suki!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "063e198c8a65014183df710ebdd196d6a10f8b82",
+            "path": "01 Pop/Shugoi Suki!/Shugoi Suki!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "bed2a15c1bd241dd3fe384fab3dccedad7b92281",
             "path": "01 Pop/Shukumei/Shukumei.ogg"
         },
@@ -6528,7 +6548,7 @@
         },
         {
             "type": "blob",
-            "hash": "69feb512c7bda0dd1b78a984e7543625f298ff77",
+            "hash": "ed7e13e5d503d10a285e81e63373708a2b5fbac8",
             "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.tja"
         },
         {
@@ -6538,7 +6558,7 @@
         },
         {
             "type": "blob",
-            "hash": "cce50410f641d68303a1e0a3e24732284fc1dc60",
+            "hash": "188cd90b623806ca739c1ad404ffd515a29b6735",
             "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Original Version-.tja"
         },
         {
@@ -8313,16 +8333,6 @@
         },
         {
             "type": "blob",
-            "hash": "16f0f2bd0fe3975e3d60a77212799071ce13ecb6",
-            "path": "02 Anime/Gingira Ginga/Gingira Ginga.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "9cc99ebd575efdcc41e564ceae319abdf71c7769",
-            "path": "02 Anime/Gingira Ginga/Gingira Ginga.tja"
-        },
-        {
-            "type": "blob",
             "hash": "415ee9050faf4f476e094e5baa76fe25bf62b5f8",
             "path": "02 Anime/Giniro no Sora/Giniro no Sora.ogg"
         },
@@ -8358,7 +8368,7 @@
         },
         {
             "type": "blob",
-            "hash": "500ca05329872a5c20b3698c4ce0484ee216d09b",
+            "hash": "b8168274432cc6a6c308abba224d51bffc8568d2",
             "path": "02 Anime/God knows/God knows....tja"
         },
         {
@@ -9858,16 +9868,6 @@
         },
         {
             "type": "blob",
-            "hash": "47a423ab1ed3d738dcdc8f362f0208b0ac1f164a",
-            "path": "02 Anime/Mashin Sentai Kiramager/Mashin Sentai Kiramager.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "14716819ec12a6c7799da7ece5f2da5af7a34671",
-            "path": "02 Anime/Mashin Sentai Kiramager/Mashin Sentai Kiramager.tja"
-        },
-        {
-            "type": "blob",
             "hash": "8e7c4e044fc458c2477e0b7fc7d92faee78b0808",
             "path": "02 Anime/Matsuribayashi de Geragerapo/Matsuribayashi de Geragerapo.ogg"
         },
@@ -11213,16 +11213,6 @@
         },
         {
             "type": "blob",
-            "hash": "959c2dd5c95ca7074e87c85c260eb8a8aa23bb46",
-            "path": "02 Anime/Smile! Smile! Smile!/Smile! Smile! Smile!.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "b105b7041f369420a2898ff8096ff2e9e8dd548b",
-            "path": "02 Anime/Smile! Smile! Smile!/Smile! Smile! Smile!.tja"
-        },
-        {
-            "type": "blob",
             "hash": "2b696f25a5cf56929b8dafbe6e366d95f1eeefc6",
             "path": "02 Anime/Snow halation/Snow halation.ogg"
         },
@@ -11824,7 +11814,7 @@
         {
             "type": "blob",
             "hash": "2a63c1d89d560b3c4cd867272badee57e91d1a82",
-            "path": "02 Anime/Unmei no Shizuku ～Destiny’s Star～/Unmei no Shizuku Destinys Star.ogg"
+            "path": "02 Anime/Unmei no Shizuku ～Destiny’s Star��/Unmei no Shizuku Destinys Star.ogg"
         },
         {
             "type": "blob",
@@ -12260,6 +12250,16 @@
             "type": "blob",
             "hash": "49aa85070293617ec64ffe797ffa19f6da6c6e02",
             "path": "02 Anime/Yuusha/Yuusha.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "7c356bc5e3072124970a45354740b8d916c17c39",
+            "path": "02 Anime/ZOO/ZOO.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6b3f8b4003108e892a352cca88ba9c65143bdb90",
+            "path": "02 Anime/ZOO/ZOO.tja"
         },
         {
             "type": "blob",
@@ -12983,7 +12983,7 @@
         },
         {
             "type": "blob",
-            "hash": "fa8c0acfc8693e967557753da5e39dacb28a181a",
+            "hash": "60aa69f165d1f3419f812bf6c24a6c2986295d74",
             "path": "03 Vocaloid/Inochi ni Kirawarete iru/Inochi ni Kirawarete iru..tja"
         },
         {
@@ -13093,7 +13093,7 @@
         },
         {
             "type": "blob",
-            "hash": "53aea00d238ae40c9aeb22c523cbf52858bc7d75",
+            "hash": "3aa52416272ee2d61076e03c1b46dd88494f2c83",
             "path": "03 Vocaloid/Kill Carry On/Kill Carry On.tja"
         },
         {
@@ -13383,7 +13383,7 @@
         },
         {
             "type": "blob",
-            "hash": "eaba3f588eae70cc50679c82cfae8bab12580e84",
+            "hash": "610bd114767063d2282f6f70a7ef8f4fc2827554",
             "path": "03 Vocaloid/Retro Mania Rhapsody/Retro Mania Rhapsody.tja"
         },
         {
@@ -13983,6 +13983,16 @@
         },
         {
             "type": "blob",
+            "hash": "0e2723caa9d0573a4ff398cfdd79a09f421a95c3",
+            "path": "04 Children and Folk/Gingira Ginga/Gingira Ginga.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ab3e29d542bdd3eaa5b54f875af40aaa3b1509cb",
+            "path": "04 Children and Folk/Gingira Ginga/Gingira Ginga.tja"
+        },
+        {
+            "type": "blob",
             "hash": "4c7d8f7693672412ede4f487583d4427a058a677",
             "path": "04 Children and Folk/Got Boost/Got Boost.ogg"
         },
@@ -14068,7 +14078,7 @@
         },
         {
             "type": "blob",
-            "hash": "d3ef0e51cff9cf7d82a3bd1e6fd538212cde32f7",
+            "hash": "53866c9502317fae5375a2810a5f9086aa45a02b",
             "path": "04 Children and Folk/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja"
         },
         {
@@ -14390,6 +14400,16 @@
             "type": "blob",
             "hash": "745b5dc781878c8d0309e13ee98b44a74e217718",
             "path": "04 Children and Folk/Mary Had a Little Lamb/Mary Had a Little Lamb.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "47a423ab1ed3d738dcdc8f362f0208b0ac1f164a",
+            "path": "04 Children and Folk/Mashin Sentai Kiramager/Mashin Sentai Kiramager.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3014b8b9cfa7f894a4396ceb68a21829c942076a",
+            "path": "04 Children and Folk/Mashin Sentai Kiramager/Mashin Sentai Kiramager.tja"
         },
         {
             "type": "blob",
@@ -14788,6 +14808,16 @@
         },
         {
             "type": "blob",
+            "hash": "959c2dd5c95ca7074e87c85c260eb8a8aa23bb46",
+            "path": "04 Children and Folk/Smile! Smile! Smile!/Smile! Smile! Smile!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "4c49969620d15cbf4957d334117eb40941d19d94",
+            "path": "04 Children and Folk/Smile! Smile! Smile!/Smile! Smile! Smile!.tja"
+        },
+        {
+            "type": "blob",
             "hash": "8517b803f0274c55dadfa0d4a4c8a8b2fe7b30eb",
             "path": "04 Children and Folk/Souran Bushi -RT Version-/Souran Bushi -RT Version-.ogg"
         },
@@ -15128,7 +15158,7 @@
         },
         {
             "type": "blob",
-            "hash": "aecef60c457631d55a75cd09f54eb01aada689ac",
+            "hash": "40011124f8caa9959c42fdd324d606808c577abb",
             "path": "05 Variety/ALiVE/ALiVE.tja"
         },
         {
@@ -15418,7 +15448,7 @@
         },
         {
             "type": "blob",
-            "hash": "b292814dd1a8683f24c2160a8c83845e23af9ea3",
+            "hash": "01f535aa7d7b16d3bc282a7633b0e19dbf4e8d49",
             "path": "05 Variety/Dogbite/Dogbite.tja"
         },
         {
@@ -16153,12 +16183,12 @@
         },
         {
             "type": "blob",
-            "hash": "e2671136757053888735a7584989025e7bb3e0d5",
+            "hash": "fc3b0b463960f6faad67fbbc282da80586dec088",
             "path": "05 Variety/Parousia/Parousia.ogg"
         },
         {
             "type": "blob",
-            "hash": "554db8c7d17b4ddc4b7f77dd5ca0accf640e4271",
+            "hash": "547ee5b8b5d52db38938aa769d45e3e4afdf72c3",
             "path": "05 Variety/Parousia/Parousia.tja"
         },
         {
@@ -16573,7 +16603,7 @@
         },
         {
             "type": "blob",
-            "hash": "edb995a3487f7f157bb8796f0e6830ed5da3581c",
+            "hash": "126a1238074c0f1f530cce66ec3f1c9e0af86b47",
             "path": "05 Variety/waitin’ for u/waitin for u.tja"
         },
         {
@@ -18883,7 +18913,7 @@
         },
         {
             "type": "blob",
-            "hash": "32ed7fa01e0ce921d4d63e690cdf69abae8518f7",
+            "hash": "93d19009e8f4a96fdf6f95d540ab604bb9547a05",
             "path": "07 Game Music/JOIN THE PAC -Tatsujin Version-/JOIN THE PAC -Tatsujin Version-.tja"
         },
         {
@@ -21029,12 +21059,12 @@
         {
             "type": "blob",
             "hash": "67bdf17e00b2f55d4e354037353754460819b8dd",
-            "path": "07 Game Music/Synchronica Airlines/Synchronica Airlines.ogg"
+            "path": "07 Game Music/Synchronica Airline/Synchronica Airline.ogg"
         },
         {
             "type": "blob",
-            "hash": "022a45fc9390bc485c4a879b5d3b71d43b45ab97",
-            "path": "07 Game Music/Synchronica Airlines/Synchronica Airlines.tja"
+            "hash": "6d999694f4f22ecca84ba499113777d78d77b212",
+            "path": "07 Game Music/Synchronica Airline/Synchronica Airline.tja"
         },
         {
             "type": "blob",
@@ -23163,7 +23193,7 @@
         },
         {
             "type": "blob",
-            "hash": "8439d83cd395c9df167d67e451e874d1d6ddba9e",
+            "hash": "0e084a1a045a66d7f03536f739bc9a3ad5c5baf2",
             "path": "09 Namco Original/Ai Nandaze/Ai Nandaze.tja"
         },
         {
@@ -25028,7 +25058,7 @@
         },
         {
             "type": "blob",
-            "hash": "3694d50881c6f802c17b126f1956e8ababd83c50",
+            "hash": "660b815d4282ea5837c3625fa5b8886c1e5f9778",
             "path": "09 Namco Original/Genkai Creator Ouenka/Genkai Creator Ouenka.tja"
         },
         {
@@ -27613,7 +27643,7 @@
         },
         {
             "type": "blob",
-            "hash": "e37c51c99c7b0430d816f5d7a91438ba0eeab028",
+            "hash": "d7f4365836e0a9402ac9d412b818066bb7720264",
             "path": "09 Namco Original/Petshop Taisen/Petshop Taisen.tja"
         },
         {
@@ -28798,7 +28828,7 @@
         },
         {
             "type": "blob",
-            "hash": "ced07b60cb8e70b2780753e8e878290a0799732d",
+            "hash": "7dc8485b4201a8c488c0cab02875f9a15223757c",
             "path": "09 Namco Original/TOKIMEKI Destroyer!!/TOKIMEKI Destroyer!!.tja"
         },
         {
@@ -30048,7 +30078,7 @@
         },
         {
             "type": "blob",
-            "hash": "2acef37eae9bd9e2fc62efa3ee1b603aebcca9fc",
+            "hash": "d3708b76bdb3168bba21e8c9fcf642e42ec0f189",
             "path": "09 Namco Original/memoria ficta/memoria ficta.tja"
         },
         {
@@ -32561,15 +32591,15 @@
                 "ja": "青と夏"
             },
             "subtitle": {
-                "en": "Mrs. GREEN APPLE/Ao Natsu Kimi ni Koi Shita 30-Nichi"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -1.456,
             "courses": {
-                "0": 2,
-                "1": 2,
-                "2": 3,
-                "Oni": 6
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -33227,15 +33257,15 @@
         {
             "path": "01 Pop/Byoushin wo Kamu/Byoushin wo Kamu.tja",
             "title": {
-                "en": "Byoushin wo Kamu",
+                "en": "Byoushinwo Kamu",
                 "ja": "秒針を噛む"
             },
             "subtitle": {
-                "en": "Zutomayo/Jujutsu Kaisen",
+                "en": "ZUTOMAYO",
                 "ja": "ずっと真夜中でいいのに。"
             },
             "category": "Pop",
-            "offset": -7.511,
+            "offset": -1.968,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -35199,7 +35229,7 @@
                 "ja": "んだほ＆ぺけたん from Fischer's"
             },
             "category": "Pop",
-            "offset": -4.576,
+            "offset": -2.729,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -37122,6 +37152,25 @@
             }
         },
         {
+            "path": "01 Pop/Koi no Yakusoku -2025ver.-/Koi no Yakusoku -2025ver.-.tja",
+            "title": {
+                "en": "Koi no Yakusoku -2025ver.-",
+                "ja": "恋の約束 -2025ver.-"
+            },
+            "subtitle": {
+                "en": "IRREGULAR DICE",
+                "ja": "いれいす"
+            },
+            "category": "Pop",
+            "offset": -1,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Koi o Shichaimashita!/Koi o Shichaimashita!.tja",
             "title": {
                 "en": "Koi o Shichaimashita!",
@@ -37931,11 +37980,11 @@
                 "ja": "まちがいさがし"
             },
             "subtitle": {
-                "en": "Masaki Suda & Kenshi Yonezu",
+                "en": "Masaki Suda",
                 "ja": "菅田将暉"
             },
             "category": "Pop",
-            "offset": -3.134,
+            "offset": -3.131,
             "courses": {
                 "Oni": 8,
                 "Hard": 4,
@@ -41298,6 +41347,25 @@
             }
         },
         {
+            "path": "01 Pop/Shugoi Suki!/Shugoi Suki!.tja",
+            "title": {
+                "en": "Shugoi Suki!",
+                "ja": "守護いスキっ！"
+            },
+            "subtitle": {
+                "en": "IRREGULAR DICE",
+                "ja": "いれいす"
+            },
+            "category": "Pop",
+            "offset": -1.81,
+            "courses": {
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Shukumei/Shukumei.tja",
             "title": {
                 "en": "Shukumei",
@@ -43757,12 +43825,11 @@
         {
             "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Cover Version-.tja",
             "title": {
-                "en": "Yoru ni Kakeru -Cover Version-",
-                "ja": "夜に駆ける -Cover Version-"
+                "en": "Yoru ni Kakeru -Cover Audio-",
+                "ja": "夜に駆ける"
             },
             "subtitle": {
-                "en": "YOASOBI",
-                "ja": "YOASOBI"
+                "ja": "カバー音源"
             },
             "category": "Pop",
             "offset": -2.027,
@@ -43776,8 +43843,8 @@
         {
             "path": "01 Pop/Yoru ni Kakeru/Yoru ni Kakeru -Original Version-.tja",
             "title": {
-                "en": "Yoru ni Kakeru -Original Version-",
-                "ja": "夜に駆ける -Original Version-"
+                "en": "Yoru ni Kakeru",
+                "ja": "夜に駆ける"
             },
             "subtitle": {
                 "en": "YOASOBI",
@@ -47108,25 +47175,6 @@
             }
         },
         {
-            "path": "02 Anime/Gingira Ginga/Gingira Ginga.tja",
-            "title": {
-                "en": "Gingira Ginga",
-                "ja": "ギンギラ銀河"
-            },
-            "subtitle": {
-                "en": "Strawberry Prince & NayutalieN/Yo-kai Watch Jam",
-                "ja": "「妖怪学園Y 〜Nとの遭遇〜」より"
-            },
-            "category": "Anime",
-            "offset": -0.718,
-            "courses": {
-                "Oni": 6,
-                "Hard": 4,
-                "Normal": 3,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Giniro no Sora/Giniro no Sora.tja",
             "title": {
                 "en": "Giniro no Sora",
@@ -47186,14 +47234,14 @@
             "path": "02 Anime/God knows/God knows....tja",
             "title": {
                 "en": "God knows...",
-                "ja": "God knows…"
+                "ja": "God knows..."
             },
             "subtitle": {
                 "en": "Satoru Kousaki feat. Aya Hirano/The Melancholy of Haruhi Suzumiya",
                 "ja": "「涼宮ハルヒの憂鬱」より"
             },
             "category": "Anime",
-            "offset": -2.039,
+            "offset": -2.036,
             "courses": {
                 "Edit": 9,
                 "Oni": 7,
@@ -50024,24 +50072,6 @@
             }
         },
         {
-            "path": "02 Anime/Mashin Sentai Kiramager/Mashin Sentai Kiramager.tja",
-            "title": {
-                "en": "Mashin Sentai Kiramager",
-                "ja": "魔進戦隊キラメイジャー"
-            },
-            "subtitle": {
-                "en": "Yohei Onishi/Mashin Sentai Kiramager"
-            },
-            "category": "Anime",
-            "offset": -2.272,
-            "courses": {
-                "Oni": 5,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Matsuribayashi de Geragerapo/Matsuribayashi de Geragerapo.tja",
             "title": {
                 "en": "Matsuribayashi de Geragerapo",
@@ -52584,26 +52614,6 @@
             }
         },
         {
-            "path": "02 Anime/Smile! Smile! Smile!/Smile! Smile! Smile!.tja",
-            "title": {
-                "en": "Smile! Smile! Smile!",
-                "ja": "Smile! Smile! Smile!"
-            },
-            "subtitle": {
-                "en": "Yuka Ozaki/Shounen Ashibe GO! GO! Goma-chan",
-                "ja": "「少年アシベ GO!GO!ゴマちゃん」より"
-            },
-            "category": "Anime",
-            "offset": -1.925,
-            "courses": {
-                "Edit": 9,
-                "Oni": 5,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Snow halation/Snow halation.tja",
             "title": {
                 "en": "Snow halation",
@@ -54554,6 +54564,25 @@
             }
         },
         {
+            "path": "02 Anime/ZOO/ZOO.tja",
+            "title": {
+                "en": "ZOO",
+                "ja": "ZOO"
+            },
+            "subtitle": {
+                "en": "Zootopia 2",
+                "ja": "「ズートピア２」より"
+            },
+            "category": "Anime",
+            "offset": -1.47,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
             "path": "02 Anime/Zankoku na Yoru ni Kagayake/Zankoku na Yoru ni Kagayake.tja",
             "title": {
                 "en": "Zankoku na Yoru ni Kagayake",
@@ -55922,16 +55951,16 @@
             },
             "subtitle": {
                 "en": "Iori Kanzaki feat. Hatsune Miku",
-                "ja": "カンザキイオリ"
+                "ja": "カンザキイオリ feat.初音ミク"
             },
             "category": "Vocaloid",
             "offset": -2.522,
             "courses": {
-                "0": 2,
-                "1": 3,
-                "2": 5,
                 "Edit": 8,
-                "Oni": 7
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -56138,7 +56167,7 @@
                 "ja": "ポリスピカデリー feat.初音ミク 「戦闘摂理解析システム#コンパス」より"
             },
             "category": "Vocaloid",
-            "offset": -3.019,
+            "offset": -3.017,
             "courses": {
                 "Oni": 8,
                 "Hard": 4,
@@ -56698,7 +56727,7 @@
                 "ja": "PolyphonicBranch feat.鏡音リン・鏡音レン 「戦闘摂理解析システム#コンパス」より"
             },
             "category": "Vocaloid",
-            "offset": -1.525,
+            "offset": -1.526,
             "courses": {
                 "Oni": 8,
                 "Hard": 7,
@@ -57777,6 +57806,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/Gingira Ginga/Gingira Ginga.tja",
+            "title": {
+                "en": "Gingira Ginga",
+                "ja": "ギンギラ銀河"
+            },
+            "subtitle": {
+                "en": "Strawberry Prince & NayutalieN/Yo-kai Watch Jam",
+                "ja": "「妖怪学園Y 〜Nとの遭遇〜」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "04 Children and Folk/Got Boost/Got Boost.tja",
             "title": {
                 "en": "Got Boost?",
@@ -57911,7 +57959,7 @@
         {
             "path": "04 Children and Folk/Healin’ Good Pretty Cure Touch!!/Healin Good Pretty Cure Touch!!.tja",
             "title": {
-                "en": "Healin’ Good♥Pretty Cure Touch‼",
+                "en": "Healin’ Good♥Pretty Cure Touch!!",
                 "ja": "ヒーリングっど♥プリキュア Touch!!"
             },
             "subtitle": {
@@ -57919,7 +57967,7 @@
                 "ja": " "
             },
             "category": "Children and Folk",
-            "offset": -2.092,
+            "offset": -1.913,
             "courses": {
                 "Oni": 6,
                 "Hard": 3,
@@ -58458,6 +58506,22 @@
             "courses": {
                 "Hard": 3,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "04 Children and Folk/Mashin Sentai Kiramager/Mashin Sentai Kiramager.tja",
+            "title": {
+                "en": "Mashin Sentai Kiramager",
+                "ja": "魔進戦隊キラメイジャー"
+            },
+            "subtitle": {},
+            "category": "Children and Folk",
+            "offset": -2.263,
+            "courses": {
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -59143,6 +59207,26 @@
             }
         },
         {
+            "path": "04 Children and Folk/Smile! Smile! Smile!/Smile! Smile! Smile!.tja",
+            "title": {
+                "en": "Smile! Smile! Smile!",
+                "ja": "Smile! Smile! Smile!"
+            },
+            "subtitle": {
+                "en": "Shounen Ashibe GO! GO! Goma-chan",
+                "ja": "「少年アシベ GO!GO!ゴマちゃん」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.922,
+            "courses": {
+                "Edit": 9,
+                "Oni": 5,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 2
+            }
+        },
+        {
             "path": "04 Children and Folk/Souran Bushi -RT Version-/Souran Bushi -RT Version-.tja",
             "title": {
                 "en": "Souran Bushi -RT Version-",
@@ -59708,7 +59792,7 @@
                 "ja": "REDALiCE"
             },
             "category": "Variety",
-            "offset": -2.962,
+            "offset": -1.547,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -61654,7 +61738,7 @@
                 "ja": "xi"
             },
             "category": "Variety",
-            "offset": -4.139,
+            "offset": -3.56,
             "courses": {
                 "Oni": 10,
                 "Hard": 6,
@@ -62419,7 +62503,7 @@
                 "ja": "Jun Kuroda"
             },
             "category": "Variety",
-            "offset": -1.599,
+            "offset": -1.434,
             "courses": {
                 "Oni": 10,
                 "Hard": 6,
@@ -66849,7 +66933,7 @@
                 "ja": "パックマン40周年公式テーマ楽曲"
             },
             "category": "Game Music",
-            "offset": -8.337,
+            "offset": -2.221,
             "courses": {
                 "Oni": 9,
                 "Hard": 6,
@@ -70987,17 +71071,17 @@
             }
         },
         {
-            "path": "07 Game Music/Synchronica Airlines/Synchronica Airlines.tja",
+            "path": "07 Game Music/Synchronica Airline/Synchronica Airline.tja",
             "title": {
-                "en": "Synchronica Airlines",
+                "en": "Synchronica Airline",
                 "ja": "シンクロニカ・エアライン"
             },
             "subtitle": {
-                "en": "Taku Inoue/Synchronica",
-                "ja": "Taku Inoue 「シンクロニカ」より"
+                "en": "Taku Inoue (BNSI) / Synchronica",
+                "ja": "Taku Inoue(BNSI) 「シンクロニカ」より"
             },
             "category": "Game Music",
-            "offset": -3.184,
+            "offset": -3.179,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -73088,7 +73172,8 @@
                 "ja": "愛なんだぜ"
             },
             "subtitle": {
-                "en": "Taku Inoue"
+                "en": "Taku Inoue(BNSI)",
+                "ja": "Taku Inoue(BNSI)"
             },
             "category": "Namco Original",
             "offset": -1.326,
@@ -76614,7 +76699,8 @@
                 "ja": "限界クリエイター応援歌"
             },
             "subtitle": {
-                "en": "Yukiko Miyage feat. Suzune"
+                "en": "Yukiko Miyagi(BNSI) feat. suzune & Kiyohito Kawase",
+                "ja": "宮城裕紀子(BNSI) feat.涼音・川瀬清人"
             },
             "category": "Namco Original",
             "offset": -1.524,
@@ -81542,7 +81628,7 @@
                 "ja": "chacol feat. Focco"
             },
             "category": "Namco Original",
-            "offset": -1.591,
+            "offset": -1.588,
             "courses": {
                 "Oni": 10,
                 "Hard": 7,
