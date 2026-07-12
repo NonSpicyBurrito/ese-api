@@ -1,5 +1,5 @@
 {
-    "commit": "525476f0fe00f88d7cfd4089435740eca2fa0119",
+    "commit": "c2e4cfb11ce156b2e8d0526f09a1fb887750260b",
     "blobs": [
         {
             "type": "blob",
@@ -1123,7 +1123,7 @@
         },
         {
             "type": "blob",
-            "hash": "650758d4e4c12f5aec897c729825c6e34c0670b1",
+            "hash": "0d6a73e97fe618c2d1aec0171880e72366ab5e8b",
             "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Cover Version-.tja"
         },
         {
@@ -1133,7 +1133,7 @@
         },
         {
             "type": "blob",
-            "hash": "04f0a1b724bd10884d0c44df7edcfcdc3c7b607f",
+            "hash": "43ad5adcea15154ccff406ad58252a785fed9cfc",
             "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Original Version-.tja"
         },
         {
@@ -1708,12 +1708,12 @@
         },
         {
             "type": "blob",
-            "hash": "30749a4ae09e0f0a8f6a25d2e31fa58393654f64",
+            "hash": "f56febd7fb3c33f54d7337b2a09ddb162998255c",
             "path": "01 Pop/Go!!!/Go!!!.ogg"
         },
         {
             "type": "blob",
-            "hash": "eb86f84269a4deac47418db6ce1a9019007577be",
+            "hash": "8cdb987eab2cf16201a2ecc5bf19de272a1caa20",
             "path": "01 Pop/Go!!!/Go!!!.tja"
         },
         {
@@ -2268,12 +2268,12 @@
         },
         {
             "type": "blob",
-            "hash": "f020cb8f061e3cfb5ba37303cb5f470d3561de4a",
+            "hash": "dd2bb48871ea195208b9d5b0ac4a77bbb4fd5b8f",
             "path": "01 Pop/Iiko Shinkaron/Iiko Shinkaron.ogg"
         },
         {
             "type": "blob",
-            "hash": "4090ce45249c3aea24dafaf2bc1823340f905cd2",
+            "hash": "c0a01d7221b8963bba72a16ce6e4eca75431db6f",
             "path": "01 Pop/Iiko Shinkaron/Iiko Shinkaron.tja"
         },
         {
@@ -2968,7 +2968,7 @@
         },
         {
             "type": "blob",
-            "hash": "f76e98d8308ff421bebfe1b13fe8e158d85581ba",
+            "hash": "1afeeae2ba5ef676cb86d458489a377bc3a27a59",
             "path": "01 Pop/Kousui/Kousui.tja"
         },
         {
@@ -6853,16 +6853,6 @@
         },
         {
             "type": "blob",
-            "hash": "b3258b15ab006bfcce3a5bf587e91888b47a865e",
-            "path": "02 Anime/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "946aba35940410504d68e71a8da8442244a0739b",
-            "path": "02 Anime/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.tja"
-        },
-        {
-            "type": "blob",
             "hash": "358a373ad7d6d9c11a13c2f02e0b7dfa619f9f78",
             "path": "02 Anime/ALONES/ALONES.ogg"
         },
@@ -7533,22 +7523,12 @@
         },
         {
             "type": "blob",
-            "hash": "e1355da6e0a52e1387262f97c13ad6ab40b2ebe6",
-            "path": "02 Anime/Chuwapane!/Chuwapane!.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "6ef1d4da3219916adc8b1668ce4f14261a862287",
-            "path": "02 Anime/Chuwapane!/Chuwapane!.tja"
-        },
-        {
-            "type": "blob",
             "hash": "da5c59bf0dda485aec73eecbd3011b00097abe75",
             "path": "02 Anime/Circle of Seasons/Circle of Seasons.ogg"
         },
         {
             "type": "blob",
-            "hash": "3377f321b028fc02529e91f7b796b5fbfa97f8f6",
+            "hash": "a4e436713e596cd307bc1ae36516f476d6d08181",
             "path": "02 Anime/Circle of Seasons/Circle of Seasons.tja"
         },
         {
@@ -8483,12 +8463,12 @@
         },
         {
             "type": "blob",
-            "hash": "8326c4a1e361899c7d22edf7a490dbb6b1ec1ab8",
+            "hash": "5b7dd5e9b94b7ff8ed44489c0df9c761aa4c65f8",
             "path": "02 Anime/Gurenge/Gurenge.ogg"
         },
         {
             "type": "blob",
-            "hash": "264665a77bb99525761633be1f2e72c6cca7128d",
+            "hash": "f00304dd06fb44c0cddf58a28dd9ef0ec22885ff",
             "path": "02 Anime/Gurenge/Gurenge.tja"
         },
         {
@@ -8808,7 +8788,7 @@
         },
         {
             "type": "blob",
-            "hash": "44be5b180c6b3644d6f904c46fceedae918536c2",
+            "hash": "fbe1429b631a1e4e795a2fed4b4d218dff8bd076",
             "path": "02 Anime/Homura/Homura.tja"
         },
         {
@@ -9170,16 +9150,6 @@
             "type": "blob",
             "hash": "a95b8efaac8b698743d0fccc783b8e48f115225a",
             "path": "02 Anime/KIRA☆Power/KIRA Power.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "1365b289ecae5bb2920f5832d919f45f5ca22e32",
-            "path": "02 Anime/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "75eefafcb1538a670e552fdeb6c7cbc9f779f09d",
-            "path": "02 Anime/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.tja"
         },
         {
             "type": "blob",
@@ -13078,12 +13048,12 @@
         },
         {
             "type": "blob",
-            "hash": "3a5d32bddbf29ecd2a54fec14f41c4e388759d9f",
+            "hash": "16134d95f0839869a0d55f2d14f9979782dc6ac2",
             "path": "03 Vocaloid/Kibou no Tsuki/Kibou no Tsuki.ogg"
         },
         {
             "type": "blob",
-            "hash": "6ce2e8e5611db332fac689f5c0fb7a8f534d5df7",
+            "hash": "01be205226e77309f50e94ab261b3214db4fa019",
             "path": "03 Vocaloid/Kibou no Tsuki/Kibou no Tsuki.tja"
         },
         {
@@ -13693,6 +13663,16 @@
         },
         {
             "type": "blob",
+            "hash": "b36b21d89e5657652bf4ad446435724d14c6524e",
+            "path": "04 Children and Folk/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "471ef0bf82416d9a9ae0832e44ddd3d12dfe7b06",
+            "path": "04 Children and Folk/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.tja"
+        },
+        {
+            "type": "blob",
             "hash": "227cea2a91f832b83329d98c4e3437b53c151a0f",
             "path": "04 Children and Folk/Aiai/Aiai.ogg"
         },
@@ -13860,6 +13840,16 @@
             "type": "blob",
             "hash": "04067d7bf0f86178a8c6777280e2b11aa65f4749",
             "path": "04 Children and Folk/Chouchou/Chouchou.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "e90adb4f482737eaefa56321c363d71c6de51a9a",
+            "path": "04 Children and Folk/Chuwapane!/Chuwapane!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7716c45294a7098d5ecb9b7f4e925fc8140e75b4",
+            "path": "04 Children and Folk/Chuwapane!/Chuwapane!.tja"
         },
         {
             "type": "blob",
@@ -14200,6 +14190,16 @@
             "type": "blob",
             "hash": "e1d246aa4ee6151ada1c7849ee6e924effff7d0a",
             "path": "04 Children and Folk/Joy to the World/Joy to the World.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "cc138ca0d5d9a7e7adb33cd2dcc505476ed37bc9",
+            "path": "04 Children and Folk/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "87be34516a4c02d2b225f2289af28bb311ee1d48",
+            "path": "04 Children and Folk/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.tja"
         },
         {
             "type": "blob",
@@ -26943,12 +26943,12 @@
         },
         {
             "type": "blob",
-            "hash": "bfcf0b6db8115f5f153dbff7aad16d3026ffea50",
+            "hash": "7360a5152b0b68122eef2e1160e61f86993f9fa7",
             "path": "09 Namco Original/Mekadesu/Mekadesu. -New Chart-.tja"
         },
         {
             "type": "blob",
-            "hash": "6583becd71210e537acf01d92ad18ee320846f7b",
+            "hash": "d7edb85f3b66047a8442e0481001d88026cc25d8",
             "path": "09 Namco Original/Mekadesu/Mekadesu. -Old Chart-.tja"
         },
         {
@@ -29193,7 +29193,7 @@
         },
         {
             "type": "blob",
-            "hash": "84b99d5e1dabb13cafcd1747bf90b20ecda7d962",
+            "hash": "3c58fee2502261e415cd2cc81bb4ee34d070f368",
             "path": "09 Namco Original/Todoroke! Taiko no Tatsujin/Todoroke! Taiko no Tatsujin.tja"
         },
         {
@@ -30128,7 +30128,7 @@
         },
         {
             "type": "blob",
-            "hash": "93b4de2e7009d64fcb3701fd840ab8776bce9693",
+            "hash": "98b180440142848ba3b6f11b8e242f6e58b5eeae",
             "path": "09 Namco Original/poxei DOON/poxei DOON.tja"
         },
         {
@@ -33914,12 +33914,11 @@
         {
             "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Cover Version-.tja",
             "title": {
-                "en": "Dakara Boku wa Ongaku wo Yameta -Cover Version-",
-                "ja": "だから僕は音楽を辞めた -Cover Version-"
+                "en": "Dakara Boku wa Ongaku wo Yameta -Cover Audio-",
+                "ja": "だから僕は音楽を辞めた"
             },
             "subtitle": {
-                "en": "Yorushika",
-                "ja": "ヨルシカ"
+                "ja": "カバー音源"
             },
             "category": "Pop",
             "offset": -1.963,
@@ -33934,21 +33933,21 @@
         {
             "path": "01 Pop/Dakara Boku wa Ongaku wo Yameta/Dakara Boku wa Ongaku wo Yameta -Original Version-.tja",
             "title": {
-                "en": "Dakara Boku wa Ongaku wo Yameta -Original Version-",
-                "ja": "だから僕は音楽を辞めた -Original Version-"
+                "en": "Dakara Boku wa Ongaku wo Yameta",
+                "ja": "だから僕は音楽を辞めた"
             },
             "subtitle": {
                 "en": "Yorushika",
                 "ja": "ヨルシカ"
             },
             "category": "Pop",
-            "offset": -2.013,
+            "offset": -2.02,
             "courses": {
-                "0": 1,
-                "1": 2,
                 "Edit": 8,
                 "Oni": 6,
-                "Hard": 4
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -34984,14 +34983,15 @@
         {
             "path": "01 Pop/Go!!!/Go!!!.tja",
             "title": {
-                "en": "Go‽",
+                "en": "Go!!!",
                 "ja": "轟!!!"
             },
             "subtitle": {
-                "en": "Mizutamari Bond"
+                "en": "Mizutamari Bond",
+                "ja": "水溜りボンド"
             },
             "category": "Pop",
-            "offset": -1.573,
+            "offset": -1.571,
             "courses": {
                 "Oni": 6,
                 "Hard": 3,
@@ -36029,14 +36029,15 @@
         {
             "path": "01 Pop/Iiko Shinkaron/Iiko Shinkaron.tja",
             "title": {
-                "en": "Iiko Shinkaron",
+                "en": "Iiko Shinkaron (feat. O-LuHA)",
                 "ja": "イイコ進化論(feat. O-LuHA)"
             },
             "subtitle": {
-                "en": "ECCHAN feat. O-LuHA"
+                "en": "ECCHAN",
+                "ja": "えっちゃん"
             },
             "category": "Pop",
-            "offset": -7.597,
+            "offset": -2.264,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -37322,15 +37323,15 @@
                 "ja": "香水"
             },
             "subtitle": {
-                "en": "Eito"
+                "ja": " "
             },
             "category": "Pop",
             "offset": -2.122,
             "courses": {
-                "0": 1,
-                "1": 2,
                 "Oni": 6,
-                "Hard": 3
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -44395,25 +44396,6 @@
             }
         },
         {
-            "path": "02 Anime/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.tja",
-            "title": {
-                "en": "ALMIGHTY ～Kamen no Yakusoku～",
-                "ja": "ALMIGHTY～仮面の約束"
-            },
-            "subtitle": {
-                "en": "TOKYO SKA PARADISE ORCHESTRA/Kamen Rider Saber",
-                "ja": "feat.川上洋平"
-            },
-            "category": "Anime",
-            "offset": -0.603,
-            "courses": {
-                "Oni": 6,
-                "Hard": 4,
-                "Normal": 1,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/ALONES/ALONES.tja",
             "title": {
                 "en": "ALONES",
@@ -45670,25 +45652,6 @@
             }
         },
         {
-            "path": "02 Anime/Chuwapane!/Chuwapane!.tja",
-            "title": {
-                "en": "Chuwapane!",
-                "ja": "チュワパネ！"
-            },
-            "subtitle": {
-                "en": "Girls²/Secret × Heroine Phantomirage!",
-                "ja": "「ひみつ×戦士 ファントミラージュ！」より"
-            },
-            "category": "Anime",
-            "offset": -0.909,
-            "courses": {
-                "Oni": 5,
-                "Hard": 3,
-                "Normal": 1,
-                "Easy": 1
-            }
-        },
-        {
             "path": "02 Anime/Circle of Seasons/Circle of Seasons.tja",
             "title": {
                 "en": "Circle of Seasons",
@@ -45699,10 +45662,10 @@
                 "ja": "アニメ「A3!」より"
             },
             "category": "Anime",
-            "offset": -1.015,
+            "offset": -1.012,
             "courses": {
                 "Oni": 6,
-                "Hard": 6,
+                "Hard": 4,
                 "Normal": 4,
                 "Easy": 2
             }
@@ -47464,11 +47427,11 @@
                 "ja": "紅蓮華"
             },
             "subtitle": {
-                "en": "LiSA/Kimetsu no Yaiba",
+                "en": "Kimetsu no Yaiba",
                 "ja": "「鬼滅の刃」より"
             },
             "category": "Anime",
-            "offset": -0.779,
+            "offset": -1.5,
             "courses": {
                 "Edit": 8,
                 "Oni": 6,
@@ -48068,17 +48031,14 @@
                 "en": "Homura",
                 "ja": "炎"
             },
-            "subtitle": {
-                "en": "LiSA/Kimetsu no Yaiba： Mugen Ressha",
-                "ja": "「鬼滅の刃」より"
-            },
+            "subtitle": {},
             "category": "Anime",
             "offset": -3.322,
             "courses": {
-                "0": 1,
-                "1": 2,
                 "Oni": 4,
-                "Hard": 1
+                "Hard": 1,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -48758,25 +48718,6 @@
                 "Hard": 6,
                 "Normal": 4,
                 "Easy": 3
-            }
-        },
-        {
-            "path": "02 Anime/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.tja",
-            "title": {
-                "en": "Ka! Ka! Ka! Kamizmode!",
-                "ja": "カ！カ！カ！カミズモード！"
-            },
-            "subtitle": {
-                "en": "DJ KAMMY & Beat-tai/Saikyou Kamizmode!",
-                "ja": "「最響カミズモード！」より"
-            },
-            "category": "Anime",
-            "offset": -0.335,
-            "courses": {
-                "Oni": 7,
-                "Hard": 3,
-                "Normal": 2,
-                "Easy": 2
             }
         },
         {
@@ -56148,7 +56089,7 @@
                 "ja": "なきゃむりゃ feat. 結月ゆかり"
             },
             "category": "Vocaloid",
-            "offset": -0.463,
+            "offset": -1.27,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -57307,6 +57248,25 @@
             }
         },
         {
+            "path": "04 Children and Folk/ALMIGHTY ～Kamen no Yakusoku～/ALMIGHTY Kamen no Yakusoku.tja",
+            "title": {
+                "en": "ALMIGHTY ～Kamen no Yakusoku～",
+                "ja": "ALMIGHTY～仮面の約束"
+            },
+            "subtitle": {
+                "en": "Kamen Rider Saber",
+                "ja": "「仮面ライダーセイバー」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1,
+            "courses": {
+                "Oni": 6,
+                "Hard": 4,
+                "Normal": 1,
+                "Easy": 1
+            }
+        },
+        {
             "path": "04 Children and Folk/Aiai/Aiai.tja",
             "title": {
                 "en": "Aiai",
@@ -57596,6 +57556,25 @@
             "courses": {
                 "Hard": 2,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "04 Children and Folk/Chuwapane!/Chuwapane!.tja",
+            "title": {
+                "en": "Chuwapane!",
+                "ja": "チュワパネ！"
+            },
+            "subtitle": {
+                "en": "Secret × Heroine Phantomirage!",
+                "ja": "「ひみつ×戦士 ファントミラージュ！」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1.187,
+            "courses": {
+                "Oni": 5,
+                "Hard": 3,
+                "Normal": 1,
+                "Easy": 1
             }
         },
         {
@@ -58179,6 +58158,25 @@
                 "Hard": 5,
                 "Normal": 3,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "04 Children and Folk/Ka! Ka! Ka! Kamizmode!/Ka! Ka! Ka! Kamizmode!.tja",
+            "title": {
+                "en": "Ka! Ka! Ka! Kamizmode!",
+                "ja": "カ！カ！カ！カミズモード！"
+            },
+            "subtitle": {
+                "en": "DJ KAMMY & Beat-tai/Saikyou Kamizmode!",
+                "ja": "「最響カミズモード！」より"
+            },
+            "category": "Children and Folk",
+            "offset": -1,
+            "courses": {
+                "Oni": 7,
+                "Hard": 3,
+                "Normal": 2,
+                "Easy": 2
             }
         },
         {
@@ -80296,7 +80294,6 @@
                 "ja": "メカデス。"
             },
             "subtitle": {
-                "en": "Yuuji Masubuchi",
                 "ja": "新譜面"
             },
             "category": "Namco Original",
@@ -80306,7 +80303,7 @@
                 "Oni": 7,
                 "Hard": 7,
                 "Normal": 7,
-                "Easy": 3
+                "Easy": 4
             }
         },
         {
@@ -80316,14 +80313,13 @@
                 "ja": "メカデス。"
             },
             "subtitle": {
-                "en": "Yuuji Masubuchi",
                 "ja": "旧譜面"
             },
             "category": "Namco Original",
             "offset": -1.139,
             "courses": {
                 "Oni": 10,
-                "Hard": 6,
+                "Hard": 7,
                 "Normal": 6
             }
         },
@@ -84627,16 +84623,16 @@
                 "ja": "轟け！太鼓の達人"
             },
             "subtitle": {
-                "en": "steμ × Yuuji Masubuchi feat. Takayoshi Tanimoto",
-                "ja": "steμ×マスブチ×ササオカ feat. 谷本貴義＆たかはし智秋"
+                "en": "Taiko de Time Travel 20's / steμ×Masubuchi×Sasaoka feat. Takayoshi Tanimoto & Chiaki Takahashi",
+                "ja": "太鼓 de タイムトラベル20's / steμ×マスブチ×ササオカ feat. 谷本貴義＆たかはし智秋"
             },
             "category": "Namco Original",
             "offset": -1.675,
             "courses": {
-                "0": 2,
-                "1": 5,
                 "Oni": 8,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 5,
+                "Easy": 2
             }
         },
         {
@@ -86368,14 +86364,15 @@
         {
             "path": "09 Namco Original/poxei DOON/poxei DOON.tja",
             "title": {
-                "en": "poxei♢DOON",
+                "en": "poxei♦DOON",
                 "ja": "poxei♦DOON"
             },
             "subtitle": {
-                "en": "Kaneko Chiharu"
+                "en": "Chiharu Kaneko",
+                "ja": "かねこちはる"
             },
             "category": "Namco Original",
-            "offset": -2.03,
+            "offset": -1.942,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
