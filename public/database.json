@@ -1,5 +1,5 @@
 {
-    "commit": "5305aaa426827677bdcfe83c9ef6ce5710d50d69",
+    "commit": "4387f0e3d1c29abe7091e8b75a0dd946c8769841",
     "blobs": [
         {
             "type": "blob",
@@ -3788,6 +3788,16 @@
         },
         {
             "type": "blob",
+            "hash": "969eec4abb6a98d90b2844c97aafb540d3ea3e0a",
+            "path": "01 Pop/NON STOP/NON STOP.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "67f9442ae83c9652895a2f517ee9d1ce2dd8f5d4",
+            "path": "01 Pop/NON STOP/NON STOP.tja"
+        },
+        {
+            "type": "blob",
             "hash": "1afc4af54bd2b3ab77595a9789898492ce3935ca",
             "path": "01 Pop/NaNaNa/NaNaNa.ogg"
         },
@@ -6088,7 +6098,7 @@
         },
         {
             "type": "blob",
-            "hash": "1bacf1ef8af9f9756f53b5a8ebb08cca720509c7",
+            "hash": "5fabbba7454630e12c08cfda01291e361af35b20",
             "path": "01 Pop/Uma to Shika/Uma to Shika.tja"
         },
         {
@@ -6908,7 +6918,7 @@
         },
         {
             "type": "blob",
-            "hash": "f9fe2bb959684a1095457b0527058b4f77912925",
+            "hash": "8911b6f5e8fe78b898ca2e4eb3335d1eb84525dd",
             "path": "02 Anime/Ai ni Dekiru-koto wa Mada Aru Kai/Ai ni Dekiru-koto wa Mada Aru Kai.tja"
         },
         {
@@ -7118,7 +7128,7 @@
         },
         {
             "type": "blob",
-            "hash": "b1d9cb28e5e8eb6a3a14263f9149b2e78db51874",
+            "hash": "f3b0f92c3de2010aeb47a5c69bf9d874d7a97009",
             "path": "02 Anime/BLUE SAPPHIRE/BLUE SAPPHIRE.tja"
         },
         {
@@ -7758,7 +7768,7 @@
         },
         {
             "type": "blob",
-            "hash": "8de14a20a322032b2996b84f4bc36d52e7e40e50",
+            "hash": "b32f9556f5bd6fdc83034807ca05a8892c702880",
             "path": "02 Anime/Detective Conan Main Theme/Detective Conan Main Theme.tja"
         },
         {
@@ -8378,7 +8388,7 @@
         },
         {
             "type": "blob",
-            "hash": "d60397c065f0e0bda3e658485afb9d70bc8a3a44",
+            "hash": "d65b661484ce7ac2caa530145a5b00bb11ba0a55",
             "path": "02 Anime/Grand Escape/Grand Escape.tja"
         },
         {
@@ -9308,7 +9318,7 @@
         },
         {
             "type": "blob",
-            "hash": "a8c0c14414ea1ce4fd640ba4b07530163f9074a8",
+            "hash": "d997cbc379ca9b0541bcb3a882982c0df05898e8",
             "path": "02 Anime/Kazetachi no Koe/Kazetachi no Koe.tja"
         },
         {
@@ -10273,7 +10283,7 @@
         },
         {
             "type": "blob",
-            "hash": "1591dffe64217d3f2762f25029de37c9686cae3e",
+            "hash": "8bcaa198eb3eb59abe7f2e8be05f817e819076e2",
             "path": "02 Anime/OVER THE TOP/OVER THE TOP.tja"
         },
         {
@@ -12223,16 +12233,6 @@
         },
         {
             "type": "blob",
-            "hash": "7c356bc5e3072124970a45354740b8d916c17c39",
-            "path": "02 Anime/ZOO/ZOO.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "6b3f8b4003108e892a352cca88ba9c65143bdb90",
-            "path": "02 Anime/ZOO/ZOO.tja"
-        },
-        {
-            "type": "blob",
             "hash": "2fedcd06a72756ba8f6710b221315a62f9ced094",
             "path": "02 Anime/Zankoku na Yoru ni Kagayake/Zankoku na Yoru ni Kagayake.ogg"
         },
@@ -12270,6 +12270,16 @@
             "type": "blob",
             "hash": "5b4de930c22e46994b79f3cd1673b00b22622c70",
             "path": "02 Anime/Zenryoku Batankyu/Zenryoku Batankyu.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "7c356bc5e3072124970a45354740b8d916c17c39",
+            "path": "02 Anime/Zoo/Zoo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ee86904cf0a1dffe1e6912dbf4d98edaa58b7011",
+            "path": "02 Anime/Zoo/Zoo.tja"
         },
         {
             "type": "blob",
@@ -12513,7 +12523,7 @@
         },
         {
             "type": "blob",
-            "hash": "9f85cb6555716ea2aeaa6feb44298281efdae274",
+            "hash": "cd3a53d75f565631a5329625cf03a077c4ff902c",
             "path": "03 Vocaloid/Buriki no Dance/Buriki no Dance.tja"
         },
         {
@@ -13223,7 +13233,7 @@
         },
         {
             "type": "blob",
-            "hash": "583e1f9fbc71280260a14de4f27e2fc951fbce21",
+            "hash": "80c7c4c31507584b3cb3291d654e5631241aeaaf",
             "path": "03 Vocaloid/Mirai/Mirai.tja"
         },
         {
@@ -13648,7 +13658,7 @@
         },
         {
             "type": "blob",
-            "hash": "229b30a9c1721b5c3c6de6d2f487cc6c15175646",
+            "hash": "a629f82931dae4b92b81f53dddb22225e6088396",
             "path": "03 Vocaloid/future beat/future beat.tja"
         },
         {
@@ -14080,6 +14090,16 @@
             "type": "blob",
             "hash": "9bfb2f4de0b1e1fa9cebeaf63d4d6cbbff5b3f76",
             "path": "04 Children and Folk/Heart ni Hint! Meitantei Precure!/Heart ni Hint! Meitantei Precure!.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "c74cb418585cc8e970a12d49e10588fe8c4bb141",
+            "path": "04 Children and Folk/Himitsuki-tuber/Himitsuki-tuber.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "d128d46242819d7ea1375538b22c9e4ce60d2f8c",
+            "path": "04 Children and Folk/Himitsuki-tuber/Himitsuki-tuber.tja"
         },
         {
             "type": "blob",
@@ -17258,7 +17278,7 @@
         },
         {
             "type": "blob",
-            "hash": "34407dc29d7e992ba55bc186de06e286bbf1c325",
+            "hash": "8200410c06c6858b677d4f5807dec808bd61c193",
             "path": "06 Classical/Sonata, Gekkou/Sonata, Gekkou.tja"
         },
         {
@@ -18718,7 +18738,7 @@
         },
         {
             "type": "blob",
-            "hash": "622acf2a4bcb10e9139a7ccc1e1c8362237aec49",
+            "hash": "6946236aa9b656d286aaf1c9db4898127de95fc4",
             "path": "07 Game Music/Heartache/Heartache.tja"
         },
         {
@@ -18760,16 +18780,6 @@
             "type": "blob",
             "hash": "7162df4aeefb0ce7b9876bc8a9f72f0528730a98",
             "path": "07 Game Music/Hikaru Yami/Hikaru Yami.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "c74cb418585cc8e970a12d49e10588fe8c4bb141",
-            "path": "07 Game Music/Himitsuki-tuber/Himitsuki-tuber.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "7f97ff46130d51dccb9b0d1c2b2147dc2707ebb2",
-            "path": "07 Game Music/Himitsuki-tuber/Himitsuki-tuber.tja"
         },
         {
             "type": "blob",
@@ -18833,7 +18843,7 @@
         },
         {
             "type": "blob",
-            "hash": "6504a3d9f9fadfb9f02cef3e99102038f8968155",
+            "hash": "b33fda714ae690f5c9f793473e62b640816fd6fe",
             "path": "07 Game Music/Hopes and Dreams/Hopes and Dreams.tja"
         },
         {
@@ -19668,7 +19678,7 @@
         },
         {
             "type": "blob",
-            "hash": "6892ed105b09a7e8d6b1681af75656616d2e0a03",
+            "hash": "51654af9470a7277b1f5b226cccfc341b0c4efb1",
             "path": "07 Game Music/Maji de...!/Maji de...!.tja"
         },
         {
@@ -21358,12 +21368,12 @@
         },
         {
             "type": "blob",
-            "hash": "e01d61c1a534c1b0af8945c0c70ae39d06aa588b",
+            "hash": "ecdc073b80412abba0850a2b50a8600e4d96ce46",
             "path": "07 Game Music/The Encounter Code/The Encounter Code.ogg"
         },
         {
             "type": "blob",
-            "hash": "411052908f56c46815a732fccd94e8e4fc91dce6",
+            "hash": "69923bd3c154221a90ce865e1067e247d237ec71",
             "path": "07 Game Music/The Encounter Code/The Encounter Code.tja"
         },
         {
@@ -21783,12 +21793,12 @@
         },
         {
             "type": "blob",
-            "hash": "f6e3ae1b3b28e130a76de0e357f0dfe3ac00b362",
+            "hash": "2b92ccb3dd5dea4d836ecbdb17e2ca140abaf29a",
             "path": "07 Game Music/When Enemies Collapse/When Enemies Collapse.ogg"
         },
         {
             "type": "blob",
-            "hash": "cabb2ecf58f77c61c809baa734d414e19094f442",
+            "hash": "1ecbeb5dc0a67d6f1ad2b9d7c7ff8e33548d53be",
             "path": "07 Game Music/When Enemies Collapse/When Enemies Collapse.tja"
         },
         {
@@ -26863,7 +26873,7 @@
         },
         {
             "type": "blob",
-            "hash": "4dcadbd64a2ce96acf1afcb5075305b42eebb471",
+            "hash": "02f9b1b7d6e2f832221bd95e4bec88e70d6281a5",
             "path": "09 Namco Original/Mahoushiki Tousou Kitan ☆ミ/Mahoushiki Tousou Kitan.tja"
         },
         {
@@ -27153,7 +27163,7 @@
         },
         {
             "type": "blob",
-            "hash": "b2282961e5483e9a628ee95ad3263274985bee97",
+            "hash": "874769ea892eea4d06c64f7970c88dee34259480",
             "path": "09 Namco Original/Mr. Runner/Mr. Runner.tja"
         },
         {
@@ -27443,7 +27453,7 @@
         },
         {
             "type": "blob",
-            "hash": "f94b3802d406cea6ac9270e18461d8a2e0a549a1",
+            "hash": "3904c21b657936c4a01c061a375a71ba28cd946b",
             "path": "09 Namco Original/ON SAY GO SAY/ON SAY GO SAY.tja"
         },
         {
@@ -27933,7 +27943,7 @@
         },
         {
             "type": "blob",
-            "hash": "b0706a12307d5605b09f5c7e82f22f3b97935960",
+            "hash": "786f5b75913e85925811d53b6b62e5333155d034",
             "path": "09 Namco Original/Rei Wadaiko/Rei Wadaiko.tja"
         },
         {
@@ -38901,6 +38911,23 @@
             }
         },
         {
+            "path": "01 Pop/NON STOP/NON STOP.tja",
+            "title": {
+                "en": "NON STOP",
+                "ja": "NON STOP"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.298,
+            "courses": {
+                "Edit": 8,
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/NaNaNa/NaNaNa.tja",
             "title": {
                 "en": "NaNaNa"
@@ -43074,11 +43101,11 @@
                 "ja": "馬と鹿"
             },
             "subtitle": {
-                "en": "Kenshi Yonezu/No Side Game",
+                "en": "Kenshi Yonezu / No Side Game",
                 "ja": "米津玄師 ／ TBS系 日曜劇場「ノーサイド・ゲーム」主題歌"
             },
             "category": "Pop",
-            "offset": -2.805,
+            "offset": -2.802,
             "courses": {
                 "Oni": 5,
                 "Hard": 3,
@@ -44567,11 +44594,11 @@
                 "ja": "愛にできることはまだあるかい"
             },
             "subtitle": {
-                "en": "RADWIMPS/Weathering with You",
+                "en": "Weathering with You",
                 "ja": "「天気の子」より"
             },
             "category": "Anime",
-            "offset": -3.503,
+            "offset": -3.492,
             "courses": {
                 "Edit": 8,
                 "Oni": 5,
@@ -44958,17 +44985,17 @@
                 "ja": "BLUE SAPPHIRE"
             },
             "subtitle": {
-                "en": "Hiroomi Tosaka/Detective Conan： The Fist of Blue Sapphire",
+                "en": "Detective Conan： The Fist of Blue Sapphire",
                 "ja": "「名探偵コナン 紺青の拳」より"
             },
             "category": "Anime",
             "offset": -2.516,
             "courses": {
-                "0": 2,
-                "1": 3,
                 "Edit": 8,
                 "Oni": 6,
-                "Hard": 6
+                "Hard": 6,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -46162,11 +46189,12 @@
             },
             "subtitle": {
                 "en": "Katsuo Oono/Detective Conan",
-                "ja": "アニメ映画「名探偵コナン」"
+                "ja": " "
             },
             "category": "Anime",
             "offset": -2.002,
             "courses": {
+                "Edit": 9,
                 "Oni": 6,
                 "Hard": 5,
                 "Normal": 1,
@@ -47328,11 +47356,11 @@
                 "ja": "グランドエスケープ"
             },
             "subtitle": {
-                "en": "RADWIMPS/Weathering with You",
+                "en": "Weathering with You",
                 "ja": "「天気の子」より"
             },
             "category": "Anime",
-            "offset": -3.417,
+            "offset": -3.413,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
@@ -49077,16 +49105,16 @@
                 "ja": "風たちの声"
             },
             "subtitle": {
-                "en": "RADWIMPS/Weathering with You",
+                "en": "Weathering with You",
                 "ja": "「天気の子」より"
             },
             "category": "Anime",
-            "offset": -1.198,
+            "offset": -1.196,
             "courses": {
-                "0": 4,
-                "1": 6,
                 "Oni": 9,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -50902,11 +50930,11 @@
                 "ja": "OVER THE TOP"
             },
             "subtitle": {
-                "en": "Hiroshi Kitadani/ONE PIECE",
+                "en": "One Piece / LAND OF WANO, Theme Song",
                 "ja": "ONE PIECEワノ国編主題歌"
             },
             "category": "Anime",
-            "offset": -2.547,
+            "offset": -2.553,
             "courses": {
                 "Oni": 6,
                 "Hard": 2,
@@ -54576,25 +54604,6 @@
             }
         },
         {
-            "path": "02 Anime/ZOO/ZOO.tja",
-            "title": {
-                "en": "ZOO",
-                "ja": "ZOO"
-            },
-            "subtitle": {
-                "en": "Zootopia 2",
-                "ja": "「ズートピア２」より"
-            },
-            "category": "Anime",
-            "offset": -1.47,
-            "courses": {
-                "Oni": 7,
-                "Hard": 4,
-                "Normal": 2,
-                "Easy": 2
-            }
-        },
-        {
             "path": "02 Anime/Zankoku na Yoru ni Kagayake/Zankoku na Yoru ni Kagayake.tja",
             "title": {
                 "en": "Zankoku na Yoru ni Kagayake",
@@ -54665,6 +54674,25 @@
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
+            "path": "02 Anime/Zoo/Zoo.tja",
+            "title": {
+                "en": "Zoo",
+                "ja": "Zoo"
+            },
+            "subtitle": {
+                "en": "Zootopia 2",
+                "ja": "「ズートピア２」より"
+            },
+            "category": "Anime",
+            "offset": -1.47,
+            "courses": {
+                "Oni": 7,
+                "Hard": 4,
+                "Normal": 2,
                 "Easy": 2
             }
         },
@@ -57296,7 +57324,7 @@
                 "ja": "feat.ミライ小町"
             },
             "category": "Vocaloid",
-            "offset": -1.741,
+            "offset": -1.738,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -58042,6 +58070,25 @@
                 "Hard": 3,
                 "Normal": 1,
                 "Easy": 1
+            }
+        },
+        {
+            "path": "04 Children and Folk/Himitsuki-tuber/Himitsuki-tuber.tja",
+            "title": {
+                "en": "Himitsuki-tuber",
+                "ja": "ヒミツキチューバー"
+            },
+            "subtitle": {
+                "en": "Hidekazu Tanaka/Ninja Box",
+                "ja": "「ニンジャボックス」より"
+            },
+            "category": "Children and Folk",
+            "offset": -3.658,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -63807,10 +63854,11 @@
                 "ja": "其方、激昂"
             },
             "subtitle": {
-                "en": "Katsuro Tajima"
+                "en": "Katsuro Tajima (BNSI)",
+                "ja": " "
             },
             "category": "Classical",
-            "offset": -1.369,
+            "offset": -1.366,
             "courses": {
                 "Oni": 10,
                 "Hard": 8,
@@ -66713,25 +66761,6 @@
             }
         },
         {
-            "path": "07 Game Music/Himitsuki-tuber/Himitsuki-tuber.tja",
-            "title": {
-                "en": "Himitsuki-tuber",
-                "ja": "ヒミツキチューバー"
-            },
-            "subtitle": {
-                "en": "Hidekazu Tanaka/Ninja Box",
-                "ja": "「ニンジャボックス」より"
-            },
-            "category": "Game Music",
-            "offset": -3.664,
-            "courses": {
-                "Oni": 8,
-                "Hard": 6,
-                "Normal": 4,
-                "Easy": 3
-            }
-        },
-        {
             "path": "07 Game Music/Hippare! Monster Strike/Hippare! Monster Strike.tja",
             "title": {
                 "en": "Hippare! Monster Strike",
@@ -66854,7 +66883,7 @@
                 "en": "Toby Fox/UNDERTALE"
             },
             "category": "Game Music",
-            "offset": -1.672,
+            "offset": -1.668,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -68491,7 +68520,7 @@
                 "ja": "「アイドルマスター」より"
             },
             "category": "Game Music",
-            "offset": -1.871,
+            "offset": -0.585,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -71701,13 +71730,20 @@
         {
             "path": "07 Game Music/The Encounter Code/The Encounter Code.tja",
             "title": {
-                "en": "The Encounter Code"
+                "en": "The Encounter Code",
+                "ja": "The Encounter Code"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "technoplanet From \"WHALAP Esports WEC2025\"",
+                "ja": "technoplanet 「WAHLAP eスポーツWEC2025」より"
+            },
             "category": "Game Music",
-            "offset": 0,
+            "offset": -1,
             "courses": {
-                "Oni": 9
+                "Oni": 9,
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -72506,13 +72542,21 @@
         {
             "path": "07 Game Music/When Enemies Collapse/When Enemies Collapse.tja",
             "title": {
-                "en": "When Enemies Collapse"
+                "en": "When Enemies Collapse",
+                "ja": "When Enemies Collapse"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "Daisuke Kurosawa From \"WHALAP Esports WEC2025\"",
+                "ja": "黒沢ダイスケ 「WAHLAP eスポーツWEC2025」より"
+            },
             "category": "Game Music",
-            "offset": -3.061,
+            "offset": -1.749,
             "courses": {
-                "Edit": 10
+                "Edit": 10,
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -80174,10 +80218,11 @@
                 "ja": "魔法式逃走奇譚☆ミ"
             },
             "subtitle": {
-                "en": "MOES feat. Kaiho Erika"
+                "en": "MOES feat. Erika Kaiho",
+                "ja": "MOES feat. 海保えりか"
             },
             "category": "Namco Original",
-            "offset": -1.694,
+            "offset": -1.693,
             "courses": {
                 "Oni": 9,
                 "Hard": 7,
@@ -80740,7 +80785,7 @@
                 "ja": "Mr.ランナー"
             },
             "subtitle": {
-                "en": "MOES feat. Singman",
+                "en": "MOES feat. singman",
                 "ja": "MOES feat. singman"
             },
             "category": "Namco Original",
@@ -81281,11 +81326,11 @@
                 "ja": "ON SAY GO SAY"
             },
             "subtitle": {
-                "en": "AZUpubschool feat. Sho-kun",
+                "en": "AZUpubschool feat. SHOW",
                 "ja": "ショウ君"
             },
             "category": "Namco Original",
-            "offset": -2.041,
+            "offset": -2.038,
             "courses": {
                 "Edit": 10,
                 "Oni": 8,
@@ -82225,12 +82270,12 @@
                 "ja": "翡翠"
             },
             "category": "Namco Original",
-            "offset": -2.793,
+            "offset": -2.794,
             "courses": {
-                "0": 4,
-                "1": 4,
                 "Oni": 8,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 4,
+                "Easy": 4
             }
         },
         {
