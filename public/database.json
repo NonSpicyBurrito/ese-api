@@ -1,5 +1,5 @@
 {
-    "commit": "4387f0e3d1c29abe7091e8b75a0dd946c8769841",
+    "commit": "cdaf2d1e1ecaa3e47d5c3d89cb5640a298e4b00c",
     "blobs": [
         {
             "type": "blob",
@@ -20583,12 +20583,12 @@
         },
         {
             "type": "blob",
-            "hash": "8826e1b5271d964cd97ab271bcf022f82583bfc3",
+            "hash": "8f93f14ad065c16609b416ba156848671e88eba4",
             "path": "07 Game Music/Remnath/Remnath.ogg"
         },
         {
             "type": "blob",
-            "hash": "4e8889280c926eb98e984612c943e1aeb6f7a716",
+            "hash": "87b66e202870db9480cd0c58fc6735bfec052dc2",
             "path": "07 Game Music/Remnath/Remnath.tja"
         },
         {
@@ -21373,7 +21373,7 @@
         },
         {
             "type": "blob",
-            "hash": "69923bd3c154221a90ce865e1067e247d237ec71",
+            "hash": "856ee57e69381cd1c7ef82cd65b68ec18f0f5479",
             "path": "07 Game Music/The Encounter Code/The Encounter Code.tja"
         },
         {
@@ -21798,7 +21798,7 @@
         },
         {
             "type": "blob",
-            "hash": "1ecbeb5dc0a67d6f1ad2b9d7c7ff8e33548d53be",
+            "hash": "f848c52e74d168c4fdf35b18b01d5d707d1bf68a",
             "path": "07 Game Music/When Enemies Collapse/When Enemies Collapse.tja"
         },
         {
@@ -22018,12 +22018,12 @@
         },
         {
             "type": "blob",
-            "hash": "22be0f365100bfcebcf3a77817d6ac3271828647",
+            "hash": "f25cf935885c753999cbd76960ad2e11f261129e",
             "path": "07 Game Music/ln(guis·tics)/ln(guis·tics).ogg"
         },
         {
             "type": "blob",
-            "hash": "b3cc0f752f7c99c3f131ddbad0fae944fe8f03cc",
+            "hash": "4f567a7f94120178881fdf8746604cbde8199e90",
             "path": "07 Game Music/ln(guis·tics)/ln(guis·tics).tja"
         },
         {
@@ -23948,7 +23948,7 @@
         },
         {
             "type": "blob",
-            "hash": "06049618ab8c82023a2023b8e53a94e49feeeb8d",
+            "hash": "1a487b038fc71667e8503914183e9046bbeae538",
             "path": "09 Namco Original/Chicken Game/Chicken Game.tja"
         },
         {
@@ -70260,13 +70260,20 @@
         {
             "path": "07 Game Music/Remnath/Remnath.tja",
             "title": {
-                "en": "Remnath"
+                "en": "Remnath",
+                "ja": "Remnath"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "penoreri From \"WAHLAP Esports WEC2025\"",
+                "ja": "ぺのれり 「WAHLAP eスポーツWEC2025」より"
+            },
             "category": "Game Music",
-            "offset": -2.934,
+            "offset": -1.925,
             "courses": {
-                "Oni": 10
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 6,
+                "Easy": 3
             }
         },
         {
@@ -71734,7 +71741,7 @@
                 "ja": "The Encounter Code"
             },
             "subtitle": {
-                "en": "technoplanet From \"WHALAP Esports WEC2025\"",
+                "en": "technoplanet From \"WAHLAP Esports WEC2025\"",
                 "ja": "technoplanet 「WAHLAP eスポーツWEC2025」より"
             },
             "category": "Game Music",
@@ -72546,7 +72553,7 @@
                 "ja": "When Enemies Collapse"
             },
             "subtitle": {
-                "en": "Daisuke Kurosawa From \"WHALAP Esports WEC2025\"",
+                "en": "Daisuke Kurosawa From \"WAHLAP Esports WEC2025\"",
                 "ja": "黒沢ダイスケ 「WAHLAP eスポーツWEC2025」より"
             },
             "category": "Game Music",
@@ -72955,13 +72962,20 @@
         {
             "path": "07 Game Music/ln(guis·tics)/ln(guis·tics).tja",
             "title": {
-                "en": "ln(guis·tics)"
+                "en": "ln(guis·tics)",
+                "ja": "ln(guis·tics)"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "Sephid From \"WAHLAP Esports WEC2025\"",
+                "ja": "Sephid 「WAHLAP eスポーツWEC2025」より"
+            },
             "category": "Game Music",
-            "offset": -1.387,
+            "offset": -1.5,
             "courses": {
-                "Oni": 10
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 5
             }
         },
         {
