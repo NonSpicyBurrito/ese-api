@@ -1,5 +1,5 @@
 {
-    "commit": "cdaf2d1e1ecaa3e47d5c3d89cb5640a298e4b00c",
+    "commit": "79e6707680c491df55af87a5dce3186ef9e1f804",
     "blobs": [
         {
             "type": "blob",
@@ -1613,7 +1613,7 @@
         },
         {
             "type": "blob",
-            "hash": "7484eae2058a64ff4036c43e8ff0d3ebf861f387",
+            "hash": "316950fd88c299c759670d2257eebb1718a85b03",
             "path": "01 Pop/GODSONG/GODSONG.tja"
         },
         {
@@ -1883,7 +1883,7 @@
         },
         {
             "type": "blob",
-            "hash": "0cf7d9cdda80edeb70361d459b6c96365e14295e",
+            "hash": "85cc3afd1d6eb4dc5b0363850f40a1743b1ea66c",
             "path": "01 Pop/Hakujitsu/Hakujitsu.tja"
         },
         {
@@ -2143,7 +2143,7 @@
         },
         {
             "type": "blob",
-            "hash": "b14ccc2e711a7f059d6b1f530ca3d894322dcece",
+            "hash": "44929d0ff9db2725eeb5c8bff84f69d0df4a5c2e",
             "path": "01 Pop/Hoshikage no Yell/Hoshikage no Yell.tja"
         },
         {
@@ -2553,7 +2553,7 @@
         },
         {
             "type": "blob",
-            "hash": "66bec0c1169435748b49d00195fa95f498ef27dd",
+            "hash": "7fac9b186c7c8f95da14f27da1810198992fe57c",
             "path": "01 Pop/Kanden/Kanden.tja"
         },
         {
@@ -3143,7 +3143,7 @@
         },
         {
             "type": "blob",
-            "hash": "f9a8a7d7742629c9b269e0ef888b86fe18a7b5ee",
+            "hash": "c1662437f222acb670cf183f7d233ef1c1bcbfc0",
             "path": "01 Pop/Last Christmas/Last Christmas.tja"
         },
         {
@@ -6793,12 +6793,12 @@
         },
         {
             "type": "blob",
-            "hash": "8e90b463e2d0c4a35c8cac88dd7e837b3802530d",
+            "hash": "a57239c7ca0e36f7793911ee15901c32812880b0",
             "path": "02 Anime/1・2・3/1 2 3.ogg"
         },
         {
             "type": "blob",
-            "hash": "183eaad510e8c9e6c8f1ff5945cd81305c209df2",
+            "hash": "f7057ace1b61cdffa7efa0b0d29ae789e84c1007",
             "path": "02 Anime/1・2・3/1 2 3.tja"
         },
         {
@@ -7488,7 +7488,7 @@
         },
         {
             "type": "blob",
-            "hash": "4bb2cfcf1e2f3dc80d20938efdc858e42f48364f",
+            "hash": "905ad17320048ce7132c64886ca1ef657244621e",
             "path": "02 Anime/Checkmate!/Checkmate!.tja"
         },
         {
@@ -8358,7 +8358,7 @@
         },
         {
             "type": "blob",
-            "hash": "fb2ea2a25878b0c0a0882c2d2fc28e7382c11c6f",
+            "hash": "c01858640904de1a6d9ea4dfe11e10625024908e",
             "path": "02 Anime/Gomakashi/Gomakashi.tja"
         },
         {
@@ -10478,7 +10478,7 @@
         },
         {
             "type": "blob",
-            "hash": "b2bf30170e9be1dafcd3e803960d12a3553a4c30",
+            "hash": "2da13e0f1a3b66c49fc7d47c77325e62c2fcfe24",
             "path": "02 Anime/PHOENIX/PHOENIX.tja"
         },
         {
@@ -15758,7 +15758,7 @@
         },
         {
             "type": "blob",
-            "hash": "0be90ea91b9b8456f0aba29314ccb4069eaa33e9",
+            "hash": "7ac27b7b8f1aa0b97b4cc381e3f78bac25815a57",
             "path": "05 Variety/Help me, ERINNNNNN!! -Cranky Remix-/Help me, ERINNNNNN!! -Cranky Remix-.tja"
         },
         {
@@ -15778,7 +15778,7 @@
         },
         {
             "type": "blob",
-            "hash": "048763f2d621b7bb410f3c1ffdf9da2425037fc3",
+            "hash": "45fa752eda8e79ee50ca60bc98f2d76189781549",
             "path": "05 Variety/Help me, ERINNNNNN!!/Help me, ERINNNNNN!!.tja"
         },
         {
@@ -17558,7 +17558,7 @@
         },
         {
             "type": "blob",
-            "hash": "61cdbc919cb39385d83e81f37d1e354b40e90137",
+            "hash": "ff606ba88b131e545601d7450dad7deb3597ab9b",
             "path": "07 Game Music/ANiMA/ANiMA.tja"
         },
         {
@@ -17788,7 +17788,7 @@
         },
         {
             "type": "blob",
-            "hash": "874990e13c708b10e7f2ffa337326518b7b82b53",
+            "hash": "cbca4e3c873571264082ddc2e5abb19f3cc04497",
             "path": "07 Game Music/BORN ON DREAM! ～HANABI☆NIGHT～/BORN ON DREAM! HANABI NIGHT.tja"
         },
         {
@@ -20083,7 +20083,7 @@
         },
         {
             "type": "blob",
-            "hash": "3d41f8055ef9ffe2f5d05744d3781fcac4026ede",
+            "hash": "a8a862c687993060a5debe38405a15c88e21f89e",
             "path": "07 Game Music/Nihiki wa Neko Tomo!/Nihiki wa Neko Tomo!.tja"
         },
         {
@@ -24704,12 +24704,12 @@
         {
             "type": "blob",
             "hash": "9685af5966b03c381a20b8e04f75bacd6b34d843",
-            "path": "09 Namco Original/Drawin’☆Dream!/Drawin Dream!.ogg"
+            "path": "09 Namco Original/Drawing☆Dream!/Drawing Dream!.ogg"
         },
         {
             "type": "blob",
-            "hash": "be452dab9c05c3341ae944272f2bbd466d85388b",
-            "path": "09 Namco Original/Drawin’☆Dream!/Drawin Dream!.tja"
+            "hash": "0aae358a320bf4251388d0fbcd1c1db7673ee315",
+            "path": "09 Namco Original/Drawing☆Dream!/Drawing Dream!.tja"
         },
         {
             "type": "blob",
@@ -29683,7 +29683,7 @@
         },
         {
             "type": "blob",
-            "hash": "db5aa6d8711c1efe209ebe8d126d60dd410fed80",
+            "hash": "e8f9490ebf8d0cabee69f0d2bd637bfa193a4353",
             "path": "09 Namco Original/Wavy Baby/Wavy Baby.tja"
         },
         {
@@ -30138,7 +30138,7 @@
         },
         {
             "type": "blob",
-            "hash": "b716955c5b07a37a849fb05f59f1b4f6691d6a0b",
+            "hash": "2bdc97fd1a2103b1123e2796473bb4a64664ff87",
             "path": "09 Namco Original/integral/∫ -integral-.tja"
         },
         {
@@ -34886,7 +34886,7 @@
                 "ja": "ゴッドソング"
             },
             "subtitle": {
-                "en": "Band Ja Naimon! MAXX NAKAYOSHI/Goddotan",
+                "en": "BAND JA NAIMON! MAXX NAKAYOSHI/Goddotan",
                 "ja": "バンドじゃないもん！MAXX NAKAYOSHI"
             },
             "category": "Pop",
@@ -35382,10 +35382,11 @@
                 "ja": "白日"
             },
             "subtitle": {
-                "en": "King Gnu/Innocence Enzai Bengoushi"
+                "en": "Innocence Enzai Bengoushi",
+                "ja": " "
             },
             "category": "Pop",
-            "offset": -2.704,
+            "offset": -2.7,
             "courses": {
                 "Oni": 8,
                 "Hard": 2,
@@ -35869,8 +35870,8 @@
                 "ja": "星影のエール"
             },
             "subtitle": {
-                "en": "GReeeeN/Yell",
-                "ja": "「エール」より"
+                "en": "Yell",
+                "ja": "連続テレビ小説「エール」主題歌"
             },
             "category": "Pop",
             "offset": -3.245,
@@ -36628,16 +36629,16 @@
                 "ja": "感電"
             },
             "subtitle": {
-                "en": "Kenshi Yonezu/MIU404",
+                "en": "Kenshi Yonezu / MIU404",
                 "ja": "米津玄師 ／ TBS系金曜ドラマ「MIU404」主題歌"
             },
             "category": "Pop",
             "offset": -2.455,
             "courses": {
-                "0": 1,
-                "1": 2,
-                "2": 4,
-                "Oni": 8
+                "Oni": 8,
+                "Hard": 4,
+                "Normal": 2,
+                "Easy": 1
             }
         },
         {
@@ -37736,7 +37737,8 @@
                 "ja": "LAST CHRISTMAS"
             },
             "subtitle": {
-                "en": "Wham!"
+                "en": " ",
+                "ja": " "
             },
             "category": "Pop",
             "offset": -2.299,
@@ -44364,13 +44366,15 @@
         {
             "path": "02 Anime/1・2・3/1 2 3.tja",
             "title": {
-                "en": "1・2・3"
+                "en": "1・2・3",
+                "ja": "１・２・３"
             },
             "subtitle": {
-                "en": "After the Rain/Pokémon Journeys： The Series"
+                "en": "After the Rain / Pokémon Journeys： The Series",
+                "ja": "After the Rain（そらる×まふまふ） 「ポケットモンスター」より"
             },
             "category": "Anime",
-            "offset": -0.108,
+            "offset": -1,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -45656,11 +45660,11 @@
         {
             "path": "02 Anime/Checkmate!/Checkmate!.tja",
             "title": {
-                "en": "Checkmate⁉",
-                "ja": "Checkmate⁉"
+                "en": "Checkmate!?",
+                "ja": "Checkmate!?"
             },
             "subtitle": {
-                "en": "MICHI/Dagashi Kashi",
+                "en": "Dagashi Kashi",
                 "ja": "「だがしかし」より"
             },
             "category": "Anime",
@@ -47299,16 +47303,16 @@
                 "ja": "ごまかし"
             },
             "subtitle": {
-                "en": "TrySail/Magia Record： Mahou Shoujo Madoka☆Magica Gaiden",
+                "en": "Magia Record： Mahou Shoujo Madoka☆Magica Gaiden",
                 "ja": "「マギアレコード 魔法少女まどか☆マギカ外伝」より"
             },
             "category": "Anime",
             "offset": -2.751,
             "courses": {
-                "0": 3,
-                "1": 6,
                 "Oni": 8,
-                "Hard": 5
+                "Hard": 5,
+                "Normal": 6,
+                "Easy": 3
             }
         },
         {
@@ -51311,16 +51315,16 @@
                 "ja": "PHOENIX"
             },
             "subtitle": {
-                "en": "BURNOUT SYNDROMES/Haikyuu‼ TO THE TOP",
+                "en": "Haikyuu‼ TO THE TOP",
                 "ja": "「ハイキュー!! TO THE TOP」より"
             },
             "category": "Anime",
             "offset": -1.982,
             "courses": {
-                "0": 3,
-                "1": 4,
                 "Oni": 8,
-                "Hard": 5
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -60997,7 +61001,7 @@
         {
             "path": "05 Variety/Help me, ERINNNNNN!! -Cranky Remix-/Help me, ERINNNNNN!! -Cranky Remix-.tja",
             "title": {
-                "en": "Help me, ERINNNNNN‼ -Cranky remix-",
+                "en": "Help me, ERINNNNNN!! -Cranky remix-",
                 "ja": "Help me, ERINNNNNN!! -Cranky remix-"
             },
             "subtitle": {
@@ -61035,8 +61039,8 @@
         {
             "path": "05 Variety/Help me, ERINNNNNN!!/Help me, ERINNNNNN!!.tja",
             "title": {
-                "en": "Help me, ERINNNNNN‼",
-                "ja": "Help me, ERINNNNNN‼"
+                "en": "Help me, ERINNNNNN!!",
+                "ja": "Help me, ERINNNNNN!!"
             },
             "subtitle": {
                 "en": "beatMARIO (COOL&CREATE)/Touhou Project",
@@ -64377,7 +64381,7 @@
                 "ja": "ANiMA"
             },
             "subtitle": {
-                "en": "xi/DEEMO",
+                "en": "xi / DEEMO",
                 "ja": "xi 「DEEMO」より"
             },
             "category": "Game Music",
@@ -64817,14 +64821,15 @@
                 "ja": "BORN ON DREAM! ～HANABI☆NIGHT～"
             },
             "subtitle": {
-                "en": "Senkou☆HANABI Dan/THE iDOLM@STER Million Live! Theater Days"
+                "en": "Senkou☆HANABI Dan/THE iDOLM@STER Million Live! Theater Days",
+                "ja": "「アイドルマスター ミリオンライブ！ シアターデイズ」より"
             },
             "category": "Game Music",
-            "offset": -1.747,
+            "offset": -1.746,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
-                "Normal": 5,
+                "Normal": 3,
                 "Easy": 3
             }
         },
@@ -69283,7 +69288,7 @@
                 "ja": "にひきはネコトモ！"
             },
             "subtitle": {
-                "en": "Keiki Kobayashi feat. Misaki Machiya/Neko Tomo",
+                "en": "Keiki Kobayashi feat. Misaki Machiya / Neko Tomo",
                 "ja": "「ネコ・トモ」エンディング曲"
             },
             "category": "Game Music",
@@ -76118,22 +76123,22 @@
             }
         },
         {
-            "path": "09 Namco Original/Drawin’☆Dream!/Drawin Dream!.tja",
+            "path": "09 Namco Original/Drawing☆Dream!/Drawing Dream!.tja",
             "title": {
-                "en": "Drawin’☆Dream!",
+                "en": "Drawing☆Dream!",
                 "ja": "ドローイン☆ドリーム！"
             },
             "subtitle": {
                 "en": "Versus feat. Ayame Shirakura (NoWorld)",
-                "ja": "Versus feat.白黒黒白(NoWorld)"
+                "ja": "Versus feat. 白黒黒白(NoWorld)"
             },
             "category": "Namco Original",
-            "offset": -2.01,
+            "offset": -2.007,
             "courses": {
-                "0": 4,
-                "1": 6,
                 "Oni": 8,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -85642,10 +85647,10 @@
             "category": "Namco Original",
             "offset": -2.388,
             "courses": {
-                "0": 4,
-                "1": 6,
                 "Oni": 9,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
@@ -86488,10 +86493,10 @@
             "category": "Namco Original",
             "offset": -1.285,
             "courses": {
-                "0": 4,
-                "1": 6,
                 "Oni": 9,
-                "Hard": 6
+                "Hard": 6,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
