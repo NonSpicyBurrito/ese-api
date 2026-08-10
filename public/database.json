@@ -1,5 +1,5 @@
 {
-    "commit": "79e6707680c491df55af87a5dce3186ef9e1f804",
+    "commit": "a2cd5087e600287547952315721024dd16cd99fe",
     "blobs": [
         {
             "type": "blob",
@@ -1203,7 +1203,7 @@
         },
         {
             "type": "blob",
-            "hash": "17bf9ffc2229f3dd6df76c028dd7822f845d27f0",
+            "hash": "d2d17cc6746b06a7be29d345b72415b1f3a11b55",
             "path": "01 Pop/Dejavina -Japanese Version-/Dejavina -Japanese Version-.tja"
         },
         {
@@ -1953,7 +1953,7 @@
         },
         {
             "type": "blob",
-            "hash": "8936ec8e42b64fa4f851ae08b52dea234c0f1a24",
+            "hash": "e5c4275c0a0da9848ea8dc6f28ca1e96246e17e8",
             "path": "01 Pop/Haru wo Tsugeru/Haru wo Tsugeru.tja"
         },
         {
@@ -2128,6 +2128,16 @@
         },
         {
             "type": "blob",
+            "hash": "52a42f3939b669ace3b9feef3294921c11d19750",
+            "path": "01 Pop/Honmayade Nandeyanen Shirankedo/Honmayade Nandeyanen Shirankedo.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5fa08e30e868cf40c77cf358650d11324b9e5c2c",
+            "path": "01 Pop/Honmayade Nandeyanen Shirankedo/Honmayade Nandeyanen Shirankedo.tja"
+        },
+        {
+            "type": "blob",
             "hash": "b4b446bb4bcf3e2cdbd123abe7d352f3d913fa04",
             "path": "01 Pop/Honoo to Mori no Carnival/Honoo to Mori no Carnival.ogg"
         },
@@ -2183,7 +2193,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd69e36e763d79b5cffce3f86e4b509bb3fb90f9",
+            "hash": "ab42cfe9115a50a68c365a080acccf5885ffb51d",
             "path": "01 Pop/I Want You Back/I Want You Back.tja"
         },
         {
@@ -3933,7 +3943,7 @@
         },
         {
             "type": "blob",
-            "hash": "d0aa836dd85b3a7acd94736157e47956487e5dd9",
+            "hash": "87d81a3b662f968f3b0d6995f765e68b874adaa2",
             "path": "01 Pop/Neko/Neko.tja"
         },
         {
@@ -4913,7 +4923,7 @@
         },
         {
             "type": "blob",
-            "hash": "ebf6fad1a2364ad6bafe1a3ca1bdfdf2ca68cdb6",
+            "hash": "e10917749e6add39203bacd846044dc8d2562c5a",
             "path": "01 Pop/Saraba, Itoshiki Kanashimi Tachi yo/Saraba, Itoshiki Kanashimi Tachi yo -ZZ Version-.tja"
         },
         {
@@ -4923,7 +4933,7 @@
         },
         {
             "type": "blob",
-            "hash": "00efcdccdfd92d412316b6541445a99d1810ddde",
+            "hash": "7bc3968e45cb699221121402f2fa9b6ca0259612",
             "path": "01 Pop/Saraba, Itoshiki Kanashimi Tachi yo/Saraba, Itoshiki Kanashimi Tachi yo.tja"
         },
         {
@@ -6228,7 +6238,7 @@
         },
         {
             "type": "blob",
-            "hash": "94769370f1741efc1d988993a5f49452d6f2103f",
+            "hash": "faddf3d6429baa7362a5d922372ce06df1555ca4",
             "path": "01 Pop/Walking with you/Walking with you.tja"
         },
         {
@@ -8998,7 +9008,7 @@
         },
         {
             "type": "blob",
-            "hash": "662baec318b22d3af8b132bba95e8d20f15c140f",
+            "hash": "ca0d989ce40a42a898560c68a985ef1332fc3bc3",
             "path": "02 Anime/Into the Unknown/Into the Unknown.tja"
         },
         {
@@ -12733,7 +12743,7 @@
         },
         {
             "type": "blob",
-            "hash": "64e5e0552ce765315a4cc39c000f41ee03fa0979",
+            "hash": "ae352f36bcdb1997a95dba89972baa900efae0b9",
             "path": "03 Vocaloid/Future Melody -Kokoro Kara Mirai e-/Future Melody -Kokoro Kara Mirai e-.tja"
         },
         {
@@ -15784,12 +15794,12 @@
         {
             "type": "blob",
             "hash": "221fcad8ffd98b4c5ea20b8df773f2205b0b5b48",
-            "path": "05 Variety/He’s a Pirate/Hes a Pirate.ogg"
+            "path": "05 Variety/He’s A Pirate/Hes A Pirate.ogg"
         },
         {
             "type": "blob",
-            "hash": "40631d7b1c9df45c8483760e5d86b35d225daf20",
-            "path": "05 Variety/He’s a Pirate/Hes a Pirate.tja"
+            "hash": "340213ac35ed63a73ea85dffe5e053f868012bd6",
+            "path": "05 Variety/He’s A Pirate/Hes A Pirate.tja"
         },
         {
             "type": "blob",
@@ -15888,7 +15898,7 @@
         },
         {
             "type": "blob",
-            "hash": "688bd4eec103aef71295a9185ae2bffe1ca4a722",
+            "hash": "3a6ba4a990d2bf40b3e7349304e0ab4d26810662",
             "path": "05 Variety/Indiana Jones Theme/Indiana Jones Theme.tja"
         },
         {
@@ -16454,12 +16464,12 @@
         {
             "type": "blob",
             "hash": "dfbe9fd5548849f72a4282ee2a4326a9f0ba95e2",
-            "path": "05 Variety/Star Wars Title Theme/Star Wars Title Theme.ogg"
+            "path": "05 Variety/Star Wars Main Title/Star Wars Main Title.ogg"
         },
         {
             "type": "blob",
-            "hash": "4acd77df32cce46bc839d0dce96ac782425708dd",
-            "path": "05 Variety/Star Wars Title Theme/Star Wars Title Theme.tja"
+            "hash": "c8b9b6f620fe4c68408f0a1cb732905a31d9c3a9",
+            "path": "05 Variety/Star Wars Main Title/Star Wars Main Title.tja"
         },
         {
             "type": "blob",
@@ -17108,7 +17118,7 @@
         },
         {
             "type": "blob",
-            "hash": "7031d65686639cf90a4bd54619dc227f09cb5f5f",
+            "hash": "6485cfb72c16f119a6c2d15723e59d50f1a58ce7",
             "path": "06 Classical/Mars/Mars.tja"
         },
         {
@@ -21848,7 +21858,7 @@
         },
         {
             "type": "blob",
-            "hash": "9becee65681751c7313b5663b7b49decbbce396d",
+            "hash": "397fa01e916f117d98c51930e1383f3bba8968d3",
             "path": "07 Game Music/Wonder Momoi/Wonder Momoi.tja"
         },
         {
@@ -23768,7 +23778,7 @@
         },
         {
             "type": "blob",
-            "hash": "119a3fbdb98894c9c95156b6c3e92dafec279e54",
+            "hash": "6dd673b655c64b16b86c5d3b4b4c11d3fb0b6faf",
             "path": "09 Namco Original/Buru-chan no Oya2/Buru-chan no Oya2.tja"
         },
         {
@@ -29693,7 +29703,7 @@
         },
         {
             "type": "blob",
-            "hash": "3898964a671dfa167d3f1b4e90f09e6092847c9b",
+            "hash": "05ae257922a88a227d42742256f74e0bf3510125",
             "path": "09 Namco Original/Welcome to the Taiko Stadium!/Welcome to the Taiko Stadium!.tja"
         },
         {
@@ -29813,7 +29823,7 @@
         },
         {
             "type": "blob",
-            "hash": "6c66e06c0a473b8f17693902df6468cc42c3ee52",
+            "hash": "79a7a67570aafdf4c73a08463cc823363535ce88",
             "path": "09 Namco Original/Yami no Tamashii/Yami no Tamashii.tja"
         },
         {
@@ -34143,7 +34153,8 @@
                 "ja": "Dejavina (Japanese ver.)"
             },
             "subtitle": {
-                "en": "Recitalz/Zenryoku! Datsuryoku Times"
+                "en": "Recitalz/Zenryoku! Datsuryoku Times",
+                "ja": "リサイタルズ"
             },
             "category": "Pop",
             "offset": -2,
@@ -35520,10 +35531,10 @@
             "category": "Pop",
             "offset": -2.134,
             "courses": {
-                "0": 3,
-                "1": 4,
                 "Oni": 8,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -35845,6 +35856,25 @@
             }
         },
         {
+            "path": "01 Pop/Honmayade Nandeyanen Shirankedo/Honmayade Nandeyanen Shirankedo.tja",
+            "title": {
+                "en": "Honmayade☆Nandeyanen☆Shirankedo",
+                "ja": "ほんまやで☆なんでやねん☆しらんけど"
+            },
+            "subtitle": {
+                "en": "Monaki",
+                "ja": "モナキ"
+            },
+            "category": "Pop",
+            "offset": -3,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Honoo to Mori no Carnival/Honoo to Mori no Carnival.tja",
             "title": {
                 "en": "Honoo to Mori no Carnival",
@@ -35943,9 +35973,7 @@
                 "en": "I Want You Back",
                 "ja": "I Want You Back"
             },
-            "subtitle": {
-                "en": "The Jackson 5"
-            },
+            "subtitle": {},
             "category": "Pop",
             "offset": -2.551,
             "courses": {
@@ -39174,17 +39202,14 @@
                 "en": "Neko",
                 "ja": "猫"
             },
-            "subtitle": {
-                "en": "DISH//",
-                "ja": "｢魔法使いと黒猫のウィズ｣＆｢白猫プロジェクト｣より"
-            },
+            "subtitle": {},
             "category": "Pop",
             "offset": -4.338,
             "courses": {
-                "0": 2,
-                "1": 3,
                 "Oni": 8,
-                "Hard": 3
+                "Hard": 3,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -40955,7 +40980,7 @@
             "path": "01 Pop/Saraba, Itoshiki Kanashimi Tachi yo/Saraba, Itoshiki Kanashimi Tachi yo -ZZ Version-.tja",
             "title": {
                 "en": "Saraba, Itoshiki Kanashimi Tachi yo -ZZ Version-",
-                "ja": "サラバ、愛しき悲しみたちよ"
+                "ja": "サラバ、愛しき悲しみたちよ ‐ZZ ver.‐"
             },
             "subtitle": {
                 "en": "Momoiro Clover Z",
@@ -40981,7 +41006,7 @@
                 "ja": "ももいろクローバーZ"
             },
             "category": "Pop",
-            "offset": -1.701,
+            "offset": -1.709,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -43332,9 +43357,7 @@
                 "en": "Walking with you",
                 "ja": "Walking with you"
             },
-            "subtitle": {
-                "en": "Novelbright"
-            },
+            "subtitle": {},
             "category": "Pop",
             "offset": -1.463,
             "courses": {
@@ -48507,11 +48530,11 @@
                 "ja": "Into the Unknown"
             },
             "subtitle": {
-                "en": "Panic! At The Disco/Frozen Ⅱ",
+                "en": "Frozen Ⅱ",
                 "ja": "「アナと雪の女王2」より"
             },
             "category": "Anime",
-            "offset": -8.36,
+            "offset": -2.204,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -55553,10 +55576,10 @@
             "category": "Vocaloid",
             "offset": -2.811,
             "courses": {
-                "0": 3,
-                "1": 6,
                 "Oni": 8,
-                "Hard": 7
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 3
             }
         },
         {
@@ -61056,10 +61079,10 @@
             }
         },
         {
-            "path": "05 Variety/He’s a Pirate/Hes a Pirate.tja",
+            "path": "05 Variety/He’s A Pirate/Hes A Pirate.tja",
             "title": {
-                "en": "He’s a Pirate",
-                "ja": "He's a Pirate"
+                "en": "He's A Pirate",
+                "ja": "He's A Pirate"
             },
             "subtitle": {
                 "en": "Klaus Badelt/Pirates of the Caribbean",
@@ -61252,7 +61275,8 @@
                 "ja": "インディ・ジョーンズのテーマ"
             },
             "subtitle": {
-                "en": "John Williams/Indiana Jones"
+                "en": "John Williams/Indiana Jones",
+                "ja": " "
             },
             "category": "Variety",
             "offset": -3.874,
@@ -62317,13 +62341,14 @@
             }
         },
         {
-            "path": "05 Variety/Star Wars Title Theme/Star Wars Title Theme.tja",
+            "path": "05 Variety/Star Wars Main Title/Star Wars Main Title.tja",
             "title": {
-                "en": "Star Wars Title Theme",
-                "ja": "Star Wars： Main Title"
+                "en": "Star Wars: Main Title",
+                "ja": "Star Wars: Main Title"
             },
             "subtitle": {
-                "en": "John Williams/Star Wars"
+                "en": "John Williams/Star Wars",
+                "ja": "「スター・ウォーズ」より"
             },
             "category": "Variety",
             "offset": -2.623,
@@ -85656,7 +85681,8 @@
         {
             "path": "09 Namco Original/Welcome to the Taiko Stadium!/Welcome to the Taiko Stadium!.tja",
             "title": {
-                "en": "Welcome to the Taiko Stadium!"
+                "en": "Welcome to the Taiko Stadium!",
+                "ja": "Welcome to the Taiko Stadium!"
             },
             "subtitle": {
                 "en": "Kokoro Sagara × Daiki Ohara",
@@ -85665,10 +85691,10 @@
             "category": "Namco Original",
             "offset": -1.831,
             "courses": {
-                "0": 3,
-                "1": 5,
                 "Oni": 8,
-                "Hard": 6
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
             }
         },
         {
