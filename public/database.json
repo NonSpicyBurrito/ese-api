@@ -1,5 +1,5 @@
 {
-    "commit": "78553032cc68635f2b03ffe2e8521c514c32165b",
+    "commit": "aa9781bbb5c1c2e50ba8d3c00a120e3010fdc269",
     "blobs": [
         {
             "type": "blob",
@@ -785,6 +785,16 @@
             "type": "blob",
             "hash": "909d26c55a0105dccfc944ffe000335ac66254de",
             "path": "01 Pop/CANDY CANDY/CANDY CANDY.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "b00a3bfeb98790b9b6dbf4d26da0ba06dc2e522d",
+            "path": "01 Pop/CHARISMAX/CHARISMAX.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "82fafda45fa6e47e1796016772885fee2909ed3d",
+            "path": "01 Pop/CHARISMAX/CHARISMAX.tja"
         },
         {
             "type": "blob",
@@ -4938,6 +4948,16 @@
         },
         {
             "type": "blob",
+            "hash": "358ed96dc3513aa0cd5b87868c6f859d5e2e1a04",
+            "path": "01 Pop/Saudade/Saudade.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "1d25f489c657ac527591d7653b51fcabfc1a647a",
+            "path": "01 Pop/Saudade/Saudade.tja"
+        },
+        {
+            "type": "blob",
             "hash": "679ccd4a641f6f3bd452b334f44380a9529b4a57",
             "path": "01 Pop/Savage Love/Savage Love.ogg"
         },
@@ -5920,6 +5940,16 @@
             "type": "blob",
             "hash": "54240be8a79a9ac2951de6ac1a00a02be667a8c3",
             "path": "01 Pop/Tong Hua/Tong Hua.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "bd0162ab0efc49c3541881c863672b8a97a428c8",
+            "path": "01 Pop/Tontsukatantan/Tontsukatantan.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a5d5d36e682e43f10ca74c768e60e7219f144aa3",
+            "path": "01 Pop/Tontsukatantan/Tontsukatantan.tja"
         },
         {
             "type": "blob",
@@ -9673,7 +9703,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd70dc2c26ed940c56f2201b1a9b8fed00979dd4",
+            "hash": "90fd3f01077db51d24bf82a4416fef50ae582bbe",
             "path": "02 Anime/Let’s! Fresh Pretty Cure!/Lets! Fresh Pretty Cure!.tja"
         },
         {
@@ -20893,12 +20923,12 @@
         },
         {
             "type": "blob",
-            "hash": "6c465fd5d6d3776291194f47c9d622c7e35d2c28",
+            "hash": "642afc866cef6d5e6722b9f6ccf33e5656a9d9ef",
             "path": "07 Game Music/Sonic the Hedgehog Medley/Sonic the Hedgehog Medley.ogg"
         },
         {
             "type": "blob",
-            "hash": "080aa2f6201a371143d4473605f521940cecb48a",
+            "hash": "de96d60be2434069e9dfc1df9eceec0ea855d6d1",
             "path": "07 Game Music/Sonic the Hedgehog Medley/Sonic the Hedgehog Medley.tja"
         },
         {
@@ -25260,6 +25290,16 @@
             "type": "blob",
             "hash": "a59a2243c1892df71a240e630a7c023c207ed06f",
             "path": "09 Namco Original/HARDCORE no Kokoroe/HARDCORE no Kokoroe.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "9e4676059d99b8c618e8768dc398481f1d6c6375",
+            "path": "09 Namco Original/HYPERNOVA/HYPERNOVA.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "c1f71de129e15270f399cd2a78b5782fd843f2e9",
+            "path": "09 Namco Original/HYPERNOVA/HYPERNOVA.tja"
         },
         {
             "type": "blob",
@@ -33431,6 +33471,22 @@
             }
         },
         {
+            "path": "01 Pop/CHARISMAX/CHARISMAX.tja",
+            "title": {
+                "en": "CHARISMAX",
+                "ja": "カリスマックス"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.714,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/CITRUS/CITRUS.tja",
             "title": {
                 "en": "CITRUS",
@@ -41043,6 +41099,22 @@
             }
         },
         {
+            "path": "01 Pop/Saudade/Saudade.tja",
+            "title": {
+                "en": "Saudade",
+                "ja": "サウダージ"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.21,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 2
+            }
+        },
+        {
             "path": "01 Pop/Savage Love/Savage Love.tja",
             "title": {
                 "en": "Savage Love",
@@ -42816,6 +42888,22 @@
                 "Hard": 4,
                 "Normal": 4,
                 "Easy": 2
+            }
+        },
+        {
+            "path": "01 Pop/Tontsukatantan/Tontsukatantan.tja",
+            "title": {
+                "en": "Tontsukatantan",
+                "ja": "トンツカタンタン"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -1.567,
+            "courses": {
+                "Oni": 6,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -70907,7 +70995,7 @@
                 "ja": "SONIC THE HEDGEHOG"
             },
             "category": "Game Music",
-            "offset": -1.592,
+            "offset": -2.063,
             "courses": {
                 "Oni": 7,
                 "Hard": 4,
@@ -77225,6 +77313,25 @@
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/HYPERNOVA/HYPERNOVA.tja",
+            "title": {
+                "en": "HYPERNOVA",
+                "ja": "HYPERNOVA"
+            },
+            "subtitle": {
+                "en": "\"SUPERNOVA\" Remixed by Morimori Atsushi",
+                "ja": "「SUPERNOVA」 Remixed by モリモリあつし"
+            },
+            "category": "Namco Original",
+            "offset": -1.173,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 6,
                 "Easy": 5
             }
         },
