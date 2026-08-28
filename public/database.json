@@ -1,5 +1,5 @@
 {
-    "commit": "aa9781bbb5c1c2e50ba8d3c00a120e3010fdc269",
+    "commit": "1154bc7fcb1adf512df4d25bde03e49a2bb81e86",
     "blobs": [
         {
             "type": "blob",
@@ -1658,6 +1658,26 @@
         },
         {
             "type": "blob",
+            "hash": "627406092ec9ed6883e8734996f4579c195e5145",
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -New Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "19f8c3e43c8c4c981f55845435d41448a6afe214",
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -New Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "0f0b96ebc05bf32c5368492c05fce2d69d55b61b",
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -Old Audio Chart-.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "f9e50b356602a5d952a0950e3cc33a5a727cdcff",
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -Old Audio Chart-.tja"
+        },
+        {
+            "type": "blob",
             "hash": "f5ae2dbeef3b2517c202164050cfeb030f0127c5",
             "path": "01 Pop/Ge Zhong Qiang Shou/Ge Zhong Qiang Shou.ogg"
         },
@@ -1813,7 +1833,7 @@
         },
         {
             "type": "blob",
-            "hash": "8c36cbf49541ce9af3fefbc9e1406c59d6ee5959",
+            "hash": "065d76ba49395353b19b641fea1aa255d241ce73",
             "path": "01 Pop/HOT LIMIT/HOT LIMIT.tja"
         },
         {
@@ -8230,16 +8250,6 @@
             "type": "blob",
             "hash": "867ff4b3e3a5154ca311cc600e52be9442f7a558",
             "path": "02 Anime/Gake no Ue no Ponyo/Gake no Ue no Ponyo.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "0f0b96ebc05bf32c5368492c05fce2d69d55b61b",
-            "path": "02 Anime/Gakuen Tengoku/Gakuen Tengoku.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "cdb5d9cf3421f02b76e92fb0149681b58083a5bc",
-            "path": "02 Anime/Gakuen Tengoku/Gakuen Tengoku.tja"
         },
         {
             "type": "blob",
@@ -18500,6 +18510,16 @@
             "type": "blob",
             "hash": "1a019285481ba2aece66911aa5fdfff70cbd780b",
             "path": "07 Game Music/Fighting My Way/Fighting My Way.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1aa6f8a818bf2cb0f5b2a529af61204ef2ad316c",
+            "path": "07 Game Music/Fishing Spirits Wonder Medley/Fishing Spirits Wonder Medley.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ccd5955e90ed8873f46db086deb9aadf0405f931",
+            "path": "07 Game Music/Fishing Spirits Wonder Medley/Fishing Spirits Wonder Medley.tja"
         },
         {
             "type": "blob",
@@ -35045,6 +35065,42 @@
             }
         },
         {
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -New Audio Chart-.tja",
+            "title": {
+                "en": "Gakuen Tengoku -New Audio/Chart-",
+                "ja": "学園天国"
+            },
+            "subtitle": {
+                "ja": "新音源・譜面"
+            },
+            "category": "Pop",
+            "offset": -1,
+            "courses": {
+                "Oni": 5,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Gakuen Tengoku/Gakuen Tengoku -Old Audio Chart-.tja",
+            "title": {
+                "en": "Gakuen Tengoku -Old Audio/Chart-",
+                "ja": "学園天国"
+            },
+            "subtitle": {
+                "en": "Fushigiboshi no Futagohime Gyu!",
+                "ja": "旧音源・譜面"
+            },
+            "category": "Pop",
+            "offset": -1.676,
+            "courses": {
+                "Oni": 6,
+                "Hard": 3,
+                "Normal": 5
+            }
+        },
+        {
             "path": "01 Pop/Ge Zhong Qiang Shou/Ge Zhong Qiang Shou.tja",
             "title": {
                 "en": "Ge Zhong Qiang Shou"
@@ -35327,12 +35383,11 @@
                 "en": "HOT LIMIT",
                 "ja": "HOT LIMIT"
             },
-            "subtitle": {
-                "en": "T.M.Revolution"
-            },
+            "subtitle": {},
             "category": "Pop",
             "offset": -3.976,
             "courses": {
+                "Edit": 8,
                 "Oni": 7,
                 "Hard": 6,
                 "Normal": 4,
@@ -47130,23 +47185,6 @@
                 "Hard": 1,
                 "Normal": 2,
                 "Easy": 1
-            }
-        },
-        {
-            "path": "02 Anime/Gakuen Tengoku/Gakuen Tengoku.tja",
-            "title": {
-                "en": "Gakuen Tengoku",
-                "ja": "学園天国"
-            },
-            "subtitle": {
-                "en": "Kyoko Koizumi/Fushigiboshi no Futagohime Gyu!"
-            },
-            "category": "Anime",
-            "offset": -1.676,
-            "courses": {
-                "Oni": 6,
-                "Hard": 3,
-                "Normal": 5
             }
         },
         {
@@ -66254,6 +66292,22 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Fishing Spirits Wonder Medley/Fishing Spirits Wonder Medley.tja",
+            "title": {
+                "en": "Fishing Spirits Wonder Medley",
+                "ja": "釣りスピリッツ ワンダー メドレー"
+            },
+            "subtitle": {},
+            "category": "Game Music",
+            "offset": -1.749,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
