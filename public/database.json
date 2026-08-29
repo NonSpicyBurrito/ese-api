@@ -1,5 +1,5 @@
 {
-    "commit": "1154bc7fcb1adf512df4d25bde03e49a2bb81e86",
+    "commit": "39453f022bad05122e22ebd248374ffa8da7a2de",
     "blobs": [
         {
             "type": "blob",
@@ -29695,6 +29695,16 @@
             "type": "blob",
             "hash": "7a09308569b2c1ede2488d946d7819532eb52474",
             "path": "09 Namco Original/Vixtory/Vixtory.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "727228915193bcff1ca01c44e216558e9bd37de8",
+            "path": "09 Namco Original/Vrykolakas/Vrykolakas.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "ffa1c95e4dacb164b39ed786445bcd2cfdfeb4a0",
+            "path": "09 Namco Original/Vrykolakas/Vrykolakas.tja"
         },
         {
             "type": "blob",
@@ -85773,6 +85783,25 @@
                 "Hard": 7,
                 "Normal": 7,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/Vrykolakas/Vrykolakas.tja",
+            "title": {
+                "en": "Vrykolakas",
+                "ja": "Vrykolakas"
+            },
+            "subtitle": {
+                "en": "\"Nosferatu\" Remixed by Laur",
+                "ja": "「Nosferatu」 Remixed by Laur"
+            },
+            "category": "Namco Original",
+            "offset": -3.887,
+            "courses": {
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 6,
+                "Easy": 4
             }
         },
         {
