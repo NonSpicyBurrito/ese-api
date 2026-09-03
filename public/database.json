@@ -1,5 +1,5 @@
 {
-    "commit": "39453f022bad05122e22ebd248374ffa8da7a2de",
+    "commit": "60c17c3fe165c8c8797889b8bf593c216528ff93",
     "blobs": [
         {
             "type": "blob",
@@ -3275,6 +3275,16 @@
             "type": "blob",
             "hash": "5b6cd8201dc9b6772b2cedc379c46f78530e8865",
             "path": "01 Pop/Love Letter/Love Letter.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "ecf0c0198717386877ab5a14e3f93323faade586",
+            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "5c1518a1959d37df8e8cd4dc062d0382bdaf0bd0",
+            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.tja"
         },
         {
             "type": "blob",
@@ -7420,6 +7430,16 @@
             "type": "blob",
             "hash": "c1621a719b449fa30ae8a9cbec466d9436207eac",
             "path": "02 Anime/By My Side/By My Side.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "aacb74c38d3822d4e25d7390b1429634db211849",
+            "path": "02 Anime/CARMINE/CARMINE.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "97748164548ccb38a0408161ac5c001e16f8419b",
+            "path": "02 Anime/CARMINE/CARMINE.tja"
         },
         {
             "type": "blob",
@@ -21820,6 +21840,16 @@
             "type": "blob",
             "hash": "09424b50b972c2be279d9ed3bac054911fede86b",
             "path": "07 Game Music/Walking Through the Towers/Walking Through the Towers.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "37d29c9d6497bc91bb53e9dcddb39d1937de2b6c",
+            "path": "07 Game Music/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "be7fd4e227707b0e69a8903396ded7a7e0febb40",
+            "path": "07 Game Music/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1.tja"
         },
         {
             "type": "blob",
@@ -38089,6 +38119,21 @@
             }
         },
         {
+            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.tja",
+            "title": {
+                "en": "Love Love Love Love Bakyuun!"
+            },
+            "subtitle": {},
+            "category": "Pop",
+            "offset": -2.3,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "01 Pop/Love Shack/Love Shack.tja",
             "title": {
                 "en": "Love Shack",
@@ -45636,6 +45681,22 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "02 Anime/CARMINE/CARMINE.tja",
+            "title": {
+                "en": "CARMINE",
+                "ja": "カーマイン"
+            },
+            "subtitle": {},
+            "category": "Anime",
+            "offset": -0.171,
+            "courses": {
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
@@ -72709,6 +72770,22 @@
                 "Oni": 7,
                 "Hard": 5,
                 "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1.tja",
+            "title": {
+                "en": "Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1",
+                "ja": "湾岸ミッドナイト マキシマムチューン 6RR PLUS メドレー Vol.1"
+            },
+            "subtitle": {},
+            "category": "Game Music",
+            "offset": -0.191,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
                 "Easy": 3
             }
         },
