@@ -1,5 +1,5 @@
 {
-    "commit": "60c17c3fe165c8c8797889b8bf593c216528ff93",
+    "commit": "cce90d9caaf6e5ef809b89809bf3cd3dfbdda4ef",
     "blobs": [
         {
             "type": "blob",
@@ -243,7 +243,7 @@
         },
         {
             "type": "blob",
-            "hash": "60ada7ba1de47bb57cd0663820406cf6cfd68ef8",
+            "hash": "d6734bec86e82df154d4c4edaf1dfbdb16827169",
             "path": "01 Pop/Ai no Katachi/Ai no Katachi.tja"
         },
         {
@@ -823,7 +823,7 @@
         },
         {
             "type": "blob",
-            "hash": "e9c8bbe57270e4ebe2b50c591a89fd74de413fce",
+            "hash": "0ac7aa8d6a14a5d5afc2a570ba44049b71ba7e1f",
             "path": "01 Pop/Candy Pop/Candy Pop.tja"
         },
         {
@@ -3279,12 +3279,12 @@
         {
             "type": "blob",
             "hash": "ecf0c0198717386877ab5a14e3f93323faade586",
-            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.ogg"
+            "path": "01 Pop/Love Love Love Love Love Bakyuun!/Love Love Love Love Love Bakyuun!.ogg"
         },
         {
             "type": "blob",
-            "hash": "5c1518a1959d37df8e8cd4dc062d0382bdaf0bd0",
-            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.tja"
+            "hash": "f5313f0ffff1248f204aec7515d942b05cce7bbf",
+            "path": "01 Pop/Love Love Love Love Love Bakyuun!/Love Love Love Love Love Bakyuun!.tja"
         },
         {
             "type": "blob",
@@ -7438,7 +7438,7 @@
         },
         {
             "type": "blob",
-            "hash": "97748164548ccb38a0408161ac5c001e16f8419b",
+            "hash": "2308ef6c04eb1e243396020d538a91eadf8894b8",
             "path": "02 Anime/CARMINE/CARMINE.tja"
         },
         {
@@ -18318,7 +18318,7 @@
         },
         {
             "type": "blob",
-            "hash": "c1044b846bf050ceebacf66e6cfb56766570e4b2",
+            "hash": "45d0408dc27a61f8a28b205d3abddb14a3c01d84",
             "path": "07 Game Music/Doom Noiz/Doom Noiz.tja"
         },
         {
@@ -21848,7 +21848,7 @@
         },
         {
             "type": "blob",
-            "hash": "be7fd4e227707b0e69a8903396ded7a7e0febb40",
+            "hash": "043e41c52d03d193e3af7f4cbae8abaf12a38761",
             "path": "07 Game Music/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol.1.tja"
         },
         {
@@ -25120,6 +25120,16 @@
             "type": "blob",
             "hash": "420a2a2db5951158b4da18fcf8e695906c2d6ae8",
             "path": "09 Namco Original/Fuun! Bachio Sensei/Fuun! Bachio Sensei.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "1b2dd957dcb5552578dc0620a41ad17c3391751f",
+            "path": "09 Namco Original/Fuwa Ride-on/Fuwa Ride-on.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "7e34e6361c42ac928684c98bd3a5b39797e35bc0",
+            "path": "09 Namco Original/Fuwa Ride-on/Fuwa Ride-on.tja"
         },
         {
             "type": "blob",
@@ -29068,7 +29078,7 @@
         },
         {
             "type": "blob",
-            "hash": "20c88deae67240a17348f78eed1c95fb5b6ec7ef",
+            "hash": "5ae69d554b794a7681de216fc4c6f722ff15d793",
             "path": "09 Namco Original/Taiko Drum Monster/Taiko Drum Monster.tja"
         },
         {
@@ -32530,11 +32540,11 @@
         {
             "path": "01 Pop/Ai no Katachi/Ai no Katachi.tja",
             "title": {
-                "en": "Ai no Katachi",
-                "ja": "アイノカタチ feat. HIDE (GReeeeN)"
+                "en": "Ai no Katachi feat. HIDE(GReeeeN)",
+                "ja": "アイノカタチ feat. HIDE(GReeeeN)"
             },
             "subtitle": {
-                "en": "MISIA feat. Hide (GReeeeN)"
+                "en": " "
             },
             "category": "Pop",
             "offset": -2.803,
@@ -33586,9 +33596,7 @@
                 "en": "Candy Pop",
                 "ja": "Candy Pop"
             },
-            "subtitle": {
-                "en": "TWICE"
-            },
+            "subtitle": {},
             "category": "Pop",
             "offset": -1.458,
             "courses": {
@@ -38119,13 +38127,17 @@
             }
         },
         {
-            "path": "01 Pop/Love Love Love Love Bakyuun!/Love Love Love Love Bakyuun!.tja",
+            "path": "01 Pop/Love Love Love Love Love Bakyuun!/Love Love Love Love Love Bakyuun!.tja",
             "title": {
-                "en": "Love Love Love Love Bakyuun!"
+                "en": "Love Love Love Love Love Bakyuun!",
+                "ja": "Love Love Love Love Loveばきゅーんっ！"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "Fairy Tales!",
+                "ja": "ふぇありーているず！"
+            },
             "category": "Pop",
-            "offset": -2.3,
+            "offset": -2.305,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -45689,9 +45701,12 @@
                 "en": "CARMINE",
                 "ja": "カーマイン"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "One Piece",
+                "ja": "「ワンピース」より"
+            },
             "category": "Anime",
-            "offset": -0.171,
+            "offset": -1.843,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -72781,7 +72796,7 @@
             },
             "subtitle": {},
             "category": "Game Music",
-            "offset": -0.191,
+            "offset": -1.843,
             "courses": {
                 "Oni": 8,
                 "Hard": 6,
@@ -77039,6 +77054,25 @@
                 "Edit": 9,
                 "Oni": 7,
                 "Hard": 6,
+                "Normal": 5,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Fuwa Ride-on/Fuwa Ride-on.tja",
+            "title": {
+                "en": "Fuwa Ride-on",
+                "ja": "付和ライドオン"
+            },
+            "subtitle": {
+                "en": "hiyama & Yasunori Matsuya feat. Rika Morinaga",
+                "ja": "hiyama ＆ 松谷康德 feat. 森永理科"
+            },
+            "category": "Namco Original",
+            "offset": -1.501,
+            "courses": {
+                "Oni": 9,
+                "Hard": 7,
                 "Normal": 5,
                 "Easy": 3
             }
@@ -84589,11 +84623,11 @@
                 "ja": "Taiko Drum Monster"
             },
             "subtitle": {
-                "en": "steμ feat. siroa",
-                "ja": "steμ feat.siroa"
+                "en": "steμ(BNSI) feat. siroa",
+                "ja": "steμ(BNSI) feat.siroa"
             },
             "category": "Namco Original",
-            "offset": -1.905,
+            "offset": -1.68,
             "courses": {
                 "Edit": 10,
                 "Oni": 10,
