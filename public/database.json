@@ -1,5 +1,5 @@
 {
-    "commit": "cce90d9caaf6e5ef809b89809bf3cd3dfbdda4ef",
+    "commit": "42a2146ef4f169fb8ccd37ff5f3ef448ba28818e",
     "blobs": [
         {
             "type": "blob",
@@ -30370,6 +30370,16 @@
             "type": "blob",
             "hash": "712e31191afbdb2a8c35bc45d9fb0c98961bba05",
             "path": "09 Namco Original/punk bastards/punk bastards.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "08cd5854deb464f60483f1fe21d6f9243d9cdc58",
+            "path": "09 Namco Original/resume story/resume story.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "3069de53b09ddab055f8671dd5504dd667fc327b",
+            "path": "09 Namco Original/resume story/resume story.tja"
         },
         {
             "type": "blob",
@@ -87071,6 +87081,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 5
+            }
+        },
+        {
+            "path": "09 Namco Original/resume story/resume story.tja",
+            "title": {
+                "en": "resume:story",
+                "ja": "resume:story"
+            },
+            "subtitle": {
+                "en": "\"Operate Me\" Remixed by BlackY feat. Risa Yuzuki",
+                "ja": "「オペレート・ミー」 Remixed by BlackY feat. Risa Yuzuki"
+            },
+            "category": "Namco Original",
+            "offset": -2.127,
+            "courses": {
+                "Oni": 8,
+                "Hard": 6,
+                "Normal": 5,
+                "Easy": 4
             }
         },
         {
