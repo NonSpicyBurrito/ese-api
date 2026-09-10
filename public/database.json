@@ -1,5 +1,5 @@
 {
-    "commit": "69716c20fb146c40dd3efdd24d83ac5c125bfe44",
+    "commit": "ab29009bf15182344e9b3c9ea69bf119774efe2c",
     "blobs": [
         {
             "type": "blob",
@@ -1375,6 +1375,16 @@
             "type": "blob",
             "hash": "db32e49801e4c74c91fa741f7a1b6efb873d5193",
             "path": "01 Pop/Eastern District/Eastern District.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "5a388dabe5ff316c2ebd4865307f7f3179d9b9f9",
+            "path": "01 Pop/Ebichili Hajimemashita/Ebichili Hajimemashita.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "061c2c750b85262a8ad8c44a8b516d186381bb65",
+            "path": "01 Pop/Ebichili Hajimemashita/Ebichili Hajimemashita.tja"
         },
         {
             "type": "blob",
@@ -10033,7 +10043,7 @@
         },
         {
             "type": "blob",
-            "hash": "e9f3c6bb80a8c964eb96ee01610098089e8006ca",
+            "hash": "bde30e0fcd74d96c980f813aaa47308736d84cef",
             "path": "02 Anime/Mission KenKouDaiIchi/Mission Ken Kou Dai Ichi.tja"
         },
         {
@@ -12493,7 +12503,7 @@
         },
         {
             "type": "blob",
-            "hash": "446ce93212a27dda618067a55bccdfa44fb43dc5",
+            "hash": "69fe08acf18c7a5481fc13eb1feff299710acd02",
             "path": "03 Vocaloid/41 no Sorezore no Mirai/41 no Sorezore no Mirai.tja"
         },
         {
@@ -12543,7 +12553,7 @@
         },
         {
             "type": "blob",
-            "hash": "5f03bef3f40b69aa00b6151be40b29db13ae15b0",
+            "hash": "64cf014f269f8bdafbd5437a625f7aa10a56a9b7",
             "path": "03 Vocaloid/Ame to Petra/Ame to Petra.tja"
         },
         {
@@ -13713,7 +13723,7 @@
         },
         {
             "type": "blob",
-            "hash": "e22946170f1d9a4dedb32da8c14fd3c2c1506c8b",
+            "hash": "b3ccd2bee32da8cd7e23e6d9b9825a2a059f9b7f",
             "path": "03 Vocaloid/Zankyou/Zankyou.tja"
         },
         {
@@ -27828,7 +27838,7 @@
         },
         {
             "type": "blob",
-            "hash": "9f039a5663da83d5a8652314c6e021f6073bbf66",
+            "hash": "33774b790369d619851f77f66a1719d1da491679",
             "path": "09 Namco Original/Pan vs Gohan Daikessen/Pan vs Gohan Daikessen.tja"
         },
         {
@@ -34620,6 +34630,25 @@
             "offset": -3.873,
             "courses": {
                 "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Ebichili Hajimemashita/Ebichili Hajimemashita.tja",
+            "title": {
+                "en": "Ebichili, Hajimemashita",
+                "ja": "えびチリ、はじめました"
+            },
+            "subtitle": {
+                "en": "Shiritsu Ebisu Chugaku",
+                "ja": "私立恵比寿中学"
+            },
+            "category": "Pop",
+            "offset": -1.149,
+            "courses": {
+                "Oni": 6,
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
@@ -50605,10 +50634,11 @@
                 "ja": "ミッション！健・康・第・イチ"
             },
             "subtitle": {
-                "en": "Hataraku Saibou/Cells At Work"
+                "en": "Hataraku Saibou/Cells At Work",
+                "ja": "--「はたらく細胞」より"
             },
             "category": "Anime",
-            "offset": -1.438,
+            "offset": -1.436,
             "courses": {
                 "Oni": 7,
                 "Hard": 5,
@@ -57584,7 +57614,7 @@
                 "ja": "164 feat.GUMI 「戦闘摂理解析システム#コンパス」より"
             },
             "category": "Vocaloid",
-            "offset": -3.653,
+            "offset": -1.938,
             "courses": {
                 "Edit": 9,
                 "Oni": 6,
