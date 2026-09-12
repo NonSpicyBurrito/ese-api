@@ -1,5 +1,5 @@
 {
-    "commit": "29f3e0aa2d2f37d4ad5bf827c45161c9a9d4b815",
+    "commit": "f031e9d2c256a91d5b17f4bc8432d33e8c8922dc",
     "blobs": [
         {
             "type": "blob",
@@ -25378,7 +25378,7 @@
         },
         {
             "type": "blob",
-            "hash": "c1f71de129e15270f399cd2a78b5782fd843f2e9",
+            "hash": "b0354c9047cb98a28c7da6f0cd33c7300a746a80",
             "path": "09 Namco Original/HYPERNOVA/HYPERNOVA.tja"
         },
         {
@@ -29768,7 +29768,7 @@
         },
         {
             "type": "blob",
-            "hash": "ffa1c95e4dacb164b39ed786445bcd2cfdfeb4a0",
+            "hash": "97d20a811050c0580c9e87d86ed84174b9555571",
             "path": "09 Namco Original/Vrykolakas/Vrykolakas.tja"
         },
         {
@@ -30403,7 +30403,7 @@
         },
         {
             "type": "blob",
-            "hash": "3069de53b09ddab055f8671dd5504dd667fc327b",
+            "hash": "2b71a81abdefd3ff8801086c71b76659468ee531",
             "path": "09 Namco Original/resume story/resume story.tja"
         },
         {
@@ -77576,6 +77576,7 @@
             "category": "Namco Original",
             "offset": -1.173,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 6,
@@ -85998,6 +85999,7 @@
             "category": "Namco Original",
             "offset": -3.887,
             "courses": {
+                "Edit": 10,
                 "Oni": 10,
                 "Hard": 8,
                 "Normal": 6,
@@ -87175,6 +87177,7 @@
             "category": "Namco Original",
             "offset": -2.127,
             "courses": {
+                "Edit": 10,
                 "Oni": 8,
                 "Hard": 6,
                 "Normal": 5,
