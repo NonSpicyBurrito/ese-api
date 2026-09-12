@@ -1,5 +1,5 @@
 {
-    "commit": "ab29009bf15182344e9b3c9ea69bf119774efe2c",
+    "commit": "29f3e0aa2d2f37d4ad5bf827c45161c9a9d4b815",
     "blobs": [
         {
             "type": "blob",
@@ -16100,6 +16100,16 @@
             "type": "blob",
             "hash": "4acaabc6e6ca3de4266a9ea09888442f15434295",
             "path": "05 Variety/Kokihi no Shinzou SCARLET HEART/Kokihi no Shinzou SCARLET HEART.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "c96b6460a50cdb960cd6b60ae57e15004f7109e2",
+            "path": "05 Variety/Kyouiku Bangumi no Theme/Kyouiku Bangumi no Theme.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "137c868afd491cbd85a90813d6b5066c72cf32f0",
+            "path": "05 Variety/Kyouiku Bangumi no Theme/Kyouiku Bangumi no Theme.tja"
         },
         {
             "type": "blob",
@@ -61810,6 +61820,23 @@
                 "Hard": 6,
                 "Normal": 5,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "05 Variety/Kyouiku Bangumi no Theme/Kyouiku Bangumi no Theme.tja",
+            "title": {
+                "en": "Kyouiku Bangumi no Theme",
+                "ja": "きょういくばんぐみのテーマ"
+            },
+            "subtitle": {},
+            "category": "Variety",
+            "offset": -1.5,
+            "courses": {
+                "Edit": 9,
+                "Oni": 7,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 2
             }
         },
         {
