@@ -1,5 +1,5 @@
 {
-    "commit": "f031e9d2c256a91d5b17f4bc8432d33e8c8922dc",
+    "commit": "ec642ae8444e3bb66d1e8d09668926d02281c6ad",
     "blobs": [
         {
             "type": "blob",
@@ -1735,16 +1735,6 @@
             "type": "blob",
             "hash": "e0377b5a88ec8b2b3c1c21cb34e19455491a0143",
             "path": "01 Pop/Glass o Ware/Glass o Ware.tja"
-        },
-        {
-            "type": "blob",
-            "hash": "89c995c4de151483e2c881bd2c869495f39e2568",
-            "path": "01 Pop/Go Go Yuureisen/Go Go Yuureisen.ogg"
-        },
-        {
-            "type": "blob",
-            "hash": "64db2f80bbbf1a0418f6377d9c43bd4d4374b86d",
-            "path": "01 Pop/Go Go Yuureisen/Go Go Yuureisen.tja"
         },
         {
             "type": "blob",
@@ -11578,7 +11568,7 @@
         },
         {
             "type": "blob",
-            "hash": "817bcb12b1d0d9b8fae05907f2332c5c657ced71",
+            "hash": "b2c90d0b289c03165ef345cf201e3d2c9bdccd0c",
             "path": "02 Anime/Together/Together.tja"
         },
         {
@@ -15750,6 +15740,16 @@
             "type": "blob",
             "hash": "3b5e4ec1016570bee487b943a0759b0d1fb873df",
             "path": "05 Variety/Gensou no Satellite/Gensou no Satellite.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "89c995c4de151483e2c881bd2c869495f39e2568",
+            "path": "05 Variety/Go Go Yuureisen/Go Go Yuureisen.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6fb02b17666dd81d15ac65a3e18b6304ed5f66c4",
+            "path": "05 Variety/Go Go Yuureisen/Go Go Yuureisen.tja"
         },
         {
             "type": "blob",
@@ -20858,7 +20858,7 @@
         },
         {
             "type": "blob",
-            "hash": "5b1b7fece209ecc1e3fea9286cffe4b15304efe8",
+            "hash": "960f0b7484cf143ab8a1d8e527ffa342ded19224",
             "path": "07 Game Music/Sakasama Sekai/Sakasama Sekai.tja"
         },
         {
@@ -25128,7 +25128,7 @@
         },
         {
             "type": "blob",
-            "hash": "2490776199106b72f3857efa5d0b1eab78b46b69",
+            "hash": "ea00e1afcbb5fde0654ead2828eadd014f7c9700",
             "path": "09 Namco Original/Fuun Bachio Sensei/Fuun Bachio Sensei.tja"
         },
         {
@@ -27138,6 +27138,16 @@
         },
         {
             "type": "blob",
+            "hash": "5675574024a804edcf7754cfae6ec76e5b705db1",
+            "path": "09 Namco Original/Mayoizuki/Mayoizuki.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "a1fc80164af8689a1a46851afe6155307aa36bf6",
+            "path": "09 Namco Original/Mayoizuki/Mayoizuki.tja"
+        },
+        {
+            "type": "blob",
             "hash": "e5b975da8750ef2957de8c4ba090a98a8636eac6",
             "path": "09 Namco Original/Meena no Oyashiki/Meena no Oyashiki.ogg"
         },
@@ -27530,6 +27540,16 @@
             "type": "blob",
             "hash": "395c767dd79e08d6dec5cb68abcfca9a6cba8e28",
             "path": "09 Namco Original/Ninja wa Saikou/Ninja wa Saikou.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "5ee8e07676fa9d1ed1a26392ba5e4f333948781e",
+            "path": "09 Namco Original/Nivalis Anima/Nivalis Anima.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "cf44729b973d63602da4e9b43b9dcaca8b8b3571",
+            "path": "09 Namco Original/Nivalis Anima/Nivalis Anima.tja"
         },
         {
             "type": "blob",
@@ -28818,6 +28838,16 @@
         },
         {
             "type": "blob",
+            "hash": "ee6a19473f1335838bcb94dfe1b5a1625493980d",
+            "path": "09 Namco Original/Silver Dawn Throne or Black Night Petalstone/Silver Dawn Throne or Black Night Petalstone.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "35877b963a09f26bcd90f73fb3bf4b8ae576deee",
+            "path": "09 Namco Original/Silver Dawn Throne or Black Night Petalstone/Silver Dawn Throne or Black Night Petalstone.tja"
+        },
+        {
+            "type": "blob",
             "hash": "e7553b43ee5ad25116b07e25da5016892aa495fe",
             "path": "09 Namco Original/Singing Rabbit Swinging/Singing Rabbit Swinging.ogg"
         },
@@ -29023,7 +29053,7 @@
         },
         {
             "type": "blob",
-            "hash": "12b5743bb9f1c8389e15546ef7f138d9c7169a92",
+            "hash": "3e6bc1955357bccbb5d3133d9a7a09f9cc9440e0",
             "path": "09 Namco Original/Sweet Sweet Magic/Sweet Sweet Magic.tja"
         },
         {
@@ -35290,25 +35320,6 @@
             "courses": {
                 "Oni": 6,
                 "Hard": 4,
-                "Normal": 4,
-                "Easy": 3
-            }
-        },
-        {
-            "path": "01 Pop/Go Go Yuureisen/Go Go Yuureisen.tja",
-            "title": {
-                "en": "Go Go Yuureisen",
-                "ja": "ゴーゴー幽霊船"
-            },
-            "subtitle": {
-                "en": "Kenshi Yonezu",
-                "ja": "ハチ ／ 米津玄師"
-            },
-            "category": "Pop",
-            "offset": -1.657,
-            "courses": {
-                "Oni": 7,
-                "Hard": 6,
                 "Normal": 4,
                 "Easy": 3
             }
@@ -53548,7 +53559,7 @@
             "courses": {
                 "Oni": 4,
                 "Hard": 4,
-                "Normal": 1,
+                "Normal": 2,
                 "Easy": 2
             }
         },
@@ -61164,6 +61175,25 @@
                 "Hard": 7,
                 "Normal": 6,
                 "Easy": 4
+            }
+        },
+        {
+            "path": "05 Variety/Go Go Yuureisen/Go Go Yuureisen.tja",
+            "title": {
+                "en": "Go Go Yuureisen",
+                "ja": "ゴーゴー幽霊船"
+            },
+            "subtitle": {
+                "en": "Kenshi Yonezu",
+                "ja": "ハチ ／ 米津玄師"
+            },
+            "category": "Variety",
+            "offset": -1.657,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 4,
+                "Easy": 3
             }
         },
         {
@@ -80937,6 +80967,26 @@
             }
         },
         {
+            "path": "09 Namco Original/Mayoizuki/Mayoizuki.tja",
+            "title": {
+                "en": "Mayoizuki",
+                "ja": "魔宵月"
+            },
+            "subtitle": {
+                "en": "Azu♪ vs Masahiro \"Godspeed\" Aoki vs Daisuke Kurosawa",
+                "ja": "あず♪ vs Masahiro \"Godspeed\" Aoki vs 黒沢ダイスケ"
+            },
+            "category": "Namco Original",
+            "offset": -2.45,
+            "courses": {
+                "Edit": 10,
+                "Oni": 10,
+                "Hard": 7,
+                "Normal": 6,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Meena no Oyashiki/Meena no Oyashiki.tja",
             "title": {
                 "en": "Meena no Oyashiki",
@@ -81683,6 +81733,26 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "09 Namco Original/Nivalis Anima/Nivalis Anima.tja",
+            "title": {
+                "en": "Nivalis＊Anima",
+                "ja": "Nivalis＊Anima"
+            },
+            "subtitle": {
+                "en": "MisoilePunch♪ vs CHUBAY",
+                "ja": "MisoilePunch♪ vs CHUBAY"
+            },
+            "category": "Namco Original",
+            "offset": -1.14,
+            "courses": {
+                "Edit": 10,
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
             }
         },
         {
@@ -84166,6 +84236,26 @@
             }
         },
         {
+            "path": "09 Namco Original/Silver Dawn Throne or Black Night Petalstone/Silver Dawn Throne or Black Night Petalstone.tja",
+            "title": {
+                "en": "Silver Dawn Throne or Black Night Petalstone",
+                "ja": "銀の黎明か、黒の晶華か。"
+            },
+            "subtitle": {
+                "en": "Camellia vs t+pazolite",
+                "ja": "かめりあ vs t+pazolite"
+            },
+            "category": "Namco Original",
+            "offset": -1.741,
+            "courses": {
+                "Edit": 10,
+                "Oni": 10,
+                "Hard": 8,
+                "Normal": 7,
+                "Easy": 5
+            }
+        },
+        {
             "path": "09 Namco Original/Singing Rabbit Swinging/Singing Rabbit Swinging.tja",
             "title": {
                 "en": "Singing Rabbit Swinging",
@@ -84564,15 +84654,16 @@
                 "ja": "Sweet Sweet Magic"
             },
             "subtitle": {
-                "en": "Claire & K Masera feat. Yura Hatsuki & Tsukiko"
+                "en": "Claire feat. Yura Hatsuki, Tsukiko",
+                "ja": "Claire feat. 葉月ゆら、月子"
             },
             "category": "Namco Original",
             "offset": -1.501,
             "courses": {
-                "Oni": 7,
-                "Hard": 5,
+                "Oni": 8,
+                "Hard": 6,
                 "Normal": 5,
-                "Easy": 4
+                "Easy": 5
             }
         },
         {
