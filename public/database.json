@@ -1,5 +1,5 @@
 {
-    "commit": "74be050f252f0eedc1fbc6b7c18288b6d1071904",
+    "commit": "f14fab7750bd6a78b18e586343a12a401c9e68cf",
     "blobs": [
         {
             "type": "blob",
@@ -5838,7 +5838,7 @@
         },
         {
             "type": "blob",
-            "hash": "8bb6e673f79819cca9261b5dafd6d5829ecd70e9",
+            "hash": "0e5b3f0c37e8fc46bce5d0977541521e4d0bf762",
             "path": "01 Pop/Tetoris/Tetoris.tja"
         },
         {
@@ -6353,12 +6353,17 @@
         },
         {
             "type": "blob",
+            "hash": "f8fa62c1433f58aeb8576118abfc3f47dfa790ec",
+            "path": "01 Pop/We Will Rock You/We Will Rock You Souuchi.tja"
+        },
+        {
+            "type": "blob",
             "hash": "186b3ab37971a4c9ff2daa4bb39eb8b15c54f87f",
             "path": "01 Pop/We Will Rock You/We Will Rock You.ogg"
         },
         {
             "type": "blob",
-            "hash": "8eaa13fa04b968f82cbc9ea1dd1d6b76875e750e",
+            "hash": "8b1afa9a42e722fa74a4769ce651a3647a101a77",
             "path": "01 Pop/We Will Rock You/We Will Rock You.tja"
         },
         {
@@ -18473,12 +18478,17 @@
         },
         {
             "type": "blob",
+            "hash": "ac7801fae30d639cfe4d6013a32c023e96c0934e",
+            "path": "07 Game Music/Extreme MGG/Extreme MGG Souuchi.tja"
+        },
+        {
+            "type": "blob",
             "hash": "06d109021d413d194221a6bb8bc5b920eec38bd4",
             "path": "07 Game Music/Extreme MGG/Extreme MGG.ogg"
         },
         {
             "type": "blob",
-            "hash": "4af6904093cd14fed289801ead3c588f36c82532",
+            "hash": "42cb205b2d9ff5fe33db2afec292369a0f1b8880",
             "path": "07 Game Music/Extreme MGG/Extreme MGG.tja"
         },
         {
@@ -24468,7 +24478,7 @@
         },
         {
             "type": "blob",
-            "hash": "3e8afc3e6f6db22e66db9dde68097a1b89b795e1",
+            "hash": "a26fee5fa868e4b86f0ec4c39aac8db599f5a088",
             "path": "09 Namco Original/Dark Ex Machina/Dark Ex Machina Anomaly.tja"
         },
         {
@@ -26123,7 +26133,7 @@
         },
         {
             "type": "blob",
-            "hash": "05a1c892739ca7dc6d57f88fe389b59aa173fb1f",
+            "hash": "0fe66e45747b20cc525e37f3ff643a43f8e8f211",
             "path": "09 Namco Original/Ka Ma Se/Ka Ma Se.tja"
         },
         {
@@ -26833,17 +26843,12 @@
         },
         {
             "type": "blob",
-            "hash": "721cb506e5c966750592e7a8d4613d8e15eac016",
-            "path": "09 Namco Original/Lchesis 2/Lchesis.tja"
-        },
-        {
-            "type": "blob",
             "hash": "cb68ea5e672ca6c10ac776a74b5a989fce437268",
             "path": "09 Namco Original/Lchesis/Lchesis.ogg"
         },
         {
             "type": "blob",
-            "hash": "e9c2aad2b6d7e7c4dfd63bbdf4ec4b110be1540e",
+            "hash": "295da4724cc267935c1423a35a212ed8315e9bb6",
             "path": "09 Namco Original/Lchesis/Lchesis.tja"
         },
         {
@@ -30048,7 +30053,7 @@
         },
         {
             "type": "blob",
-            "hash": "10c1fc644facd6a6a1445fe7ae7f9d38669b3831",
+            "hash": "3ba8a90f34fd37ffa3dcf20875498c6f24908484",
             "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina Anomaly.tja"
         },
         {
@@ -43782,6 +43787,19 @@
             }
         },
         {
+            "path": "01 Pop/We Will Rock You/We Will Rock You Souuchi.tja",
+            "title": {
+                "en": "[Sou-uchi] We Will Rock You",
+                "ja": "【双打】 We Will Rock You"
+            },
+            "subtitle": {
+                "en": "Brian May"
+            },
+            "category": "Pop",
+            "offset": -3.4573,
+            "courses": {}
+        },
+        {
             "path": "01 Pop/We Will Rock You/We Will Rock You.tja",
             "title": {
                 "en": "We Will Rock You",
@@ -43791,12 +43809,11 @@
                 "en": "Brian May"
             },
             "category": "Pop",
-            "offset": -0.506,
+            "offset": -3.4573,
             "courses": {
-                "Edit": 5,
                 "Oni": 5,
-                "Hard": 1,
-                "Normal": 1,
+                "Hard": 3,
+                "Normal": 2,
                 "Easy": 2
             }
         },
@@ -66348,6 +66365,25 @@
             }
         },
         {
+            "path": "07 Game Music/Extreme MGG/Extreme MGG Souuchi.tja",
+            "title": {
+                "en": "[Sou-uchi] Extreme MGG★★★",
+                "ja": "【双打】 Extreme MGG★★★"
+            },
+            "subtitle": {
+                "en": "COSIO/Music GunGun! 2",
+                "ja": "「ミュージックガンガン！2」より"
+            },
+            "category": "Game Music",
+            "offset": -1.8,
+            "courses": {
+                "Oni": 9,
+                "Hard": 4,
+                "Normal": 3,
+                "Easy": 3
+            }
+        },
+        {
             "path": "07 Game Music/Extreme MGG/Extreme MGG.tja",
             "title": {
                 "en": "Extreme MGG★★★",
@@ -75894,11 +75930,12 @@
         {
             "path": "09 Namco Original/Dark Ex Machina/Dark Ex Machina Anomaly.tja",
             "title": {
-                "en": "Dark Ex Machina♡ -Anomalous Audio-",
-                "ja": "ダーク・エクス・マキナ♡"
+                "en": "Dark Ex Machina!",
+                "ja": "ダーク・エクス・マキナ！"
             },
             "subtitle": {
-                "ja": "「挑戦！闇のドンチャレ」異変音源"
+                "en": "Machina Cover Ver.",
+                "ja": "まきな カバーVer."
             },
             "category": "Namco Original",
             "offset": -1.982,
@@ -80361,24 +80398,6 @@
                 "Hard": 8,
                 "Normal": 7,
                 "Easy": 5
-            }
-        },
-        {
-            "path": "09 Namco Original/Lchesis 2/Lchesis.tja",
-            "title": {
-                "en": "LΔchesis"
-            },
-            "subtitle": {
-                "en": "7mai"
-            },
-            "category": "Namco Original",
-            "offset": -0.378,
-            "courses": {
-                "Edit": 10,
-                "Oni": 9,
-                "Hard": 7,
-                "Normal": 6,
-                "Easy": 4
             }
         },
         {
@@ -86561,11 +86580,12 @@
         {
             "path": "09 Namco Original/Yell Ex Machina/Yell Ex Machina Anomaly.tja",
             "title": {
-                "en": "Yell Ex Machina! -Anomalous Audio-",
-                "ja": "エール・エクス・マキナ！"
+                "en": "Yell Ex Machina♡",
+                "ja": "エール・エクス・マキナ♡"
             },
             "subtitle": {
-                "ja": "「挑戦！闇のドンチャレ」異変音源"
+                "en": "Machina the DARK Cover Ver.",
+                "ja": "マキナ the DARK カバーVer."
             },
             "category": "Namco Original",
             "offset": -1.113,
