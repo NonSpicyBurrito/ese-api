@@ -1,5 +1,5 @@
 {
-    "commit": "f14fab7750bd6a78b18e586343a12a401c9e68cf",
+    "commit": "b30162a23e569351d7ab635f1383dc6fab133887",
     "blobs": [
         {
             "type": "blob",
@@ -6773,7 +6773,7 @@
         },
         {
             "type": "blob",
-            "hash": "0940652913bf5f3978dced5a395f759b2bbcab85",
+            "hash": "1c4aa83e2f343084f5e352d11dacbdf5e5ea5c7e",
             "path": "01 Pop/box.def"
         },
         {
@@ -12388,7 +12388,7 @@
         },
         {
             "type": "blob",
-            "hash": "6f4be3a40169d2512275fa104fa99e0fc5bd068d",
+            "hash": "ed2201ce3c6c9821572630409b6ab828cd476245",
             "path": "02 Anime/box.def"
         },
         {
@@ -13743,7 +13743,7 @@
         },
         {
             "type": "blob",
-            "hash": "871367afcbd200a8f2086a530aa5e08b0366e5fd",
+            "hash": "88b7f31f2d3a5cb46281e0979a20c26c99f4abec",
             "path": "03 Vocaloid/box.def"
         },
         {
@@ -15253,7 +15253,7 @@
         },
         {
             "type": "blob",
-            "hash": "dd43ba254a982f1a246cb9799e1bf28928178200",
+            "hash": "47150eabbdfc26c629157b58e86e0a598019e953",
             "path": "04 Children and Folk/box.def"
         },
         {
@@ -16718,7 +16718,7 @@
         },
         {
             "type": "blob",
-            "hash": "289d624824c80343a280bacfb5a9ff525dfe8a8e",
+            "hash": "f3c957ac5232038769d324f46bcaf31413f56285",
             "path": "05 Variety/box.def"
         },
         {
@@ -17643,7 +17643,7 @@
         },
         {
             "type": "blob",
-            "hash": "203effc1a871168c516b85136fc15f33c867bb77",
+            "hash": "72111e2b10a683bbb60a8546bdab6155384fbccb",
             "path": "06 Classical/box.def"
         },
         {
@@ -22153,7 +22153,7 @@
         },
         {
             "type": "blob",
-            "hash": "1f7ee2e94db0e51e26080ec8623f261e0b994c64",
+            "hash": "a266491cb0b5e2c2983cfd1b193b4e2035fd33aa",
             "path": "07 Game Music/box.def"
         },
         {
@@ -23318,7 +23318,7 @@
         },
         {
             "type": "blob",
-            "hash": "fa72905cd47482b200d777e6eb9712208e6fb45a",
+            "hash": "ce46ec6915560eb0f0a03d7de7f0445cd6bce8ae",
             "path": "08 Live Festival Mode/box.def"
         },
         {
@@ -30328,7 +30328,7 @@
         },
         {
             "type": "blob",
-            "hash": "35c8fbe75e43e9d2d4983bab32fc83bafeb8a646",
+            "hash": "01746f665f4ffd2c8cb609d417afe20a022553b2",
             "path": "09 Namco Original/box.def"
         },
         {
@@ -30723,7 +30723,7 @@
         },
         {
             "type": "blob",
-            "hash": "910ff14bf1aac632210752d318fe4473fb8ef845",
+            "hash": "2cbad91cd555f5b501c58aa6fe672dea74b5ccef",
             "path": "10 Taiko Towers/box.def"
         },
         {
