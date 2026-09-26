@@ -1,5 +1,5 @@
 {
-    "commit": "b30162a23e569351d7ab635f1383dc6fab133887",
+    "commit": "fa2374283a11e0bdac4a7ba23aafc0d5317540e5",
     "blobs": [
         {
             "type": "blob",
@@ -9798,7 +9798,7 @@
         },
         {
             "type": "blob",
-            "hash": "29105cacbb176339d3949f3f4533520c798b313f",
+            "hash": "a108a95cf225d0f0e86fcb8bbd2b623f150ae390",
             "path": "02 Anime/Luminous/Luminous.tja"
         },
         {
@@ -16218,6 +16218,16 @@
         },
         {
             "type": "blob",
+            "hash": "c2e8bb7485e7af7701554cdb886cf86541c16389",
+            "path": "05 Variety/Mickey/Mickey.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "31904776f63cd09d02f34922cfa3d2539824292c",
+            "path": "05 Variety/Mickey/Mickey.tja"
+        },
+        {
+            "type": "blob",
             "hash": "f0be1f0abbc69bc3863694c0f8246d40e4c961e8",
             "path": "05 Variety/Moon Dust/Moon Dust.ogg"
         },
@@ -17905,6 +17915,16 @@
             "type": "blob",
             "hash": "63eb1ea24503654071ef03089c177ce168d254b8",
             "path": "07 Game Music/BORN ON DREAM HANABINIGHT/BORN ON DREAM HANABI NIGHT.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "29130cb648dfc7d775772b33484390395908c4c0",
+            "path": "07 Game Music/BRIGHTEST STARS/BRIGHTEST STARS.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "06be4f9b0b87ac1396749e813814dd7847abcad0",
+            "path": "07 Game Music/BRIGHTEST STARS/BRIGHTEST STARS.tja"
         },
         {
             "type": "blob",
@@ -21898,7 +21918,7 @@
         },
         {
             "type": "blob",
-            "hash": "640071e8603002d1970ad0687ff3c1cd02a04f1d",
+            "hash": "d1f9590e19ff50a3b6c48547ce8e7c9b7434d52d",
             "path": "07 Game Music/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol2/Wangan Midnight Maximum Tune 6RR PLUS Medley Vol2.tja"
         },
         {
@@ -27573,7 +27593,7 @@
         },
         {
             "type": "blob",
-            "hash": "cf44729b973d63602da4e9b43b9dcaca8b8b3571",
+            "hash": "c4a775e399de573d83eba0c9ca77f42ca1f4c2b5",
             "path": "09 Namco Original/Nivalis Anima/Nivalis Anima.tja"
         },
         {
@@ -50238,9 +50258,12 @@
                 "en": "Luminous",
                 "ja": "ルミナス-Luminous"
             },
-            "subtitle": {},
+            "subtitle": {
+                "en": "One Piece",
+                "ja": "「ワンピース」より"
+            },
             "category": "Anime",
-            "offset": -2.018,
+            "offset": -1.997,
             "courses": {
                 "Oni": 6,
                 "Hard": 4,
@@ -62097,6 +62120,25 @@
             }
         },
         {
+            "path": "05 Variety/Mickey/Mickey.tja",
+            "title": {
+                "en": "Mickey",
+                "ja": "Mickey"
+            },
+            "subtitle": {
+                "en": "ORIGINAL: Toni Basil",
+                "ja": "ORIGINAL: Toni Basil"
+            },
+            "category": "Variety",
+            "offset": -1,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 4,
+                "Easy": 3
+            }
+        },
+        {
             "path": "05 Variety/Moon Dust/Moon Dust.tja",
             "title": {
                 "en": "Moon Dust",
@@ -65269,6 +65311,25 @@
                 "Hard": 5,
                 "Normal": 3,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "07 Game Music/BRIGHTEST STARS/BRIGHTEST STARS.tja",
+            "title": {
+                "en": "BRIGHTEST STARS!!",
+                "ja": "BRIGHTEST STARS!!"
+            },
+            "subtitle": {
+                "en": "Benitsuki / Ensemble Stars!!",
+                "ja": "紅月 「あんさんぶるスターズ!!」より"
+            },
+            "category": "Game Music",
+            "offset": -2.714,
+            "courses": {
+                "Oni": 7,
+                "Hard": 6,
+                "Normal": 3,
+                "Easy": 2
             }
         },
         {
@@ -72986,7 +73047,7 @@
             },
             "subtitle": {},
             "category": "Game Music",
-            "offset": -0.201,
+            "offset": -1.821,
             "courses": {
                 "Oni": 8,
                 "Hard": 5,
