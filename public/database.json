@@ -1,5 +1,5 @@
 {
-    "commit": "fa2374283a11e0bdac4a7ba23aafc0d5317540e5",
+    "commit": "cb01aa31e7ff0edb4a61b759d8b7c791a387dcd6",
     "blobs": [
         {
             "type": "blob",
@@ -3545,6 +3545,16 @@
             "type": "blob",
             "hash": "fddaef90413ea02b8f923e5b0a1411b471da889d",
             "path": "01 Pop/Mayonaka no Door Stay with me/Mayonaka no Door Stay with me.tja"
+        },
+        {
+            "type": "blob",
+            "hash": "3e1c1db388bc21f83ade21b999eab833c38529f6",
+            "path": "01 Pop/Mecha Yaba Baritoke Kakigoori/Mecha Yaba Baritoke Kakigoori.ogg"
+        },
+        {
+            "type": "blob",
+            "hash": "6715ba70f36ae709c6a4da58ea67bec1358ba575",
+            "path": "01 Pop/Mecha Yaba Baritoke Kakigoori/Mecha Yaba Baritoke Kakigoori.tja"
         },
         {
             "type": "blob",
@@ -7893,7 +7903,7 @@
         },
         {
             "type": "blob",
-            "hash": "84239342f1c6bafee50bdd6e7f9a86784d0f6161",
+            "hash": "c766314ae3bad882cf9c9d0e632e6f8fa20cb402",
             "path": "02 Anime/Dokimeki Diary/Dokimeki Diary.tja"
         },
         {
@@ -12878,7 +12888,7 @@
         },
         {
             "type": "blob",
-            "hash": "96b1fb59ae12151ea2ae361a2c72ebd5d088a69a",
+            "hash": "e382a0f3af5e0b956704bdda015b0b22c60ad54f",
             "path": "03 Vocaloid/Godish/Godish.tja"
         },
         {
@@ -16973,7 +16983,7 @@
         },
         {
             "type": "blob",
-            "hash": "163dc35456bfe7bebac0bea9ceaabf1ebda383ed",
+            "hash": "fc856612a68fb08e88b00cf4022a5bac8987744e",
             "path": "06 Classical/Dokadoka/Dokadoka.tja"
         },
         {
@@ -26233,7 +26243,7 @@
         },
         {
             "type": "blob",
-            "hash": "461cfa2035be1b3219045dc7ccfac0c813d5f813",
+            "hash": "dfacb0c4cafedb51b19f5758f1f09db6a3e424fe",
             "path": "09 Namco Original/Kakashi Hime Princess Scarecrow/Kakashi Hime Princess Scarecrow.tja"
         },
         {
@@ -38726,6 +38736,25 @@
                 "Hard": 5,
                 "Normal": 4,
                 "Easy": 3
+            }
+        },
+        {
+            "path": "01 Pop/Mecha Yaba Baritoke Kakigoori/Mecha Yaba Baritoke Kakigoori.tja",
+            "title": {
+                "en": "Mecha Yaba!? Baritoke Kakigoori↑↑",
+                "ja": "めちゃヤバッ！？バリ溶けかき氷↑↑"
+            },
+            "subtitle": {
+                "en": "mofmofmo",
+                "ja": "モフモフモー"
+            },
+            "category": "Pop",
+            "offset": -2.5,
+            "courses": {
+                "Oni": 8,
+                "Hard": 5,
+                "Normal": 3,
+                "Easy": 1
             }
         },
         {
@@ -63523,7 +63552,8 @@
                 "ja": "弩蚊怒夏"
             },
             "subtitle": {
-                "en": "Katsuro Tajima -Summer Third Movement Rendition-"
+                "en": "Katsuro Tajima -Summer Third Movement Rendition-",
+                "ja": " "
             },
             "category": "Classical",
             "offset": -1.527,
